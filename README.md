@@ -2,6 +2,8 @@
 
 This repository contains all AMR-annotated corpora developed by the Interinstitutional Center for Computational Linguistics (NILC).
 
+For more information about what is AMR and its specific notations, we indicate the [AMR guidelines](https://github.com/amrisi/amr-guidelines) GitHub repository.
+
 ## Organization
 
 This repository is organized in subdirectories, which contain each individual corpus. All corpora are distributed under the [CC-BY-NC-SA license](LICENSE.md).
