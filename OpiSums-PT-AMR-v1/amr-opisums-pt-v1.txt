@@ -1,0 +1,3776 @@
+# ::id Fala-Serio-Pai.Documento_0.0
+# ::snt Bom .
+(b / bom)
+
+# ::id Fala-Serio-Mae.Documento_8.3
+# ::snt Leia !
+(l / ler-01 :mode imperative)
+
+# ::id Fala-Serio-Amiga.Documento_18.0
+# ::snt Amei !
+(a / amar-01
+      :ARG0 (e / eu))
+
+# ::id Iphone-5.Documento_6.0
+# ::snt Perfeito
+(p / perfeito)
+
+# ::id Iphone-5.Documento_4.0
+# ::snt Iphone 5
+(p / product :name (n / name :op1 "Iphone" :op2 "5"))
+
+# ::id Fala-Serio-Amiga.Documento_27.0
+# ::snt Muito bom
+(b / bom
+      :mod (m / muito))
+
+# ::id O-Reverso-da-Medalha.Documento_47.0
+# ::snt Diamantes
+(d / diamante)
+
+# ::id Iphone-5.Documento_2.0
+# ::snt Excelente
+(e / excelente)
+
+# ::id O-Reverso-da-Medalha.Documento_49.0
+# ::snt Perfeito .
+(p / perfeito)
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_98.0
+# ::snt Perfeito !
+(p / perfeito)
+
+# ::id Fala-Serio-Amiga.Documento_0.5
+# ::snt ( poucas )
+(p / pouco)
+
+# ::id Iphone-5.Documento_0.0
+# ::snt Este é dez
+(s / score-on-scale-91
+      :ARG1 10
+      :domain (e / este))
+
+# ::id Fala-Serio-Amiga.Documento_21.0
+# ::snt Maravilhoso .
+(m / maravilhoso)
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_128.0
+# ::snt Decepcionante
+(t / thing
+      :ARG0 (d / decepcionar-01))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_62.2
+# ::snt Me frustrei .
+(f / frustrar-01
+      :ARG1 (e / eu))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_86.7
+# ::snt Recomendado !
+(r / recomendar-01)
+
+# ::id Iphone-5.Documento_1.0
+# ::snt Quero ter um !
+(q / querer-01
+      :ARG0 (e2 / eu)
+      :ARG1 (t / ter-01
+            :ARG0 e2
+            :ARG1 (t2 / thing)))
+
+# ::id 1984.Documento_80.6
+# ::snt Guerra é paz .
+(p / paz
+      :domain (g / guerra))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_117.3
+# ::snt Lixo de livro .
+(l / lixo
+      :domain (l2 / livro))
+
+# ::id Fala-Serio-Mae.Documento_8.4
+# ::snt Mariana Almeida
+(p / person :name (n / name :op1 "Mariana" :op2 "Almeida"))
+
+# ::id Galaxy-SIII.Documento_7.8
+# ::snt Rápido e ágil .
+(e / e
+      :op1 (r / rápido)
+      :op2 (a / ágil))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_117.1
+# ::snt Não recomendo !
+(r / recomendar-01 :polarity -
+      :ARG0 (e / eu))
+
+# ::id Fala-Serio-Amiga.Documento_12.0
+# ::snt Fala serio amiga
+(b / book :name (n / name :op1 "Fala" :op2 "Serio" :op3 "Amiga"))
+
+# ::id Fala-Serio-Mae.Documento_14.1
+# ::snt - halita Rebouças
+(p / person :name (n / name :op1 "Thalita" :op2 "Rebouças"))
+
+# ::id Fala-Serio-Mae.Documento_30.4
+# ::snt Nem meus primos .
+(e / e
+      :op1 (a / amr-undefined :polarity -)
+      :op2 (f / fazer-03
+            :ARGX (p / person
+                  :ARG0-of (h / have-rel-role-91
+                        :ARG1 (e2 / eu)
+                        :ARG2 (p2 / primo)))))
+
+# ::id Fala-Serio-Mae.Documento_32.1
+# ::snt Amei esse livro .
+(a / amar-01
+      :ARG0 (e2 / eu)
+      :ARG1 (l / livro
+            :mod (e3 / esse)))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_62.0
+# ::snt Faltou o clímax .
+(f / faltar-01
+      :ARG1 (c / clímax))
+
+# ::id Fala-Serio-Professor.Documento_22.3
+# ::snt Vale a pena ler .
+(v / valer-02
+      :ARG1 (l / ler-01)
+      :ARG2 (p / pena))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_29.8
+# ::snt Pois é . Nenhum .
+(n / nenhum)
+
+# ::id 1984.Documento_113.0
+# ::snt [ 29 . 07 . 2010 ]
+(d / date-entity :day 29 :month 7 :year 2010)
+
+# ::id Fala-Serio-Mae.Documento_14.5
+# ::snt Fala sério , mãe !
+(b / book :name (n / name :op1 "Fala" :op2 "Sério" :op3 "," :op4 "Mãe" :op5 "!"))
+
+# ::id Fala-Serio-Mae.Documento_14.0
+# ::snt Fala sério , mãe !
+(b / book :name (n / name :op1 "Fala" :op2 "Sério" :op3 "," :op4 "Mãe" :op5 "!"))
+
+# ::id Iphone-5.Documento_3.0
+# ::snt Sonho de consumo !
+(s / sonhar-01
+      :ARG1 (c / consumir-01))
+
+# ::id Fala-Serio-Amiga.Documento_15.10
+# ::snt Sempre amou todas .
+(a / amar-01
+      :ARG0 (e / ele)
+      :ARG1 (t / todas)
+      :time (s / sempre))
+
+# ::id O-Reverso-da-Medalha.Documento_42.0
+# ::snt Leitura obrigatória
+(o / obligate-01
+      :ARG1 (l / ler-01))
+
+# ::id Fala-Serio-Pai.Documento_18.0
+# ::snt Tal pai , tal filha
+(s / same-01
+      :ARG1 (p / person
+            :ARG0-of (h / have-rel-role-91
+                  :ARG1 p3
+                  :ARG2 (p2 / pai)))
+      :ARG2 (p3 / person
+            :ARG0-of (h2 / have-rel-role-91
+                  :ARG1 p
+                  :ARG2 (f / filha))))
+
+# ::id Fala-Serio-Mae.Documento_32.0
+# ::snt Tal mãe , tal filha
+(s / same-01
+      :ARG1 (p / person
+            :ARG0-of (h / have-rel-role-91
+                  :ARG1 p3
+                  :ARG2 (m / mãe)))
+      :ARG2 (p3 / person
+            :ARG0-of (h2 / have-rel-role-91
+                  :ARG1 p
+                  :ARG2 (f / filha))))
+
+# ::id 1984.Documento_80.8
+# ::snt Ignorância é força .
+(s / same-01
+      :ARG1 (i2 / ignorância)
+      :ARG2 (f / força))
+
+# ::id Fala-Serio-Amiga.Documento_10.0
+# ::snt Fala sério , amiga !
+(b / book :name (n / name :op1 "Fala" :op2 "Sério" :op3 "," :op4 "Amiga" :op5 "!"))
+
+# ::id O-Reverso-da-Medalha.Documento_32.0
+# ::snt O preço de a ambição
+(p / preço
+      :topic (a / ambição))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_4.0
+# ::snt Muito hylé por nada .
+(h / hylé
+      :mod (m / muito)
+      :ARG1-of (c / cause-01
+            :ARG0 (n / nada)))
+
+# ::id Fala-Serio-Amiga.Documento_15.13
+# ::snt Super recomendado ; de
+(r / recomendar-01
+      :degree (s / super)
+      :mod (e / emoticon :value ";D"))
+
+# ::id Fala-Serio-Amiga.Documento_0.0
+# ::snt Ganhei de uma vizinha !
+(g / ganhar-01
+      :ARG0 (e / eu)
+      :ARG2 (p / person
+            :ARG0-of (h / have-rel-role-91
+                  :ARG1 e
+                  :ARG2 (v / vizinha))))
+
+# ::id Galaxy-SIII.Documento_7.3
+# ::snt A Camera é maravilhosa .
+(m / maravilhoso
+      :domain (c / câmera))
+
+# ::id 1984.Documento_80.7
+# ::snt Liberdade é escravidão .
+(s / same-01
+      :ARG1 (l / liberdade)
+      :ARG2 (e / escravidão))
+
+# ::id O-Reverso-da-Medalha.Documento_7.0
+# ::snt O melhor de Sidney Sheldon
+(t / thing
+      :ARG1-of (h / have-dregree-91
+            :ARG2 (b / bom)
+            :ARG3 (m / máximo))
+      :ARG1-of (e / fazer-01
+            :ARG0 (p / person :name (n / name :op1 "Sidney" :op2 "Sheldon"))))
+
+# ::id Fala-Serio-Mae.Documento_36.0
+# ::snt O que dizer de esse livro ?
+(d / dizer-01
+      :ARG1 (a / amr-unknown)
+      :ARG3 (l / livro
+            :mod (e / esse)))
+
+# ::id Iphone-5.Documento_1.4
+# ::snt O que não gostei : o preço .
+(g / gostar-01 :polarity -
+      :ARG0 (e / eu)
+      :ARG1 (p / preço))
+
+# ::id Iphone-5.Documento_7.0
+# ::snt Mutuo bom , ótimo , perfeito
+(e / e
+      :op1 (b / bom
+            :mod (m / muito))
+      :op2 (o / ótimo)
+      :op3 (p / perfeito))
+
+# ::id Galaxy-SIII.Documento_4.0
+# ::snt Melhor Smartphone do momento
+(s / smartphone
+      :ARG1-of (h / have-degree-91
+            :ARG2 (b / bom)
+            :ARG3 (m / máximo)
+            :time (a / agora)))
+
+# ::id Iphone-5.Documento_5.0
+# ::snt Iphone 5 , um grande prêmio !
+(p / prêmio
+      :mod (g / grande)
+      :domain (p2 / product :name (n / name :op1 "Iphone" :op2 "5")))
+
+# ::id 1984.Documento_113.5
+# ::snt Vi que o final era horrível .
+(v / ver-01
+      :ARG0 (e / eu)
+      :ARG1 (h / horrível
+            :domain (f / final)))
+
+# ::id Fala-Serio-Mae.Documento_1.5
+# ::snt Definitivamente , irritante .
+(i2 / irritar-02
+      :ARG1 (e / eu)
+      :mod (d / definitivo))
+
+# ::id Fala-Serio-Mae.Documento_24.0
+# ::snt Achei o livro um pouco fútil .
+(a / achar-02
+      :ARG0 (e / eu)
+      :ARG1 (l / livro)
+      :ARG2 (f / fútil
+            :degree (u / um-pouco)))
+
+# ::id Galaxy-SIII.Documento_3.0
+# ::snt Um Smartphone quase perfeito !
+(s / smartphone
+      :mod (p / perfeito
+            :mod (q / quase)))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_128.3
+# ::snt Decepcionante , tempo perdido !
+(d / decepcionar-01
+      :ARG1 (e / eu)
+      :ARG1-of (c / cause-01
+            :ARG0 (p / perder-02
+                  :ARG0 e
+                  :ARG1 (t / tempo))))
+
+# ::id 1984.Documento_20.0
+# ::snt Minha parte favorita de o livro
+(p / parte
+      :mod (f / favorito
+            :beneficiary (e / eu))
+      :part-of (l / livro))
+
+# ::id 1984.Documento_80.9
+# ::snt " e definitivamente , 2 + 2 = 5
+(e2 / e
+      :op1 (e / equal-01
+            :ARG1 (s / sum-of :op1 2 :op2 2)
+            :ARG2 5
+            :mod (d / definitivo)))
+
+# ::id Iphone-5.Documento_9.0
+# ::snt Iphone 5 , meu sonho de consumo
+(s / sonhar-01
+      :ARG0 (e / eu)
+      :ARG1 (c / consumir-01
+            :ARG0 e
+            :ARG1 (p / product :name (n / name :op1 "Iphone" :op2 "5"))))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_29.6
+# ::snt Ok , e qual é a história mesmo ?
+(e / e
+      :op1 (o / ok)
+      :op2 (h / historia
+            :domain (a / amr-unknown)))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_42.1
+# ::snt Hoje em dia é só mais um livro .
+(l / livro :quant 1
+      :time (h / hoje-em-dia)
+      :mod (m / mais
+            :mod (s / só)))
+
+# ::id Se-Houver-Amanha.Documento_88.3
+# ::snt Porém , este eu realmente gosto .
+(c / contrast-01
+      :ARG2 (g / gostar-01
+            :ARG0 (e / eu)
+            :ARG1 (e2 / este)
+            :mod (r / real)))
+
+# ::id Iphone-5.Documento_1.1
+# ::snt Parece ser um excelente produto .
+(p / parecer-01
+      :ARG2 (e / excelente
+            :domain (p2 / produto)))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_29.7
+# ::snt Qual o objetivo de o personagem ?
+(o / objetivo
+      :poss (p / personagem)
+      :domain (a / amr-unknown))
+
+# ::id Iphone-5.Documento_8.0
+# ::snt Principais qualidades do Iphone 5
+(q / qualidade
+      :poss (p / product :name (n / name :op1 "Iphone" :op2 "5"))
+      :mod (p2 / principal))
+
+# ::id LG-Smart-TV.Documento_2.2
+# ::snt Como pontos positivos , destaco :
+(d / destacar-01
+      :ARG0 (e / eu)
+      :manner (p / ponto
+            :mod (p2 / positivo)))
+
+# ::id Fala-Serio-Mae.Documento_23.8
+# ::snt A mãe é demasiadamente sem-noção .
+(s / sem-noção
+      :mod (d / demasiado)
+      :domain (m / mãe))
+
+# ::id O-Reverso-da-Medalha.Documento_47.6
+# ::snt Foi deixado a a mercê de a morte .
+(d / deixar-03
+      :ARG1 (e / ele)
+      :prep-a-merce (m / morte))
+
+# ::id O-Reverso-da-Medalha.Documento_30.2
+# ::snt Pacto perfeito , nada a reclamar .
+(r / reclamar-01
+      :ARG1 (n / nada)
+      :ARG1-of (c / cause-01
+            :ARG0 (p / pacto
+                  :mod (p2 / perfeito))))
+
+# ::id Iphone-5.Documento_6.2
+# ::snt E é muito mais do que você espera !
+(m / mais
+      :mod (m2 / muito)
+      :quant-of (t / thing
+            :ARG1-of (e / esperar-01
+                  :ARG0 (v / você))))
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_243.3
+# ::snt O livro de Saramago é espetacular .
+(e / espetacular
+      :domain (l / livro
+            :ARG1-of (e2 / escrever-01
+                  :ARG0 (p / person :name (n / name :op1 "Saramago")))))
+
+# ::id Fala-Serio-Mae.Documento_1.0
+# ::snt Meio chato , meio bobo , meio urgh .
+(e / e
+      :op1 (c / chato
+            :mod (m / meio))
+      :op2 (b / bobo
+            :mod (m2 / meio))
+      :op3 (u / urgh
+            :mod (m3 / meio)))
+
+# ::id Fala-Serio-Amiga.Documento_15.7
+# ::snt E tenho certeza , que duraria mais .
+(e / e
+      :op1 (t / ter-10
+            :ARG0 (e2 / eu)
+            :ARG1 (c / certeza)
+            :ARG2 (d / durar-01
+                  :ARG2 (m / mais))))
+
+# ::id 1984.Documento_189.8
+# ::snt Vale a leitura e vale a re-leitura .
+(e / e
+      :op1 (v / valer-02
+            :ARG1 (l / ler-01))
+      :op2 (v2 / valer-02
+            :ARG1 (l2 / ler-01
+                  :mod (n / novamente))))
+
+# ::id Iphone-5.Documento_6.3
+# ::snt É praticamente impossível imaginar !
+(p / possivel :polarity -
+      :mod (p2 / praticamente)
+      :domain (i2 / imaginar-01))
+
+# ::id Fala-Serio-Amiga.Documento_21.1
+# ::snt Fala sério amiga é um livro muito bom .
+(b / bom
+      :domain (b2 / book :name (n / name :op1 "Fala" :op2 "Sério" :op3 "Amiga"))
+      :mod (m / muito))
+
+# ::id Fala-Serio-Amiga.Documento_15.0
+# ::snt Halita é praticamente uma adolescente !
+(a / adolescente
+      :mod (p / praticamente)
+      :domain (p3 / person :name (n / name :op1 "Thalita")))
+
+# ::id Iphone-5.Documento_1.3
+# ::snt O que gostei : tem tudo que precisamos .
+(g / gostar-01
+      :ARG0 (e / eu)
+      :ARG1 (t / ter-01
+            :ARG1 (t2 / tudo
+                  :ARG1 (n / nós)
+                  :ARG2-of (p / precisar-01))))
+
+# ::id Iphone-5.Documento_4.3
+# ::snt Simplesmente fantástico ! Eu recomendo !
+(m / multi-sentence
+      :snt1 (f / fantástico
+            :mod (s / simplesmente))
+      :snt2 (r / recomendar-01
+            :ARG0 (e / eu)))
+
+# ::id Iphone-5.Documento_0.2
+# ::snt O que gostei : charmoso , leve , charmoso
+(g / gostar-01
+      :ARG0 (e / eu)
+      :ARG1 (e2 / e
+            :op1 (c / charme)
+            :op2 (l / leve)
+            :op3 (c2 / charme)))
+
+# ::id Fala-Serio-Amiga.Documento_15.5
+# ::snt Essa é a Alice , sua amiga desde pequena .
+(e / esse
+      :domain (p / person :name (n / name :op1 "Alice")
+            :ARG0-of (h / have-rel-role-91
+                  :ARG1 (e2 / ela)
+                  :ARG2 (a / amigo)
+                  :time (d / desde
+                        :op1 (p2 / pequeno
+                              :domain e2)))))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_86.4
+# ::snt E agora entendi porque ele é um clássico .
+(e / e
+      :op1 (e2 / entender-01
+            :ARG0 (e3 / eu)
+            :ARG1 (m / motivo
+                  :ARG0-of (c / cause-01
+                        :ARG1 (c2 / clássico
+                              :domain (e4 / ele))))
+            :time (a / agora)))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_128.4
+# ::snt Eu poderia e deviria ter lido coisa melhor .
+(e / e
+      :op1 (p / possible-01
+            :ARG1 (l / ler-01
+                  :ARG0 (e2 / eu)
+                  :ARG1 (c / coisa
+                        :ARG1-of (h / have-degree-91
+                              :ARG2 (b / bom)
+                              :ARG3 (m / mais)))))
+      :op2 (r / recommend-01
+            :ARG1 l))
+
+# ::id Fala-Serio-Pai.Documento_8.1
+# ::snt O livro conta a história de Maria de Lourdes .
+(c / contar-01
+      :ARG0 (l / livro)
+      :ARG1 (h / história
+            :topic (p / person :name (n / name :op1 "Maria" :op2 "de" :op3 "Lourdes"))))
+
+# ::id 1984.Documento_80.3
+# ::snt Contém medo e suspense desde a primeira linha .
+(c / conter-01
+      :ARG1 (e2 / ele)
+      :ARG2 (e3 / e
+            :op1 (m / medo)
+            :op2 (s / suspense))
+      :time (d / desde
+            :op1 (l / linha
+                  :ord (o / ordinal-entity :value 1))))
+
+# ::id Fala-Serio-Mae.Documento_30.3
+# ::snt Jamais fiz isso com minha mãe , nem meu irmão .
+(e2 / e
+      :op1 (f / fazer-01
+            :ARG0 (e / eu)
+            :ARG1 (i2 / isso)
+            :ARG3 (p / pessoa
+                  :ARG0-of (h / have-rel-role-91
+                        :ARG1 e
+                        :ARG2 (m / mae)))
+            :time (j / jamais))
+      :op2 (f2 / fazer-01
+            :ARG0 e
+            :ARG1 i2
+            :ARG3 (p2 / pessoa
+                  :ARG0-of (h2 / have-rel-role-91
+                        :ARG1 e
+                        :ARG2 (i3 / irmao)))
+            :time (j2 / jamais)))
+
+# ::id Fala-Serio-Mae.Documento_14.10
+# ::snt [ . ] continue lendo : http://babilorentz.com/?
+(c / continuar-02 :mode imperative
+      :ARG1 (l / ler-01
+            :medium (u / url-entity :value "http://babilorentz.com/?")))
+
+# ::id Fala-Serio-Mae.Documento_23.6
+# ::snt Eu estou fascinada por o Guilherme Almeida [ . ] " .
+(f / fascinar-01
+      :ARG0 (p / person :name (n / name :op1 "Guilherme" :op2 "Almeida"))
+      :ARG1 (e2 / eu))
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_108.1
+# ::snt Todo mundo tem que ler este magnífico livro de Saramago .
+(r / recommend-01
+      :ARG1 (l / ler-01
+            :ARG0 (t / todos)
+            :ARG1 (l2 / livro
+                  :mod (e2 / este)
+                  :mod (m / magnífico)
+                  :ARG1-of (e3 / escrever-01
+                        :ARG0 (p / person :name (n / name :op1 "Saramago"))))))
+
+# ::id O-Reverso-da-Medalha.Documento_49.1
+# ::snt Não existem palavras que possam definir essa obra prima .
+(e2 / existir-01 :polarity -
+      :ARG1 (p / palavra
+            :ARG0-of (d / definir-02
+                  :ARG1 (o / obra-prima
+                        :mod (e3 / esse)))))
+
+# ::id Iphone-5.Documento_0.3
+# ::snt O que não gostei : não posso ter , o preço ainda é salgado
+(g / gostar-01 :polarity -
+      :ARG0 (e2 / eu)
+      :ARG1 (p / possible-01 :polarity -
+            :ARG1 (t / ter-01
+                  :ARG0 e2)
+            :ARG1-of (c / cause-01
+                  :ARG0 (s / salgado
+                        :domain (p2 / preço)
+                        :mod (a / ainda)))))
+
+# ::id O-Reverso-da-Medalha.Documento_32.2
+# ::snt O poder pode dominar uma pessoa , o que se torna muito ruim .
+(p / possible-01
+      :ARG1 (d / dominar-01
+            :ARG0 (p2 / poder)
+            :ARG1 (p3 / pessoa))
+      :ARG1-of (t / tornar-101
+            :ARG2 (r / ruim
+                  :mod (m / muito))))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_6.1
+# ::snt A minha leitura foi mais um desafio para chegar ate o final .
+(d / desafio
+      :domain (l / ler-01
+            :ARG0 (e / eu))
+      :purpose (c / chegar-01
+            :ARG0 e
+            :ARG1 (f / final)))
+
+# ::id O-Reverso-da-Medalha.Documento_47.7
+# ::snt Mas consegui dar a volta por cima com a ajuda de seu amigo banda .
+(c / contrast-01
+      :ARG2 (c2 / conseguir-01
+            :ARG0 (e / eu)
+            :ARG1 (s / superar-02
+                  :ARG0 e
+                  :instrument (a / ajudar-01
+                        :ARG0 (p / person :name (n / name :op1 "Banda")
+                              :ARG0-of (h / have-rel-role-91
+                                    :ARG1 (e2 / ele)
+                                    :ARG2 (a2 / amigo)))))))
+
+# ::id O-Reverso-da-Medalha.Documento_42.2
+# ::snt E com certeza , uma de as grandes obras de a literatura romancista .
+(i2 / include-91
+      :ARG1 (o / obra)
+      :ARG2 (o2 / obra
+            :mod (g / grande)
+            :topic (l / literatura
+                  :topic (r / romance)))
+      :mod (c / com-certeza))
+
+# ::id Fala-Serio-Mae.Documento_14.3
+# ::snt Minha mãe é igual a mãe de a Malu , tenho que fazer algo a respeito !
+(o / obligate-01
+      :ARG0 (e / eu)
+      :ARG2 (f / fazer-01)
+      :topic (s / same-01
+            :ARG1 (m / mãe
+                  :poss e)
+            :ARG2 (m2 / mãe
+                  :poss (p / person :name (n / name :op1 "Malu")))))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_56.0
+# ::snt Já dizia a expressão falada por Dino caulfield : esse livro é 100 % .
+(d / dizer-01
+      :ARG0 (e / expressão
+            :ARG1-of (f / falar-01
+                  :ARG0 (p / person :name (n / name :op1 "Dino" :op2 "Caulfield"))))
+      :ARG1 (s / score-on-scale-91
+            :ARG1 (p2 / percentage-entity :value 100))
+      :mod (j / já))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_86.3
+# ::snt O livro é de uma leitura muito fácil e rápida , acabei em três dias .
+(l / ler-01
+      :ARG1 (l2 / livro)
+      :manner (e / e
+            :op1 (f / fácil)
+            :op2 (r / rápido))
+      :ARG0-of (c / cause-01
+            :ARG1 (a / acabar-01
+                  :ARG0 (e2 / eu)
+                  :ARG1 l2
+                  :time (d / depois
+                        :op1 (t / temporal-quantity :quant 3
+                              :unit (d2 / dia))))))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_4.1
+# ::snt Todo mundo fala que esse livro é foda , mas em a verdade ele é um lixo .
+(c / contrast-01
+      :ARG1 (f / falar-01
+            :ARG0 (t / todos)
+            :ARG1 (f2 / foda
+                  :domain (l / livro
+                        :mod (e / esse))))
+      :ARG2 (l2 / lixo
+            :domain l
+            :mod (n / na-verdade)))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_29.10
+# ::snt Pois é . Belo exemplo para a juventude esse " clássico " de a literatura .
+(e / exemplo
+      :mod (b / belo)
+      :domain (c / clássico
+            :topic (l / literatura))
+      :beneficiary (j / juventude))
+
+# ::id Fala-Serio-Mae.Documento_30.1
+# ::snt Aliás . A escrita de ele está toda boa e bastante diálogo ( gosto de isso ) .
+(e / e
+      :op1 (e2 / e
+            :op1 (e3 / escrever-01
+                  :ARG0 (e4 / ele)
+                  :mod (b / bom))
+            :op2 (t / ter-01
+                  :ARG0 e3
+                  :ARG1 (d / dialogar
+                        :quant (b2 / bastante)))
+            :ARG1-of (g / gostar-01
+                  :ARG0 (e5 / eu))))
+
+# ::id O-Reverso-da-Medalha.Documento_49.6
+# ::snt Sheldon é nota 1000000000000000000000000000000000000000000000000000000000000 !
+(s / score-on-scale-91
+      :ARG1 1000000000000000000000000000000000000000000000000000000000000
+      :domain (p / person :name (n / name :op1 "Sheldon")))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_29.1
+# ::snt A começar por o título de o livro que nada tem a ver com a história de o livro .
+(c / começar-01
+      :ARG2 (t / título
+            :poss (l / livro)
+            :ARG1-of (t2 / ter-402
+                  :ARG2 (n / nada)
+                  :ARG3 (h / história
+                        :poss l))))
+
+# ::id Iphone-5.Documento_9.4
+# ::snt Quero todos os produtos da Apple ! ! ! ! E o Iphone 5 é o meu sonho de consumo ! ! ! ! !
+(e / e
+      :op1 (q / querer-01
+            :ARG0 (e2 / eu)
+            :ARG1 (p / produto
+                  :mod (t / todo)
+                  :ARG1-of (f / fazer-01
+                        :ARG0 (c / company :name (n / name :op1 "Apple")))))
+      :op2 (s / sonhar-01
+            :ARG0 e2
+            :ARG1 (c2 / consumir-01
+                  :ARG0 e2
+                  :ARG1 (p2 / product :name (n2 / name :op1 "Iphone" :op2 "5")))))
+
+# ::id 1984.Documento_189.1
+# ::snt Em a época meu vocabulário ainda não era essas coisas , então lia com um dicionário a tira colo .
+(c / cause-01
+      :ARG0 (e2 / essas-coisas :polarity -
+            :domain (v / vocabulário
+                  :poss (e / eu))
+            :time (e3 / época)
+            :mod (a / ainda))
+      :ARG1 (l / ler-01
+            :ARG0 e
+            :instrument (d / dicionário
+                  :manner (a2 / a-tira-colo))))
+
+# ::id Fala-Serio-Mae.Documento_23.3
+# ::snt Mas em este ocorre com mais frequência , o que torna a leitura algo irritante , em alguns momentos .
+(c / contrast-01
+      :ARG1 (o / ocorrer-01
+            :ARG2 (e2 / este)
+            :ARG1-of (h / have-frequency-91
+                  :mod (m / mais)))
+      :ARG0-of (t / tornar-01
+            :ARG1 (l / ler-01)
+            :ARG2 (t2 / thing
+                  :ARG0-of (i2 / irritar-01))
+            :frequency (a / alguns-momentos)))
+
+# ::id 1984.Documento_113.9
+# ::snt Eu só acrescentei uma estrela a mais por a ideia , o mundo ' Big Brother ' é fictício , mas não surreal .
+(m2 / multi-sentence
+      :snt1 (a / acrescentar-01
+            :ARG0 (e / eu)
+            :ARG1 (e2 / estrela :quant 1)
+            :ARG3 (m / mais)
+            :ARG1-of (c / cause-01
+                  :ARG0 (i2 / ideia)))
+      :snt2 (c2 / contrast-01
+            :ARG1 (f / fictício
+                  :domain (m3 / mundo :name (n / name :op1 "Big" :op2 "Brother")))
+            :ARG2 (s / surreal :polarity -
+                  :domain m3)))
+
+# ::id O-Reverso-da-Medalha.Documento_30.1
+# ::snt Parece que escreve sob receita , algumas pessoas gostam de o que ele escrevem e ele vende a os milhares .
+(e3 / e
+      :op1 (p / parecer-01
+            :ARG2 (e / escrever-01
+                  :ARG0 (e2 / ele)
+                  :manner (s / seguir-02
+                        :ARG0 e2
+                        :ARG1 (r / receita))))
+      :op2 (g / gostar-01
+            :ARG0 (p2 / pessoa
+                  :mod (a / algum))
+            :ARG1 (t / thing
+                  :ARG1-of (e4 / escrever-01
+                        :ARG0 e2)))
+      :op3 (v / vender-01
+            :ARG0 e2
+            :ARG1 (t2 / thing
+                  :quant (m / múltiplo
+                        :op1 (t3 / numerical-quantity :quant 1000)))))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_6.2
+# ::snt Quanto mais eu lia , mais desejava acontecesse uma desgraça a o personagem e acabasse logo com a história .
+(c / correlate-91
+      :ARG1 (m / mais
+            :ARG3-of (h / have-quant-91
+                  :ARG1 (l / ler-01
+                        :ARG0 (e / eu))))
+      :ARG2 (m2 / mais
+            :ARG3-of (h2 / have-quant-91
+                  :ARG1 (d / desejar-01
+                        :ARG0 e
+                        :ARG1 (e2 / e
+                              :op1 (a / acontecer-01
+                                    :ARG1 (d2 / desgraça))
+                              :op2 (a2 / acabar-01
+                                    :ARG0 (p / personagem)
+                                    :ARG1 (h3 / história)
+                                    :mod (l3 / logo)))))))
+
+# ::id O-Reverso-da-Medalha.Documento_42.1
+# ::snt O reverso da medalha é de longe uma de as obras mais fortes e bem montadas de o gênio que Sidney Sheldon foi .
+(i2 / include-91
+      :ARG1 (b / book :name (n / name :op1 "O" :op2 "Reverso" :op3 "da" :op4 "Medalha"))
+      :ARG2 (o / obra
+            :ARG1-of (h / have-degree-91
+                  :ARG2 (e / e
+                        :op1 (f / forte)
+                        :op2 (m / montar-01
+                              :ARG1 o
+                              :manner (b2 / bem)))
+                  :ARG3 (m2 / máximo))
+            :ARG1-of (e2 / escrever-01
+                  :ARG0 (g / gênio
+                        :domain (p / person :name (n2 / name :op1 "Sidney" :op2 "Sheldon")))))
+      :degree (d / de-longe))
+
+# ::id Fala-Serio-Mae.Documento_1.4
+# ::snt Apesar de se tratar de um assunto bem conhecido , a autora não soube domina - lo e o tornou o pior de os clichês .
+(c / contrast-01
+      :ARG1 (t / tratar-03
+            :ARG1 (a / assunto
+                  :ARG1-of (c2 / conhecer-01
+                        :degree (b / bem))))
+      :ARG2 (s / saber-01 :polarity -
+            :ARG0 (a2 / autora)
+            :ARG1 (d / dominar-02
+                  :ARG0 a2
+                  :ARG1 a)
+            :ARG0-of (c3 / cause-01
+                  :ARG1 (t2 / tornar-01
+                        :ARG0 a2
+                        :ARG1 a
+                        :ARG2 (c4 / clichê
+                              :ARG1-of (h / have-degree-91
+                                    :ARG2 (r / ruim)
+                                    :ARG3 (m / máximo)
+                                    :ARG5 (c5 / clichê)))))))
+
+
+# ::id Fala-Serio-Amiga.Documento_24.0
+# ::snt Fala sério amiga é um livro onde a autora relata a história de ela com suas amigas de a infância até a adolescência .
+(l / livro
+      :domain (b / book :name (n / name :op1 "Fala" :op2 "Sério" :op3 "Amiga"))
+      :medium-of (r / relatar-01
+            :ARG0 (a / autora)
+            :ARG1 (h / historia
+                  :topic a
+                  :accompanier (a2 / amiga
+                        :poss a)
+                  :time (v / value-interval
+                        :op1 (i2 / infância)
+                        :op2 (a3 / adolescência)))))
+
+# ::id O-Outro-Lado-da-Meia-Noite.Documento_20.6
+# ::snt Não me recordo de os pequenos detalhes , mas esse livro está em o Top 5 de os livros de o Sidney que marcam o leitor .
+(c / contrast-01
+      :ARG1 (r / recordar-01 :polarity -
+            :ARG0 (e / eu)
+            :ARG1 (d / detalhe
+                  :mod (p / pequeno)))
+      :ARG2 (i2 / include-91
+            :ARG1 (l / livro
+                  :mod (e2 / esse))
+            :ARG2 (l2 / livro
+                  :ARG1-of (h / have-degree-91
+                        :ARG2 (b / bom)
+                        :ARG3 (m / máximo))
+                  :ARG1-of (e3 / escrever-01
+                        :ARG0 (p2 / person :name (n / name :op1 "Sidney")))
+                  :ARG0-of (m2 / marcar-02
+                        :ARG2 (p3 / pessoa
+                              :ARG0-of (l3 / ler-01))))))
+
+# ::id Fala-Serio-Amiga.Documento_15.11
+# ::snt Esse livro é um livro divertido , que a o mesmo tempo que nos faz rir , nos faz refletir sobre todas as nossas amizades .
+(l / livro
+      :mod (d / divertido)
+      :domain (l2 / livro
+            :mod (e / esse))
+      :ARG0-of (f / fazer-02
+            :ARG1 (n / nos)
+            :ARG2 (r / refletir-02
+                  :ARG0 n
+                  :ARG1 (a / amizade
+                        :poss n
+                        :mod (t / todo)))
+            :time (f2 / fazer-02
+                  :ARG0 l
+                  :ARG1 n
+                  :ARG2 (r2 / rir-01
+                        :ARG0 n))))
+
+# ::id Iphone-5.Documento_9.3
+# ::snt Desde o design , ao peso , tamanho , nitidez , velocidade , capacidade , ótimas fotos , tela de retina ( nunca vi igual ) .
+(e / e
+      :op1 (d / design)
+      :op2 (p / pesar-03)
+      :op3 (t / tamanho)
+      :op4 (n / nitidez)
+      :op5 (v / velocidade)
+      :op6 (c / capacidade)
+      :op7 (f / foto
+            :mod (o / ótimo))
+      :op8 (t2 / tela
+            :consist-of (r / retina)
+            :ARG1-of (s / same-01
+                  :ARG2 (t3 / tela
+                        :ARG1-of (v2 / ver-01
+                              :ARG0 (e2 / eu)
+                              :time (n2 / nunca))))))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_117.0
+# ::snt Um lixo , uma verdadeira porcaria . Nunca li algo tão cretino em a minha vida e não me conformo de saber que as pessoas o consideram o livro de suas vidas .
+(m / multi-sentence
+      :snt1 (l / lixo)
+      :snt2 (p / porcaria
+            :mod (v / verdadeiro))
+      :snt3 (e2 / e
+            :op1 (l2 / ler-01
+                  :ARG0 (e / eu)
+                  :ARG1 (a / algo
+                        :mod (c / cretino
+                              :degree (t / tão)))
+                  :time (n / nunca)
+                  :duration (v2 / viver-01
+                        :ARG0 e))
+            :op2 (c2 / conformar-01 :polarity -
+                  :ARG1 e
+                  :ARG2 (s / saber-01
+                        :ARG0 e
+                        :ARG1 (c3 / considerar-01
+                              :ARG0 (p2 / pessoa)
+                              :ARG1 (e3 / ele)
+                              :ARG2 (l3 / livro
+                                    :poss (v3 / viver-01
+                                          :ARG0 p2)))))))
+
+# ::id Samsung-Smart-TV.Documento_5.4
+# ::snt Hoje é dia 11/03 ? Segunda , já faz parte da minha rotina ligar 50 vezes no fixo e mais algumas vezes no celular ( mesmo desligando na minha cara ) até conseguir .
+(m / multi-sentence
+      :snt1 (h / hoje
+            :domain (d / date-entity :month 3 :day 11
+                  :weekday (s / segunda))
+            :polarity (a / amr-unknown))
+      :snt2 (f / fazer-402
+            :ARG1 (e2 / e
+                  :op1 (l / ligar-02 :frequency 50
+                        :ARG0 e
+                        :ARG1 (t / telefone
+                              :mod (f2 / fixo)))
+                  :op2 (l2 / ligar-02
+                        :ARG0 e
+                        :ARG1 (c / celular)
+                        :frequency (v / vez
+                              :mod (a2 / algum
+                                    :mod (m2 / mais))))
+                  :concession (d2 / desligar-01)
+                  :time (a3 / até
+                        :op1 (c2 / conseguir-02
+                              :ARG0 e)))
+            :ARG3 (r / rotina
+                  :poss (e / eu))))
+
+# ::id Fala-Serio-Mae.Documento_14.9
+# ::snt Era tão fácil que consegui , realmente , me imaginar em a pele de a Malu ( lógico que com algumas pequenas diferenças ) e ver minha mãe retratada por a mãe de ela .
+(c / conseguir-01
+      :ARG0 (e / eu)
+      :ARG1 (e2 / e
+            :op1 (i2 / imaginar-01
+                  :ARG0 e
+                  :ARG1 (b / be-located-at-91
+                        :ARG1 e
+                        :ARG2 (p / pele
+                              :mod (p2 / person :name (n / name :op1 "Malu"))))
+                  :ARG0-of (m3 / mean-01
+                        :ARG1 (h3 / haver-01
+                              :ARG1 (d / diferença
+                                    :mod (p5 / pequeno)
+                                    :mod (a / algum)))))
+            :op2 (v / ver-01
+                  :ARG0 e
+                  :ARG1 (p3 / pessoa
+                        :ARG0-of (h / have-rel-role-91
+                              :ARG1 e
+                              :ARG2 (m / mãe))
+                        :ARG1-of (r2 / retratar-01
+                              :ARG2 (p4 / pessoa
+                                    :ARG0-of (h2 / have-rel-role-91
+                                          :ARG1 p2
+                                          :ARG2 (m2 / mãe)))))))
+      :mod (r / real)
+      :ARG1-of (c2 / cause-01
+            :ARG0 (f / fácil
+                  :mod (t / tão))))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_86.1
+# ::snt Parece que a história não tem nenhuma intenção específica , e a narração é feita de maneira informal demais , com uso repetitivo de gírias e palavras de baixo calão .
+(e / e
+      :op1 (p / parecer-01
+            :ARG2 (t / ter-01 :polarity -
+                  :ARG0 (h / história)
+                  :ARG1 (i2 / intenção
+                        :mod (e2 / específico))))
+      :op2 (n / narrar-01
+            :manner (i3 / informal
+                  :mod (d / demais))
+            :ARG1-of (c2 / cause-01
+                  :ARG0 (u / usar-01
+                        :ARG1 (e3 / e
+                              :op1 (g / gíria)
+                              :op2 (p2 / palavra
+                                    :mod (c / calão
+                                          :mod (b / baixo))))
+                        :manner (r / repetir-01)))))
+
+# ::id Fala-Serio-Mae.Documento_1.2
+# ::snt É bom para passar a tarde , como aquele filme meio chatinha e clichê que está passando em a televisão , e como você não tem mais nada pra fazer , se senta e vai assistir .
+(s / same-01
+      :ARG1 (b / bom
+            :purpose (p / passar-04
+                  :ARG1 (t / tarde)))
+      :ARG2 (f / filme
+            :mod (a / aquele)
+            :mod (e / e
+                  :op1 (c / chatinho
+                        :mod (m / meio))
+                  :op2 (c2 / clichê))
+            :ARG1-of (p2 / passar-06
+                  :medium (t2 / televisão))
+            :ARG1-of (a2 / assistir-01
+                  :ARG0 (v / você)
+                  :op2-of (e2 / e
+                        :op1 (s2 / sentar-01
+                              :ARG0 v)
+                        :ARG1-of (c3 / cause-01
+                              :ARG0 (t3 / ter-01 :polarity -
+                                    :ARG0 v
+                                    :ARG1 (n / nada
+                                          :ARG1-of (f2 / fazer-01
+                                                :ARG0 v))))))))
+
+# ::id O-Reverso-da-Medalha.Documento_47.12
+# ::snt Mas o ódio , a maldade e o egoísmo está sempre envolto de essa família , mostrando que nem sempre toda uma riqueza pode trazer a paz , o amor e a felicidade que se deseja .
+(c / contrast-01
+      :ARG2 (e / envolver-03
+            :ARG0 (f / família
+                  :mod (e4 / esse))
+            :ARG2 (e2 / e
+                  :op1 (o / ódio)
+                  :op2 (m / maldade)
+                  :op3 (e3 / egoísmo))
+            :ARG0 (m2 / mostrar-02
+                  :ARG1 (t / trazer-01
+                        :ARG0 (r / riqueza
+                              :mod (t2 / todo))
+                        :ARG1 (e5 / e
+                              :op1 (p / paz)
+                              :op2 (a / amor)
+                              :op3 (f2 / feliz)
+                              :ARG1-of (d / desejar-01))
+                        :time (s / sempre :polarity -)))))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_128.2
+# ::snt Porém , o livro é a descrição de os pensamentos e " aventuras " , em nova Iorque , de um adolescente fútil e fracassado , cujo conteúdo de o livro nada acrescenta a o leitor .
+(c / contrast-01
+      :ARG1 (d / descrever-01
+            :ARG0 (l / livro)
+            :ARG1 (e / e
+                  :op1 (p / pensar-01
+                        :ARG0 (a / adolescente
+                              :mod (f / fútil)
+                              :ARG1-of (f2 / fracassar-01)
+                              :poss-of (c3 / conteúdo
+                                    :medium l
+                                    :ARG0-of (a3 / acrescentar-01
+                                          :ARG1 (n2 / nada)
+                                          :ARG2 (p2 / pessoa
+                                                :ARG0-of (l2 / ler-01))))))
+                  :op2 (a2 / aventura
+                        :poss a
+                        :location (c2 / city :name (n / name :op1 "Nova" :op2 "Iorque"))))))
+
+# ::id Iphone-5.Documento_5.3
+# ::snt As cores parecem ser mais " vivas " , as fotos ficam lindas devido à alta resolução de 3264 ex 2448 pixels ; e os vídeos em Full HD . É difícil de acreditar que foram feitos via celular .
+(m2 / multi-sentence
+      :snt1 (p / parecer-301
+            :ARG1 (c / cor)
+            :ARG2 (v / vivo
+                  :degree (m / mais)))
+      :snt2 (e / e
+            :op1 (f / ficar-201
+                  :ARG1 (f2 / foto)
+                  :ARG2 (l / lindo)
+                  :ARG1-of (c2 / cause-01
+                        :ARG0 (r / resolução
+                              :mod (a / alto)
+                              :quant (r2 / resolution-quantity :op1 2364 :op2 2448
+                                    :unit (p2 / pixel)))))
+            :op2 (v2 / vídeo
+                  :mod (f3 / full-hd)))
+      :snt3 (d / difícil
+            :domain (a2 / acreditar-01
+                  :ARG1 (f4 / fazer-01
+                        :ARG1 (e2 / eles)
+                        :instrument (c3 / celular)))))
+
+# ::id Se-Houver-Amanha.Documento_22.2
+# ::snt Resolvi dar uma pesquisada em o cara e descobri que ele tinha sido o único escritor a ganhar os três maiores prêmios de os estados unidos e vendeu apenas 300 milhões de livros em toda a sua carreira .
+(e / e
+      :op1 (r / resolver-01
+            :ARG0 (e2 / eu)
+            :ARG1 (p / pesquisar-01
+                  :ARG0 e2
+                  :ARG1 (c / cara)))
+      :op2 (d / descobrir-01
+            :ARG0 e2
+            :ARG1 (p2 / pessoa
+                  :ARG0-of (e3 / escrever-01)
+                  :domain c
+                  :mod (u / único)
+                  :ARG0-of (g / ganhar-01
+                        :ARG1 (p3 / prêmio :quant 3
+                              :ARG1-of (h / have-degree-91
+                                    :ARG2 (g2 / grande)
+                                    :ARG3 (m / máximo)
+                                    :ARG5 (c2 / country :name (n / name :op1 "Estados" :op2 "Unidos")))))
+                  :ARG0-of (v / vender-01
+                        :ARG1 (l / livro :quant 300000000)
+                        :mod (a / apenas)
+                        :duration (c3 / carreira
+                              :mod (t / todo)
+                              :poss p2)))))
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_243.4
+# ::snt Como outros livros de o mesmo estilo ( jangada de pedra e as intermitências de a morte ) , ele parte de um acontecimento absurdo e depois explora todas as consequências que são perfeitamente plausíveis .
+(l2 / lembrar-02
+      :ARG1 (e / ele)
+      :ARG2 (l / livro
+            :mod (o / outro)
+            :example (e5 / e
+                  :op1 (b / book :name (n / name :op1 "Jangada" :op2 "de" :op3 "Pedra"))
+                  :op2 (b2 / book :name (n2 / name :op1 "As" :op2 "Intermitências" :op3 "da" :op4 "Morte")))
+            :poss-of (e3 / estilo
+                  :mod (i2 / igual
+                        :op1 (e4 / estilo
+                              :poss e))))
+      :ARG3 (e6 / e
+            :op1 (p / partir-02
+                  :ARG0 e
+                  :ARG1 (a / acontecer-01
+                        :mod (a2 / absurdo)))
+            :op2 (e2 / explorar-01
+                  :ARG0 e
+                  :ARG1 (c2 / consequência
+                        :mod (t / todo)
+                        :mod (p2 / plausível
+                              :mod (p3 / perfeito)))
+                  :time (d / depois))))
+
+
+# ::id Capitaes-da-Areia.Documento_143.1
+# ::snt Talvez ele achasse necessário dizer , para as pessoas de a época , que as crianças de rua fazem coisas erradas não por serem intrinsecamente más , mas porque foram abandonadas ou porque nunca tiveram carinho .
+(a / achar-02
+      :ARG0 (e / ele)
+      :ARG1 (n / necessário
+            :domain (d / dizer-01
+                  :ARG1 (f / fazer-01
+                        :ARG0 (c / criança
+                              :ARG0-of (m / morar-01
+                                    :ARG1 (r / rua)))
+                        :ARG1 (c2 / coisa
+                              :mod (e3 / errado))
+                        :ARG1-of (c3 / cause-01 :polarity -
+                              :ARG0 (m2 / mau
+                                    :mod (i2 / intríseco)))
+                        :ARG1-of (c4 / cause-01
+                              :ARG0 (o / ou
+                                    :op1 (a2 / abandonar-01
+                                          :ARG1 c)
+                                    :op2 (t2 / ter-01
+                                          :ARG0 c
+                                          :ARG1 (c5 / carinho)
+                                          :time (n2 / nunca)))))
+                  :ARG2 (p / pessoa
+                        :time (e2 / época))))
+      :mod (t / talvez))
+
+# ::id Fala-Serio-Mae.Documento_14.6
+# ::snt Conta a história de vida de Maria de Lourdes , ou , como ela prefere , Malu , desde quando estava em a barriga de a sua mãe ( tendo os primeiros anos de vida - até os 12 - narrados por sua mãe ) , até os 21 anos .
+(c / contar-01
+      :ARG1 (h / história
+            :topic (v / viver-01
+                  :ARG0 (o / ou
+                        :op1 (p / person :name (n / name :op1 "Maria" :op2 "de" :op3 "Lourdes"))
+                        :op2 (p2 / person :name (n2 / name :op1 "Malu")
+                              :ARG1-of (p3 / preferir-01
+                                    :ARG0 (e / ela)))))
+            :time (d / desde
+                  :op1 (b / be-located-at-91
+                        :ARG1 e
+                        :ARG2 (b2 / barriga
+                              :part (p4 / pessoa
+                                    :ARG0-of (h2 / have-rel-role-91
+                                          :ARG1 e
+                                          :ARG2 (m / mãe))
+                                    :ARG0-of (n3 / narrar-01
+                                          :ARG1 (a4 / ano
+                                                :ord (o2 / ordinal-entity :value 1)
+                                                :topic v
+                                                :time (a5 / até
+                                                      :op1 (t2 / temporal-quantity :quant 21
+                                                            :unit (a6 / ano)))))))))
+            :time (a / até
+                  :op1 (a2 / age-01
+                        :ARG1 e
+                        :ARG2 (t / temporal-quantity :quant 21
+                              :unit (a3 / ano))))))
+
+# ::id Crepusculo.Documento_702.2
+# ::snt Perfeito não só por causa de suas frases magníficas , de os personagens , principalmente de o Edward que quando acabei de ler esse livro notei que estava apaixonada por ele , mais também por ele ser muito bem escrito .
+(c / cause-01
+      :ARG0 (e / e
+            :op1 (f / frase
+                  :mod (m / magnifico))
+            :op2 (p3 / personagem
+                  :example (p4 / person :name (n / name :op1 "Edward")
+                        :ARG1-of (a / apaixonar-101
+                              :ARG0 (e2 / eu)
+                              :ARG1-of (n2 / notar-01
+                                    :ARG0 e2
+                                    :time (t / terminar-02
+                                          :ARG0 e2
+                                          :ARG1 (l / ler-01
+                                                :ARG0 e2
+                                                :ARG1 (l2 / livro
+                                                      :mod (e3 / esse))))))))
+            :op3 (e4 / escrever-01
+                  :ARG1 l2
+                  :manner (b / bem
+                        :mod (m2 / muito))))
+      :ARG1 (p / perfeito))
+
+# ::id Fala-Serio-Amiga.Documento_10.1
+# ::snt O livro , de halita Rebouças narra a história desde criança , de uma garota , chamada Malu , que conta sobre todas as amizades que já teve em a sua vida , de todas as confusões e as situações filarias com suas amigas .
+(n / narrar-01
+      :ARG0 (l / livro
+            :ARG1-of (e / escrever-01
+                  :ARG0 (p / person :name (n2 / name :op1 "Thalita" :op2 "Rebouças"))))
+      :ARG1 (h / história
+            :topic (g / garota :name (n3 / name :op1 "Malu")
+                  :ARG0-of (c2 / contar-01
+                        :ARG1 (e2 / e
+                              :op1 (a / amizade
+                                    :ARG1-of (t / ter-01
+                                          :ARG0 g
+                                          :mod (j / já)
+                                          :duration (v / viver-01
+                                                :ARG0 g))
+                                    :mod (t2 / todo))
+                              :op2 (c3 / confusão
+                                    :mod (t3 / todo))
+                              :op3 (s / situação
+                                    :mod (h2 / hilário)
+                                    :accompanier (p2 / person
+                                          :ARG0-of (h3 / have-rel-role-91
+                                                :ARG1 g
+                                                :ARG2 (a2 / amiga)))))))
+            :time (d / desde
+                  :op1 (c / criança
+                        :domain g))))
+
+# ::id Iphone-5.Documento_4.2
+# ::snt Tenho ás disposição os aplicativos para consultar os processos em quase todos os tribunais , acesso as minhas contas bancárias , aplicativos de trânsito que permitem evitar engarrafamentos e perda de tempo , enfim , se eu fosse colocar tudo o que este aparelho faz não haveria espaço .
+(e / e
+      :op1 (p / possible-01
+            :ARG1 (d / dispor-01
+                  :ARG0 (e2 / eu)
+                  :ARG1 (e3 / e
+                        :op1 (a / aplicativo
+                              :purpose (c / consultar-01
+                                    :ARG0 e2
+                                    :ARG2 (p2 / processo)
+                                    :location (t / tribunal
+                                          :mod (t2 / todo
+                                                :mod (q / quase)))))
+                        :op2 (a2 / acessar-01
+                              :ARG0 e2
+                              :ARG1 (c2 / conta
+                                    :mod (b / banco)
+                                    :poss e2))
+                        :op3 (a3 / aplicativo
+                              :topic (t3 / transito)
+                              :ARG0-of (p3 / permitir-01
+                                    :ARG1 (e8 / e
+                                          :op1 (e4 / evitar-01
+                                                :ARG0 e2
+                                                :ARG1 (e5 / engarrafamento))
+                                          :op2 (p4 / perder-02
+                                                :ARG0 e2
+                                                :ARG1 (t4 / tempo)))
+                                    :ARG2 e2)))))
+      :op2 (h / haver-01 :polarity -
+            :ARG1 (e6 / espaço)
+            :condition (c3 / colocar-01
+                  :ARG0 e2
+                  :ARG1 (t5 / tudo
+                        :ARG1-of (f / fazer-01
+                              :ARG0 (a4 / aparelho
+                                    :mod (e7 / esse)))))))
+
+# ::id Fala-Serio-Amiga.Documento_6.1
+# ::snt E . Como sempre , através de os olhos , de as palavras , e de as amigas de a Malu , conseguimos enxergar muito de nós mesmas e de as nossas próprias amigas , em os vendo em características , frases e situações , em um dia a dia que por ser tão único é também tão igual a o de todo mundo .
+(e / e
+      :op1 (c / conseguir-01
+            :ARG0 (n / nos)
+            :ARG1 (e2 / enxergar-01
+                  :ARG0 n
+                  :ARG1 (m / muito
+                        :topic (e3 / e
+                              :op1 n
+                              :op2 (p / pessoa
+                                    :ARG0-of (h / have-rel-role-91
+                                          :ARG1 n
+                                          :ARG2 (a / amiga)))))
+                  :medium (e4 / e
+                        :op1 (o / olho
+                              :poss (p4 / person :name (n2 / name :op1 "Malu")))
+                        :op2 (p2 / palavra
+                              :poss p4)
+                        :op3 (p3 / pessoa
+                              :ARG0-of (h2 / have-rel-role-91
+                                    :ARG1 p4
+                                    :ARG2 (a2 / amiga)))))
+            :ARG1-of (c2 / cause-01
+                  :ARG0 (v / ver-301
+                        :ARG1 n))
+            :time (s / sempre)))
+
+# ::id 1984.Documento_96.5
+# ::snt Hehehehe outra coisa também diferente de seu " livro-irmão " é que em laranja mecânica , todo o linguajar usado por os jovens é compreensível mesmo sem a ajuda de o glossário embutido em a versão nacional , enquanto que a cantilena é incompreensível , se bem que pensando agora , acho que é justamente o objetivo de o autor .
+(e / e
+      :op1 (h / hehehehe)
+      :op2 (d / diferir-01
+            :ARG1 (p / possible-01
+                  :ARG1 (c / compreender-01
+                        :ARG1 (l / linguajar
+                              :ARG1-of (u / usar-01
+                                    :ARG0 (j / jovem))
+                              :mod (t / todo))
+                        :concession (a / ajudar-01 :polarity -
+                              :ARG0 (g / glossário
+                                    :ARG1-of (e2 / embutir-01
+                                          :ARG2 (v / versão
+                                                :mod (n / nacional))))))
+                  :medium (b / book :name (n2 / name :op1 "Laranja" :op2 "Mecânica"))
+                  :domain (c2 / coisa
+                        :mod (o2 / outro)))
+            :ARG2 (p2 / possible-01 :polarity -
+                  :ARG1 (c3 / compreender-01
+                        :ARG1 (c4 / cantilena))
+                  :concession (a2 / achar-02
+                        :ARG0 (e3 / eu)
+                        :ARG1 (o / objetivar-01
+                              :ARG0 (a3 / autor)
+                              :ARG1 p2
+                              :manner (j2 / justo))
+                        :ARG1-of (c5 / cause-01
+                              :ARG0 (p3 / pensar-01
+                                    :ARG0 e3
+                                    :time (a4 / agora)))))
+            :mod (t2 / também)))
+
+
+# ::id 1984.Documento_67.0
+# ::snt 1984
+(b / book :name (n / name :op1 "1984") )
+
+# ::id Fala-Serio-Pai.Documento_12.4
+# ::snt Beijo
+(b / beijo)
+
+# ::id Fala-Serio-Professor.Documento_1.0
+# ::snt Amei .
+(a / amar-01 :ARG0 (e / eu))
+
+# ::id Fala-Serio-Pai.Documento_4.5
+# ::snt Leia !
+(l / ler-01 :mode imperative)
+
+# ::id O-Outro-Lado-da-Meia-Noite.Documento_20.0
+# ::snt Resenha
+(r / resenha)
+
+# ::id Fala-Serio-Amor.Documento_0.0
+# ::snt Muito bom
+(b / bom :degree (m / muito))
+
+# ::id Fala-Serio-Amor.Documento_7.4
+# ::snt Nota 10 !
+(n / nota :mod (s / score-on-scale-91 :ARG1 "10"))
+
+# ::id Fala-Serio-Professor.Documento_28.0
+# ::snt Muito bom
+(b / bom :degree (m / muito))
+
+# ::id Se-Houver-Amanha.Documento_11.0
+# ::snt Perfeito !
+(p / perfeito)
+
+# ::id Se-Houver-Amanha.Documento_77.2
+# ::snt Perfeito !
+(p / perfeito)
+
+# ::id O-Outro-Lado-da-Meia-Noite.Documento_12.0
+# ::snt Fase boa .
+(f / fase :mod (b / bom))
+
+# ::id Capitaes-da-Areia.Documento_20.0
+# ::snt Incrível .
+(i / incrível)
+
+# ::id 1984.Documento_60.0
+# ::snt Que ódio !
+(o / ódio :mode expressive)
+
+# ::id Fala-Serio-Professor.Documento_25.2
+# ::snt Recomendo !
+(r / recomendar-01 :ARG0 (e / eu))
+
+# ::id O-Outro-Lado-da-Meia-Noite.Documento_25.4
+# ::snt Recomendo !
+(r / recomendar-01 :ARG0 (e / eu))
+
+# ::id 1984.Documento_67.9
+# ::snt Bom livro .
+(l / livro :mod (b / bom))
+
+# ::id Fala-Serio-Professor.Documento_13.0
+# ::snt Bem legal .
+(l / legal :degree (b / bem))
+
+# ::id Se-Houver-Amanha.Documento_55.2
+# ::snt Para . Sim .
+(m / multi-sentence :snt1 (p / parar-01 :mode imperative) :snt2 (s / sim))
+
+# ::id Fala-Serio-Pai.Documento_16.0
+# ::snt Pai . É pai .
+(m / multi-sentence :snt1 (p / pai) :snt2 (p / pai))
+
+# ::id Fala-Serio-Pai.Documento_4.2
+# ::snt Pouca coisa .
+(c / coisa :mod (p / pouco))
+
+# ::id Fala-Serio-Amor.Documento_27.0
+# ::snt Ótimo livro !
+(l / livro
+      :mod (o / ótimo))
+
+# ::id Se-Houver-Amanha.Documento_35.0
+# ::snt Mais ou menos
+(m / mais-ou-menos)
+
+# ::id O-Outro-Lado-da-Meia-Noite.Documento_36.1
+# ::snt -5 estrelas .
+(e / estrela :mod (s / score-on-scale-91 :ARG1 "-5"))
+
+# ::id O-Outro-Lado-da-Meia-Noite.Documento_25.0
+# ::snt Maravilhoso !
+(m / maravilhoso)
+
+# ::id Se-Houver-Amanha.Documento_1.0
+# ::snt O meu favorito
+(f / favorito :beneficiary (e / eu))
+
+# ::id Fala-Serio-Amor.Documento_18.0
+# ::snt Resenha aqui :
+(r / resenha
+      :location (a / aqui))
+
+# ::id Capitaes-da-Areia.Documento_72.0
+# ::snt O poeta social
+(p / poeta :mod (s / social))
+
+# ::id Fala-Serio-Professor.Documento_19.0
+# ::snt Não vale a pena
+(v / valer-02 :polarity -
+      :ARG2 (p / pena))
+
+# ::id Fala-Serio-Pai.Documento_4.6
+# ::snt Mariana Almeida
+(p / person :name (n / name :op1 "Mariana" :op2 "Almeida"))
+
+# ::id Fala-Serio-Amor.Documento_21.0
+# ::snt Fala sério amor
+(b / book :name (n / name :op1 "Fala" :op2 "sério" :op3 "amor"))
+
+# ::id Fala-Serio-Amor.Documento_7.5
+# ::snt Mariana Almeida
+(p / person :name (n / name :op1 "Mariana" :op2 "Almeida"))
+
+# ::id Se-Houver-Amanha.Documento_77.4
+# ::snt Tracy é ótima !
+(o / ótimo :domain (p / person :name (n / name :op1 "Tracy")))
+
+# ::id 1984.Documento_67.1
+# ::snt Três capítulos .
+(c / capítulo :quant 3)
+
+# ::id Fala-Serio-Amor.Documento_7.0
+# ::snt Livro apaixonado
+(l / livro :mod (a / apaixonar.101))
+
+# ::id Fala-Serio-Amor.Documento_24.4
+# ::snt Super recomendo !
+(r / recomendar-01 :ARG0 (e / eu) :degree (s / super))
+
+# ::id Se-Houver-Amanha.Documento_88.0
+# ::snt Nem parece Sheldon
+(p / parecer-02 :polarity - :ARG2 (p1 / person :name (n / name :op1 "Sheldon")))
+
+# ::id Fala-Serio-Pai.Documento_6.0
+# ::snt Fala sério , pai !
+(b / book :name (n / name :op1 "Fala" :op2 "sério" :op3 "pai"))
+
+# ::id Fala-Serio-Pai.Documento_10.0
+# ::snt Fala sério , pai !
+(b / book :name (n / name :op1 "Fala" :op2 "sério" :op3 "pai"))
+
+# ::id Fala-Serio-Pai.Documento_12.0
+# ::snt Fala sério , pai !
+(b / book :name (n / name :op1 "Fala" :op2 "sério" :op3 "pai"))
+
+# ::id Fala-Serio-Pai.Documento_8.0
+# ::snt Fala sério , pai !
+(b / book :name (n / name :op1 "Fala" :op2 "sério" :op3 "pai"))
+
+# ::id 1984.Documento_113.13
+# ::snt O livro só bom aí .
+(b / bom :domain (l / livro :topic (a / aí)) :mod (s / só))
+
+# ::id Fala-Serio-Amor.Documento_12.0
+# ::snt Fala sério , amor !
+(b / book :name (n / name :op1 "Fala" :op2 "sério" :op3 "amor"))
+
+# ::id Fala-Serio-Professor.Documento_11.0
+# ::snt Fala serio professor
+(b / book :name (n / name :op1 "Fala" :op2 "sério" :op3 "professor"))
+
+# ::id 1984.Documento_141.0
+# ::snt Conceito Big Brother
+(s / show :name (n / name :op1 "Big" :op2 "Brother") :domain (c / conceito))
+
+# ::id Se-Houver-Amanha.Documento_77.0
+# ::snt Com certeza o melhor !
+(h / have-degree-91 :ARG1 (t / thing) :ARG2 (b / bom) :ARG3 (m / máximo) :mod (c / certeza))
+
+# ::id O-Outro-Lado-da-Meia-Noite.Documento_8.0
+# ::snt Um senhor Best seller !
+(b / best-seller :degree (s / senhor))
+
+# ::id Fala-Serio-Amor.Documento_15.0
+# ::snt Muito engraçadinho ! ;)
+(e / engraçadinho :degree (m / muito) :mod (e / emoticon :value ":)"))
+
+# ::id 1984.Documento_0.4
+# ::snt O poder por o poder " !
+(p / poder :ARG1-of (c / cause-01 :ARG0 (p1 / poder)))
+
+# ::id Capitaes-da-Areia.Documento_72.7
+# ::snt Um livro batuta , este .
+(l / livro :mod (b / batuta) :domain (e / este))
+
+# ::id O-Outro-Lado-da-Meia-Noite.Documento_25.3
+# ::snt Simplesmente muito bom !
+(b / bom :degree (m / muito) :mod (s / simplesmente))
+
+# ::id Fala-Serio-Amor.Documento_3.3
+# ::snt Muito bom , vale a pena !
+(multi-sentence :snt1 (b / bom :degree (m / muito)) :snt2 (v / valer-02 :ARG2 (p / pena)))
+
+# ::id Fala-Serio-Amor.Documento_9.2
+# ::snt É ótimo vale a pena ler .
+(e / e :op1 (o / ótimo :domain (a / amr-undefined)) :op2 (v / valer-02 :ARG1 (l / ler-01 :ARG1 a) :ARG2 (p / pena)))
+
+# ::id Se-Houver-Amanha.Documento_22.0
+# ::snt Se dormir lendo este livro
+(t / thing :name (n / name :op1 "Se" :op2 "dormir" :op3 "lendo" :op4 "este" :op5 "livro"))
+
+# ::id O-Outro-Lado-da-Meia-Noite.Documento_5.0
+# ::snt O outro lado da meia-noite
+(l / lado :mod (o / outro) :poss (m / meia-noite))
+
+# ::id Se-Houver-Amanha.Documento_22.8
+# ::snt Parece legal , mas dá sono .
+(c / contrast-01 :ARG1 (l / legal :domain (i / isso)) :ARG2 (d / dar-12 :ARG0 i :ARG1 (s / sono)))
+
+# ::id O-Outro-Lado-da-Meia-Noite.Documento_0.2
+# ::snt Prende de o início a o fim .
+(p / prender-03 :duration (e / entre :op1 (i2 / início) :op2 (f / fim)))
+
+# ::id Fala-Serio-Amor.Documento_24.0
+# ::snt Hilário de o começo a o fim !
+(h / hilário :duration (e / entre :op1 (c / começo) :op2 (f / fim)))
+
+# ::id O-Outro-Lado-da-Meia-Noite.Documento_0.0
+# ::snt Um clássico de Sidney Sheldon
+(c / clássico :poss (p / person :name (n / name :op1 "Sidney" :op2 "Sheldon")))
+
+# ::id Fala-Serio-Professor.Documento_25.0
+# ::snt Adoro os livros de a halita .
+(a / adorar-01 :ARG0 (e / eu) :ARG1 (l / livro :ARG1-of (e / escrever-01 :ARG0 (p / person :name (n / name :op1 "Thalita")))))
+
+# ::id Fala-Serio-Professor.Documento_22.1
+# ::snt Esse livro é muito divertido !
+(d / divertido
+      :mod (m / muito)
+      :domain (l / livro
+            :mod (e2 / esse)))
+
+# ::id Capitaes-da-Areia.Documento_37.0
+# ::snt Está quente em a cidade da Bahia
+(q / quente :domain (c / city :name (n / name :op1 "Bahia")))
+
+# ::id O-Outro-Lado-da-Meia-Noite.Documento_16.0
+# ::snt Acho esse livro impressionante .
+(a / achar-02
+      :ARG0 (e / eu)
+      :ARG1 (i2 / impressionar-01
+            :ARG0 (l / livro
+                  :mod (e2 / esse))))
+
+# ::id Se-Houver-Amanha.Documento_66.0
+# ::snt O melhor livro de Sidney Sheldon
+(l / livro :ARG1-of (h / have-degree-91 :ARG2 (b / bom) :ARG3 (m / máximo)) :ARG1-of (e / escrever-01 :ARG1 (p / person :name (n / name :op1 "Sidney" :op2 "Sheldon"))))
+
+# ::id Capitaes-da-Areia.Documento_54.8
+# ::snt Jennifer saline , 1 ° vermelho .
+(p / person :name (n / name :op1 "Jennifer" :op2 "Saline")
+      :ord (o / ordinal-entity :value 1
+            :mod (v / vermelho)))
+
+# ::id Capitaes-da-Areia.Documento_54.0
+# ::snt Resenha de " capitães de areia "
+(r / resenha :topic (b / book :name (n / name :op1 "Capitães" :op2 "de" :op3 "Areia")))
+
+# ::id 1984.Documento_67.6
+# ::snt A história em si é interessante .
+(i / interessar-01 :ARG1 (h / história))
+
+# ::id Fala-Serio-Pai.Documento_2.0
+# ::snt Fala sério , pai - halita Rebouças
+(b / book :name (n / name :op1 "Fala" :op2 "sério" :op3 "pai") :ARG1-of (e / escrever-01 :ARG0 (p / person :name (n1 / name :op1 "Thalita" :op2 "Rebouças"))))
+
+# ::id Se-Houver-Amanha.Documento_99.0
+# ::snt Primeiro livro que li de o autor .
+(l / livro :ord (o / ordinal-entity :value 1) :ARG1-of (e / escrever-01 :ARG0 (a / autor)) :ARG1-of (l1 / ler-01 :ARG0 (e1 / eu)))
+
+# ::id Fala-Serio-Amor.Documento_27.1
+# ::snt A halita é uma escritora incrível !
+(p / pessoa :ARG0-of (e / escrever-01) :mod (i / incrível) :domain (p1 / person :name (n / name :op1 'Thalita")))
+
+# ::id O-Outro-Lado-da-Meia-Noite.Documento_36.3
+# ::snt Infelizmente o conceito só piorou .
+(p / piorar-01 :ARG1 (c / conceito) :mod (s / só) :mod (i / infeliz))
+
+# ::id 1984.Documento_113.14
+# ::snt Só assim é possível dar 5 estrelas .
+(p / possible-01 :ARG1 (d / dar-01 :ARG1 (e / estrela :mod (s / score-on-scale-91 :ARG1 5))) :manner (a / assim :mod (s / só)))
+
+# ::id Se-Houver-Amanha.Documento_55.0
+# ::snt É um livro com uma história simples .
+(l / livro :ARG0 (t / ter-01 :ARG1 (h / história :mod (s / simples))))
+
+# ::id Se-Houver-Amanha.Documento_1.5
+# ::snt Com certeza merecia uma continuação .
+(m / merecer-01 :ARG1 (c / continuar-02) :mod (c1 / certeza))
+
+# ::id O-Outro-Lado-da-Meia-Noite.Documento_5.1
+# ::snt Este livro realmente me surpreendeu .
+(s / supreender-01 :ARG0 (l / livro :mod (e / este)) :ARG1 (e / eu))
+
+# ::id Capitaes-da-Areia.Documento_20.1
+# ::snt Li esse livro quando eu tinha 13 anos .
+(l / ler-01 :ARG0 (e / eu) :ARG1 (l1 / livro) :time (a / age-01 :ARG1 e :ARG2 (t / temporal-quantity :quant 13 :unit (a / ano))))
+
+# ::id Capitaes-da-Areia.Documento_37.3
+# ::snt É difícil separa - Los em bons e maus .
+(d / difícil
+      :domain (s / separar-01
+            :ARG1 (e / eles)
+            :manner (a / e
+                  :op1 (b / bom)
+                  :op2 (m / mau))))
+
+# ::id Se-Houver-Amanha.Documento_77.3
+# ::snt Você não consegue parar de ler um minuto .
+(c / conseguir-01 :polarity -
+      :ARG0 (v / você)
+      :ARG1 (p / parar-01
+            :ARG0 v
+            :ARG1 (l / ler-01
+                  :ARG0 v)
+            :duration (t / temporal-quantity :quant 1
+                  :unit (m / minuto))))
+
+# ::id Se-Houver-Amanha.Documento_1.3
+# ::snt Sempre indico este livro a os meus amigos .
+(i2 / indicar-02
+      :ARG0 (e / eu)
+      :ARG1 (l / livro
+            :mod (e2 / este))
+      :ARG2 (p / person
+            :ARG0-of (h / have-org-role-91
+                  :ARG1 e
+                  :ARG2 (a / amigo)))
+      :frequency (s / sempre))
+
+# ::id O-Outro-Lado-da-Meia-Noite.Documento_20.1
+# ::snt Bem , Sidney Sheldon dispensa apresentações .
+(d / dispensar-04
+      :ARG0 (p / person :name (n / name :op1 "Sidney" :op2 "Sheldon"))
+      :ARG1 (a / apresentar-01
+            :ARG1 p))
+
+# ::id Fala-Serio-Professor.Documento_19.1
+# ::snt É um livro chato e sem uma narração muito boa .
+(e / e
+      :op1 (c / chato
+            :domain (l / livro))
+      :op2 (t / ter-01 :polarity -
+            :ARG0 l
+            :ARG1 (n / narrar-01
+                  :mod (b / bom
+                        :mod (m / muito)))))
+
+# ::id Fala-Serio-Amor.Documento_12.2
+# ::snt Eu não tenho o que fala é so ciso que eu tenho .
+(s / same-01
+      :ARG1 (t / ter-10 :polarity -
+            :ARG0 (e / eu)
+            :ARG1 (t2 / thing
+                  :ARG1-of (f / falar-01
+                        :ARG0 e)))
+      :ARG2 (i2 / isso
+            :ARG1-of (t3 / ter-10
+                  :ARG0 e
+                  :mod (s2 / só))))
+
+# ::id Fala-Serio-Professor.Documento_19.3
+# ::snt Eu só terminei de lê - lo por falta de o que fazer .
+(t / terminar-02
+      :ARG0 (e / eu)
+      :ARG1 (l / ler-01
+            :ARG0 e
+            :ARG1 (i2 / isso))
+      :mod (s / só)
+      :ARG1-of (c / cause-01
+            :ARG0 (f / faltar-01
+                  :ARG1 (c2 / coisa
+                        :ARG1-of (f2 / fazer-01
+                              :ARG0 e)))))
+
+# ::id Se-Houver-Amanha.Documento_88.4
+# ::snt Já li várias vezes e sempre é um passatempo muito bom .
+(e3 / e
+      :op1 (l / ler-01
+            :ARG0 (e2 / eu)
+            :time (j / já)
+            :frequency (v / vários))
+      :op2 (p / passatempo
+            :mod (b / bom
+                  :mod (m / muito))
+            :time (s / sempre)))
+
+# ::id Se-Houver-Amanha.Documento_88.1
+# ::snt Já li muitos livros de Sidney Sheldon e gostei de poucos .
+(e / e
+      :op1 (l / ler-01
+            :ARG0 (e2 / eu)
+            :ARG1 (l2 / livro
+                  :mod (m / muito)
+                  :ARG1-of (e3 / escrever-01
+                        :ARG0 (p / person :name (n / name :op1 "Sidney" :op2 "Sheldon"))))
+            :time (j / já))
+      :op2 (g / gostar-01
+            :ARG0 e2
+            :ARG1 (l3 / livro
+                  :mod (p2 / pouco)
+                  :ARG1-of (i2 / include-91
+                        :ARG2 l2))))
+
+# ::id Se-Houver-Amanha.Documento_99.2
+# ::snt Mas foi essa obra que me fez amar todas as outras de o autor .
+(c / contrast-01
+      :ARG2 (f / fazer-02
+            :ARG0 (o / obra
+                  :mod (e / essa))
+            :ARG1 (a / amar-01
+                  :ARG0 (e2 / eu)
+                  :ARG1 (o2 / obra
+                        :mod (o3 / outro)
+                        :mod (t / todo)
+                        :ARG1-of (e3 / escrever-01
+                              :ARG0 (a2 / autor))))))
+
+# ::id Fala-Serio-Pai.Documento_15.0
+# ::snt Achei o livro engraçado , e releria , mas apenas por ser engraçado .
+(a / e
+      :op1 (a2 / achar-02
+            :ARG0 (e / eu)
+            :ARG1 (l / livro)
+            :ARG2 (e2 / engraçado))
+      :op2 (l2 / ler-01
+            :ARG0 (e3 / eu)
+            :ARG1 l
+            :mod (v / vez
+                  :mod (o / outro))
+            :ARG1-of (c / cause-01
+                  :ARG0 (e4 / engraçado
+                        :domain l)
+                  :mod (a3 / apenas))))
+
+# ::id Fala-Serio-Amor.Documento_18.1
+# ::snt Http :/ / uma - leitora . Blogspot . Com / 2010 / 09 / fala - serio - amor . Html
+(u / url-entity :value "http://uma-leitora.blogspot.com/2010/09/fala-serio-amor.html")
+
+# ::id O-Outro-Lado-da-Meia-Noite.Documento_8.11
+# ::snt Acho muito difícil alguém ler e não gostar , mas pode acontecer , como eu não sei !
+(c / contrast-01
+      :ARG1 (a / achar-02
+            :ARG0 (e2 / eu)
+            :ARG1 (e / e
+                  :op1 (l / ler-01
+                        :ARG0 (a2 / alguem))
+                  :op2 (g / gostar-01 :polarity -
+                        :ARG0 a2)
+                  :ARG1-of (c2 / cause-01
+                        :ARG0 (t / thing
+                              :ARG1-of (s / saber-01 :polarity -
+                                    :ARG0 e2))))
+            :ARG2 (d / difícil
+                  :mod (m / muito)))
+      :ARG2 (p / possible-01
+            :ARG1 (a3 / acontecer-01
+                  :ARG1 e)))
+
+# ::id Se-Houver-Amanha.Documento_1.4
+# ::snt Este livro nos faz torcer pra o crime , um jogo de inteligência misturado com amor .
+(m / multi-sentence
+      :op1 (f2 / fazer-02
+            :ARG0 (l2 / livro
+                  :mod (e2 / este))
+            :ARG1 (n2 / nós)
+            :ARG2 (t2 / torcer-01
+                  :ARG0 n2
+                  :ARG1 (c2 / crime)))
+      :op2 (j / jogo
+            :domain (l3 / livro)
+            :topic (m2 / misturar-01
+                  :ARG1 (i2 / inteligência)
+                  :ARG2 (a / amor))))
+
+# ::id Capitaes-da-Areia.Documento_37.2
+# ::snt O mais bonito de o livro está em a percepção de que não há maniqueísmo em os personagens .
+(h / have-degree-01
+      :ARG1 (p / perceber-01
+            :ARG1 (m2 / maniqueísmo :polarity -)
+            :ARG2 (p2 / personagem))
+      :ARG2 (b / bonito)
+      :ARG3 (m / máximo)
+      :ARG5 (t / thing
+            :poss (l / livro)))
+
+# ::id Fala-Serio-Pai.Documento_8.5
+# ::snt O primeiro banho que o pai de ela deu em a mesma , as aventuras de eles dois e muito mais !
+(a / e
+      :op1 (d / dar-03
+            :ARG0 (p / pai)
+            :ARG1 (b / banho
+                  :ord (o / ordinal-entity :value 1))
+            :beneficiary (e / ela))
+      :op2 (a2 / aventura
+            :poss (a3 / e
+                  :op1 p
+                  :op2 e))
+      :op3 (m / mais
+            :mod (m2 / muito)))
+
+# ::id O-Outro-Lado-da-Meia-Noite.Documento_5.2
+# ::snt Logo em o inicio já temos uma idéia de o fim , mas mesmo assim , o fim conseguiu me surpreender .
+(t / ter-04
+      :ARG0 (n / nós)
+      :ARG1 (i2 / idéia
+            :topic (f / fim))
+      :time (i3 / iniciar-01)
+      :concession-of (c / conseguir-03
+            :ARG0 (f2 / fim)
+            :ARG1 (s / supreender-01
+                  :ARG0 f2
+                  :ARG1 (e / eu))))
+
+# ::id 1984.Documento_141.5
+# ::snt Uma pena que uma obra de qualidade indiscutível tenha inspirado um Reality show de gosto duvidoso .
+(p / pena
+      :domain (o / obra
+            :mod (q / qualidade
+                  :ARG1-of (d / discutir-01 :polarity -))
+            :ARG0-of (i2 / inspirar-01
+                  :ARG1 (b / broadcast-program :name (n / name :op1 "Reality" :op2 "show")
+                        :mod (g / gosto
+                              :mod (d2 / dúvida))))))
+
+# ::id 1984.Documento_67.4
+# ::snt Em o segundo a história fica interessante , as coisas começam a acontecer e prende a atenção afinal .
+(a / e
+      :op1 (f / ficar-201
+            :ARG1 (h / história)
+            :ARG2 (i2 / interessante))
+      :op2 (c / começar-01
+            :ARG0 (c2 / coisa)
+            :ARG1 (a2 / acontecer-01))
+      :op3 (p / prender-03
+            :ARG1 h
+            :ARG2 (a3 / atenção)
+            :time (a4 / afinal))
+      :location (t / thing
+            :ord (o / ordinal-entity :value 2)))
+
+# ::id O-Outro-Lado-da-Meia-Noite.Documento_8.2
+# ::snt Havia acabado de ler " um brinde de cianureto de Agatha Christi " e fui procurar um outro livro pra ler .
+(p / procurar-01
+      :ARG0 (e / eu)
+      :ARG1 (l / livro
+            :mod (o / outro))
+      :ARG1-of (c / cause-01
+            :ARG0 (a / acabar-01
+                  :ARG0 e
+                  :ARG1 (l2 / ler-01
+                        :ARG0 e
+                        :ARG1 (b / book :name (n / name :op1 "Um" :op2 "Brinde" :op3 "de" :op4 "Cianureto")
+                              :ARG1-of (e2 / escrever-01
+                                    :ARG0 (p2 / person :name (n2 / name :op1 "Agatha" :op2 "Christie"))))))))
+
+# ::id Fala-Serio-Pai.Documento_4.4
+# ::snt E essa amizade entre os dois gera divertidas , e a as vezes desagradáveis e vergonhosas , histórias entre pai e filha .
+(a / e
+      :op1 (a2 / amizade
+            :mod (e / esse)
+            :prep-entre (p / pessoa :quant 2)
+            :ARG0-of (g / gerar-01
+                  :ARG1 (h / história
+                        :mod (a3 / e
+                              :op1 (d / divertida)
+                              :op2 (a4 / e
+                                    :op1 (a5 / agradar-01 :polarity -)
+                                    :op2 (v / vergonha)
+                                    :frequency (a6 / as-vezes)))
+                        :prep-entre (a7 / e
+                              :op1 (p2 / pai)
+                              :op2 (f / filha))))))
+
+# ::id Capitaes-da-Areia.Documento_54.2
+# ::snt A história conta com a realidade vida de um grupo de jovens sem famílias que vivem em um armazém abandonado em a praia de salvador .
+(h / história
+      :ARG0-of (c / contar-01
+            :ARG1 (v / vida
+                  :source (g / grupo
+                        :mod (j / jovem
+                              :ARG0-of (t / ter-01 :polarity -
+                                    :ARG1 (f / familia)))
+                        :ARG0-of (v2 / viver-01
+                              :location (a / armazém
+                                    :ARG1-of (a2 / abandonar-01)
+                                    :location (p / praia
+                                          :location (c2 / city :name (n / name :op1 "Salvador")))))))
+            :manner (r / realidade)))
+
+# ::id Fala-Serio-Pai.Documento_18.2
+# ::snt A o mesmo tempo que aprendemos com nossos pais , eles aprendem com nós , é uma dupla troca de afeto , carinho , ensinamentos e experiências .
+(m / multi-sentence
+      :snt1 (a / aprender-01
+            :ARG0 p
+            :ARG2 n
+            :time (a2 / aprender-01
+                  :ARG0 (n / nós)
+                  :ARG2 (p / pai)))
+      :snt2 (t / trocar-01 :quant 2
+            :ARG1 (a3 / e
+                  :op1 (a4 / afeto)
+                  :op2 (c / carinho)
+                  :op3 (e / ensinamento)
+                  :op4 (e2 / experiência))
+            :domain (i2 / isto)))
+
+# ::id Capitaes-da-Areia.Documento_54.5
+# ::snt Sempre em busca de superações , o livro nos traz a verdadeira história narrada em histórias objetivas , que até hoje são a verdadeira realidade .
+(l / livro
+      :ARG0-of (b / buscar-01
+            :ARG1 (s / superar-01)
+            :frequency (s2 / sempre))
+      :ARG0-of (t / trazer-01
+            :ARG1 (h / história
+                  :mod (v / verdade)
+                  :ARG1-of (n / narrar-01
+                        :medium (h2 / história
+                              :mod (o / objetivo)))
+                  :mod (r / realidade
+                        :mod (v2 / verdade))
+                  :time (a / até
+                        :op1 (h3 / hoje)))
+             :ARG2 (n1 / nós)))
+
+# ::id Fala-Serio-Amor.Documento_3.1
+# ::snt E são em essas situações , que mais uma vez , Malu nos faz rir com inúmeras histórias pra contar , e inúmeros namoros que deram certo . Ou nem tanto assim .
+(m / multi-sentence
+      :snt1 (p / person :name (n / name :op1 "Malu")
+            :ARG0-of (f / fazer-15
+                  :ARG1 (r / rir-01
+                        :ARG0 n3
+                        :ARG2 (a / and
+                              :op1 (h / história
+                                    :quant (i2 / inúmero))
+                              :op2 (n2 / namorar-01
+                                    :quant (i3 / inúmero)
+                                    :ARG1-of (d / dar-04
+                                          :ARG2 (c / certo)))))
+                  :ARG2 (n3 / nós)
+                  :location (s / situação
+                        :mod (e / esse))
+                  :mod (v / vez :quant 1
+                        :mod (m2 / mais))))
+      :snt2 (o / ou
+            :op1 (a2 / assim :polarity -
+                  :degree (t / tanto))))
+
+# ::id 1984.Documento_0.0
+# ::snt " um ótimo livro , além de ser um ótimo alerta para uma potencial distopia , em contraponto a utopia tão sonhada por os homens de o medievo e início de a modernidade .
+(a / além
+      :op1 (a2 / alertar-01
+            :degree (o / ótimo)
+            :ARG2 (d / distopia
+                  :mod (p / potencial)))
+      :op2 (c / contrast-01
+            :ARG1 (l / livro
+                  :degree (o2 / ótimo))
+            :ARG2 (u / utopia
+                  :ARG1-of (s / sonhar-01
+                        :ARG0 (h / homem
+                              :source (a3 / e
+                                    :op1 (m / medievo)
+                                    :op2 (i2 / iniciar-01
+                                          :ARG1 (m2 / modernidade))))
+                        :degree (t / tão)))))
+
+# ::id Se-Houver-Amanha.Documento_22.1
+# ::snt Se houver amanhã resolvi ler Sidney Sheldon por que minha esposa ficava me falando de essa estória de ele que era o máximo , e essa estória era justamente se houver amanhã .
+(a / e
+      :op1 (r / resolver-01
+            :ARG0 (e1 / eu)
+            :ARG1 (l / ler-01
+                  :ARG0 e1
+                  :ARG1 (l2 / livro
+                        :ARG1-of (e2 / escrever-01
+                              :ARG0 (p / person :name (n2 / name :op1 "Sidney" :op2 "Sheldon")))))
+            :ARG1-of (c / cause-01
+                  :ARG0 (e3 / esposa
+                        :poss e1
+                        :ARG0-of (f / falar-01
+                              :ARG1 (m / máximo
+                                    :domain (e4 / estória
+                                          :poss p
+                                          :mod (e5 / esse)))))))
+      :op2 (b / book :name (n / name :op1 "Se" :op2 "Houver" :op3 "Amanha")
+            :domain e4
+            :mod (j / justamente)))
+
+# ::id Se-Houver-Amanha.Documento_22.6
+# ::snt Você tem uma protagonista burra que dói que faz uma besteira atrás de a outra , acaba presa por um crime que não cometeu e entra pra faculdade de a malandragem em a penitenciária .
+(t / ter-01
+      :ARG0 (v / você)
+      :ARG1 (p / pessoa
+            :ARG0-of (p2 / protagonizar-01)
+            :mod (b / burro
+                  :degree (q / que-dói))
+            :ARG0-of (f / fazer-01
+                  :ARG1 (b2 / besteira
+                        :frequency (a / atrás-de-outro)))
+            :ARG1-of (p3 / prender-01
+                  :ARG2 (c / crime
+                        :ARG1 (c2 / cometer-01 :polarity -
+                              :ARG0 p)))
+            :ARG0-of (e / entrar-03
+                  :ARG1 (f2 / faculdade
+                        :mod (m / malandragem))
+                  :location (p4 / penitenciária))))
+
+# ::id Galaxy-SIII.Documento_0.5
+# ::snt Por isso estou voltando para os confiáveis motoras . Vou ficar com o Motorola Razr que apesar de ficar um pouquinho para / trás em tecnologia , é muito mais confiável e resistente .
+(m / multi-sentence
+      :snt1 (c / cause-01
+            :ARG1 (v / voltar-01
+                  :ARG1 (e1 / eu)
+                  :ARG4 (p / product :name (n / name :op1 "Motorola")
+                        :ARG1-of (c2 / confiar-01
+                              :ARG1-of (p2 / possible-01)))))
+      :snt2 (f / ficar-03
+            :ARG1 (e2 / eu)
+            :ARG2 (p3 / product :name (n2 / name :op1 "Motorola" :op2 "Razr"))
+            :ARG1-of (c3 / cause-01
+                  :ARG0 (a / e
+                        :op1 (p4 / produto
+                              :ARG1-of (c4 / confiar-01
+                                    :ARG1-of (p5 / possible-01))
+                              :degree (m2 / muito
+                                    :mod (m3 / mais)))
+                        :op2 (r / resistir-01
+                              :ARG0 p4)
+                        :domain p3
+                        :concession (f2 / ficar-402
+                              :ARG1 p3
+                              :topic (t / tecnologia))))))
+
+# ::id Capitaes-da-Areia.Documento_54.7
+# ::snt Um livro consagrado por Jorge amado , escritor muito reconhecido , seu livro , que permanece importante em a literatura brasileira até hoje , promete ficar por muitos e muitos anos .
+(m / multi-sentence
+      :snt1 (l / livro
+            :ARG1-of (c / consagrar-01
+                  :ARG0 (p / person :name (n / name :op1 "Jorge" :op2 "Amado")
+                        :ARG0-of (e / escrever-01)
+                        :ARG1-of (r / reconhecer-03
+                              :degree (m2 / muito)))))
+      :snt2 (p2 / prometer-01
+            :ARG0 (l2 / livro
+                  :poss (p3 / person :name (n2 / name :op1 "Jorge" :op2 "Amado"))
+                  :ARG1-of (p4 / permanecer-302
+                        :ARG2 (i2 / importante)
+                        :location (l3 / literatura
+                              :source (c2 / country :name (n3 / name :op1 "Brasil")))
+                        :time (a2 / até
+                              :op1 (h / hoje))))
+            :ARG1 (f / ficar-202
+                  :ARG1 l2
+                  :duration (a / ano
+                        :quant (m3 / muito)))))
+
+# ::id O-Outro-Lado-da-Meia-Noite.Documento_20.7
+# ::snt A história se passa durante a segunda guerra mundial , temos uma narrativa de a vida de novele , que não foi de as melhores , mas ela também não se torna a melhor pessoa de o mundo .
+(m / multi-sentence
+      :snt1 (p / passar-102
+            :ARG1 (h / história)
+            :time (w / war :name (n / name :op1 "Segunda" :op2 "Guerra" :op3 "Mundial")))
+      :snt2 (t / ter-02
+            :ARG1 (n2 / narrativa
+                  :topic (v / vida
+                        :poss (p2 / person :name (n3 / name :op1 "Noelle")
+                              :ARG1 (t2 / tornar-101 :polarity -
+                                    :ARG2 (h2 / have-degree-91
+                                          :ARG1 (p3 / pessoa)
+                                          :ARG2 (b / bom)
+                                          :ARG3 (m3 / máximo)
+                                          :ARG5 (p4 / pessoa
+                                                :location (m4 / mundo))))))
+                  :ARG1-of (i2 / include-91 :polarity -
+                        :ARG2 (n4 / narrativa
+                              :degree (m2 / máximo)))
+                  :ARG1-of (c / contrast-01
+                        :ARG2 p2))))
+
+# ::id O-Outro-Lado-da-Meia-Noite.Documento_5.4
+# ::snt O que chega a os dois únicos pontos negativos de o livro : 1 terceiro é a questão de que os capítulos são imensos , quase que intermináveis , o que deixa a leitura mais lenta , pesada , maçante .
+(c / chegar-01
+      :ARG0 (t / thing)
+      :ARG1 (p / ponto :quant 2
+            :mod (u / único)
+            :mod (n / negativo)
+            :ARG1-of (c2 / consistir-01
+                  :ARG2 (a / e :li 1
+                        :op1 (i2 / imenso)
+                        :op2 (t2 / terminar-01 :polarity -
+                              :mod (q / quase))
+                        :domain (c3 / capítulo
+                              :ARG0 (d / deixar-03
+                                    :ARG1 (l / leitura)
+                                    :ARG2 (a2 / e
+                                          :op1 (l2 / lenta)
+                                          :op2 (p2 / pesada)
+                                          :op3 (m / maçante)
+                                          :mod (m2 / mais))))))
+            :poss (l3 / livro)))
+
+# ::id Fala-Serio-Professor.Documento_4.0
+# ::snt Tem aquelas professoras que dá vontade de matar , mas por outro lado tem aquelas que a os poucos vai te conquistando de um jeito que quando agente ver já é especial e que sempre vai ficar em o nosso coração .
+(c / contrast-01
+      :ARG1 (t / ter-02
+            :ARG1 (p / professora
+                  :mod (a / aquele)
+                  :ARG0-of (d / dar-12
+                        :ARG1 (v / vontade
+                              :topic (m / matar-01
+                                    :ARG1 p)))))
+      :ARG2 (t2 / ter-02
+            :ARG1 (a2 / aquela
+                  :ARG0-of (c2 / conquistar-01
+                        :ARG1 (v2 / você)
+                        :manner (a3 / aos-poucos)
+                        :manner (a4 / e
+                              :op1 (e / especial
+                                    :domain a2
+                                    :mod (j / já))
+                              :op2 (c3 / coração
+                                    :poss (n / nós)
+                                    :location a2
+                                    :time (s / sempre))
+                              :time (a5 / a-gente
+                                    :ARG0-of (v3 / ver-01)))))))
+
+# ::id Fala-Serio-Pai.Documento_15.1
+# ::snt Embora o livro seja legal , não gosto de a literatura de a halita Rebouças , acho que os livros de ela deveriam ser menos engraçados e mais interessantes , pois um livro tem que te prender , aí que é bom mesmo .
+(m / multi-sentence
+      :snt1 (g / gostar-01 :polarity -
+            :ARG0 (e1 / eu)
+            :ARG1 (l / literatura
+                  :poss (p / person :name (n / name :op1 "Halita" :op2 "Rebouças")))
+            :concession (l2 / legal
+                  :domain (l3 / livro)))
+      :snt2 (a / achar-02
+            :ARG0 (e2 / eu)
+            :ARG1 (r / recommend-01
+                  :ARG1 (a2 / e
+                        :op1 (e3 / engraçado
+                              :degree (m2 / menos))
+                        :op2 (i2 / interessar-01
+                              :ARG1 (t / thing)
+                              :degree (m3 / mais))
+                        :domain (l4 / livro
+                              :poss (e4 / ela))))
+            :ARG1-of (c / cause-01
+                  :ARG0 (o / obligate-01
+                        :ARG2 (p2 / prender-03
+                              :ARG1 (l5 / livro)
+                              :ARG2 (v / você)))))
+      :snt3 (b / bom
+            :domain (i3 / isso)))
+
+# ::id 1984.Documento_0.3
+# ::snt Prefiro restringir meu comentário sobre o livro a as breves linhas acima , em respeito a os futuros leitores , mas aconselho o livro tanto como uma leitura " lúdica " quando como um questionamento sobre os limites de a insanidade humana em busca de o poder . "
+(c / contrast-01
+      :ARG1 (p / preferir-01
+            :ARG0 (e / eu)
+            :ARG1 (r / restringir-01
+                  :ARG0 e
+                  :ARG1 (c2 / comentar-01
+                        :ARG0 e
+                        :ARG1 (l / livro))
+                  :ARG2 (l2 / linha
+                        :mod (b / breve)
+                        :location (a / acima)))
+            :ARG1-of (c3 / cause-01
+                  :ARG0 (r2 / respeitar-01
+                        :ARG1 (p2 / pessoa
+                              :ARG0-of (l3 / ler-01
+                                    :time (f / futuro)))))))
+
+# ::id Fala-Serio-Pai.Documento_2.2
+# ::snt Em fala sério , pai o pai de Duda começa narrando o que é super legal pois vemos o ponto de vista de ele em relação a vida de Duda , aprendemos que as vezes é necessário que nossos pais digam não pra nós , vimos como a precação de eles dois é bastante aberta .
+(a / e
+      :op1 (c / começar-01
+            :ARG0 (p / pai
+                  :poss (p3 / person :name (n4 / name :op1 "Duda")))
+            :manner (n / narrar-01
+                  :ARG0 p)
+            :medium (b / book :name (n2 / name :op1 "Fala" :op2 "Serio" :op3 "Pai")))
+      :op2 (l / legal
+            :domain c
+            :ARG1-of (c2 / cause-01
+                  :ARG0 (a2 / e
+                        :op1 (v / ver-01
+                              :ARG0 (n3 / nos)
+                              :ARG1 (p2 / ponto-de-vista
+                                    :poss p
+                                    :topic (v2 / vida
+                                          :poss p3)))
+                        :op2 (a3 / aprender-01
+                              :ARG0 n3
+                              :ARG1 (n5 / necessário
+                                    :domain (p4 / pai
+                                          :poss n3
+                                          :ARG0-of (d / dizer-01
+                                                :ARG1 (n6 / não)
+                                                :ARG2 n3))
+                                    :frequency (a4 / as-vezes)))
+                        :op3 (v3 / ver-01
+                              :ARG0 n3
+                              :ARG1 (a5 / aberta
+                                    :degree (b2 / bastante)
+                                    :domain (r / relação
+                                          :prep-entre (a6 / e
+                                                :op1 p
+                                                :op2 p3))))))))
+
+# ::id Fala-Serio-Amor.Documento_21.1
+# ::snt Eu achei legal pois conta a história de uma moradora de a tijuca que conta suas descobertas amorosas , os " namoradas " , os rolos passageiros , o namorado grudento , o ciumento , os doidos que aparecem por o caminho , os fofos , os pais de os namorados , os seus pais e os namorados . Ela sempre tem uma boa história para contar .
+(m / multi-sentence
+      :snt1 (a / achar-02
+            :ARG0 (e / eu)
+            :ARG2 (l / legal)
+            :ARG1-of (c / cause-01
+                  :ARG0 (c2 / contar-01
+                        :ARG1 (h / história
+                              :topic (p / pessoa
+                                    :ARG0-of (m2 / morar-01
+                                          :ARG1 (c3 / city :name (n / name :op1 "Tijuca")))
+                                    :ARG0-of (c4 / contar-01
+                                          :ARG1 (e1 / e
+                                                :op1 (t / thing
+                                                      :ARG0 p
+                                                      :ARG1-of (d / descobrir-01)
+                                                      :mod (a3 / amor))
+                                                :op2 (f / ficante
+                                                      :poss p)
+                                                :op3 (r / rolo
+                                                      :ARG1-of (p2 / passar-03))
+                                                :op4 (p3 / pessoa
+                                                      :ARG0-of (n2 / namorar-01)
+                                                      :mod (g / grudento)
+                                                      :poss p)
+                                                :op5 (p4 / pessoa
+                                                      :ARG0-of (n3 / namorar-01)
+                                                      :ARG1-of (t2 / ter-03
+                                                            :ARG2 (c5 / ciúme))
+                                                      :poss p)
+                                                :op6 (d2 / doido
+                                                      :ARG1-of (a4 / aparecer-01
+                                                            :location (c6 / caminho)))
+                                                :op7 (f2 / fofo)
+                                                :op8 (p5 / pai
+                                                      :poss (p6 / pessoa
+                                                            :ARG0-of (n4 / namorar-01)))
+                                                :op9 (a5 / and
+                                                      :op1 (p7 / pai
+                                                            :poss p)
+                                                      :op2 (p8 / pessoa
+                                                            :ARG0-of (n5 / namorar-01
+                                                                  :ARG1 p))))))))))
+      :snt2 (t3 / ter-01
+            :ARG0 (e2 / ela)
+            :ARG1 (h2 / história
+                  :mod (b / bom)
+                  :purpose (c7 / contar-01
+                        :ARG0 e2))))
+
+# ::id Fala-Serio-Pai.Documento_6.1
+# ::snt É um livro que conta as trapalhadas e engraçadas histórias de Malu ( uma garotinha que mora em a tijuca e adora seu papai ) e seu pai ( pai de primeira viagem que não tem muita experiência , e com isso acaba se atrapalhando com a sua " anjinha " ) para . Sim : eu gostei de este livro , é muito engraçado , mas , não é um de os melhores !
+(m / multi-sentence
+      :snt1 (l / livro
+            :ARG0-of (c / contar-01
+                  :ARG1 (a / e
+                        :op1 (t / trapalhada
+                              :ARG1-of (f / fazer-01
+                                    :ARG0 (a2 / e
+                                          :op1 (p / person :name (n / name :op1 "Malu")
+                                                :ARG1-of (m2 / mean-01
+                                                      :ARG2 (a4 / e
+                                                            :op1 (g / garotinha
+                                                                  :ARG0-of (m3 / morar-01
+                                                                        :ARG1 (c2 / city :name (n2 / name :op1 "Tijuca"))))
+                                                            :op2 (a5 / adorar-01
+                                                                  :ARG0 g
+                                                                  :ARG1 (p3 / papai
+                                                                        :poss g)))))
+                                          :op2 (p2 / pai
+                                                :poss p
+                                                :ARG1-of (m4 / mean-01
+                                                      :ARG2 (p4 / pai
+                                                            :mod (p5 / primeira-viagem)
+                                                            :ARG0-of (t2 / ter-01 :polarity -
+                                                                  :ARG1 (e2 / experiência)
+                                                                  :ARG1-of (c3 / cause-01
+                                                                        :ARG0 (a6 / atrapalhar-101
+                                                                              :ARG1 p
+                                                                              :ARG2 (a7 / anjinha))))))))))
+                        :op2 (h / história
+                              :mod (e1 / engraçado)
+                              :topic (a3 / e
+                                    :op1 p
+                                    :op2 p2)))))
+      :snt2 (g2 / gostar-01
+            :ARG0 (e3 / eu)
+            :ARG1 (l2 / livro
+                  :mod (e4 / engraçado
+                        :degree (m5 / muito))
+                  :mod (e5 / este))
+            :ARG1-of (c4 / contrast-01
+                  :ARG2 (i2 / include-91 :polarity -
+                        :ARG1 l2
+                        :ARG2 (l3 / livro
+                              :mod (b / bom
+                                    :degree (m6 / máximo)))))))
+
+# ::id Crepusculo.Documento_82.0
+# ::snt 1.0
+(n10 / number-entity :value 1.0)
+
+# ::id Crepusculo.Documento_123.2
+# ::snt Fato .
+(f / fato)
+
+# ::id Crepusculo.Documento_178.0
+# ::snt Tédio .
+(t / tédio)
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_0.0
+# ::snt Surreal
+(s / surreal)
+
+# ::id Crepusculo.Documento_702.0
+# ::snt Perfeito
+(p / perfeito)
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_162.8
+# ::snt Nada ! .
+(n / nada)
+
+# ::id Crepusculo.Documento_384.0
+# ::snt Horrível
+(h / horrível)
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_162.9
+# ::snt Leiam ! .
+(l / ler-01 :mode imperative
+      :ARG0 (v / você))
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_162.0
+# ::snt Meu deus !
+(m / meu-deus :mode expressive)
+
+# ::id Crepusculo.Documento_743.0
+# ::snt O melhor !
+(t / thing
+      :ARG1-of (h / have-degree-91
+            :ARG2 (b / bom)
+            :ARG3 (m / máximo)))
+
+# ::id Galaxy-SIII.Documento_1.0
+# ::snt Trava trava
+(t / travar-01)
+
+# ::id Samsung-Smart-TV.Documento_8.0
+# ::snt Belíssimo !
+(b / belo
+      :degree (m / muito))
+
+# ::id Crepusculo.Documento_123.0
+# ::snt Contradições
+(c / contradição)
+
+# ::id LG-Smart-TV.Documento_6.0
+# ::snt Nada de mais
+(n / nada-de-mais)
+
+# ::id Galaxy-SIII.Documento_9.0
+# ::snt É do Paraguai
+(c2 / country
+      :source (c3 / country :name (n2 / name :op1 "Paraguai")))
+
+# ::id Samsung-Smart-TV.Documento_3.6
+# ::snt Abs a todos .
+(a / abraço
+      :beneficiary (t / todos))
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_162.3
+# ::snt O que fazer ?
+(f / fazer-01
+      :ARG1 (a / amr-unknown))
+
+# ::id Samsung-Smart-TV.Documento_1.0
+# ::snt Vale a pena .
+(v / valer-02
+      :ARG2 (p / pena))
+
+# ::id LG-Smart-TV.Documento_3.0
+# ::snt Ótima opção !
+(o / opção
+      :mod (o2 / ótimo))
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_243.0
+# ::snt Cego Aderaldo
+(p7 / person :name (n7 / name :op1 "person" :op2 "Cego" :op3 "Aderaldo"))
+
+# ::id Samsung-Smart-TV.Documento_0.0
+# ::snt Durabilidade 0
+(d / durabilidade :degree 0)
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_216.0
+# ::snt Adaptabilidade
+(a2 / adaptar-01)
+
+# ::id Crepusculo.Documento_808.0
+# ::snt Decepcionante .
+(t / thing
+      :ARG0 (d / decepcionar-01))
+
+# ::id Samsung-Smart-TV.Documento_3.7
+# ::snt Vale de alerta .
+(v / valer-01
+      :ARG2 (a / alertar-01))
+
+# ::id LG-Smart-TV.Documento_9.0
+# ::snt Estou satisfeito
+(s2 / satisfeito
+      :domain (e6 / eu))
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_84.0
+# ::snt O que você faria ?
+(f3 / fazer-01
+      :ARG0 (v / você)
+      :ARG1 (a5 / amr-unknown))
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_84.5
+# ::snt Recomendadíssimo .
+(r2 / recomendar-01
+      :mod (m / muito))
+
+# ::id Capitaes-da-Areia.Documento_114.0
+# ::snt Idade inadequada .
+(i2 / idade
+      :mod (a6 / adequado :polarity -))
+
+# ::id Samsung-Smart-TV.Documento_9.0
+# ::snt Não vale o preço .
+(v / valer-02 :polarity -
+      :ARG2 (p / preço))
+
+# ::id LG-Smart-TV.Documento_8.0
+# ::snt Televisão não liga
+(l / ligar-04 :polarity -
+      :ARG1 (t / televisão))
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_162.2
+# ::snt De repente , cego .
+(c14 / cego
+      :time (d3 / de-repente))
+
+# ::id LG-Smart-TV.Documento_7.0
+# ::snt Televisão excelente
+(t / televisão
+      :mod (e / excelente))
+
+# ::id Crepusculo.Documento_0.1
+# ::snt Livro bem chatinho .
+(l8 / livro
+      :mod (c15 / chatinho
+            :degree (b4 / bem)))
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_216.2
+# ::snt Depois fui curtindo .
+(c8 / curtir-01
+      :ARG0 (e7 / eu)
+      :time (d / depois))
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_54.0
+# ::snt Um livro para refletir
+(h4 / have-purpose-91
+      :ARG1 (l6 / livro)
+      :ARG2 (r4 / refletir-02))
+
+# ::id Crepusculo.Documento_42.0
+# ::snt Não confie em Hollywood
+(c / confiar-01 :polarity - :mode imperative
+      :ARG1 (c2 / city-district :name (n / name :op1 "Hollywood")))
+
+# ::id Samsung-Smart-TV.Documento_2.3
+# ::snt O que gostei : completa
+(g / gostar-01
+      :ARG0 (e / eu)
+      :ARG1 (c / completar-01))
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_190.0
+# ::snt Impossível não gostar .
+(g4 / gostar-01 :polarity -
+      :mod (p11 / possivel :polarity -))
+
+# ::id Samsung-Smart-TV.Documento_2.0
+# ::snt Televisão impressionante
+(t / televisão
+      :ARG0-of (i2 / impressionar-01))
+
+# ::id Samsung-Smart-TV.Documento_4.5
+# ::snt O que gostei : excelente
+(g / gostar-01
+      :ARG0 (e / eu)
+      :ARG1 (e2 / excelente))
+
+# ::id LG-Smart-TV.Documento_6.1
+# ::snt Normal pelo alto preço .
+(n / normal
+      :ARG1-of (c / cause-01
+            :ARG0 (p / preço
+                  :mod (a / alto))))
+
+# ::id LG-Smart-TV.Documento_9.4
+# ::snt Os óculos são passivos .
+(p / passivo
+      :domain (o / óculos))
+
+# ::id LG-Smart-TV.Documento_5.0
+# ::snt Decepção nas avaliações .
+(d4 / decepcionar-01
+      :ARG0 (a10 / avaliação))
+
+# ::id Capitaes-da-Areia.Documento_91.0
+# ::snt Um de os melhores livros !
+(i3 / include-91
+      :ARG1 (l9 / livro)
+      :ARG2 (l10 / livro
+            :ARG1-of (h4 / have-degree-91
+                  :ARG2 (b5 / bom)
+                  :ARG3 (m4 / maximo)
+                  :ARG5 (l11 / livro))))
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_84.1
+# ::snt Esse não é um mero romance .
+(r5 / romance :polarity -
+      :domain (e8 / esse)
+      :mod (m2 / mero))
+
+# ::id Samsung-Smart-TV.Documento_3.5
+# ::snt Não vale a pena o conserto .
+(v / valer-02 :polarity -
+      :ARG1 (c2 / consertar-01)
+      :ARG2 (p / pena))
+
+
+# ::id Galaxy-SIII.Documento_8.0
+# ::snt Se soubesse que era tão lento
+(h5 / have-condition-91
+      :ARG2 (s3 / saber-01
+            :ARG0 (e15 / ele)
+            :ARG1 (l12 / lento
+                  :degree (t4 / tão))))
+
+# ::id Samsung-Smart-TV.Documento_6.6
+# ::snt O que não gostei : preço alto
+(g / gostar-01 :polarity -
+      :ARG0 (e / eu)
+      :ARG1 (p / preço
+            :mod (a / alto)))
+
+# ::id LG-Smart-TV.Documento_1.0
+# ::snt Excelente preço e qualidade !
+(a2 / and
+      :op1 (p2 / preço
+            :mod (e / excelente))
+      :op2 (q / qualidade
+            :mod e))
+
+# ::id Samsung-Smart-TV.Documento_7.0
+# ::snt Custo benefício não compensa .
+(c / compensar-01 :polarity -
+      :ARG2 (c2 / custo-benefício))
+
+# ::id Samsung-Smart-TV.Documento_7.2
+# ::snt Custo-benefício não compensa .
+(c / compensar-01 :polarity -
+      :ARG2 (c2 / custo-benefício))
+
+# ::id Galaxy-SIII.Documento_7.11
+# ::snt O que não gostei : não contra .
+(g / gostar-01 :polarity -
+      :ARG0 (e / eu)
+      :ARG1 (a2 / amr-unintelligible
+            :value "não contra"))
+
+# ::id LG-Smart-TV.Documento_9.1
+# ::snt Bom a televisão e completa ! ! !
+(t / televisão
+      :mod (a3 / and
+            :op1 (b / bom)
+            :op2 (c5 / completo)))
+
+# ::id LG-Smart-TV.Documento_4.3
+# ::snt O que não gostei : não tem ginga
+(g5 / gostar-01 :polarity -
+      :ARG0 (e9 / eu)
+      :ARG1 (t3 / ter-01
+            :ARG1 (g6 / ginga)))
+
+# ::id LG-Smart-TV.Documento_2.9
+# ::snt Como pontos negativos , destaco :
+(d / destacar-01 :ARG0 (e / eu) :manner (p / ponto :mod (p / negativo)))
+
+# ::id Crepusculo.Documento_702.7
+# ::snt Eu li e recomendo para " todos " .
+(e / e
+      :op1 (l / ler-01
+            :ARG0 (e2 / eu))
+      :op2 (r / recomendar-01
+            :ARG0 e2
+            :ARG2 (t / todos)))
+
+# ::id Samsung-Smart-TV.Documento_6.0
+# ::snt A melhor televisão na atualidade !
+(t / televisão
+      :ARG1-of (h / have-degree-91
+            :ARG2 (b / bom)
+            :ARG3 (m / máximo)
+            :time (a / atualidade)))
+
+# ::id Samsung-Smart-TV.Documento_4.6
+# ::snt O que não gostei : valor muito alto
+(g / gostar-01 :polarity -
+      :ARG0 (e / eu)
+      :ARG1 (h / have-degree-91
+            :ARG1 (v / valor)
+            :ARG2 (a2 / alto)
+            :ARG3 (m / muito)))
+
+# ::id Galaxy-SIII.Documento_0.0
+# ::snt Galaxy Siii , comprei e me arrependi
+(a7 / e
+      :op1 (c13 / comprar-01
+            :ARG0 (e12 / eu)
+            :ARG1 (p12 / product :name (n9 / name :op1 "Galaxy" :op2 "SIII")))
+      :op2 (a9 / arrepender-101
+            :ARG0 e12
+            :ARG1 c13))
+
+# ::id Capitaes-da-Areia.Documento_114.2
+# ::snt Em função de a idade , eu detestei .
+(d2 / detestar-01
+      :ARG0 (e3 / eu)
+      :ARG1-of (c7 / cause-01
+            :ARG0 (i2 / idade)))
+
+# ::id Galaxy-SIII.Documento_5.0
+# ::snt Cheio de tranqueiras e bateria podre
+(e / e
+      :op1 (p / preencher-01
+            :ARG2 (t / tranqueira))
+      :op2 (b / bateria
+            :mod (p2 / podre)))
+
+# ::id Samsung-Smart-TV.Documento_5.0
+# ::snt Comprei e não recomendo ! ( parte5 )
+(e / e
+      :op1 (c / comprar-01
+            :ARG0 (e2 / eu))
+      :op2 (r / recomendar-01 :polarity -
+            :ARG0 e2))
+
+# ::id Galaxy-SIII.Documento_7.0
+# ::snt Ótimo celular o melhor da atualidade
+(c / celular
+      :mod (o / ótimo)
+      :ARG1-of (h / have-degree-91
+            :ARG2 (b2 / bom)
+            :ARG3 (m / máximo)
+            :time (a / atualidade)))
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_135.1
+# ::snt Http://www.skoob.com.br/livro/sobre/1
+(u / url-entity :value "Http://www.skoob.com.br/livro/sobre/1")
+
+# ::id Samsung-Smart-TV.Documento_3.3
+# ::snt A Samsung não fez nenhuma concessão .
+(c / conceder-01 :polarity -
+      :ARG0 (c2 / company :name (n / name :op1 "Samsung")))
+
+# ::id LG-Smart-TV.Documento_2.0
+# ::snt Um bom televisor , de custo elevado .
+(t2 / televisor
+      :mod (b3 / bom)
+      :mod (c2 / custo
+            :mod (e2 / elevado)))
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_216.1
+# ::snt Confesso que em o começo não gostei .
+(c8 / confessar-01
+      :ARG0 (e4 / eu)
+      :ARG1 (g / gostar-01 :polarity -
+            :ARG0 e4
+            :time (c9 / começar-01)))
+
+# ::id LG-Smart-TV.Documento_2.8
+# ::snt 6 - quatro entradas HDMI e três USB .
+(a3 / and :li 1
+      :op1 (e3 / entrada :quant 4
+            :mod (h2 / HDMI))
+      :op2 (u / USB :quant 3))
+
+# ::id Samsung-Smart-TV.Documento_6.4
+# ::snt Os aplicativos são fáceis e práticos .
+(a / aplicativo
+      :mod (e / e
+            :op1 (f / fácil)
+            :op2 (p / prático)))
+
+# ::id Crepusculo.Documento_82.8
+# ::snt Não recomendo esse livro pra ninguém .
+(r / recomendar-01 :polarity -
+      :ARG0 (e / eu)
+      :ARG1 (l / livro
+            :mod (e2 / esse))
+      :ARG2 (n / ninguém))
+
+# ::id LG-Smart-TV.Documento_2.4
+# ::snt 2 - o som tem boa potência e clareza .
+(t3 / ter-01
+      :ARG0 (s / som)
+      :ARG1 (a8 / and
+            :op1 (p4 / potência
+                  :mod (b3 / bom))
+            :op2 (c10 / clareza)))
+
+# ::id LG-Smart-TV.Documento_9.7
+# ::snt Conclusão ótima televisão valeu a pena .
+(c / concluir-01
+      :domain (e / e
+            :op1 (t2 / televisao
+                  :mod (o2 / otimo))
+            :op2 (v / valer-02
+                  :ARG1 t2
+                  :ARG2 (p3 / pena))))
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_0.5
+# ::snt A leitura terá um caráter muito pessoal .
+(t4 / ter-01
+      :ARG0 (l / ler-01)
+      :ARG1 (c3 / caráter
+            :mod (p4 / pessoal
+                  :degree (m3 / muito))))
+
+# ::id LG-Smart-TV.Documento_5.2
+# ::snt Dificilmente compraria por esses motivos .
+(c8 / comprar-01
+      :mod (d2 / dificil)
+      :ARG1-of (c11 / cause-01
+            :ARG0 (m3 / motivo
+                  :mod (e13 / esse))))
+
+# ::id LG-Smart-TV.Documento_7.3
+# ::snt O que não gostei : preço um pouco salgado .
+(g4 / gostar-01 :polarity -
+      :ARG0 (e14 / eu)
+      :ARG1 (p8 / preco
+            :mod (s2 / salgado)
+            :degree (u / um-pouco)))
+
+# ::id Galaxy-SIII.Documento_7.2
+# ::snt Lindo , roda bem leve , fininho e discreto .
+(a / e
+      :op1 (l / lindo)
+      :op2 (r / rodar-03
+            :mod (l2 / leve
+                  :degree (b / bem)))
+      :op3 (f / fino
+            :mod (m / muito))
+      :op4 (d / discreto))
+
+# ::id Samsung-Smart-TV.Documento_3.1
+# ::snt O produto queimou a tela com 1 ano e 1 mês .
+(q / queimar-01
+      :ARG1 (t / tela
+            :part-of (p / produto))
+      :time (a / após
+            :op1 (e / e
+                  :op1 (t2 / temporal-quantity :quant 1
+                        :unit (a2 / ano))
+                  :op2 (t3 / temporal-quantity :quant 1
+                        :unit (m / mês)))))
+
+# ::id Samsung-Smart-TV.Documento_3.0
+# ::snt Produto queimou a tela 1 mês após a garantia .
+(q / queimar-01
+      :ARG1 (t / tela
+            :part-of (p / produto))
+      :time (a / após
+            :op1 (g / garantia)
+            :duration (t2 / temporal-quantity :quant 1
+                  :unit (m / mês))))
+
+# ::id Galaxy-SIII.Documento_5.1
+# ::snt Samsung , para que tantos aplicativos inúteis .
+(d2 / dizer-01
+      :ARG0 (e / eu)
+      :ARG1 (h / have-purpose-91
+            :ARG1 (a2 / aplicativo
+                  :quant (t / tanto))
+            :ARG2 (a3 / amr-unknown))
+      :ARG2 (c / company :name (n / name :op1 "Samsung")))
+
+# ::id Crepusculo.Documento_702.1
+# ::snt Crepúsculo , o livro perfeito de a minha vida .
+(l / livro
+      :domain (b / book :name (n / name :op1 "Crepúsculo"))
+      :mod (p / perfeito)
+      :topic (v / vida
+            :poss (e / eu)))
+
+# ::id Galaxy-SIII.Documento_7.7
+# ::snt Nunca tive um celular estão perfeito como esse .
+(t / ter-01
+      :ARG0 (e / eu)
+      :ARG1 (c / celular
+            :ARG1-of (h / have-degree-91
+                  :ARG2 (p / perfeito)
+                  :ARG3 (i2 / igual)
+                  :ARG4 (c2 / celular
+                        :mod (e2 / esse))))
+      :time (n / nunca))
+
+# ::id Samsung-Smart-TV.Documento_2.4
+# ::snt O que não gostei : e uma pena não tem HD interno
+(g / gostar-01 :polarity -
+      :ARG0 (e / eu)
+      :ARG1 (p / pena
+            :domain (t / ter-01 :polarity -
+                  :ARG1 (h / hd
+                        :mod (i2 / interno)))))
+
+# ::id Crepusculo.Documento_42.7
+# ::snt Ambos interessantes para quem gosta de romance fantástico .
+(a / e
+      :op1 (p / possible-01 :polarity -
+            :ARG1 (e / esquecer-01
+                  :ARG1 (l / livro)))
+      :op2 (p2 / perfeito
+            :domain l)
+      :beneficiary (e2 / eu))
+(i2 / interessante
+      :domain (a2 / ambos)
+      :beneficiary (g / gostar-01
+            :ARG0 (p3 / pessoa)
+            :ARG1 (r / romance
+                  :topic (f / fantástico))))
+
+# ::id Capitaes-da-Areia.Documento_114.4
+# ::snt Hoje , porém , creio que eu gostaria de o livro .
+(c11 / contrast-01
+      :ARG2 (c12 / crer-01
+            :ARG0 (e2 / eu)
+            :ARG1 (g2 / gostar-01
+                  :ARG0 e2
+                  :ARG1 (l3 / livro)))
+      :time (h2 / hoje))
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_0.4
+# ::snt Exceto a esposa de um oftalmologista ( ironia ) .
+(e3 / except-01
+      :ARG1 (h3 / have-rel-role-91
+            :ARG1 (o / oftalmologista)
+            :ARG2 (e4 / esposa)
+            :ARG3 (m2 / marido))
+      :mod (i2 / ironia))
+
+# ::id Crepusculo.Documento_808.4
+# ::snt Romance adolescente água-com - açúcar , ridículo .
+(r / romance
+      :mod (a / adolescente)
+      :mod (a2 / água-com-açúcar)
+      :mod (r2 / ridiculo))
+
+# ::id Crepusculo.Documento_42.4
+# ::snt A história de Alice e carpisse também me fascinaram .
+(f / fascinar-01
+      :ARG0 (h3 / história
+            :poss (a2 / and
+                  :op1 (p5 / person :name (n5 / name :op1 "Alice"))
+                  :op2 (p6 / person :name (n6 / name :op1 "Carlisle"))))
+      :ARG1 (e5 / eu)
+      :mod (t / também))
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_0.9
+# ::snt O romance é permeado por ditos populares e provérbios .
+(p / permear-02
+      :ARG0 (e / e
+            :op1 (d / dito
+                  :mod (p2 / popular))
+            :op2 (p3 / provérbio))
+      :ARG1 (r / romance))
+
+# ::id LG-Smart-TV.Documento_1.4
+# ::snt São só alguns ( poucos modelos e poucas marcas ) .
+(a7 / e
+      :op1 (c13 / comprar-01
+            :ARG0 (e12 / eu)
+            :ARG1 (p12 / product :name (n9 / name :op1 "Galaxy" :op2 "SIII")))
+      :op2 (a9 / arrepender-101
+            :ARG0 e12
+            :ARG1 c13))
+
+# ::id Galaxy-SIII.Documento_5.3
+# ::snt Aliás , a bateria certamente é o ponto fraco do produto .
+(e / e
+      :op1 (c2 / certo
+            :domain (p / ponto
+                  :mod (f / fraco)
+                  :domain (b / bateria
+                        :poss p2)
+                  :poss (p2 / produto))))
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_84.4
+# ::snt É um livro muito doloroso , mas magnífico a o mesmo tempo .
+(c4 / contrast-01
+      :ARG1 (d / doloroso
+            :domain (l2 / livro
+                  :degree (m8 / muito)))
+      :ARG2 (m9 / magnífico
+            :domain l2))
+
+# ::id LG-Smart-TV.Documento_4.0
+# ::snt Smarttv da Lg oferece cinema em casa e reconhecimento de voz
+(o / oferecer-01
+      :ARG0 (t / tv
+            :mod (s / smart)
+            :topic (c3 / company :name (n2 / name :op1 "LG")))
+      :ARG1 (a / e
+            :op1 (c / cinema
+                  :location (c2 / casa))
+            :op2 (r / reconhecer-02
+                  :ARG1 (v2 / voz))))
+
+# ::id Samsung-Smart-TV.Documento_3.2
+# ::snt O produto apresentou o depois logo após o período de garantia .
+(a / apresentar-01
+      :ARG0 (p / produto)
+      :ARG1 (a2 / amr-unintelligible)
+      :time (a3 / após
+            :op1 (p2 / período
+                  :topic (g / garantia))
+            :mod (l / logo)))
+
+# ::id Samsung-Smart-TV.Documento_5.6
+# ::snt Pronto ! Acabou a paciência . Agora é entrar na justiça ! ! ! !
+(p / pronto)
+(e / entrar-04
+      :ARG2 (j / justiça)
+      :ARG1-of (c / cause-01
+            :ARG0 (a / acabar-01
+                  :ARG1 (p2 / paciência))))
+
+# ::id Samsung-Smart-TV.Documento_3.4
+# ::snt A autorizada Samsung avaliou o conserto em torno de 3.600 , 00 .
+(a / avaliar-02
+      :ARG0 (o / organization
+            :ARG2-of (a2 / autorizar-01
+                  :ARG0 (c / company :name (n / name :op1 "Samsung"))))
+      :ARG1 (c2 / consertar-01)
+      :ARG2 (e / em-torno-de
+            :op1 (m / monetary-quantity :quant 3600)))
+
+# ::id Samsung-Smart-TV.Documento_7.1
+# ::snt Não tem conectividade com celulares Galaxy , o que é uma vergonha .
+(v / vergonha
+      :domain (c / conectar-01 :polarity -
+            :ARG2 (c2 / celular :name (n / name :op1 "Galaxy"))))
+
+# ::id Crepusculo.Documento_743.1
+# ::snt Intenso , romântico , inesperado , brilhante , apaixonante , sexy !
+(e / e
+      :op1 (i2 / intenso)
+      :op2 (r / romantico)
+      :op3 (i3 / inesperado)
+      :op4 (b / brilhante)
+      :op5 (a / apaixonante)
+      :op6 (s / sexy))
+
+# ::id Crepusculo.Documento_178.1
+# ::snt Fui até a metade , mas não consegui prosseguir . Achei muito parado .
+(c / contrast-01
+      :ARG1 (l / ler-01
+            :ARG0 (e / eu)
+            :ARG1 (a2 / até
+                  :op1 (m2 / metade)))
+      :ARG2 (c2 / conseguir-01 :polarity -
+            :ARG0 e
+            :ARG1 (p / prosseguir-01
+                  :ARG1 l)
+            :ARG1-of (c3 / cause-01
+                  :ARG0 (a / achar-02
+                        :ARG0 e
+                        :ARG2 (p2 / parado
+                              :mod (m / muito))))))
+
+# ::id Capitaes-da-Areia.Documento_143.3
+# ::snt De qualquer forma , mesmo com estes começos , a leitura vale a pena .
+(v / valer-02
+      :ARG1 (l4 / ler-01)
+      :ARG2 (p6 / pena)
+      :concession (c3 / começo
+            :mod (e6 / este))
+      :manner (f2 / forma
+            :mod (q / qualquer)))
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_162.1
+# ::snt A angústia de a leitura me volta quando tento escrever esta resenha .
+(v / voltar-01
+      :ARG1 (a / angústia
+            :topic (l / ler-01))
+      :ARG4 (e2 / eu)
+      :time (b / be-temporally-at-91
+            :ARG1 e2
+            :ARG2 (t / tentar-01
+                  :ARG0 e2
+                  :ARG1 (e3 / escrever-01
+                        :ARG0 e2
+                        :ARG1 (r / resenha
+                              :mod (e4 / este))))))
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_84.2
+# ::snt É um ensaio sobre a cegueira de o homem sobre a sua própria natureza .
+(e7 / ensaio
+      :topic (c2 / cego
+            :domain (h / homem)
+            :topic (n2 / natureza
+                  :domain h)))
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_216.3
+# ::snt Em o final , me envolvi , me vi vendo tudo que os personagens não viam .
+(e / e
+      :op1 (e2 / envolver-03
+            :ARG0 (e3 / eu)
+            :ARG1 e3
+            :time (f / final))
+      :op2 (v / ver-301
+            :ARG0 e3
+            :ARG1 (v2 / ver-01
+                  :ARG0 e3
+                  :ARG1 (t / tudo
+                        :ARG1-of (v3 / ver-01 :polarity -
+                              :ARG0 (p / personagem))))))
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_27.3
+# ::snt Ambos em os fazem ter vontade de gritar , chorar , bater e ler de Novo !
+(f / fazer-02
+      :ARG0 (a / ambos)
+      :ARG1 (n / nós)
+      :ARG2 (q / querer-01
+            :ARG0 n
+            :ARG1 (e / e
+                  :op1 (g / gritar-01
+                        :ARG0 n)
+                  :op2 (c / chorar-01
+                        :ARG0 n)
+                  :op3 (b / bater-01
+                        :ARG0 n)
+                  :op4 (l / ler-01
+                        :ARG0 n
+                        :mod (d / de-novo)))))
+
+# ::id Samsung-Smart-TV.Documento_1.1
+# ::snt Excelente aparelho de televisão com ótima qualidade de imagem e recursos .
+(a / aparelho
+      :domain (t / televisão)
+      :mod (e / excelente)
+      :ARG0-of (t2 / ter-01
+            :ARG1 (e2 / e
+                  :op1 (q / qualidade
+                        :topic (i2 / imagem)
+                        :mod (o / ótimo))
+                  :op2 (r / recurso
+                        :mod o))))
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_0.3
+# ::snt Começa com um motorista em o sinal e termina com toda população de uma cidade .
+(a5 / e
+      :op1 (c4 / começar-01
+            :ARG2 (m2 / motorista
+                  :location (s2 / sinal)))
+      :op2 (t2 / terminar-02
+            :ARG2 (p7 / população
+                  :mod (t3 / todo)
+                  :part-of (c5 / cidade))))
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_27.1
+# ::snt Gostei tanto de o livro de José Saramago quanto de o filme dirigido por Meirelles !
+(h5 / have-degree-91
+      :ARG1 (e6 / eu
+            :ARG0-of (g2 / gostar-01
+                  :ARG1 (l3 / livro
+                        :poss (p10 / person :name (n4 / name :op1 "José" :op2 "Saramago"))))
+      :ARG3 (i3 / igual)
+      :ARG4 e6)
+            :ARG0-of (g3 / gostar-01
+                  :ARG1 (d2 / dirigir-01
+                        :ARG0 (p11 / person :name (n5 / name :op1 "Meirelles"))
+                        :ARG1 (f3 / filme))))
+
+# ::id Samsung-Smart-TV.Documento_5.7
+# ::snt Mais uma vez digo e repito , Samsung não tem controle nenhum em seu pós venda ! ! !
+(e / e
+      :op1 (d / dizer-01
+            :ARG0 (e2 / eu)
+            :ARG1 (t / ter-08 :polarity -
+                  :ARG0 (c2 / company :name (n / name :op1 "Samsung"))
+                  :ARG1 (c / controle)
+                  :topic (p / pos-venda
+                        :poss c2)))
+      :op2 (r / repetir-01
+            :ARG0 e2
+            :ARG1 t)
+      :mod (m / mais-uma-vez))
+
+# ::id Samsung-Smart-TV.Documento_8.1
+# ::snt Perfeita ! Ainda mais se tiver em conjunto com um Home Theater Samsung como eu tenho !
+(e / e
+      :op1 (p / perfeito)
+      :op2 (h / have-degree-91
+            :ARG2 (p2 / perfeito)
+            :ARG3 (m / mais)
+            :condition (a / acompanhar-03
+                  :ARG1 (p3 / product :name (n / name :op1 "Home" :op2 "Theater" :op3 "Samsung")
+                        :ARG1-of (t2 / ter-01
+                              :ARG0 (e2 / eu))))))
+
+# ::id LG-Smart-TV.Documento_7.1
+# ::snt Marca muito boa , excelente acabamento , 4 HDMI que facilita a conexão de equipamentos .
+(a / e
+      :op1 (m / marca
+            :mod (b / bom)
+            :degree (m2 / muito))
+      :op2 (a2 / acabamento
+            :mod (e / excelente))
+      :op3 (f / facilitar-01
+            :ARG0 (h / hdmi :quant 4)
+            :ARG1 (c / conectar-01
+                  :ARG1 (e2 / equipamento))))
+
+# ::id Samsung-Smart-TV.Documento_8.2
+# ::snt O que gostei : interatividade total e o melhor que pode existir hoje em matéria de televisão .
+(g / gostar-01
+      :ARG0 (e / eu)
+      :ARG1 (e2 / e
+            :op1 (i2 / interatividade
+                  :mod (t2 / total))
+            :op2 (t / televisão
+                  :ARG1-of (h / have-degree-91
+                        :ARG2 (b / bom)
+                        :ARG3 (m / máximo))
+                  :ARG1-of (e3 / existir-01
+                        :ARG1-of (p / possible-01)
+                        :time (h2 / hoje)))))
+
+# ::id Samsung-Smart-TV.Documento_8.3
+# ::snt Só ter Skype integrado com a câmera e mais o reconhecimento por voz e movimentos é sensacional .
+(s / sensacional
+      :domain (e / e
+            :op1 (t / ter-01
+                  :ARG1 (p / product :name (n / name :op1 "Skype")
+                        :ARG1-of (i2 / integrar-01
+                              :ARG2 (c / câmera)))
+                  :mod (s2 / só))
+            :op1 (r / reconhecer-02
+                  :ARG1 (e2 / e
+                        :op1 (v / voz)
+                        :op2 (m / mover-02))
+                  :mod (m2 / mais))))
+
+# ::id LG-Smart-TV.Documento_8.1
+# ::snt Pesquisando na Internet , descobri que se trata de um problema que está afetando muitos proprietários .
+(d4 / descobrir-01
+      :ARG0 (e11 / eu)
+      :ARG1 (a8 / afetar-01
+            :ARG0 (p15 / problema)
+            :ARG1 (p16 / proprietário
+                  :quant (m10 / muito)))
+      :manner (p17 / pesquisar-01
+            :ARG0 e11
+            :medium (i4 / internet)))
+
+# ::id Samsung-Smart-TV.Documento_8.4
+# ::snt O que não gostei : a câmera poderia ter movimentação horizontal de visão e não só apenas vertical .
+(g / gostar-01 :polarity -
+      :ARG0 (e / eu)
+      :ARG1 (e2 / e
+            :op1 (r / recommend-01
+                  :ARG1 (t / ter-01
+                        :ARG0 (c / câmera)
+                        :ARG1 (m / mover-02
+                              :manner (h / horizontal))))
+            :op2 (t2 / ter-01 :polarity -
+                  :ARG0 c
+                  :ARG1 (m2 / mover-02
+                        :manner (v / vertical))
+                  :mod (s / só))))
+
+# ::id Crepusculo.Documento_42.1
+# ::snt Nossa existe quem não goste de ler livro após ter assistido a o filme , mas sinceramente eu gosto bastante .
+(c6 / contrast-01
+      :ARG1 (e8 / existir-01
+            :ARG1 (p8 / pessoa
+                  :ARG0-of (g2 / gostar-01 :polarity -
+                        :ARG1 (l5 / ler-01
+                              :ARG0 p8
+                              :ARG1 (l6 / livro)
+                              :time (a6 / após
+                                    :op1 (a7 / assistir-01
+                                          :ARG0 p8
+                                          :ARG1 (f3 / filme)))))))
+      :ARG2 (g3 / gostar-01
+            :ARG0 (e9 / eu)
+            :ARG1 l5
+            :degree (b2 / bastante))
+      :mod (n3 / nossa :mode expressive))
+
+# ::id Capitaes-da-Areia.Documento_0.0
+# ::snt Um livro muito bom que retrata a cruel realidade de os garotos de rua de a Bahia de a década de 30 .
+(l / livro
+      :mod (b / bom
+            :mod (m / muito))
+      :ARG0-of (r / retratar-01
+            :ARG1 (r2 / realidade
+                  :topic (g / garoto
+                        :ARG0-of (m3 / morar-01
+                              :ARG1 (r3 / rua)))
+                  :location (s / state :name (n / name :op1 "Bahia"))
+                  :time (d / date-entity :decade 1930)
+                  :mod (c / cruel))))
+
+# ::id Samsung-Smart-TV.Documento_7.3
+# ::snt Vale mais comprar uma televisão de $2.000 , que terá as mesmas funcionalidades que realmente utilizamos .
+(v / valer-02
+      :ARG1 (c / comprar-01
+            :ARG1 (t / televisão
+                  :ARG0-of (t2 / ter-01
+                        :ARG1 (f / funcionalidade
+                              :ARG1-of (s / same-01)
+                              :ARG1-of (u / utilizar-01
+                                    :mod (r2 / real)))))
+            :ARG3 (m / monetary-quantity :quant 2000))
+      :mod (m2 / mais))
+
+# ::id Crepusculo.Documento_808.1
+# ::snt História clichê , recheada de coisas impossíveis até em o mundo de o maravilhoso , escrita péssima , personagens mal-construídos e alienados .
+(a7 / e
+      :op1 (a8 / e
+            :op1 (h2 / história
+                  :mod (c14 / clichê))
+            :op2 (r2 / rechear-01
+                  :ARG1 h2
+                  :ARG2 (c13 / coisa
+                        :mod (p6 / possível :polarity -)
+                        :location (m4 / mundo
+                              :mod (f / fantástico)
+                              :concession (a11 / até)))))
+      :op2 (e6 / escrever-01
+            :manner (p7 / péssimo))
+      :op3 (a9 / e
+            :op1 (c12 / construir-01
+                  :ARG1 (p8 / personagem)
+                  :manner (m5 / mal))
+            :op2 (a10 / alienado
+                  :domain p8)))
+
+# ::id Samsung-Smart-TV.Documento_6.2
+# ::snt A câmera embutida na televisão com sensor de movimento e presença funciona bem e impressiona quem não conhece .
+(e / e
+      :op1 (f / funcionar-01
+            :ARG0 (c / câmera
+                  :ARG1-of (e2 / embutir-01
+                        :ARG2 (t / televisão))
+                  :part (s / sensor
+                        :topic (e3 / e
+                              :op1 (m / mover-02)
+                              :op2 (p2 / presença))))
+            :manner (b / bom))
+      :op2 (i2 / impressionar-01
+            :ARG0 c
+            :ARG1 (p / person
+                  :ARG0-of (c2 / conhecer-01 :polarity -))))
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_0.8
+# ::snt Os personagens não tem nome , apenas apelidos ( motorista , rapariga de óculos , mulher de o médico , etc . ) .
+(a3 / e
+      :op1 (t2 / ter-01
+            :ARG0 (p6 / personagem)
+            :ARG1 (n4 / nome))
+      :op2 (t3 / ter-01
+            :ARG0 p6
+            :ARG1 (a4 / apelido
+                  :mod (a5 / apenas)
+                  :example (a6 / e
+                        :op1 (m2 / motorista)
+                        :op2 (r / rapariga
+                              :ARG0-of (u / usar-02
+                                    :ARG1 (o / óculos)))
+                        :op3 (p7 / pessoa
+                              :ARG0-of (h3 / have-rel-role-91
+                                    :ARG1 (m3 / médico)
+                                    :ARG2 (m4 / mulher)))
+                        :op4 (e4 / et-coetera)))))
+
+# ::id LG-Smart-TV.Documento_2.7
+# ::snt 5 - acompanham dois controles-remotos ( convencional e Magic ) , quatro óculos 3D e dois para dual player ( games ) .
+(a / acompanhar-03 :li 5
+      :ARG1 (e / e
+            :op1 (c / controle-remoto :quant 2
+                  :example (e3 / e
+                        :op1 (c2 / convencional)
+                        :op2 (t / thing :name (n / name :op1 "Magic"))))
+            :op2 (o / óculos :mod "3D" :quant 4)
+            :op3 (c3 / controle-remoto
+                  :purpose (d / dual-player
+                        :domain (g / game))))
+      :ARG2 (e2 / eles))
+
+# ::id LG-Smart-TV.Documento_3.2
+# ::snt A vantagem de poder acessar Internet e visualizar vídeos pelo Youtube , filmes , shows e até mesmo páginas é muito interessante .
+(i2 / interessante
+      :domain (v / vantagem
+            :domain (p / possible-01
+                  :ARG1 (e / e
+                        :op1 (a / acessar-01
+                              :ARG1 (i3 / internet))
+                        :op2 (v2 / visualizar-01
+                              :ARG1 (e1 / e
+                                    :op1 (v3 / vídeo
+                                          :medium (p2 / program :name (n / name :op1 "YouTube")))
+                                    :op2 (f / flme)
+                                    :op3 (s / show)
+                                    :op4 (p3 / página)))))))
+
+# ::id LG-Smart-TV.Documento_0.4
+# ::snt A descrição de tal vício já está sendo comum no meio cibernético e até em outros modelos da linha LM , sobretudo a Lm8600 .
+(d / descrever-01
+      :ARG1 (v / vício
+            :mod (t / tal))
+      :mod (c / comum
+            :location (m / meio
+                  :topic (c2 / cibernético)))
+      :mod (j / já)
+      :mod (a / até)
+      :location (m2 / modelo
+            :mod (o / outro)
+            :part-of (l / linha
+                  :topic (p / product :name (n2 / name :op1 "LM"))
+                  :degree (s / sobretudo
+                        :topic (p2 / product :name (n / name :op1 "Lm8600"))))))
+
+# ::id Samsung-Smart-TV.Documento_5.5
+# ::snt Atendeu outra pessoa , passei o número da os , pediu para esperar porque a Elisa estava ocupada e simplesmente desligou na minha cara !
+(a / e
+      :op1 (a2 / atender-01
+            :ARG0 (p / pessoa
+                  :mod (o / outro)))
+      :op2 (p2 / passar-06
+            :ARG0 (e / eu)
+            :ARG1 (n / número
+                  :topic (o2 / os))
+            :ARG2 p)
+      :op3 (p3 / pedir-03
+            :ARG0 p
+            :ARG1 (e2 / esperar-01
+                  :ARG0 e
+                  :ARG1-of (c / cause-01
+                        :ARG0 (o3 / ocupado
+                              :domain (p4 / person :name (n2 / name :op1 "Elisa"))))))
+      :op4 (d / desligar-01
+            :ARG0 p
+            :mod (c2 / cara
+                  :poss e)
+            :mod (s / simplesmente)))
+
+# ::id LG-Smart-TV.Documento_5.1
+# ::snt Pesquisei sobre essa televisão para compra-la , mas após ler os comentários de pessoas que compraram , me decepcionei sobre os problemas apresentados para essa televisão ;
+(c4 / contrast-01
+      :ARG1 (p12 / pesquisar-01
+            :ARG0 (e7 / eu)
+            :ARG1 (t2 / televisão
+                  :mod (e8 / esse))
+            :purpose (c5 / comprar-01
+                  :ARG0 e7
+                  :ARG1 t2))
+      :ARG2 (d3 / decepcionar-01
+            :ARG0 (a3 / apresentar-01
+                  :ARG0 t2
+                  :ARG1 (p13 / problemas))
+            :time (a5 / após
+                  :op1 (l4 / ler-01
+                        :ARG0 e7
+                        :ARG1 (c6 / comentário
+                              :ARG1-of (e9 / escrever-01
+                                    :ARG0 (p14 / pessoa
+                                          :ARG0-of (c7 / comprar-01
+                                                :ARG1 t2))))))))
+
+# ::id Capitaes-da-Areia.Documento_0.3
+# ::snt Sou um fervoroso defensor de o sexo feminino e desprezo qualquer coisa que relacione violência contra a mulher e o livro mostra um pouco de isso .
+(a4 / e
+      :op1 (d3 / defender-01
+            :ARG0 (e2 / eu)
+            :ARG1 (s2 / sexo
+                  :mod (f3 / feminino))
+            :manner (f2 / fervor))
+      :op2 (d4 / desprezar-01
+            :ARG0 e2
+            :ARG1 (r2 / relacionar-101
+                  :ARG0 (c2 / coisa
+                        :mod (q / qualquer))
+                  :ARG1 (v / violência
+                        :prep-contra (m2 / mulher))))
+      :op3 (m3 / mostrar-01
+            :ARG0 (l3 / livro)
+            :ARG1 v
+            :quant (p / um-pouco)))
+
+# ::id LG-Smart-TV.Documento_1.2
+# ::snt O que gostei : maravilhosa ! ! ! A definição , o design , as funções , a conexão , a economia de energia , os controles remotos , enfim , tudo !
+(g / gostar-01
+      :ARG0 (e / eu)
+      :ARG1 (a2 / e
+            :op1 (d / definição)
+            :op2 (d2 / design)
+            :op3 (f / função)
+            :op4 (e2 / economia
+                  :topic (e3 / energia))
+            :op5 (c3 / controle
+                  :topic (r / remoto))
+            :op6 (c4 / conexão)
+            :op7 (t2 / tudo)
+            :mod (m3 / maravilhoso)))
+
+# ::id Crepusculo.Documento_178.2
+# ::snt Quando minha irmã me passou falando que era um romance com vampiros e tal , pensei que aconteceria muita coisa , que seria empolgante , mas nada aconteceu .
+(c2 / contrast-01
+      :ARG1 (p3 / pensar-01
+            :ARG0 e
+            :ARG1 (e4 / e
+                  :op1 (a / acontecer-01
+                        :ARG1 (c / coisa
+                              :mod (m / muito)))
+                  :op2 (e5 / empolgante))
+            :time (p / passar-06
+                  :ARG0 (p2 / person
+                        :ARG0-of (h / have-rel-role-91
+                              :ARG1 e
+                              :ARG2 (i2 / irmã)))
+                  :ARG2 (e / eu)
+                  :time (b / be-temporally-at-91
+                        :ARG1 p2
+                        :ARG2 (f / falar-01
+                              :ARG0 p2
+                              :ARG1 (r / romance
+                                    :topic (e2 / e
+                                          :op1 (v / vampiro)
+                                          :op2 (e3 / e-tal)))
+                              :ARG2 e))))
+      :ARG2 (a2 / acontecer-01
+            :ARG1 (n / nada)))
+
+# ::id LG-Smart-TV.Documento_1.1
+# ::snt Muito boa . Tudo de positivo eu relatei nos prós e de negativo eu relatei nos contras . Achei aqui por ar $ 1000 , 00 a menos que na loja física .
+(m4 / multi-sentence
+      :snt1 (b / bom
+            :domain (a4 / amr-undefined)
+            :degree (m7 / muito))
+      :snt2 (r2 / relatar-01
+            :ARG0 (e4 / eu)
+            :ARG1 (a3 / e
+                  :op1 (p3 / positivo
+                        :domain (t3 / tudo)
+                        :location (p4 / pró))
+                  :op2 (n3 / negativo
+                        :domain (t4 / tudo)
+                        :location (c5 / contra))))
+      :snt3 (h / have-quant-91
+            :ARG1 (a5 / achar-01
+                  :ARG0 e4
+                  :ARG1 a4
+                  :location (a6 / aqui))
+            :ARG2 (m5 / monetary-quantity :quant 1000
+                  :unit (p5 / peso)
+                  :location (c6 / country :name (n4 / name :op1 "Argentina")))
+            :ARG3 (m6 / menos)
+            :ARG4 (a7 / achar-01
+                  :ARG0 e4
+                  :ARG1 a4
+                  :location (l2 / loja
+                        :topic (f2 / físico)))))
+
+# ::id Galaxy-SIII.Documento_2.1
+# ::snt Não acho justo pagar mais de ar $ 1700 , 00 por um aparelho que me parece limitado em suas funções e a falta de capricho na qualidade do material do aparelho .
+(a8 / achar-01 :polarity -
+      :ARG0 (e5 / eu)
+      :ARG1 (p6 / pagar-01
+            :ARG0 e5
+            :ARG1 (m8 / monetary-quant :quant 1700
+                  :unit (p7 / peso)
+                  :location (c7 / country :name (n5 / name :op1 "Argentina"))
+                  :quant (m10 / mais-de))
+            :ARG3 (a11 / e
+                  :op1 (l3 / limitar-01
+                        :ARG0 (f3 / função)
+                        :ARG1 (a10 / aparelho))
+                  :op2 (f4 / faltar-01
+                        :ARG1 (c8 / capricho)
+                        :ARG2 (q / qualidade
+                              :topic (m9 / material
+                                    :consist-of-of a10)))))
+      :ARG2 (j2 / justo))
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_54.3
+# ::snt É um livro que prendeu minha atenção de o começo a o fim e me fez refletir bastante sobre o assunto proposto por o autor , que a humanidade não é boa por natureza .
+(a / e
+      :op1 (p2 / prender-03
+            :ARG1 (l4 / livro)
+            :ARG2 (a4 / atenção
+                  :poss (e3 / eu))
+            :source (c3 / começo)
+            :destination (f4 / fim))
+      :op2 (f5 / fazer-01
+            :ARG0 l4
+            :ARG1 (r3 / refletir-02
+                  :ARG0 e3
+                  :ARG1 (p3 / propor-01
+                        :ARG0 (a5 / autor)
+                        :ARG1 (a6 / assunto
+                              :topic (n2 / natureza
+                                    :topic (h2 / humanidade
+                                          :mod (b3 / bom :polarity -)))))
+                  :quant (b2 / bastante))))
+
+# ::id LG-Smart-TV.Documento_4.2
+# ::snt O que gostei : qualidade da imagem ; 3D passivo ; dual play ; suporte a diversos formatos de vídeo ; controle remoto do tipo apontador ; reconhecimento de voz ; WIDI ; belo design
+(g / gostar-01
+      :ARG0 (e4 / eu)
+      :ARG1 (a7 / e
+            :op1 (q2 / qualidade
+                  :topic (i2 / imagem))
+            :op2 (t2 / 3D
+                  :mod (p4 / passivo))
+            :op3 (p5 / play
+                  :mod (d2 / dual))
+            :op4 (s / suportar-02
+                  :ARG1 (f6 / formato
+                        :mod (d5 / diverso)
+                        :topic (v2 / vídeo)))
+            :op5 (c4 / controle
+                  :topic (r4 / remoto)
+                  :mod (a8 / apontar-01))
+            :op6 (r5 / reconhecer-02
+                  :ARG1 (v3 / voz))
+            :op7 (w / widi)
+            :op8 (d6 / design
+                  :mod (b4 / belo))))
+
+# ::id Samsung-Smart-TV.Documento_5.2
+# ::snt Depois de 50 tentativas , consegui falar com a Elisa e a mesma adiou a entrega para dia 09 / mar ? Sábado . Menos mal , mesmo sabendo que deveria ficar entre 08 e 14 em casa em pleno sábado !
+(e2 / e
+      :op1 (c / conseguir-01
+            :ARG0 (e / eu)
+            :ARG1 (f / falar-01
+                  :ARG0 e
+                  :ARG2 (p / person :name (n / name :op1 "Elisa")))
+            :time (d / depois
+                  :op1 (t / tentar-01 :frequency 50
+                        :ARG0 e)))
+      :op2 (a / adiar-01
+            :ARG0 p
+            :ARG1 (e3 / entregar-01)
+            :ARG2 (d2 / date-entity :day 9 :month 3
+                  :weekday (s / sábado))))
+(s2 / saber-01
+      :ARG0 e
+      :ARG1 (r / recommend-01
+            :ARG1 (f2 / ficar-202
+                  :ARG1 e
+                  :ARG2 (c2 / casa)
+                  :time (d6 / date-entity
+                        :weekday (s3 / sábado)
+                        :mod (p2 / pleno)
+                        :time (d3 / date-interval
+                              :op1 (d4 / date-entity :time 8)
+                              :op2 (d5 / date-entity :time 14))))))
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_243.5
+# ::snt Em os livros de Saramago , você encontra história , profundo conhecimento de as virtudes e fraquezas humanas , encontra frases de profundo significado , etc . Todos somos cegos mas podemos voltar a enxergar !
+(m / multiple-sentence
+      :snt1 (p / possible-01
+            :ARG1 (e / encontrar-01
+                  :ARG0 (v / você)
+                  :ARG1 (a / e
+                        :op1 (h / história)
+                        :op2 (c2 / conhecer-01
+                              :ARG1 (a2 / e
+                                    :op1 (v2 / virtude)
+                                    :op2 (f / fraqueza)
+                                    :mod (h2 / humano))
+                              :mod (p3 / profundo))
+                        :op3 (s / significar-01
+                              :ARG1 (f2 / frase)
+                              :mod (p4 / profundo))
+                        :op4 (e3 / et-coetera))
+                  :location (l / livro
+                        :poss (p2 / person :name (n / name :op1 "Saramago")))))
+      :snt2 (c / contrast-01
+            :ARG1 (c3 / cego
+                  :domain (n2 / nós
+                        :mod (t / todos)))
+            :ARG2 (p5 / possible-01
+                  :ARG0 n2
+                  :ARG1 (e2 / enxergar-01
+                        :mod (n3 / novamente)))))
+
+# ::id LG-Smart-TV.Documento_2.12
+# ::snt 3 - falta de conexões analógicas ( possui uma de vídeo composto e uma de vídeo componente , mas que compartilham a mesma entrada de áudio , logo não dá para usar dois equipamentos analógicos nesta televisão ) .
+(f / faltar-01 :li 3
+      :ARG1 (c4 / conexão
+            :topic (a3 / analógico))
+      :ARG0-of (m2 / mean-01
+            :ARG1 (c5 / contrast-01
+                  :ARG1 (p5 / possuir-01
+                        :ARG1 (a4 / e
+                              :op1 (c8 / conexão :quant 1
+                                    :topic (v2 / vídeo
+                                          :mod (c9 / composto)))
+                              :op2 (c10 / conexao :quant 1
+                                    :topic (v3 / vídeo
+                                          :mod (c11 / componente)))))
+                  :ARG2 (c7 / compartilhar-01
+                        :ARG0 (a / e
+                              :op1 c8
+                              :op2 c10)
+                        :ARG1 (e2 / entrada
+                              :mod (m3 / mesmo)
+                              :topic (a5 / áudio)))
+                  :ARG0-of (c6 / cause-01
+                        :ARG1 (p4 / possible-01 :polarity -
+                              :ARG1 (u2 / usar-01
+                                    :ARG1 (e3 / equipamento :quant 2
+                                          :topic (a6 / analógico))
+                                    :location (t / televisão
+                                          :mod (e5 / este))))))))
+
