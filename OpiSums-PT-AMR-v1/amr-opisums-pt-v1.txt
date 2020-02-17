@@ -172,6 +172,7 @@
 
 # ::id Fala-Serio-Pai.Documento_18.0
 # ::snt Tal pai , tal filha
+# ::literal
 (s / same-01
       :ARG1 (p / person
             :ARG0-of (h / have-rel-role-91
@@ -184,6 +185,7 @@
 
 # ::id Fala-Serio-Mae.Documento_32.0
 # ::snt Tal mãe , tal filha
+# ::literal
 (s / same-01
       :ARG1 (p / person
             :ARG0-of (h / have-rel-role-91
@@ -605,6 +607,7 @@
 
 # ::id Iphone-5.Documento_0.3
 # ::snt O que não gostei : não posso ter , o preço ainda é salgado
+# ::literal
 (g / gostar-01 :polarity -
       :ARG0 (e2 / eu)
       :ARG1 (p / possible-01 :polarity -
@@ -1005,6 +1008,7 @@
 
 # ::id Fala-Serio-Mae.Documento_14.9
 # ::snt Era tão fácil que consegui , realmente , me imaginar em a pele de a Malu ( lógico que com algumas pequenas diferenças ) e ver minha mãe retratada por a mãe de ela .
+# ::literal
 (c / conseguir-01
       :ARG0 (e / eu)
       :ARG1 (e2 / e
@@ -1736,6 +1740,7 @@
 
 # ::id Se-Houver-Amanha.Documento_77.3
 # ::snt Você não consegue parar de ler um minuto .
+# ::literal
 (c / conseguir-01 :polarity -
       :ARG0 (v / você)
       :ARG1 (p / parar-01
@@ -2882,6 +2887,7 @@
 
 # ::id LG-Smart-TV.Documento_7.3
 # ::snt O que não gostei : preço um pouco salgado .
+# ::literal
 (g4 / gostar-01 :polarity -
       :ARG0 (e14 / eu)
       :ARG1 (p8 / preco
@@ -3717,6 +3723,7 @@
 
 # ::id Ensaio-Sobre-a-Cegueira.Documento_243.5
 # ::snt Em os livros de Saramago , você encontra história , profundo conhecimento de as virtudes e fraquezas humanas , encontra frases de profundo significado , etc . Todos somos cegos mas podemos voltar a enxergar !
+# ::literal
 (m / multiple-sentence
       :snt1 (p / possible-01
             :ARG1 (e / encontrar-01
