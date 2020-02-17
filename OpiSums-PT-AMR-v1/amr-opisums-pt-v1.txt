@@ -1634,7 +1634,7 @@
 
 # ::id O-Outro-Lado-da-Meia-Noite.Documento_5.0
 # ::snt O outro lado da meia-noite
-(l / lado :mod (o / outro) :poss (m / meia-noite))
+(b / book :name (n / name :op1 "O" :op2 "outro" :op3 "lado" :op4 "da" :op5 "meia-noite"))
 
 # ::id Se-Houver-Amanha.Documento_22.8
 # ::snt Parece legal , mas dá sono .
