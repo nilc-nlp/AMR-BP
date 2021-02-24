@@ -1,5 +1,7 @@
+falar-serio
 vadiar
 brilhar
+empolgar
 devorar
 opinar
 aprontar
@@ -9,22 +11,31 @@ trair
 rodear
 dialogar
 largar
+
 enganar-se
 embeber
+assoviar
 golpear
 elaborar
 internacionalizar
+estampar
 aclamar
+apaixonar (sem o se)
 elegantizar
+
 vingar
+acarretar
 duvidar
+estender (alongar)
+revoltar
 relembrar
 replicar
 descender
 divertir
+navegar
 manusear
 erguer
-revoltar
+tratar-se
 estranhar
 costumar
 fruir
@@ -32,24 +43,22 @@ perder-se
 garimpar
 herdar
 autografar
-devorar (ler rápido)
+devorar (li rápido)
 entediar
 folhar
 interagir
 enredar
 intrigar
 imaginar
-falar sério
+falar-sério
 ficar para trás
 aconchegar
 doutrinar
 ficar (namorar)
 envolver
 aconselhar (recomendar)
-distorcer
-requintar
-bringar
-encontrar (sentido de meeting)
+distorcer, requintar
+bringar, encontrar (sentido de meeting)
 enganar
 valer
 alastrar-se
@@ -60,7 +69,6 @@ inovar
 despejar
 subestimar
 contatar
-empolgar
 artificializar
 distorcer
 espancar

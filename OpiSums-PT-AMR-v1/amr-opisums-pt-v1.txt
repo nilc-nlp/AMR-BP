@@ -172,7 +172,6 @@
 
 # ::id Fala-Serio-Pai.Documento_18.0
 # ::snt Tal pai , tal filha
-# ::literal
 (s / same-01
       :ARG1 (p / person
             :ARG0-of (h / have-rel-role-91
@@ -185,7 +184,6 @@
 
 # ::id Fala-Serio-Mae.Documento_32.0
 # ::snt Tal mãe , tal filha
-# ::literal
 (s / same-01
       :ARG1 (p / person
             :ARG0-of (h / have-rel-role-91
@@ -523,6 +521,12 @@
                               :domain (e4 / ele))))
             :time (a / agora)))
 
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_4.3
+# ::snt O resto , é sofrível enquanto literatura .
+(s / sofrível
+      :domain (r / resto)
+      :topic (l / literatura))
+
 # ::id O-Apanhador-no-Campo-de-Centeio.Documento_128.4
 # ::snt Eu poderia e deviria ter lido coisa melhor .
 (e / e
@@ -535,6 +539,15 @@
                               :ARG3 (m / mais)))))
       :op2 (r / recommend-01
             :ARG1 l))
+
+# ::id Iphone-5.Documento_6.4
+# ::snt Então soa tendo pra saber ! ! ! ! ! Recomendo
+(m / multi-sentence
+      :snt1 (s / saber-01
+            :condition (t / ter-01
+                  :mod (s2 / só)))
+      :snt2 (r / recomendar-01
+            :ARG0 (e / eu)))
 
 # ::id Fala-Serio-Pai.Documento_8.1
 # ::snt O livro conta a história de Maria de Lourdes .
@@ -580,11 +593,45 @@
       :ARG1 (l / ler-01
             :medium (u / url-entity :value "http://babilorentz.com/?")))
 
+# ::id Iphone-5.Documento_1.2
+# ::snt Pena que no Brasil os impostos sejam tão caros .
+(p / pena
+      :domain (c / caro
+            :domain (i2 / imposto)
+            :location (c2 / country :name (n / name :op1 "Brasil"))
+            :mod (t / tão)))
+
 # ::id Fala-Serio-Mae.Documento_23.6
 # ::snt Eu estou fascinada por o Guilherme Almeida [ . ] " .
 (f / fascinar-01
       :ARG0 (p / person :name (n / name :op1 "Guilherme" :op2 "Almeida"))
       :ARG1 (e2 / eu))
+
+# ::id Iphone-5.Documento_8.1
+# ::snt Muito prático , com boa aparência , e ótima qualidade .
+(e / e
+      :op1 (p / prático
+            :mod (m / muito))
+      :op2 (a / aparência
+            :mod (b / bom))
+      :op3 (q / qualidade
+            :mod (o / ótimo)))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_6.0
+# ::snt Acho que esse é o livro mais chato que já li em a vida .
+(a / achar-02
+      :ARG0 (e / eu)
+      :ARG1 (h / have-degree-91
+            :ARG1 (l / livro
+                  :mod (e2 / esse))
+            :ARG2 (c / chato)
+            :ARG3 (m / máximo)
+            :ARG5 (l2 / livro
+                  :ARG1-of (l3 / ler-01
+                        :ARG0 e
+                        :mod (j / já)
+                        :duration (v / vida
+                              :poss e)))))
 
 # ::id Ensaio-Sobre-a-Cegueira.Documento_108.1
 # ::snt Todo mundo tem que ler este magnífico livro de Saramago .
@@ -605,9 +652,15 @@
                   :ARG1 (o / obra-prima
                         :mod (e3 / esse)))))
 
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_42.0
+# ::snt Um livro revolucionário , para a época em que foi lançado
+(l / livro
+      :mod (r / revolucionário)
+      :time (l2 / lançar-01
+            :ARG1 l))
+
 # ::id Iphone-5.Documento_0.3
 # ::snt O que não gostei : não posso ter , o preço ainda é salgado
-# ::literal
 (g / gostar-01 :polarity -
       :ARG0 (e2 / eu)
       :ARG1 (p / possible-01 :polarity -
@@ -617,6 +670,18 @@
                   :ARG0 (s / salgado
                         :domain (p2 / preço)
                         :mod (a / ainda)))))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_4.4
+# ::snt Não sei como uma porcaria de essa conseguiu ser consagrada .
+(s / saber-01 :polarity -
+      :ARG0 (e / eu)
+      :ARG1 (t / thing
+            :ARG2-of (h / have-manner-91
+                  :ARG1 (c / conseguir-03
+                        :ARG0 (p / porcaria
+                              :mod (e2 / este))
+                        :ARG1 (c2 / consagrar-01
+                              :ARG1 p)))))
 
 # ::id O-Reverso-da-Medalha.Documento_32.2
 # ::snt O poder pode dominar uma pessoa , o que se torna muito ruim .
@@ -636,6 +701,21 @@
       :purpose (c / chegar-01
             :ARG0 e
             :ARG1 (f / final)))
+
+# ::id Iphone-5.Documento_7.1
+# ::snt Muito lindo demais esse Iphone o melhor Smartphone que existe .
+(m / multi-sentence
+      :snt1 (l / lindo
+            :domain (p / product :name (n / name :op1 "Iphone")
+                  :mod (e / esse))
+            :mod (m2 / muito)
+            :mod (d / demais))
+      :snt2 (s / smartphone
+            :ARG1-of (h / have-degree-91
+                  :ARG2 (b / bom)
+                  :ARG3 (m3 / máximo)
+                  :ARG5 (s2 / smartphone
+                        :ARG1-of (e2 / existir-01)))))
 
 # ::id O-Reverso-da-Medalha.Documento_47.7
 # ::snt Mas consegui dar a volta por cima com a ajuda de seu amigo banda .
@@ -681,6 +761,16 @@
             :ARG1 (p2 / percentage-entity :value 100))
       :mod (j / já))
 
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_4.5
+# ::snt Se bem que . Tem tanta porcaria consagrada por aí de qualquer jeito .
+(h / have-concession-91
+      :ARG2 (t / ter-02
+            :ARG1 (p / porcaria
+                  :mod (t2 / tanto)
+                  :ARG1-of (c / consagrar-01))
+            :mod (d / de-qualquer-jeito)
+            :location (a / aí)))
+
 # ::id O-Apanhador-no-Campo-de-Centeio.Documento_86.3
 # ::snt O livro é de uma leitura muito fácil e rápida , acabei em três dias .
 (l / ler-01
@@ -695,6 +785,15 @@
                   :time (d / depois
                         :op1 (t / temporal-quantity :quant 3
                               :unit (d2 / dia))))))
+
+# ::id Iphone-5.Documento_9.2
+# ::snt Eu não tenho conhecimento de produto que é pensado tão detalhadamente .
+(c / conhecer-01 :polarity -
+      :ARG0 (e / eu)
+      :ARG1 (p / produto
+            :ARG1-of (p2 / pensar-01
+                  :manner (d / detalhado
+                        :mod (t / tão)))))
 
 # ::id O-Apanhador-no-Campo-de-Centeio.Documento_4.1
 # ::snt Todo mundo fala que esse livro é foda , mas em a verdade ele é um lixo .
@@ -716,6 +815,20 @@
             :topic (l / literatura))
       :beneficiary (j / juventude))
 
+# ::id Iphone-5.Documento_0.1
+# ::snt Este produto é excelente , tenho um amigo que tem , deixou o Iphone no bolos
+(m / multi-sentence
+      :snt1 (e / excelente
+            :domain (p / produto
+                  :mod (e2 / este)))
+      :snt2 (t / ter-01
+            :ARG0 (e3 / eu)
+            :ARG1 (a / amigo
+                  :ARG0-of (t2 / ter-01)))
+      :snt3 (d / deixar-06
+            :ARG1 (p2 / product :name (n / name :op1 "Iphone")
+                  :ARG2 (b / bolso))))
+
 # ::id Fala-Serio-Mae.Documento_30.1
 # ::snt Aliás . A escrita de ele está toda boa e bastante diálogo ( gosto de isso ) .
 (e / e
@@ -736,6 +849,22 @@
       :ARG1 1000000000000000000000000000000000000000000000000000000000000
       :domain (p / person :name (n / name :op1 "Sheldon")))
 
+# ::id Iphone-5.Documento_6.1
+# ::snt Além de lindo , é ótimo , fácil de usar , sei disso pois uma prima minha tem .
+(e / e
+      :op1 (l / lindo)
+      :op2 (o / ótimo)
+      :op3 (f / fácil
+            :manner-of (u / usar-01))
+      :ARG1-of (s / saber-01
+            :ARG0 (e2 / eu)
+            :ARG1-of (c / cause-01
+                  :ARG0 (t / ter-01
+                        :ARG0 (p / person
+                              :ARG0-of (h / have-rel-role-91
+                                    :ARG1 e2
+                                    :ARG2 (p2 / prima)))))))
+
 # ::id O-Apanhador-no-Campo-de-Centeio.Documento_29.1
 # ::snt A começar por o título de o livro que nada tem a ver com a história de o livro .
 (c / começar-01
@@ -745,6 +874,49 @@
                   :ARG2 (n / nada)
                   :ARG3 (h / história
                         :poss l))))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_117.2
+# ::snt O livro é idiota , repetitivo , cansativo e irritante , tanto quanto seu narrador .
+(e / e
+      :op1 (i2 / idiota)
+      :op2 (r / repetitivo)
+      :op3 (c / cansativo)
+      :op4 (i3 / irritante)
+      :domain (e2 / e
+            :op1 (l / livro)
+            :op2 (a / autor
+                  :ARG0-of (e3 / escrever-01
+                        :ARG1 l))))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_29.0
+# ::snt Até hoje não compreendo porque esse livro é considerado um clássico de a literatura .
+(c / compreender-01 :polarity -
+      :ARG0 (e / eu)
+      :ARG1 (t / thing
+            :ARG1-of (c2 / cause-01
+                  :ARG0 (c3 / considerar-01
+                        :ARG1 (l / livro
+                              :mod (e2 / esse))
+                        :ARG2 (c4 / clássico
+                              :topic (l2 / literatura))))))
+
+# ::id Iphone-5.Documento_5.1
+# ::snt Moro com meu primo , que ao ir aos Eua resolveu trocar seu Iphone 4s por um Iphone 5 .
+(m / morar-01
+      :ARG0 (e / eu)
+      :accompanier (p / person
+            :ARG0-of (h / have-rel-role-91
+                  :ARG1 e
+                  :ARG2 (p2 / primo))
+            :ARG0-of (r / resolver-01
+                  :ARG1 (t / trocar-01
+                        :ARG0 p
+                        :ARG1 (p3 / product :name (n / name :op1 "Iphone" :op2 "4s")
+                              :poss p)
+                        :ARG3 (p4 / product :name (n2 / name :op1 "Iphone" :op2 "5")))
+                  :time (i2 / ir-01
+                        :ARG0 p
+                        :ARG4 (c / country :name (n3 / name :op1 "EUA"))))))
 
 # ::id Iphone-5.Documento_9.4
 # ::snt Quero todos os produtos da Apple ! ! ! ! E o Iphone 5 é o meu sonho de consumo ! ! ! ! !
@@ -761,6 +933,40 @@
                   :ARG0 e2
                   :ARG1 (p2 / product :name (n2 / name :op1 "Iphone" :op2 "5")))))
 
+# ::id Iphone-5.Documento_2.1
+# ::snt Ainda não tenho mas é meu sonho de consumo , pois se trata de um produto bonito e muito bom
+(c / contrast-01
+      :ARG1 (t / ter-01 :polarity -
+            :ARG0 (e / eu)
+            :ARG1 p
+            :mod (a / ainda))
+      :ARG2 (s / sonhar-01
+            :ARG0 e
+            :ARG1 (c2 / consumir-01
+                  :ARG0 e
+                  :ARG1 p)
+            :ARG1-of (c3 / cause-01
+                  :ARG0 (e2 / e
+                        :op1 (b / bonito)
+                        :op2 (b2 / bom
+                              :mod (m / muito))
+                        :domain (p / produto)))))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_62.1
+# ::snt É um livro bem escrito , mas sempre parece que algo está prestes a acontecer e nada acontece .
+(c / contrast-01
+      :ARG1 (l / livro
+            :ARG1-of (e / escrever-01
+                  :manner (b / bem)))
+      :ARG2 (e2 / e
+            :op1 (p / parecer-01
+                  :ARG2 (a / acontecer-01
+                        :ARG1 (a2 / algo)
+                        :time (p2 / prestes-a))
+                  :frequency (s / sempre))
+            :op2 (a3 / acontecer-01
+                  :ARG1 (n / nada))))
+
 # ::id 1984.Documento_189.1
 # ::snt Em a época meu vocabulário ainda não era essas coisas , então lia com um dicionário a tira colo .
 (c / cause-01
@@ -774,6 +980,21 @@
             :instrument (d / dicionário
                   :manner (a2 / a-tira-colo))))
 
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_98.2
+# ::snt Recomendo pra todos , porque todo mundo tem um pouco de Dino ( personagem principal de o livro ) .
+(r / recomendar-01
+      :ARG0 (e / eu)
+      :ARG2 (t / todos)
+      :ARG1-of (c / cause-01
+            :ARG0 (t2 / ter-01
+                  :ARG0 t
+                  :ARG1 (u / um-pouco
+                        :poss (p / person :name (n / name :op1 "Dino")
+                              :ARG2-of (h / have-name-91
+                                    :ARG1 (p2 / personagem
+                                          :mod (p3 / principal)
+                                          :medium (l / livro))))))))
+
 # ::id Fala-Serio-Mae.Documento_23.3
 # ::snt Mas em este ocorre com mais frequência , o que torna a leitura algo irritante , em alguns momentos .
 (c / contrast-01
@@ -786,6 +1007,21 @@
             :ARG2 (t2 / thing
                   :ARG0-of (i2 / irritar-01))
             :frequency (a / alguns-momentos)))
+
+# ::id Iphone-5.Documento_9.1
+# ::snt Depois de ler a biografia de Steve Jobs , fiquei impressionada como cada produto Apple é " criado " .
+(i2 / impressionar-01
+      :ARG0 (t / thing
+            :manner-of (c / criar-01
+                  :ARG0 (c3 / company :name (n2 / name :op1 "Apple"))
+                  :ARG1 (p / produto
+                        :mod (c2 / cada))))
+      :ARG1 (e / eu)
+      :time (d / depois
+            :op1 (l / ler-01
+                  :ARG0 e
+                  :ARG1 (b / biografia
+                        :topic (p2 / person :name (n / name :op1 "Steve" :op2 "Jobs"))))))
 
 # ::id 1984.Documento_113.9
 # ::snt Eu só acrescentei uma estrela a mais por a ideia , o mundo ' Big Brother ' é fictício , mas não surreal .
@@ -841,6 +1077,29 @@
                                     :ARG0 (p / personagem)
                                     :ARG1 (h3 / história)
                                     :mod (l3 / logo)))))))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_98.1
+# ::snt Amei esse livro , já li umas 3 vezes , e toda vez que leio falto morrer de tanto rir , Elle muito engraçado .
+(m / multi-sentence
+      :snt1 (e / e
+            :op1 (a / amar-01
+                  :ARG0 (e2 / eu)
+                  :ARG1 (l / livro
+                        :mod (e3 / esse)))
+            :op2 (l2 / ler-01 :frequency 3
+                  :ARG0 e2
+                  :ARG1 l
+                  :mod (j / já))
+            :op3 (f / faltar-04
+                  :ARG1 e2
+                  :ARG2 (m2 / morrer-01
+                        :ARG1 e2
+                        :ARG2 (r / rir-01
+                              :ARG0 e2
+                              :mod (t / tanto)))))
+      :snt2 (e4 / engraçado
+            :mod (m3 / muito)
+            :domain (e5 / ele)))
 
 # ::id O-Reverso-da-Medalha.Documento_42.1
 # ::snt O reverso da medalha é de longe uma de as obras mais fortes e bem montadas de o gênio que Sidney Sheldon foi .
@@ -954,6 +1213,46 @@
                               :ARG0 (e2 / eu)
                               :time (n2 / nunca))))))
 
+# ::id Iphone-5.Documento_5.2
+# ::snt A tela com certeza é algo que impressiona , possuindo 4 polegadas , uma resolução de 1136 ex 640 pixels , e ainda com um vidro de alta resistência .
+(i2 / impressionar-01
+      :ARG0 (t / tela)
+      :mod (c / certeza)
+      :ARG1-of (c2 / cause-01
+            :ARG0 (e / e
+                  :op1 (m / medir-01
+                        :ARG1 t
+                        :ARG2 (d / distance-quantity :quant 4
+                              :unit (p3 / polegada)))
+                  :op2 (p / possuir-01
+                        :ARG0 t
+                        :ARG1 (e2 / e
+                              :op1 (r / resolução
+                                    :quant (r2 / resolution-quantity :op1 1136 :op2 640
+                                          :unit (p2 / pixel)))
+                              :op2 (v / vidro
+                                    :poss-of (r3 / resistẽncia
+                                          :mod (a / alto))))))))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_4.2
+# ::snt Realmente a única passagem mais ou menos bonita de o livro é o sonho de o moleque pegando uma bola de baseball em o campo de centeio que dá pra um abismo .
+(s / sonhar-01
+      :ARG0 (m2 / moleque)
+      :ARG1 (p2 / pegar-02
+            :ARG0 m2
+            :ARG1 (b2 / bola
+                  :mod (b3 / baseball))
+            :location (c / campo
+                  :mod (c2 / centeio)
+                  :location (f / frente
+                        :op1 (a / abismo))))
+      :domain (p / passagem
+            :mod (u / unico
+                  :mod (r / real))
+            :mod (b / bonito
+                  :mod (m / mais-ou-menos))
+            :medium (l / livro)))
+
 # ::id O-Apanhador-no-Campo-de-Centeio.Documento_117.0
 # ::snt Um lixo , uma verdadeira porcaria . Nunca li algo tão cretino em a minha vida e não me conformo de saber que as pessoas o consideram o livro de suas vidas .
 (m / multi-sentence
@@ -1008,7 +1307,6 @@
 
 # ::id Fala-Serio-Mae.Documento_14.9
 # ::snt Era tão fácil que consegui , realmente , me imaginar em a pele de a Malu ( lógico que com algumas pequenas diferenças ) e ver minha mãe retratada por a mãe de ela .
-# ::literal
 (c / conseguir-01
       :ARG0 (e / eu)
       :ARG1 (e2 / e
@@ -1126,6 +1424,32 @@
                         :poss a
                         :location (c2 / city :name (n / name :op1 "Nova" :op2 "Iorque"))))))
 
+# ::id Iphone-5.Documento_4.1
+# ::snt Insuperável ! Sou advogada e preciso carregar o maior número de informações e ter acesso a todos os recursos possíveis e o Iphone 5 é praticamente a extensão de meu escritório .
+(m / multi-sentence
+      :snt1 (p / possible-01 :polarity -
+            :ARG1 (s / superar-01))
+      :snt2 (e / e
+            :op1 (a / advogada
+                  :domain (e2 / eu))
+            :op2 (p2 / precisar-01
+                  :ARG1 e2
+                  :ARG2 (c / carregar-01
+                        :ARG0 e2
+                        :ARG1 (i2 / informação
+                              :ARG1-of (h / have-quant-91
+                                    :ARG3 (m2 / maximo)))))
+            :op3 (a2 / acessar-01
+                  :ARG0 e2
+                  :ARG1 (r / recurso
+                        :mod (t / todo)
+                        :ARG1-of (p3 / possible-01)))
+            :op4 (e3 / extend-01
+                  :ARG0 (p4 / product :name (n / name :op1 "Iphone" :op2 "5"))
+                  :ARG1 (e4 / escritório
+                        :poss e2)
+                  :mod (p5 / praticamente))))
+
 # ::id Iphone-5.Documento_5.3
 # ::snt As cores parecem ser mais " vivas " , as fotos ficam lindas devido à alta resolução de 3264 ex 2448 pixels ; e os vídeos em Full HD . É difícil de acreditar que foram feitos via celular .
 (m2 / multi-sentence
@@ -1176,6 +1500,32 @@
                         :duration (c3 / carreira
                               :mod (t / todo)
                               :poss p2)))))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_86.2
+# ::snt Mas a a medida que a história vai se passando , você se adapta mais a o personagem , a a situação , passa a entender melhor o mundo em que se passa a história e a possível intencionalidade de o autor .
+(e / e
+      :op1 (a / adaptar-01
+            :ARG0 (v / você)
+            :ARG1 v
+            :ARG2 (e2 / e
+                  :op1 (p / personagem)
+                  :op2 (s / situação))
+            :mod (m3 / mais))
+      :op2 (e3 / entender-01
+            :ARG0 v
+            :ARG1 (e4 / e
+                  :op1 (m / mundo
+                        :ARG2-of (b / be-located-at-91
+                              :ARG1 (p2 / passar-102
+                                    :ARG1 (h / história))))
+                  :op2 (i2 / intençãoo
+                        :poss (a2 / autor)
+                        :mod (p3 / possível)))
+            :manner (b2 / bem
+                  :ARG2-of (h2 / have-degree-91
+                        :ARG3 (m2 / mais))))
+      :time (p4 / passar-101
+            :ARG1 (h3 / história)))
 
 # ::id Ensaio-Sobre-a-Cegueira.Documento_243.4
 # ::snt Como outros livros de o mesmo estilo ( jangada de pedra e as intermitências de a morte ) , ele parte de um acontecimento absurdo e depois explora todas as consequências que são perfeitamente plausíveis .
@@ -1230,6 +1580,34 @@
                   :ARG2 (p / pessoa
                         :time (e2 / época))))
       :mod (t / talvez))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_29.4
+# ::snt O livro conta a história de um adolescente de o estilo rebelde sem causa ( literalmente ) que decide parar de estudar porque não gosta de estudar , também não gosta de ninguém e se relaciona mal com a família .
+(c / contar-01
+      :ARG0 (l / livro)
+      :ARG1 (h / história
+            :topic (a / adolescente
+                  :ARG0-of (t / ter-01
+                        :ARG1 (e / estilo
+                              :mod (r / rebelde
+                                    :ARG0-of (t2 / ter-01 :polarity -
+                                          :ARG1 (c2 / causa)
+                                          :manner (l2 / literal)))))
+                  :ARG0-of (d / decidir-01
+                        :ARG1 (p / parar-01
+                              :ARG0 a
+                              :ARG1 (e2 / estudar-01
+                                    :ARG0 a))
+                        :ARG1-of (c3 / cause-01
+                              :ARG0 (g / gostar-01 :polarity -
+                                    :ARG0 a
+                                    :ARG1 e2)))
+                  :ARG0-of (g2 / gostar-01 :polarity -
+                        :ARG1 (n / ninguém)
+                        :mod (t3 / também))
+                  :ARG0-of (r2 / relacionar-101
+                        :ARG1 (f / família)
+                        :manner (m / mal)))))
 
 # ::id Fala-Serio-Mae.Documento_14.6
 # ::snt Conta a história de vida de Maria de Lourdes , ou , como ela prefere , Malu , desde quando estava em a barriga de a sua mãe ( tendo os primeiros anos de vida - até os 12 - narrados por sua mãe ) , até os 21 anos .
@@ -1634,7 +2012,7 @@
 
 # ::id O-Outro-Lado-da-Meia-Noite.Documento_5.0
 # ::snt O outro lado da meia-noite
-(b / book :name (n / name :op1 "O" :op2 "outro" :op3 "lado" :op4 "da" :op5 "meia-noite"))
+(l / lado :mod (o / outro) :poss (m / meia-noite))
 
 # ::id Se-Houver-Amanha.Documento_22.8
 # ::snt Parece legal , mas dá sono .
@@ -1740,7 +2118,6 @@
 
 # ::id Se-Houver-Amanha.Documento_77.3
 # ::snt Você não consegue parar de ler um minuto .
-# ::literal
 (c / conseguir-01 :polarity -
       :ARG0 (v / você)
       :ARG1 (p / parar-01
@@ -2734,7 +3111,7 @@
 
 # ::id LG-Smart-TV.Documento_2.9
 # ::snt Como pontos negativos , destaco :
-(d / destacar-01 :ARG0 (e / eu) :manner (p / ponto :mod (p / negativo)))
+(d / destacar-01 :ARG0 (e / eu) :manner (p / ponto :mod (n / negativo)))
 
 # ::id Crepusculo.Documento_702.7
 # ::snt Eu li e recomendo para " todos " .
@@ -2887,7 +3264,6 @@
 
 # ::id LG-Smart-TV.Documento_7.3
 # ::snt O que não gostei : preço um pouco salgado .
-# ::literal
 (g4 / gostar-01 :polarity -
       :ARG0 (e14 / eu)
       :ARG1 (p8 / preco
@@ -2939,10 +3315,10 @@
 
 # ::id Crepusculo.Documento_702.1
 # ::snt Crepúsculo , o livro perfeito de a minha vida .
-(l / livro
-      :domain (b / book :name (n / name :op1 "Crepúsculo"))
-      :mod (p / perfeito)
-      :topic (v / vida
+(l / livro
+      :domain (b / book :name (n / name :op1 "Crepúsculo"))
+      :mod (p / perfeito)
+      :topic (v / vida
             :poss (e / eu)))
 
 # ::id Galaxy-SIII.Documento_7.7
@@ -2968,13 +3344,6 @@
 
 # ::id Crepusculo.Documento_42.7
 # ::snt Ambos interessantes para quem gosta de romance fantástico .
-(a / e
-      :op1 (p / possible-01 :polarity -
-            :ARG1 (e / esquecer-01
-                  :ARG1 (l / livro)))
-      :op2 (p2 / perfeito
-            :domain l)
-      :beneficiary (e2 / eu))
 (i2 / interessante
       :domain (a2 / ambos)
       :beneficiary (g / gostar-01
@@ -3080,12 +3449,13 @@
 
 # ::id Samsung-Smart-TV.Documento_5.6
 # ::snt Pronto ! Acabou a paciência . Agora é entrar na justiça ! ! ! !
-(p / pronto)
-(e / entrar-04
-      :ARG2 (j / justiça)
-      :ARG1-of (c / cause-01
-            :ARG0 (a / acabar-01
-                  :ARG1 (p2 / paciência))))
+(m / multi-sentence
+      :snt1 (p / pronto)
+      :snt2 (e / entrar-04
+            :ARG2 (j / justiça)
+            :ARG1-of (c / cause-01
+                  :ARG0 (a / acabar-01
+                        :ARG1 (p2 / paciência)))))
 
 # ::id Samsung-Smart-TV.Documento_3.4
 # ::snt A autorizada Samsung avaliou o conserto em torno de 3.600 , 00 .
@@ -3157,10 +3527,10 @@
 
 # ::id Ensaio-Sobre-a-Cegueira.Documento_84.2
 # ::snt É um ensaio sobre a cegueira de o homem sobre a sua própria natureza .
-(e7 / ensaio
-      :topic (c2 / cego
-            :domain (h / homem)
-            :topic (n2 / natureza
+(e7 / ensaio
+      :topic (c2 / cego
+            :domain (h / homem)
+            :topic (n2 / natureza
                   :domain h)))
 
 # ::id Ensaio-Sobre-a-Cegueira.Documento_216.3
@@ -3694,36 +4064,36 @@
 
 # ::id Samsung-Smart-TV.Documento_5.2
 # ::snt Depois de 50 tentativas , consegui falar com a Elisa e a mesma adiou a entrega para dia 09 / mar ? Sábado . Menos mal , mesmo sabendo que deveria ficar entre 08 e 14 em casa em pleno sábado !
-(e2 / e
-      :op1 (c / conseguir-01
-            :ARG0 (e / eu)
-            :ARG1 (f / falar-01
-                  :ARG0 e
-                  :ARG2 (p / person :name (n / name :op1 "Elisa")))
-            :time (d / depois
-                  :op1 (t / tentar-01 :frequency 50
-                        :ARG0 e)))
-      :op2 (a / adiar-01
-            :ARG0 p
-            :ARG1 (e3 / entregar-01)
-            :ARG2 (d2 / date-entity :day 9 :month 3
-                  :weekday (s / sábado))))
-(s2 / saber-01
-      :ARG0 e
-      :ARG1 (r / recommend-01
-            :ARG1 (f2 / ficar-202
-                  :ARG1 e
-                  :ARG2 (c2 / casa)
-                  :time (d6 / date-entity
-                        :weekday (s3 / sábado)
-                        :mod (p2 / pleno)
-                        :time (d3 / date-interval
-                              :op1 (d4 / date-entity :time 8)
-                              :op2 (d5 / date-entity :time 14))))))
+(m / multi-sentence
+      :snt1 (e2 / e
+            :op1 (c / conseguir-01
+                  :ARG0 (e / eu)
+                  :ARG1 (f / falar-01
+                        :ARG0 e
+                        :ARG2 (p / person :name (n / name :op1 "Elisa")))
+                  :time (d / depois
+                        :op1 (t / tentar-01 :frequency 50
+                              :ARG0 e)))
+            :op2 (a / adiar-01
+                  :ARG0 p
+                  :ARG1 (e3 / entregar-01)
+                  :ARG2 (d2 / date-entity :day 9 :month 3
+                        :weekday (s / sábado))))
+      :snt2 (s2 / saber-01
+            :ARG0 e
+            :ARG1 (r / recommend-01
+                  :ARG1 (f2 / ficar-202
+                        :ARG1 e
+                        :ARG2 (c2 / casa)
+                        :time (d6 / date-entity
+                              :weekday (s3 / sábado)
+                              :mod (p2 / pleno)
+                              :time (d3 / date-interval
+                                    :op1 (d4 / date-entity :time 8)
+                                    :op2 (d5 / date-entity :time 14)))))))
 
 # ::id Ensaio-Sobre-a-Cegueira.Documento_243.5
 # ::snt Em os livros de Saramago , você encontra história , profundo conhecimento de as virtudes e fraquezas humanas , encontra frases de profundo significado , etc . Todos somos cegos mas podemos voltar a enxergar !
-# ::literal
 (m / multiple-sentence
       :snt1 (p / possible-01
             :ARG1 (e / encontrar-01
