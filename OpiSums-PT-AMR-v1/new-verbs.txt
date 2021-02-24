@@ -11,7 +11,6 @@ trair
 rodear
 dialogar
 largar
-
 enganar-se
 embeber
 assoviar
@@ -22,7 +21,6 @@ estampar
 aclamar
 apaixonar (sem o se)
 elegantizar
-
 vingar
 acarretar
 duvidar
@@ -57,8 +55,10 @@ doutrinar
 ficar (namorar)
 envolver
 aconselhar (recomendar)
-distorcer, requintar
-bringar, encontrar (sentido de meeting)
+distorcer
+requintar
+bringar
+encontrar (sentido de meeting)
 enganar
 valer
 alastrar-se
