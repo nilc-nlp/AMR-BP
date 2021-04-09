@@ -139,6 +139,7 @@
 
 # ::id O-Apanhador-no-Campo-de-Centeio.Documento_29.8
 # ::snt Pois é . Nenhum .
+# ::discourse
 (n / nenhum)
 
 # ::id 1984.Documento_113.0
@@ -349,6 +350,7 @@
 
 # ::id O-Apanhador-no-Campo-de-Centeio.Documento_29.6
 # ::snt Ok , e qual é a história mesmo ?
+# ::discourse
 (e / e
       :op1 (o / ok)
       :op2 (h / historia
@@ -544,6 +546,7 @@
 
 # ::id Iphone-5.Documento_6.4
 # ::snt Então soa tendo pra saber ! ! ! ! ! Recomendo
+# ::discourse
 (m / multi-sentence
       :snt1 (s / saber-01
             :condition (t / ter-01
@@ -812,6 +815,7 @@
 
 # ::id O-Apanhador-no-Campo-de-Centeio.Documento_29.10
 # ::snt Pois é . Belo exemplo para a juventude esse " clássico " de a literatura .
+# ::discourse
 (e / exemplo
       :mod (b / belo)
       :domain (c / clássico
@@ -1738,6 +1742,7 @@
 
 # ::id Fala-Serio-Amiga.Documento_6.1
 # ::snt E . Como sempre , através de os olhos , de as palavras , e de as amigas de a Malu , conseguimos enxergar muito de nós mesmas e de as nossas próprias amigas , em os vendo em características , frases e situações , em um dia a dia que por ser tão único é também tão igual a o de todo mundo .
+# ::discourse
 (e / e
       :op1 (c / conseguir-01
             :ARG0 (n / nos)
@@ -2146,6 +2151,7 @@
 
 # ::id O-Outro-Lado-da-Meia-Noite.Documento_20.1
 # ::snt Bem , Sidney Sheldon dispensa apresentações .
+# ::discourse
 (d / dispensar-04
       :ARG0 (p / person :name (n / name :op1 "Sidney" :op2 "Sheldon"))
       :ARG1 (a / apresentar-01
@@ -2551,6 +2557,7 @@
 
 # ::id Capitaes-da-Areia.Documento_54.7
 # ::snt Um livro consagrado por Jorge amado , escritor muito reconhecido , seu livro , que permanece importante em a literatura brasileira até hoje , promete ficar por muitos e muitos anos .
+# ::discourse     
 (m / multi-sentence
       :snt1 (l / livro
             :ARG1-of (c / consagrar-01
@@ -2597,6 +2604,7 @@
 
 # ::id O-Outro-Lado-da-Meia-Noite.Documento_5.4
 # ::snt O que chega a os dois únicos pontos negativos de o livro : 1 terceiro é a questão de que os capítulos são imensos , quase que intermináveis , o que deixa a leitura mais lenta , pesada , maçante .
+# ::discourse
 (c / chegar-01
       :ARG0 (t / thing)
       :ARG1 (p / ponto :quant 2
@@ -2645,6 +2653,7 @@
 
 # ::id Fala-Serio-Pai.Documento_15.1
 # ::snt Embora o livro seja legal , não gosto de a literatura de a halita Rebouças , acho que os livros de ela deveriam ser menos engraçados e mais interessantes , pois um livro tem que te prender , aí que é bom mesmo .
+# ::discourse
 (m / multi-sentence
       :snt1 (g / gostar-01 :polarity -
             :ARG0 (e1 / eu)
@@ -3428,6 +3437,7 @@
 
 # ::id Ensaio-Sobre-a-Cegueira.Documento_84.4
 # ::snt É um livro muito doloroso , mas magnífico a o mesmo tempo .
+# ::discourse
 (c4 / contrast-01
       :ARG1 (d / doloroso
             :domain (l2 / livro
@@ -3938,6 +3948,7 @@
 
 # ::id LG-Smart-TV.Documento_1.2
 # ::snt O que gostei : maravilhosa ! ! ! A definição , o design , as funções , a conexão , a economia de energia , os controles remotos , enfim , tudo !
+# ::discourse
 (g / gostar-01
       :ARG0 (e / eu)
       :ARG1 (a2 / e
@@ -4078,6 +4089,7 @@
 
 # ::id Samsung-Smart-TV.Documento_5.2
 # ::snt Depois de 50 tentativas , consegui falar com a Elisa e a mesma adiou a entrega para dia 09 / mar ? Sábado . Menos mal , mesmo sabendo que deveria ficar entre 08 e 14 em casa em pleno sábado !
+# ::discourse
 (m / multi-sentence
       :snt1 (e2 / e
             :op1 (c / conseguir-01
