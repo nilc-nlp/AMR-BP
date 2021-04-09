@@ -304,6 +304,7 @@
 
 # ::id Fala-Serio-Mae.Documento_24.0
 # ::snt Achei o livro um pouco fútil .
+# ::mwe
 (a / achar-02
       :ARG0 (e / eu)
       :ARG1 (l / livro)
@@ -358,6 +359,7 @@
 
 # ::id O-Apanhador-no-Campo-de-Centeio.Documento_42.1
 # ::snt Hoje em dia é só mais um livro .
+# ::mwe
 (l / livro :quant 1
       :time (h / hoje-em-dia)
       :mod (m / mais
@@ -398,6 +400,7 @@
 
 # ::id Fala-Serio-Mae.Documento_23.8
 # ::snt A mãe é demasiadamente sem-noção .
+# ::mwe
 (s / sem-noção
       :mod (d / demasiado)
       :domain (m / mãe))
@@ -738,6 +741,7 @@
 
 # ::id O-Reverso-da-Medalha.Documento_42.2
 # ::snt E com certeza , uma de as grandes obras de a literatura romancista .
+# ::mwe
 (i2 / include-91
       :ARG1 (o / obra)
       :ARG2 (o2 / obra
@@ -769,6 +773,7 @@
 
 # ::id O-Apanhador-no-Campo-de-Centeio.Documento_4.5
 # ::snt Se bem que . Tem tanta porcaria consagrada por aí de qualquer jeito .
+# ::mwe
 (h / have-concession-91
       :ARG2 (t / ter-02
             :ARG1 (p / porcaria
@@ -803,6 +808,7 @@
 
 # ::id O-Apanhador-no-Campo-de-Centeio.Documento_4.1
 # ::snt Todo mundo fala que esse livro é foda , mas em a verdade ele é um lixo .
+# ::mwe
 (c / contrast-01
       :ARG1 (f / falar-01
             :ARG0 (t / todos)
@@ -961,6 +967,7 @@
 
 # ::id O-Apanhador-no-Campo-de-Centeio.Documento_62.1
 # ::snt É um livro bem escrito , mas sempre parece que algo está prestes a acontecer e nada acontece .
+# ::mwe
 (c / contrast-01
       :ARG1 (l / livro
             :ARG1-of (e / escrever-01
@@ -976,6 +983,7 @@
 
 # ::id 1984.Documento_189.1
 # ::snt Em a época meu vocabulário ainda não era essas coisas , então lia com um dicionário a tira colo .
+# ::mwe
 (c / cause-01
       :ARG0 (e2 / essas-coisas :polarity -
             :domain (v / vocabulário
@@ -989,6 +997,7 @@
 
 # ::id O-Apanhador-no-Campo-de-Centeio.Documento_98.2
 # ::snt Recomendo pra todos , porque todo mundo tem um pouco de Dino ( personagem principal de o livro ) .
+# ::mwe
 (r / recomendar-01
       :ARG0 (e / eu)
       :ARG2 (t / todos)
@@ -1004,6 +1013,7 @@
 
 # ::id Fala-Serio-Mae.Documento_23.3
 # ::snt Mas em este ocorre com mais frequência , o que torna a leitura algo irritante , em alguns momentos .
+# ::mwe
 (c / contrast-01
       :ARG1 (o / ocorrer-01
             :ARG2 (e2 / este)
@@ -1110,6 +1120,7 @@
 
 # ::id O-Reverso-da-Medalha.Documento_42.1
 # ::snt O reverso da medalha é de longe uma de as obras mais fortes e bem montadas de o gênio que Sidney Sheldon foi .
+# ::mwe
 (i2 / include-91
       :ARG1 (b / book :name (n / name :op1 "O" :op2 "Reverso" :op3 "da" :op4 "Medalha"))
       :ARG2 (o / obra
@@ -1243,6 +1254,7 @@
 
 # ::id O-Apanhador-no-Campo-de-Centeio.Documento_4.2
 # ::snt Realmente a única passagem mais ou menos bonita de o livro é o sonho de o moleque pegando uma bola de baseball em o campo de centeio que dá pra um abismo .
+# ::mwe
 (s / sonhar-01
       :ARG0 (m2 / moleque)
       :ARG1 (p2 / pegar-02
@@ -1460,6 +1472,7 @@
 
 # ::id Iphone-5.Documento_5.3
 # ::snt As cores parecem ser mais " vivas " , as fotos ficam lindas devido à alta resolução de 3264 ex 2448 pixels ; e os vídeos em Full HD . É difícil de acreditar que foram feitos via celular .
+# ::mwe
 (m2 / multi-sentence
       :snt1 (p / parecer-301
             :ARG1 (c / cor)
@@ -1891,6 +1904,7 @@
 
 # ::id Se-Houver-Amanha.Documento_35.0
 # ::snt Mais ou menos
+# ::mwe
 (m / mais-ou-menos)
 
 # ::id O-Outro-Lado-da-Meia-Noite.Documento_36.1
@@ -1989,6 +2003,7 @@
 
 # ::id O-Outro-Lado-da-Meia-Noite.Documento_8.0
 # ::snt Um senhor Best seller !
+# ::mwe
 (b / best-seller :degree (s / senhor))
 
 # ::id Fala-Serio-Amor.Documento_15.0
@@ -2378,6 +2393,7 @@
 
 # ::id Fala-Serio-Pai.Documento_4.4
 # ::snt E essa amizade entre os dois gera divertidas , e a as vezes desagradáveis e vergonhosas , histórias entre pai e filha .
+# ::mwe
 (a / e
       :op1 (a2 / amizade
             :mod (e / esse)
@@ -2511,6 +2527,7 @@
 
 # ::id Se-Houver-Amanha.Documento_22.6
 # ::snt Você tem uma protagonista burra que dói que faz uma besteira atrás de a outra , acaba presa por um crime que não cometeu e entra pra faculdade de a malandragem em a penitenciária .
+# ::mwe
 (t / ter-01
       :ARG0 (v / você)
       :ARG1 (p / pessoa
@@ -2627,6 +2644,7 @@
 
 # ::id Fala-Serio-Professor.Documento_4.0
 # ::snt Tem aquelas professoras que dá vontade de matar , mas por outro lado tem aquelas que a os poucos vai te conquistando de um jeito que quando agente ver já é especial e que sempre vai ficar em o nosso coração .
+# ::mwe
 (c / contrast-01
       :ARG1 (t / ter-02
             :ARG1 (p / professora
@@ -2701,6 +2719,7 @@
 
 # ::id Fala-Serio-Pai.Documento_2.2
 # ::snt Em fala sério , pai o pai de Duda começa narrando o que é super legal pois vemos o ponto de vista de ele em relação a vida de Duda , aprendemos que as vezes é necessário que nossos pais digam não pra nós , vimos como a precação de eles dois é bastante aberta .
+# ::mwe
 (a / e
       :op1 (c / começar-01
             :ARG0 (p / pai
@@ -2789,6 +2808,7 @@
 
 # ::id Fala-Serio-Pai.Documento_6.1
 # ::snt É um livro que conta as trapalhadas e engraçadas histórias de Malu ( uma garotinha que mora em a tijuca e adora seu papai ) e seu pai ( pai de primeira viagem que não tem muita experiência , e com isso acaba se atrapalhando com a sua " anjinha " ) para . Sim : eu gostei de este livro , é muito engraçado , mas , não é um de os melhores !
+# ::mwe
 (m / multi-sentence
       :snt1 (l / livro
             :ARG0-of (c / contar-01
@@ -2894,6 +2914,7 @@
 
 # ::id LG-Smart-TV.Documento_6.0
 # ::snt Nada de mais
+# ::mwe
 (n / nada-de-mais)
 
 # ::id Galaxy-SIII.Documento_9.0
@@ -2976,6 +2997,7 @@
 
 # ::id Ensaio-Sobre-a-Cegueira.Documento_162.2
 # ::snt De repente , cego .
+# ::mwe
 (c14 / cego
       :time (d3 / de-repente))
 
@@ -3094,11 +3116,13 @@
 
 # ::id Samsung-Smart-TV.Documento_7.0
 # ::snt Custo benefício não compensa .
+# ::mwe
 (c / compensar-01 :polarity -
       :ARG2 (c2 / custo-benefício))
 
 # ::id Samsung-Smart-TV.Documento_7.2
 # ::snt Custo-benefício não compensa .
+# ::mwe
 (c / compensar-01 :polarity -
       :ARG2 (c2 / custo-benefício))
 
@@ -3279,6 +3303,7 @@
 # ::id LG-Smart-TV.Documento_7.3
 # ::snt O que não gostei : preço um pouco salgado .
 # ::literal
+# ::mwe
 (g4 / gostar-01 :polarity -
       :ARG0 (e14 / eu)
       :ARG1 (p8 / preco
@@ -3391,6 +3416,7 @@
 
 # ::id Crepusculo.Documento_808.4
 # ::snt Romance adolescente água-com - açúcar , ridículo .
+# ::mwe
 (r / romance
       :mod (a / adolescente)
       :mod (a2 / água-com-açúcar)
@@ -3479,6 +3505,7 @@
 
 # ::id Samsung-Smart-TV.Documento_3.4
 # ::snt A autorizada Samsung avaliou o conserto em torno de 3.600 , 00 .
+# ::mwe
 (a / avaliar-02
       :ARG0 (o / organization
             :ARG2-of (a2 / autorizar-01
@@ -3574,6 +3601,7 @@
 
 # ::id Ensaio-Sobre-a-Cegueira.Documento_27.3
 # ::snt Ambos em os fazem ter vontade de gritar , chorar , bater e ler de Novo !
+# ::mwe
 (f / fazer-02
       :ARG0 (a / ambos)
       :ARG1 (n / nós)
@@ -3630,6 +3658,7 @@
 
 # ::id Samsung-Smart-TV.Documento_5.7
 # ::snt Mais uma vez digo e repito , Samsung não tem controle nenhum em seu pós venda ! ! !
+# ::mwe
 (e / e
       :op1 (d / dizer-01
             :ARG0 (e2 / eu)
@@ -4023,6 +4052,7 @@
 
 # ::id Galaxy-SIII.Documento_2.1
 # ::snt Não acho justo pagar mais de ar $ 1700 , 00 por um aparelho que me parece limitado em suas funções e a falta de capricho na qualidade do material do aparelho .
+# ::mwe
 (a8 / achar-01 :polarity -
       :ARG0 (e5 / eu)
       :ARG1 (p6 / pagar-01
