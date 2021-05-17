@@ -1,0 +1,1710 @@
+
+
+# ::id poder-2-35-34
+# ::tok-pt Como eu também não tenho .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(t / ter-01 :polarity - :ARG0 (e / eu) :mod (t2 / também))
+
+# ::id poder-2-35-31
+# ::tok-pt Não faz sentido .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(f / fazer-405 :polarity - :ARG2 (s / sentido))
+
+# ::id poder-2-35-10
+# ::tok-pt Poderia , no futuro .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / possible-01 :time (a / depois :op1 (n / hoje)))
+
+# ::id poder-2-93-2
+# ::tok-pt Demorou menos de 15 minutos .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(d / demorar-01 :ARG1 (h2 / have-quant-91 :ARG1 (m2 / minuto) :ARG2 15 :ARG3 (m3 / menos)))
+
+# ::id poder-2-35-36
+# ::tok-pt Como poderia melhorar ?
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(m / melhorar-01 :manner (a / amr-unknown))
+
+# ::id poder-2-86-8
+# ::tok-pt Não estou defendendo o Alckmin .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(d / defender-01 :ARG0 (e / eu) :ARG1 (p / person :name (n / name :op1 "Alckmin")) :polarity -)
+
+# ::id poder-2-35-9
+# ::tok-pt Como classifica o governo Bolsonaro ?
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / classificar-01 :ARG1 (g / governar-01 :ARG0 (p / person :name (n / name :op1 "Bolsonaro"))) :manner (a / amr-unknown))
+
+# ::id poder-2-86-19
+# ::tok-pt Haddad é nada comunista .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / comunismo :polarity - :domain (p3 / person :name (n2 / name :op1 "Haddad")))
+
+# ::id poder-2-86-11
+# ::tok-pt Lamentavelmente também ele .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(e / ele :mod (t / também) :manner (l / lamentável))
+
+# ::id poder-2-35-62
+# ::tok-pt Aconselhando , talvez ?
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / aconselhar-01 :polarity (u / amr-unknown))
+
+# ::id poder-2-86-20
+# ::tok-pt As figuras foram sumindo .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(s / sumir-01 :ARG1 (f / figura))
+
+# ::id poder-2-35-58
+# ::tok-pt Quem está impondo como valores ?
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(i / impor-01 :ARG0 (a / amr-unknown) :ARG1 (s / isso) :purpose (v /valor))
+
+# ::id poder-2-86-34
+# ::tok-pt Geraldo sim , Geraldo não .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(e1 / e :op1 (i2 / isso :mod (p / person :name (n / name :op1 "Geraldo"))) :op2 (i3 / isso :polarity - :mod p))
+
+# ::id poder-2-35-55
+# ::tok-pt Acabei até sugerindo um nome .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(s / sugerir-01 :ARG0 (e / eu) :ARG1 (n / nome :quant 1))
+
+# ::id poder-2-35-37
+# ::tok-pt Não tem direito de sentir ?
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / permit-01 :ARG1 (s / sentir-02 :ARG0 (e / ele)) :polarity (a / amr-unknown))
+
+# ::id poder-2-35-43
+# ::tok-pt Pelo amor de Deus !
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / pelo-amor-de-deus :mode expressive)
+
+# ::id poder-2-35-15
+# ::tok-pt Não é assim .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(s / same-01 :polarity - :ARG1 (i2 / isso) :ARG2 (a / assim))
+
+# ::id poder-2-53-6
+# ::tok-pt Não vai haver nada diferente .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(n / nada :polarity - :mod (d / diferente))
+
+# ::id poder-2-15-0
+# ::tok-pt Leia mais notas do Painel .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(l / ler-01 :mode imperative :ARG1 (n / nota :mod (m / mais)) :medium (p / painel))
+
+# ::id poder-2-86-37
+# ::tok-pt Dele , surgiu Jair Bolsonaro .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(s / surgir-01 :ARG1 (p / person :name (n / name :op1 "Jair" :op2 "Bolsonaro")) :ARG2 (e / ele))
+
+# ::id poder-2-86-4
+# ::tok-pt Termina a Primeira Guerra Mundial .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(t / terminar-03 :ARG1 (w / war :name (n / name :op1 "Primeira" :op2 "Guerra" :op3 "Mundial")))
+
+# ::id poder-2-86-32
+# ::tok-pt O Bolsonaro ocupou .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(o / ocupar-01 :ARG0 (p / person :name (n / name :op1 "Bolsonaro")))
+
+# ::id poder-2-97-0
+# ::tok-pt O produto final foi positivo .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p3 / positivo :domain (p4 / produto :mod (f / fim)))
+
+# ::id poder-2-35-56
+# ::tok-pt Eu acompanhei a coisa .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / acompanhar-02 :ARG0 (e / eu) :ARG1 (c / coisa))
+
+# ::id poder-2-86-24
+# ::tok-pt E o país era ingovernável ?
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(g / governar-01 :polarity - :ARG1 (p / país) :ARG2 (a / amr-unknown))
+
+# ::id poder-2-86-0
+# ::tok-pt Serra também foi acusado .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / person :name (n / name :op1 "Serra") :ARG1-of (a / acusar-01 :mod (t / também)))
+
+# ::id poder-2-88-0
+# ::tok-pt Corrupção nas estatais ?
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / corrupção :location (e2 / estado) :polarity (a3 / amr-unknown))
+
+# ::id poder-2-88-1
+# ::tok-pt Também tem consequências .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / consequência :mod (t / também))
+
+# ::id poder-2-35-35
+# ::tok-pt Nada disso é criminoso .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / criminoso :domain (n / nada :topic (i / isso)))
+
+# ::id poder-2-108
+# ::tok-pt Como está o Lula ?
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / amr-unknown :domain (p / person :name (n / name :op1 "Lula")))
+
+# ::id poder-2-35-59
+# ::tok-pt Ninguém prestou a menor atenção .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / prestar-01 :ARG0 (n / ninguém) :ARG1 (a / atenção) :degree (m / menor))
+
+# ::id poder-2-35-8
+# ::tok-pt Não tenho capacidade para julgar .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(t / ter-01 :polarity - :ARG0 (e / eu) :ARG1 (c / capacidade) :purpose (j / julgar-01))
+
+# ::id poder-2-86-14
+# ::tok-pt Há algo antidemocrático profundo .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(h / haver-01 :ARG1 (a / algo :mod (a2 / antidemocracia :mod (p / profundo))))
+
+# ::id poder-2-29-7
+# ::tok-pt Marcos da Costa , 54
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / person :name (n / name :op1 "Marcos" :op2 "Costa") :age (t / temporal-quantity :quant 54))
+
+# ::id ilustrada-2-114
+# ::tok-pt Operação de Luz – Danielle Meireles
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / person :name (n / name :op1 "Danielle" :op2 "Meireles") :ARG0-of (d / operar-04 :ARG1 (l / luz)))
+
+# ::id ilustrada-2-38-0
+# ::tok-pt A série do Curta !
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(s2 / série :poss (p3 / broadcast-program :name (n2 / name :op1 "Curta" :op2 "!")))
+
+# ::id ilustrada-2-116
+# ::tok-pt Direção : Charles Sturridge
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / pessoa :ARG0-of (d / dirigir-01) :domain (p1 / person :name (n / name :op1 "Charles" :op2 "Sturridge")))
+
+# ::id ilustrada-3-4-0
+# ::tok-pt Foi uma aula de cinema .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / aula :topic (c / cinema) :domain (i / isso))
+
+# ::id ilustrada-2-49-2
+# ::tok-pt Simples e excelente .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(e1 / e :op1 (s / simples) :op2 (e3 / excelente))
+
+# ::id ilustrada-2-116
+# ::tok-pt Direção : Bailley Walsh
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / pessoa :ARG0-of (d / dirigir-01) :domain (p1 / person :name (n / name :op1 "Bailley" :op2 "Walsh")))
+
+# ::id ilustrada-2-21-0
+# ::tok-pt Sugestões , críticas ou dúvidas ?
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(o / ou :op1 (s / sugerir-01) :op2 (c / criticar-01) :op3 (d / dúvida) :polarity (a / amr-unknown))
+
+# ::id ilustrada-2-115
+# ::tok-pt Um exemplo é a Cia .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(o / organization :name (n / name :op1 "Cia") :domain (x / exemplo))
+
+# ::id ilustrada-2-113
+# ::tok-pt Quintas , Sextas e Sábados 21h
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / e :op1 (d / date-entity :time "21:00" :weekday (q / quinta-feira)) :op2 (d1 / date-entity :time "21:00" :weekday (s / sexta-feira)) :op3 (d2 / date-entity :time "21:00" :weekday (s1 / sábado)))
+
+# ::id ilustrada-2-49-1
+# ::tok-pt Atingir os píncaros da excelência .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a3 / atingir-02 :ARG1 (p5 / píncaro :mod (e7 / excelência)))
+
+# ::id cotidiano-2-37-1
+# ::tok-pt Já teve sua época .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(t / ter-01 :ARG0 (e / ele) :ARG1 (e1 / época :poss e) :time (n / já))
+
+# ::id cotidiano-2-29-1
+# ::tok-pt Uma amiga perdeu a mãe .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / perder-02 :ARG0 (a / amiga :poss (m / eu)) :ARG1 (m2 / mãe))
+
+# ::id cotidiano-2-25-0
+# ::tok-pt Até por satisfação pessoal .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(h / have-purpose-91 :ARG2 (s / satisfazer-01 :mod (p / pessoa)))
+
+# ::id cotidiano-2-28-1
+# ::tok-pt E os pais ?
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / pai :location (a / arm-unknown))
+
+# ::id cotidiano-2-4-0
+# ::tok-pt Queremos saber mais sobre você !
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(q / querer-01 :ARG0 (n / nós) :ARG1 (s / saber-01 :ARG0 n :ARG2 (v / você) :mod (m / mais)))
+
+# ::id cotidiano-2-68-16
+# ::tok-pt E como isso estaria ocorrendo ?
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(o / ocorrer-01 :ARG1 (i / isso) :manner (a / amr-unknown))
+
+# ::id cotidiano-2-4-4
+# ::tok-pt Você agradecia por eu ser tricolor
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / agradecer-01 :ARG0 (v / você) :ARG1 (t / tricolor :domain (e/ eu)))
+
+# ::id cotidiano-2-30-2
+# ::tok-pt Não adianta fugir !
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / adiantar-02 :polarity - :ARG1 (f / fugir-01))
+
+# ::id cotidiano-2-4-1
+# ::tok-pt Galfano descansava na padaria
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(d / descansar-01 :ARG1 (p / person :name (n / name :op1 "Galfano")) :location (p1 / padaria))
+
+# ::id cotidiano-2-18-0
+# ::tok-pt A circulação já está normalizada .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(n / normalizar-01 :ARG1 (c / circular-01) :time (j / já))
+
+# ::id cotidiano-2-68-15
+# ::tok-pt As partículas se soltam .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(s / soltar-01 :ARG1 (p / partícula))
+
+# ::id cotidiano-2-42-2
+# ::tok-pt No vestiário , passou mal .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / passar-11 :ARG1 (e / ele) :ARG2 (m / mal) :location (v / vestiário))
+
+# ::id cotidiano-2-68-0
+# ::tok-pt Mas precisa ficar claro .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / contrast-01 :ARG2 (o / obligate-01 :ARG1 (f2 / ficar-201 :ARG2 (c2 / claro))))
+
+# ::id cotidiano-2-4-2
+# ::tok-pt Mistério é a hora da perda
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(h / hora :mod (p / perder-01) :domain (m / mistério))
+
+# ::id cotidiano-2-74-0
+# ::tok-pt Não , não acredito .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / acreditar-01 :ARG0 (e / eu) :polarity -)
+
+# ::id turismo-1-11-0
+# ::tok-pt Que esperem !
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(e / esperar-01 :mode imperative)
+
+# ::id turismo-1-104
+# ::tok-pt Módena .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / city :name (n / name :op1 "Módena"))
+
+# ::id turismo-1-103
+# ::tok-pt Linguiças .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(x1 / linguiça)
+
+# ::id turismo-1-6-10
+# ::tok-pt R $ 1.450
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(m / monetary-quantity :quant 1.450 :unit (r / real))
+
+# ::id tec-2-11-1
+# ::tok-pt Tenho de admitir .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(o / obligate-01 :ARG1 (a / admitir-01 :ARG0 (e / eu)))
+
+# ::id ilustrada-1-21-0
+# ::tok-pt Belo Horizonte
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / city :name (n / name :op1 "Belo" :op2 "Horizonte"))
+
+# ::id ilustrada-1-16-0
+# ::tok-pt Yonatan Gat
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / person :name (n / name :op1 "Yonatan" :op2 "Gat"))
+
+# ::id ilustrada-1-93
+# ::tok-pt E continua .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(x1 / e :op1 (x2 / continuar-02 :ARG1 (i / isso)))
+
+# ::id ilustrada-2-115
+# ::tok-pt Fernanda D’Umbra
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / person :name (n / name :op1 "Fernanda" :op2 "D'umbra"))
+
+# ::id mundo-1-77-0
+# ::tok-pt Toda hora .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(t2 / time :frequency (t3 / toda-hora))
+
+# ::id mundo-1-23-0
+# ::tok-pt Não consegui .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / conseguir-03 :polarity - :ARG0 (e / eu))
+
+# ::id mundo-1-87-0
+# ::tok-pt Tem razão .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(t / ter-01 :ARG0 (e / ele) :ARG1 (r / razão))
+
+# ::id ilustrissima-1-7-0
+# ::tok-pt Comecei bem .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / começar-01 :ARG0 (e / eu) :manner (b / bem))
+
+# ::id ilustrissima-1-11-0
+# ::tok-pt Bobagem .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(b2 / bobagem)
+
+# ::id ilustrissima-1-8-0
+# ::tok-pt Nada menos .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(m / menos :polarity -)
+
+# ::id mundo-2-10-7
+# ::tok-pt Isso não está claro .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / claro :polarity - :domain (i / isso))
+
+# ::id mundo-2-89-0
+# ::tok-pt Isso simplesmente não acontece .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / acontecer-01 :polarity - :ARG0 (i2 / isso) :manner (s / simples))
+
+# ::id mundo-2-98-0
+# ::tok-pt São duas sendas paralelas .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(s / senda :mod (p / paralela) :quant 2)
+
+# ::id mundo-2-5-2
+# ::tok-pt Pelo contrário ” .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / contrast-01)
+
+# ::id mundo-2-4-0
+# ::tok-pt Há vândalos infiltrados .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(i2 / infiltrar-01 :ARG0 (v / vândalo))
+
+# ::id mundo-2-70-1
+# ::tok-pt O que Trump alega ?
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / alegar-01 :ARG0 (p / person :name (n / name :op1 "Trump")) :ARG1 (a2 / amr-unknown))
+
+# ::id mundo-2-10-5
+# ::tok-pt Há algumas explicações para isso .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(h / haver-01 :ARG1 (e / explicação :mod (a / algum)) :purpose (i / isso))
+
+# ::id mundo-2-0-71
+# ::tok-pt Reuters e Associated Press
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(e1 / e :op1 (a / agency :name (n / name :op1 "Reuters")) :op2 (a2 / agency :name (n2 / name :op1 "Associated" :op2 "Press")))
+
+# ::id mundo-2-81-2
+# ::tok-pt Mas existe um salário mínimo ?
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / contrast-01 :ARG2 (e / existir-01 :ARG0 (s / salário :mod (m / mínimo)) :polarity (a / amr-unknown)))
+
+# ::id mundo-2-69-0
+# ::tok-pt mexicano Enrique Peña Nieto .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / person :name (n / name :op1 "Enrique" :op2 "Peña" :op2 "Nieto") :mod (c / country :name (n1 / name :op1 "México")))
+
+# ::id mundo-2-10-2
+# ::tok-pt O que é União Europeia ?
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / amr-unknown :domain (g / government-organization :name (n / name :op1 "União" :op2 "Europeia")))
+
+# ::id mundo-2-10-0
+# ::tok-pt O que foi acordado ?
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / acordar-02 :ARG1 (a2 / amr-unknown))
+
+# ::id turismo-2-0-11
+# ::tok-pt Luanda era nossa segunda escala .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c5 / country :name (n4 / name :op1 "Luanda") :mod (e / escala :poss (n7 / nós) :ord (o4 / ordinal-entity :value 2)))
+
+# ::id turismo-2-107
+# ::tok-pt Não será com a Lucille .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / person :name (n / name :op1 "Lucille") :polarity - :domain (i / isso))
+
+# ::id turismo-2-12-5
+# ::tok-pt Não será com a Lucille .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a4 / accompany-01 :polarity - :ARG0 (p3 / person :name (n2 / name :op1 "Lucille")))
+
+# ::id turismo-2-4-8
+# ::tok-pt Entra em cena a comida .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(e3 / entrar-01 :ARG0 (c / comida) :ARG1 (c2 / cena))
+
+# ::id turismo-2-0-10
+# ::tok-pt O de emergência não abriu .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a11 / abrir-01 :polarity - :ARG0 (a12 / thing :mod (e14 / emergência)))
+
+# ::id mundo-3-0-89
+# ::tok-pt No pequeno jardim , ficam as bicicletas .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(b6 / be-located-at-91 :ARG1 (b7 / bicicleta) :ARG2 (j3 / jardim :mod (p13 / pequeno)))
+
+# ::id mundo-3-29-1
+# ::tok-pt Teve chance suficiente para se salvar .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(t / ter-01 :ARG0 (e / ele) :ARG1 (c / chance :mod (s / suficiente)) :purpose (s1 / salvar-01 :ARG0 e))
+
+# ::id mundo-3-14-0
+# ::tok-pt Nos últimos anos , houve reveses .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(r / reves :time (a / ano :mod (u / último)))
+
+# ::id mundo-3-84-0
+# ::tok-pt A vingança dos Bush viria em 2000 .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(i / vir-01 :ARG1 (v / vingança :poss (p / person :name (n / name :op1 "Bush"))) :time (d / date-entity :year 2000))
+
+# ::id mundo-3-0-85
+# ::tok-pt Por muito tempo , manteve boa forma física .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(m4 / manter-01 :ARG0 (e12 / ele) :ARG1 (f2 / forma :mod (b4 / bom) :mod (f3 / físico)) :duration (t4 / tempo :mod (m5 / muito)))
+
+# ::id mundo-3-82-0
+# ::tok-pt Na indústria , há maratonas para cumprir metas .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(m / maratona :purpose (c / cumprir-01 :ARG1 (m1 / meta)) :prep-em (i / indústria))
+
+# ::id mundo-3-14-1
+# ::tok-pt Assim , La Coruña virou oficialmente A Coruña .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(v / virar-01 :ARG1 (c / city :name (n / name :op1 "La" :op2 "Coruña")) :ARG2 (c1 / city :name (n1 / name :op1 "A" :op2 "Coruña")) :manner (o / oficial))
+
+# ::id mundo-3-76-3
+# ::tok-pt Homossexualidade é assunto inexistente no país .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / assunto :domain (h / homossexualidade) :ARG1-of (e / existir-01 :polarity - :location (p / país)))
+
+# ::id mundo-3-77-4
+# ::tok-pt São 5 edifícios e 14 mil metros quadrados .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(e1 / e :op1 (e2 / edifício :quant 5) :op2 (a / area-quantity :quant 14.000 :unit (m / metro-quadrado)))
+
+# ::id cotidiano-3-10-0
+# ::tok-pt As mariposas sempre retornavam para o front .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(r / retornar-01 :ARG0 (m / mariposa) :ARG4 (f / front) :frequency (s / sempre))
+
+# ::id cotidiano-3-83-0
+# ::tok-pt O endereço é avenida Rotary , 624 , Ferrazópolis
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(s / street-address-91 :ARG1 "624" :ARG2 (r / road :name (n / name :op1 Rotary)) :ARG4 (c / city :name (n1 / name :op1 "Ferrazópolis")) :domain (e / endereço))
+
+# ::id cotidiano-3-145
+# ::tok-pt Muitos cientistas ficaram chocados , nos Estados Unidos .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / chocar-02 :ARG1 (p / pessoa :ARG0-of (f / fazer-01 :ARG1 (c1 / ciência)) :quant (m / muito)) :location (c2 / country :name (n / name :op1 "Estados" :op2 "Unidos")))
+
+# ::id cotidiano-3-9-3
+# ::tok-pt Quem será esse João Filgueiras Lima ?
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / person :name (n / name :op1 "João" :op2 "Filgueiras" :op3 "Lima") :domain (a / amr-unknown))
+
+# ::id cotidiano-3-86-1
+# ::tok-pt A história do Hamilton é interessante .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(i / interessar-01 :ARG1 (h / história :poss (p / person :name (n / name :op1 "Hamilton"))))
+
+# ::id cotidiano-3-0-66
+# ::tok-pt Corte de ministérios preocupa produtores e ambientalistas
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p9 / preocupar-01 :ARG0 (c9 / cortar-01 :ARG1 (m6 / ministério)) :ARG1 (a9 / e :op1 (p11 / produtor) :op2 (a10 / ambientalista)))
+
+# ::id cotidiano-3-63-0
+# ::tok-pt Jornalista e consultora de qualidade de texto .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(e1 / e :op1 (j / jornalista) :op2 (c / consultora :topic (q / qualidade :topic (t / texto))))
+
+# ::id cotidiano-3-66-0
+# ::tok-pt Corte de ministérios preocupa produtores e ambientalistas
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / preocupar-01 :ARG0 (c / cortar-01 :ARG1 (m / ministério)) :ARG1 (e1 / e :op1 (p2 / produtor) :op2 (a / ambientalista)))
+
+# ::id cotidiano-3-144
+# ::tok-pt Mas não sabia o que o aguardava .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(x1 / contrast-01 :ARG2 (x3 / saber-01 :polarity - :ARG0 (e / ele) :ARG1 (x7 / aguardar-01 :ARG0 (c / thing) :ARG1 e)))
+
+# ::id cotidiano-3-86-2
+# ::tok-pt Houve conflitos e preferimos encerrar a parceria . ”
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / conflito :ARG0-of (c1 / cause-01 :ARG1 (p / preferir-01 :ARG0 (n / nós) :ARG1 (e / encerrar-01 :ARG0 n :ARG1 (p1 / parceria)))))
+
+# ::id cotidiano-1-85
+# ::tok-pt Conseguiram .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(x1 / conseguir-03 :ARG0 (e / eles))
+
+# ::id cotidiano-1-28-0
+# ::tok-pt E acabou .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(e1 / e :op1 (a / acabar-01))
+
+# ::id cotidiano-1-88
+# ::tok-pt Site : www.ekrbrasil.com
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(u / url-entity :value "www.ekrbrasil.com" :domain (s / site))
+
+# ::id cotidiano-1-79-1
+# ::tok-pt Lucas Veloso
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / person :name (n / name :op1 "Lucas" :op2 "Veloso"))
+
+# ::id cotidiano-1-68-4
+# ::tok-pt Sem agrotóxico ?
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(t / ter-01 :ARG1 (a / agrotóxico) :polarity (a1 / amr-unknown))
+
+# ::id cotidiano-1-12-0
+# ::tok-pt coluna.obituario@grupofolha.com.br
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(e / email-address-entity :value "coluna.obituario@grupofolha.com.br")
+
+# ::id cotidiano-1-86
+# ::tok-pt Internet das coisas
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(x4 / internet-das-coisas)
+
+# ::id esporte-1-62-0
+# ::tok-pt Ele não .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(e / ele :polarity - :mode imperative)
+
+# ::id esporte-1-22-2
+# ::tok-pt Especialmente Domínguez .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / person :name (n / name :op1 "Domínguez") :mod (e / especialmente))
+
+# ::id esporte-1-22-0
+# ::tok-pt Ninguém sabe .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(s / saber-01 :ARG0 (n / ninguém))
+
+# ::id esporte-1-89
+# ::tok-pt Não entendo .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(x2 / entender-01 :ARG0 (y / eu) :polarity -)
+
+# ::id esporte-1-89
+# ::tok-pt Não quer .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(q / querer-01 :polarity - :ARG0 (e / ele))
+
+# ::id poder-1-5-0
+# ::tok-pt Novo ciclo .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / ciclo :mod (n / novo))
+
+# ::id poder-1-35-7
+# ::tok-pt Todo mundo .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(t / todo-mundo)
+
+# ::id poder-1-35-6
+# ::tok-pt Não .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(n / não)
+
+# ::id poder-1-98
+# ::tok-pt Quais ?
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(x1 / qual :mode interrogative)
+
+# ::id poder-1-35-1
+# ::tok-pt Foi tudo .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(t / tudo)
+
+# ::id poder-1-100
+# ::tok-pt Pelo contrário .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(x3 / pelo-contrário)
+
+# ::id poder-1-103
+# ::tok-pt Carne ?
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / carne :domain (i / isso) :polarity (a / amr-unknown))
+
+# ::id poder-1-13-5
+# ::tok-pt Fotógrafo aéreo
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(f / fotógrafo :mod (a / aéreo))
+
+# ::id poder-1-99
+# ::tok-pt Recessão econômica ?
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(r / recessão :mod (e / economia) :polarity (a / amr-unknown))
+
+# ::id poder-1-13-4
+# ::tok-pt Esquerda e direita
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / e :op1 (e / esquerda :op2 (d / direita)))
+
+# ::id esporte-2-40-5
+# ::tok-pt Tivemos vitórias importantíssimas no conselho .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(t / ter-03 :ARG1 (n / nós) :ARG2 (v / vitória :mod (h / have-degree-91 :ARG3 (m / muito))) :location (c / conselho))
+
+# ::id esporte-2-46-0
+# ::tok-pt Não quero chutes de três .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(q / querer-01 :ARG0 (e / eu) :ARG1 (c / chutar-01 :ARG0 (v / você) :manner (t / de-três)))
+
+# ::id esporte-2-118
+# ::tok-pt Felipão fez duas alterações .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(x2 / fazer-01 :ARG0 (p / person :name (n / name :op1 "Felipão")) :ARG1 (x4 / alterar-01 :quant 2))
+
+# ::id esporte-2-40-3
+# ::tok-pt A que atribui esse sucesso ?
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / atribuir-01 :ARG1 (s / sucesso) :ARG2 (a1 / amr-unknown))
+
+# ::id esporte-2-26-2
+# ::tok-pt Secretário Municipal de Esportes e Lazer
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / pessoa :ARG0-of (h / have-org-role-91 :ARG2 (s / secretário :mod (m / município) :topic (e1 / e :op1 "Esporte" :op2 "Lazer"))))
+
+# ::id esporte-2-32-1
+# ::tok-pt Foram feitos apenas oito acordos .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(f / fazer-01 :ARG1 (a / acordar-02 :quant 8 :mod (a2 / apenas)))
+
+# ::id esporte-2-45-0
+# ::tok-pt Ele também tem por mim .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(t / ter-05 :ARG0 (e / ele) :mod (t1 / também) :ARG2 (e1 /eu))
+
+# ::id ilustrissima-2-7-1
+# ::tok-pt Depoimento a Walter Porto .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(d / depor-01 :ARG2 (p / person :name (n / name :op1 "Walter" :op2 "Porto")))
+
+# ::id ilustrissima-2-112
+# ::tok-pt Kim Ki-Taek é poeta coreano .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / poeta :source (c / country :name (n / name :op1 "Corea")) :domain (p1 / person :name (n1 / name :op1 "Kim" :op2 "Ki-Taek")))
+
+# ::id ilustrissima-2-15-1
+# ::tok-pt O que eu não faria
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(f / fazer-01 :polarity - :ARG0 (e / eu) :ARG1 (a / amr-unknown))
+
+# ::id ilustrissima-2-8-1
+# ::tok-pt E a Câmara ?
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / amr-unknown :location-of (c / câmara))
+
+# ::id poder-3-86-29
+# ::tok-pt Hoje , existe um cenário propício ?
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(e / existir-01 :ARG1 (c / cenário :ARG0-of (p / propiciar-01)) :polarity (a / amr-unknown) :time (h / hoje))
+
+# ::id poder-3-53-1
+# ::tok-pt A tendência é continuar nesse padrão ?
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(t / tendência :polarity (a / amr-unknown) :domain (c / continuar-02 :manner (p / padrão :mod (e / esse))))
+
+# ::id poder-3-53-3
+# ::tok-pt Foi isso o que aconteceu nessa primeira denúncia .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / acontecer-01 :ARG1 (i2 / isso) :time (d / denunciar-01 :mod (e / esse) :ord (o / ordinal-entity :value 1)))
+
+# ::id poder-3-93-0
+# ::tok-pt Mas não da forma que eles estão fazendo .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / contrast-01 :ARG1 (f / forma :polarity - :manner-of (f2 / fazer-01 :ARG0 (e / eles))))
+
+# ::id poder-3-35-3
+# ::tok-pt Não sirvo para esse negócio de ser burocrata .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(s / servir-02 :ARG1 (e / eu) :ARG2 (b / burocracia :domain e) :polarity -)
+
+# ::id poder-3-127
+# ::tok-pt Ele não quis fazer [ a coalizão ] .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(x3 / querer-01 :ARG0 (x1 / ele) :polarity - :ARG1 (x4 / fazer-01 :ARG0 x1 :ARG1 (x7 / coalizão)))
+
+# ::id poder-3-53-0
+# ::tok-pt A Polícia Federal infelizmente está com pouco efetivo .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(t / ter-01 :ARG0 (g / government-organization :name (n / name :op1 "Polícia" :op2 "Federal")) :mod (f / feliz :polarity -) :ARG0 (e / efetivo :mod (p / pouco)))
+
+# ::id poder-3-88-2
+# ::tok-pt De Haddad , não sai nada .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(s / sair-01 :polarity - :ARG1 (n / nada) :ARG2 (p / person :name (n2 / name :op1 "Haddad")))
+
+# ::id poder-3-124
+# ::tok-pt O Rio era nosso , apesar de tudo .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / contrast-01 :ARG2 (c1 / cidade :poss (n / nós) :domain (c2 / city :name (n1 / name :op1 "Rio"))))
+
+# ::id poder-3-128
+# ::tok-pt Um amigo veio aqui e o trouxe .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / e :op1 (v / vir-01 :ARG0 (a1 / amigo) :ARG4 (a2 / aqui)) :op2 (t / trazer-01 :ARG0 a1 :ARG1 (e1 / ele)))
+
+# ::id poder-3-5-1
+# ::tok-pt Quando mexerem nisso , vai ter gritaria .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(t / ter-02 :ARG1 (g / gritar-01) :time (m / mexer-01 :ARG1 (i2 / isso)))
+
+# ::id poder-3-9-0
+# ::tok-pt Isso valeria para alguns crimes de colarinho branco
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(v / valer-03 :ARG1 (i2 / isso) :ARG2 (c / crime :mod (c2 / corporação)))
+
+# ::id poder-3-35-50
+# ::tok-pt O presidente não tem espaço na mídia ?
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(t / ter-01 :ARG0 (p / presidente) :ARG1 (e / espaço) :location (m / mídia) :polarity (a / amr-unknown))
+
+# ::id esporte-3-8-1
+# ::tok-pt As principais organizadas dos dois clubes são aliadas .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / aliar-01 :domain (o / organizada :mod (p / principal) :poss (c / clube :quant 2)))
+
+# ::id esporte-3-136
+# ::tok-pt Desde 2010 , o empresário investe nos EUA .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(d / desde :op1 (d1 / date-entity :year 2010) :time-of (i / investir-01 :ARG0 (e / empresário) :ARG2 (c / country :name (n / name :op1 "EUA"))))
+
+# ::id esporte-3-32-0
+# ::tok-pt A Chapecoense não quis fazer parte deste processo .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(q / querer-01 :polarity - :ARG0 (t / team :name (n / name :op1 "Chapecoense")) :ARG1 (f / fazer-402 :ARG0 t :ARG1 (p / parte) :ARG2 (p2 / processar-02 :mod (e / este))))
+
+# ::id esporte-3-17-0
+# ::tok-pt Infantino deixou o Monumental de cara amarrada .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(d / deixar-03 :ARG0 (p / person :name (n / name :op1 "Infantino")) :ARG1 (s / sports-facility :name (n2 / name :op1 "Monumental")) :ARG2 (c / cara-amarrada))
+
+# ::id esporte-3-6-2
+# ::tok-pt O clube ainda tem 25 jogadores emprestados .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(t / ter-01 :ARG0 (c / clube) :ARG1 (j / jogador :quant 25 :ARG1-of (e / emprestar-01)) :mod (a / ainda))
+
+# ::id esporte-3-29-2
+# ::tok-pt Não há prazo para a resolução .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / prazo :polarity - :purpose (r / resolver-01))
+
+# ::id esporte-3-61-2
+# ::tok-pt No Brasil , a Finview tem uma representação .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(t / ter-01 :ARG0 (c / company :name (n / name :op1 "Finview")) :ARG1 (t1 / thing :ARG0-of (r / representar-03)) :location (c2 / country :name (n2 / name :op1 "Brasil")))
+
+# ::id esporte-3-65-3
+# ::tok-pt Dirão ainda que é o futebol raiz .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(d / dizer-01 :ARG0 (e / eles) :ARG1 (f / futebol :mod (r / raíz)) :mod (a / ainda))
+
+# ::id esporte-3-61-0
+# ::tok-pt Na ocasião , a empresa tinha cinco funcionários .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(t / ter-01 :ARG0 (e / empresa) :ARG1 (f / funcionário :quant 5) :time (o / ocasião))
+
+# ::id esporte-3-136
+# ::tok-pt Não existem garantias trabalhistas , nem previdenciárias .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / e :op1 (e1 / existir-01 :polarity - :ARG1 (g / garantia :mod (t / trabalho))) :op2 (e2 / existir-01 :polarity - :ARG1 (g1 / garantia :mod (p / previdência))))
+
+# ::id esporte-3-62-2
+# ::tok-pt Kevin foi avaliado na quinta ( 29 ) .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / avaliar-01 :ARG1 (p / person :name (n / name :op1 "Kevin")) :time (d / date-entity :day 29 :weekday (q / quinta-feira)))
+
+# ::id mundo-4-64-0
+# ::tok-pt Por décadas , a expectativa de vida nos EUA foi crescente .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / crescer-01 :ARG1 (e / expectativa :topic (v / viver-01) :location (c2 / country :name (n / name :op1 "EUA"))) :duration (m / múltiplo :op1 (t / temporal-quantity :quant 1 :unit (d / década))))
+
+# ::id mundo-4-29-5
+# ::tok-pt As expedições para levar presentes aos sentinelas foram canceladas pelo governo .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / cancelar-01 :ARG0 (g / governo) :ARG1 (e / expedição :purpose (l / levar-02 :ARG1 (p / presente) :ARG2 (s / sentinela))))
+
+# ::id mundo-4-11-0
+# ::tok-pt Estamos deixando a União Europeia , não a Europa .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / contrast-01 :ARG1 (d / deixar-01 :ARG0 (n / nós) :ARG1 (g / government-organization :name (n1 / name :op1 "União" :op2 "Europeia"))) :ARG2 (d1 / deixar-01 :ARG0 n :ARG1 (c1 / continent :name (n2 / name :op3 "Europa"))))
+
+# ::id mundo-4-162
+# ::tok-pt Frequentou excelentes escolas , e se formou em economia por Yale .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / e :op1 (f / frequentar-01 :ARG0 (e1 / ele) :ARG1 (e2 / escola :mod (e3 / excelente))) :op2 (f1 / formar-102 :ARG1 e1 :ARG2 (e4 / economia) :location (u / university :name (n / name :op1 "Yale"))))
+
+# ::id mundo-4-29-0
+# ::tok-pt Pandit acredita , no entanto , que a fama é injusta .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / contrast-01 :ARG2 (a / acreditar-01 :ARG0 (p / person :name (n / name :op1 "Pandit")) :ARG1 (j / justo :polarity - :domain (f / fama))))
+
+# ::id mundo-4-166
+# ::tok-pt Nós vamos retirar justamente para evitar comentários ” , diz .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(d / dizer-01 :ARG0 (e / ele) :ARG1 (r / retirar-01 :ARG0 (n / nós) :mod (j / justamente) :purpose (e1 / evitar-01 :ARG1 (c / comentário))))
+
+# ::id mundo-4-12-4
+# ::tok-pt Fiz um preço especial ” , disse Louie Bugarin , 62 .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(d / dizer-01 :ARG0 (p / person :name (n / name :op1 "Louie" :op2 "Burgain") :age (t / temporal-quantity :quant 62 :unit (a / ano))) :ARG1 (f / fazer-06 :ARG0 p :ARG1 (p2 / preço :mod (e / especial))))
+
+# ::id mundo-4-68-0
+# ::tok-pt Araújo , “ como Trump ” , desacredita no aquecimento global .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / acreditar-01 :polarity - :ARG0 (p / person :name (n / name :op1 "Araújo") :ARG1-of (s / same-01 :ARG2 (p2 / person :name (n2 / name :op1 "Trump")))) :ARG1 (a2 / aquecimento-global))
+
+# ::id mundo-4-76-0
+# ::tok-pt Não há orientação do regime sobre o número de filhos .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(o / orientar-01 :polarity - :ARG0 (r / regime) :ARG2 (n / número :topic (f / filho)))
+
+# ::id mundo-4-89-2
+# ::tok-pt Não há um órgão específico para supervisionar os juízes .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(o / órgão :mod (e / específico) :polarity - :ARG0-of (s / supervisionar-01 :ARG1 (j / juiz)))
+
+# ::id mundo-4-93-0
+# ::tok-pt Destaco uma : “ A realidade é a única verdade ” .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(d / destacar-01 :ARG0 (e / eu) :ARG1 (t / thing :quant 1 :example (v / verdade :mod (u / único)) :domain (r / realidade)))
+
+# ::id mundo-4-77-0
+# ::tok-pt Aos 14 anos entram para a Liga da Juventude .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(e / entrar-03 :ARG0 (e1 / eles) :ARG1 (o / organization :name (n / name :op1 "Liga" :op2 "da" :op3 "Juventude")) :time (a / age-01 :ARG1 e1 :ARG2 (t / temporal-quantity :quant 14 :unit (y / ano))))
+
+# ::id mundo-4-33-1
+# ::tok-pt Em áreas rurais , o vento alimentou focos de incêndio .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / alimentar-01 :ARG0 (v / vento) :ARG1 (f / foco :topic (i2 / incêndio)) :location (a2 / área :mod (r / rural)))
+
+# ::id mundo-4-65-0
+# ::tok-pt Haddad falou ainda sobre o risco à democracia no país .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(f / falar-01 :ARG0 (p / person :name (n / name :op1 "Haddad")) :ARG1 (r / risco :topic (d / democracia :location (p2 / país))) :mod (a / ainda))
+
+# ::id mundo-4-65-1
+# ::tok-pt Haddad falou ainda sobre a cobrança de uma autocrítica do PT .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(f / falar-01 :ARG0 (p / person :name (n / name :op1 "Haddad")) :ARG1 (c / cobrar-02 :ARG1 (c2 / criticar-01 :ARG0 (p2 / political-party :name (n2 / name :op1 "PT")) :ARG1 p2)) :mod (a / ainda))
+
+# ::id mundo-4-92-1
+# ::tok-pt E ninguém quer um mundo obscurantista ” , afirmou .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / afirmar-01 :ARG0 (e / ele) :ARG1 (e1 / e :op1 (q / querer-01 :ARG0 (n / ninguém) :ARG1 (m / mundo :mod (o / obscurantismo)))))
+
+# ::id mundo-4-163
+# ::tok-pt Esquema semelhante existe na Cooperativa Jangchon , no subúrbio de Pyangyong .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(e / esquema :mod (s / semelhante) :ARG1-of (t / ter-01 :ARG0 (o / organization :name (n / name :op1 "Cooperativa" :op2 "Jangchon") :location (s1 / subúrbio :part (c / city :name (n1 / name :op1 "Pyangyong"))))))
+
+# ::id cotidiano-4-10-1
+# ::tok-pt Em 1981 , ocorreu o Primeiro Encontro Feminista Latino-Americano e Caribenho .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(e / event :name (n / name :op1 "Encontro" :op2 "Feminista" :op3 "Latino-Americano" :op4 "e" :op5 "Caribenho") :ord (o / ordinal-entity :value 1) :time (d / date-entity :year 1981) :ARG1-of (o2 / ocorrer-01))
+
+# ::id cotidiano-4-26-2
+# ::tok-pt Os encontros entre arquitetos e atingidos acontecem desde 30 de maio .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(e / encontrar-101 :ARG0 (a / arquiteto) :ARG1 (p / pessoa :ARG1-of (a2 / atingir-01)) :ARG1-of (a3 / acontecer-01 :time (d / desde :op1 (d2 / date-entity :day 30 :month 5))))
+
+# ::id cotidiano-4-10-3
+# ::tok-pt Trujillo foi assassinado no ano seguinte e veio a democratização .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(e1 / e :op1 (a / assassinar-01 :ARG0 (p / person :name (n / name :op1 "Trujillo")) :time (a2 / ano :mod (s / seguinte))) :op2 (v / vir-01 :ARG1 (d / democratização)))
+
+# ::id cotidiano-4-23-5
+# ::tok-pt Sua linha como psicólogo é existencialista , de Sartre .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(e / existencialismo :domain (l / linha :poss (e1 / ele) :topic (p / psicologia)) :ARG1-of (c / criar-01 :ARG0 (p2 / person :name (n / name :op1 "Sartre"))))
+
+# ::id cotidiano-4-34-2
+# ::tok-pt Isso não necessariamente demonstra uma realidade uniforme no país .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(d / demonstrar-01 :polarity - :ARG0 (i2 / isso) :ARG1 (r / realidade :mod (u / uniforme) :location (p / país)) :manner (n / necessário))
+
+# ::id cotidiano-4-174
+# ::tok-pt Se ele não for renovado , várias escolas brasileiras vão parar .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / parar-01 :ARG1 (e / escola :quant (v / vários) :source (c / country :name (n / name :op1 "Brasil"))) :condition (e1 / ele :ARG1-of (r / renovar-01 :polarity -)))
+
+# ::id cotidiano-4-175
+# ::tok-pt Leandro Beguoci é diretor editorial de Nova Escola ( novaescola.org.br ) .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / pessoa :ARG0-of (d / dirigir-01 :mod (e / editora) :ARG1 (o / organization :name (n / name :op1 "Nova" :op2 "Escola") :ARG0-of (t / ter-01 :ARG1 (s / site :name (u / url-entity :value "novaescola.org.br"))))) :domain (p1 / person :name (n1 / name :op1 "Leandro" :op2 "Beguoci")))
+
+# ::id cotidiano-4-33-3
+# ::tok-pt Para qualquer médico português ou espanhol isso não conta . ”
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / contar-02 :polarity - :ARG0 (i2 / isso) :ARG1 (m / médico :location (o / or :op1 (c2 / country :name (n / name :op1 "Portugal")) :op2 (c3 / country :name (n2 / name :op1 "Spain"))) :mod (q / qualquer)))
+
+# ::id cotidiano-4-172
+# ::tok-pt Meu pai sempre foi presente ” , admite Lucas .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / presente :time (s / sempre) :domain (p1 / pai :poss p2) :ARG1-of (a / admitir-01 :ARG0 (p2 / person :name (n / name :op1 "Lucas"))))
+
+# ::id cotidiano-4-15-0
+# ::tok-pt Do contrário , podem tornar-se os estupradores e abusadores de amanhã .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / contrast-01 :ARG2 (p / possible-01 :ARG1 (t / tornar-101 :ARG1 (e1 / eles) :ARG2 (e2 / e :op1 (p2 / pessoa :ARG0-of (e3 / estuprar-01)) :op2 (p3 / pessoa :ARG0-of (a / abusar-01))))))
+
+# ::id cotidiano-4-175
+# ::tok-pt Então os chamaremos ou abriremos outro edital ” , afirma .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(o / ou :op1 (c / chamar-02 :ARG0 (n / nós) :ARG1 (e / eles)) :op2 (a / abrir-01 :ARG0 n :ARG1 (e1 / edital :mod (o1 / outro))) :ARG1-of (a1 / afirmar-01 :ARG0 (e2 / ele)))
+
+# ::id cotidiano-4-13-1
+# ::tok-pt Essa foi a avaliação de professores do curso e colégio Objetivo .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(e / essa :ARG1-of (a / avaliar-01 :ARG0 (p / professor :ARG0-of (h / have-org-role-91 :ARG1 (s / school :name (n / name :op1 "Objetivo") :domain (e2 / e :op1 (c / curso) :op2 (c2 / colégio)))))))
+
+# ::id cotidiano-4-177
+# ::tok-pt No entanto , sua revolução foi muito mais profunda .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(x2 / contrast-01 :ARG2 (p / profunda :domain (r / revolução :poss (e / ele)) :degree (m / mais :degree (m1 / muito))))
+
+# ::id cotidiano-4-176
+# ::tok-pt Outra pergunta , por favor '' , respondeu o presidente eleito .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(r / responder-01 :ARG0 (p / presidente :ARG1-of (e / eleger-01)) :ARG1 (p1 / pergunta :mod (o / outro) :mode imperative :polite +))
+
+# ::id cotidiano-4-53-2
+# ::tok-pt Vários pesquisadores consideraram o ato uma `` loucura '' .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / considerar-01 :ARG0 (p / pessoa :ARG0-of (p2 / pesquisar-01) :mod (v / vários)) :ARG1 (a / ato) :ARG2 (l / loucura))
+
+# ::id ilustrada-3-134
+# ::tok-pt Muito pouca gente havia tido acesso ao livro .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / acessar-01 :ARG0 (g / gente :quant (p / pouco :degree (m / muito))) :ARG1 (l / livro))
+
+# ::id ilustrada-3-59-1
+# ::tok-pt Deixava as formas se definirem pelos próprios materiais .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(d / deixar-02 :ARG0 (e / ele) :ARG1 (d2 / definir-02 :ARG0 f :ARG1 f :instrument (m / material :poss f)) :ARG2 (f / forma))
+
+# ::id ilustrada-3-32-3
+# ::tok-pt A equipe também vem do mundo inteiro .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(v / vir-01 :ARG1 (e / equipe) :ARG3 (m / mundo :mod (i2 / inteiro)) :mod (t / também))
+
+# ::id ilustrada-3-9-0
+# ::tok-pt Alguns desses experimentos estão na mostra .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(e / experimento :mod (a / algum) :location (m / mostra) :ARG1-of (i2 / include-91 :ARG2 (e2 / experimento :mod (e3 / esse))))
+
+# ::id ilustrada-3-28-0
+# ::tok-pt Mas a questão não é só numérica .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / contrast-01 :ARG1 (n2 / número :polarity - :domain (c2 / coisa :ARG1-of (q / questionar-01)) :mod (s / só)))
+
+# ::id ilustrissima-3-11-4
+# ::tok-pt O personagem é feito de pulsões .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(f / fazer-01 :ARG1 (p / personagem) :ARG2 (p2 / pulsão))
+
+# ::id ilustrissima-3-8-3
+# ::tok-pt Isso , sim , é censura .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / censura :domain (i2 / isso))
+
+# ::id ilustrissima-3-133
+# ::tok-pt Não é um plano imediato , no entanto .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / plano :mod (i / imediato) :polarity - :domain (i1 / isso) :ARG2-of (c / contrast-01))
+
+# ::id ilustrissima-3-14-2
+# ::tok-pt Os anos 1960 foram difíceis para Matarazzo .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(d / difícil :beneficiary (p / person :name (n / name :op1 "Matarazzo")) :domain (d2 / date-entity :decade 1960))
+
+# ::id ciencia-3-22-1
+# ::tok-pt Ora , é só ir para o laboratório .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(i2 / ir-01 :ARG4 (l / laboratório) :mod (s / só))
+
+# ::id ambiente-3-1-0
+# ::tok-pt O caso ainda está sob investigação .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(i2 / investigar-01 :ARG1 (c / caso) :mod (a / ainda))
+
+# ::id comida-3-2-1
+# ::tok-pt Chama-se `` Sal Gordura Ácido Calor '' .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / chamar-101 :ARG2 (p / publication :name (n / name :op1 "Sal" :op2 "Gordura" :op3 "Ácido" :op4 "Calor")))
+
+# ::id tec-3-123
+# ::tok-pt A Microsoft valia US $ 822,90 bilhões .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(v / valer-01 :ARG1 (c / company :name (n / name :op1 "Microsoft")) :ARG2 (m / monetary-quantity :quant 822900000000 :unit (d / dólar)))
+
+# ::id equilibrioesaude-3-8-0
+# ::tok-pt Depende de onde vem o produto .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(d / depender-01 :ARG2 (l / location :ARG3-of (v / vir-01 :ARG1 (p / produto))))
+
+# ::id equilibrioesaude-3-11-1
+# ::tok-pt A maioria das causas de ginecomastia é fisiológica .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / cause-01 :ARG0 (f / fisiologia) :ARG1 (m / medical-condition :name (n / name :op1 "ginecomastia")) :mod (m2 / maioria))
+
+# ::id turismo-3-121
+# ::tok-pt A guia chama-se Yumi e fala português .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / e :op1 (c / chamar-01 :ARG1 (g / guia) :ARG2 (p / person :name (n / name :op1 "Yumi"))) :op2 (f / falar-01 :ARG0 g :ARG1 (p1 / português)))
+
+# ::id turismo-3-6-0
+# ::tok-pt Estadia em quarto duplo com café da manhã .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(e / estadia :location (q / quarto :mod (d / duplo)) :accompanier (c / café-da-manhã))
+
+# ::id turismo-3-8-2
+# ::tok-pt O evento acontece das 10h às 18h .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / acontecer-01 :ARG1 (e / evento) :time (d / date-interval :op1 (d2 / date-entity :time "10:00") :op2 (d3 / date-entity :time "18:00")))
+
+# ::id turismo-3-11-4
+# ::tok-pt Primeiro , o dono da peça a valoriza .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(v / valorizar-01 :li 1 :ARG0 (p / pessoa :ARG0-of (t / ter-01 :ARG1 (p2 / peça))) :ARG1 p2)
+
+# ::id ciencia-1-81
+# ::tok-pt Compartilhe .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / compartilhar-01 :mode imperative)
+
+# ::id ciencia-2-22-1
+# ::tok-pt Spoiler : não vai acontecer .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / acontecer-01 :polarity - :domain (s / spoiler))
+
+# ::id comida-2-2-1
+# ::tok-pt Leve à geladeira .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(l / levar-02 :mode imperative :ARG2 (g / geladeira))
+
+# ::id propbank-6
+# ::tok-pt Tudo será feito de maneira a garantir os direitos adquiridos em o atual sistema .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(f / fazer-01 :ARG1 (t / tudo) :purpose (g / garantir-02 :ARG1 (d / direito :ARG1-of (a / adquirir-01 :location (s / sistema :mod (a1 / atual))))))
+
+# ::id propbank-9
+# ::tok-pt A empresa considera os equipamentos ultrapassados e quer adquirir modelos modernos .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(e1 / e :op1 (c / considerar-01 :ARG0 (e2 / empresa) :ARG1 (e3 / equipamento) :ARG2 (u / ultrapassado)) :op2 (q / querer-01 :ARG0 e2 :ARG1 (a / adquirir-01 :ARG0 e2 :ARG1 (m / modelo :mod (m1 / moderno)))))
+
+# ::id propbank-23
+# ::tok-pt A Folha preferiu aguardar em uma posição de distanciamento crítico .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / preferir-01 :ARG0 (c / company :name (n / name :op1 "A" :op2 "Folha")) :ARG1 (a / aguardar-01 :ARG0 c :manner (p1 / posição :mod (d / distanciamento :mod (c1 / crítica)))))
+
+# ::id propbank-14
+# ::tok-pt Um outro relatório mostra que o 'ret ' defeituoso afeta rins e intestino de animais .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(m / mostrar-01 :ARG0 (r / relatório :mod (o / outro)) :ARG1 (a / afetar-01 :ARG0 (g / gene :name (n / name :op1 "ret") :mod (d / defeito)) :ARG1 (e1 / e :op1 (r2 / rim :part-of (a1 / animal)) :op2 (i / intestino :part-of a1))))
+
+# ::id propbank-2
+# ::tok-pt Ele não treinava como devia , o que não admito .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / admitir-02 :polarity - :ARG0 (e / eu) :ARG1 (t / treinar-01 :polarity - :ARG0 (e2 / ele) :manner (o / obligate-01 :ARG2 (t2 / treinar-01 :ARG0 e2))))
+
+# ::id propbank-4-183
+# ::tok-pt Ele afirma ter negros e judeus entre seus correligionários .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / afirmar-01 :ARG0 (e1 / ele) :ARG1 (t / ter-01 :ARG0 e1 :ARG1 (i / include-91 :ARG1 (a1 / e :op1 (n / negro) :op2 (j / judeu)) :ARG2 (c / correligionário))))
+
+# ::id propbank-11
+# ::tok-pt Foi afastado de a Comissão de Arbitragem .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(s / afastar-01 :ARG1 (e / ele) :ARG2 (o / organization :name (n / name :op1 "Comissão" :op2 "de" :op3 "Arbitragem")))
+
+# ::id propbank-24
+# ::tok-pt A quem podemos nos aliar ?
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / possible-01 :ARG1 (a / aliar-01 :ARG0 (n / nós) :ARG1 n :ARG2 (a1 / amr-unknown)))
+
+# ::id propbank-2-179
+# ::tok-pt Rússia veta documento sobre a Bósnia
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(v / vetar-01 :ARG0 (c / country :name (n / name :op1 "Rússia")) :ARG1 (d / documento :topic (c1 / country :name (n1 / name :op1 "Bósnia"))))
+
+# ::id comida-1-82
+# ::tok-pt Saúde !
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(s / saúde :mode expressive)
+
+# ::id equilibrioesaude-2-5-0
+# ::tok-pt Ela nos modifica .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(m / modificar-01 :ARG0 (e / ela) :ARG1 (n / nós))
+
+# ::id equilibrioesaude-1-91
+# ::tok-pt Não gostou ?
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(g / gostar-01 :polarity - :ARG0 (e / ele) :ARG1-of (r / request-confirmation-91))
+
+# ::id turismo-4-150
+# ::tok-pt A melhor maneira de chegar a Pedra Azul é de carro .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(h / have-degree-91 :ARG1 (c / chegar-01 :ARG1 (l / location :name (n / name :op1 "Pedra" :op2 "Azul")) :instrument (c1 / carro)) :ARG2 (b / bom) :ARG3 (m / máximo))
+
+# ::id turismo-4-151
+# ::tok-pt No valesdauvagoethe.com.br é possível agendar um tour pelos vinhedos da região .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / possible-01 :ARG1 (a / agendar-01 :ARG1 (t / tour :destination (v / vinhedo :location (r / região))) :medium (u / url-entity :value "valesdauvagoethe.com.br")))
+
+# ::id tec-4-152
+# ::tok-pt The Wall Street Journal , traduzido do inglês por Paulo Migliacci
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(n / newspaper :name (n1 / name :op1 "The" :op2 "Wall" :op3 "Street" :op4 "Journal") :ARG1-of (t / traduzir-01 :ARG0 (p / person :name (n2 / name :op1 "Paulo" :op2 "Migliacci")) :ARG3 (i / inglês)))
+
+# ::id poder-4-160
+# ::tok-pt Ele era técnico , profissional , dedicado e muito sério .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(x8 / e :op1 (t / técnico) :op2 (p / profissional) :op3 (d / dedicado) :op4 (s / sério :degree (x9 / muito)) :domain (e1 / ele))
+
+# ::id poder-4-161
+# ::tok-pt A empresa mencionada é a MC3 , de Paladino .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / company :name (n / name :op1 "MC3") :poss (p / person :name (n1 / name :op1 "Paladino")) :domain (e / empresa :ARG1-of (m / mencionar-01)))
+
+# ::id poder-4-156
+# ::tok-pt O PL 9054/17 tem pontos muito problemáticos '' , disse Moro .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(d / dizer-01 :ARG0 (p / person :name (n / name :op1 "Moro")) :ARG1 (t / ter-01 :ARG0 (l / law :name (n1 / name :op1 "PL" :op2 "9054/17")) :ARG1 (p1 / ponto :mod (p2 / problema :degree (m / muito)))))
+
+# ::id poder-4-157
+# ::tok-pt E a resposta foi [ a eleição de Donald ] Trump .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / e :op1 (e1 / eleger-01 :ARG1 (p / person :name (n / name :op1 "Donald" :op2 "Trump")) :domain (r / resposta)))
+
+# ::id ilustrissima-4-167
+# ::tok-pt Dados os limites de espaço , vou utilizar referências suficientes .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(c / cause-01 :ARG0 (l / limite :mod (e / espaço)) :ARG1 (u / utilizar-01 :ARG0 (e1 / eu) :ARG1 (r / referência :mod (s / suficiente))))
+
+# ::id ilustrada-4-167
+# ::tok-pt E o mais importante : ovos fritos são mais gostosos .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(a / e :op1 (h / have-degree-91 :ARG1 (h1 / have-degree-91 :ARG1 (o / ovo :mod (f / frito)) :ARG2 (g / gostar-01) :ARG3 (m1 / mais)) :ARG2 (i / importar-02) :ARG3 (m / máximo)))
+
+# ::id esporte-4-169
+# ::tok-pt Kilner , que pratica há seis anos , confirma .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / person :name (n / name :op1 "Kilner") :ARG0-of (p1 / practicar-01 :time (a / antes :op1 (a1 / agora) :quant (t / temporal-quantity :quant 6 :unit (a2 / ano)))) :ARG0-of (c / confirmar-01))
+
+# ::id ciencia-4-171
+# ::tok-pt Podemos chamar o fenômeno de " efeito Coca-Cola " .
+# ::tok-en 
+# ::alignments-bren 
+# ::alignments-bramr 
+(p / possible-01 :ARG1 (c / chamar-01 :ARG0 (n / nós) :ARG1 (f / fenômeno) :ARG2 (e / efeito :mod (c1 / coca-cola))))
+
