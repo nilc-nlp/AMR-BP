@@ -68,7 +68,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 3-1 0-1.1.r 1-1.2 0-1.3.1.1
-(c / comunista~e.3 :polarity~e.0 - :time (s / sempre~e.1) :domain (p / person :name (n / name :op1 "lula"~e.0)))
+(c / comunista~e.3 :polarity~e.0 - :time (s / sempre~e.1) :domain (p / person :name (n / name :op1 "Lula"~e.0)))
 
 # ::id poder-2-35-40
 # ::tok-pt Esse é um ponto .
@@ -110,7 +110,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 2-1 0-1.1.1.1 1-1.1.1.2 4-1.2
-(r / reconhecer-01~e.2 :ARG0 (p3 / person :name (n / name :op1 "edson"~e.0 :op2 "fachin"~e.1)) :ARG1 (i2 / ironia~e.4))
+(r / reconhecer-01~e.2 :ARG0 (p3 / person :name (n / name :op1 "Edson"~e.0 :op2 "Fachin"~e.1)) :ARG1 (i2 / ironia~e.4))
 
 # ::id poder-2-103-1
 # ::tok-pt Ao todo , 367 responderam .
@@ -152,7 +152,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 1-1 1-1.1.r 2-1.1.1.1
-(e / eu~e.1 :source~e.1 (c / city :name (n / name :op1 "santos"~e.2)))
+(e / eu~e.1 :source~e.1 (c / city :name (n / name :op1 "Santos"~e.2)))
 
 # ::id poder-2-14-3
 # ::tok-pt Tem baixa capacidade de sustentação .
@@ -243,7 +243,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1.1.1 1-1.2.r 2-1.2 3-1.2.1 4-1.2.1.1.1.r 4-1.2.1.1.1
-(p / person :name (n / name :op1 "assad"~e.0) :ARG1-of~e.1 (s / soltar-01~e.2 :time (d / desde~e.3 :op1 (d2 / date-entity :month~e.4 10~e.4))))
+(p / person :name (n / name :op1 "Assad"~e.0) :ARG1-of~e.1 (s / soltar-01~e.2 :time (d / desde~e.3 :op1 (d2 / date-entity :month~e.4 10~e.4))))
 
 # ::id poder-2-29-1
 # ::tok-pt A greve acabou .
@@ -278,21 +278,21 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 2-1 2-1.1 2-1.1.1.1
-(p / possible-01~e.2 :ARG1 (s / ser-301~e.2 :ARG1 (h / have-org-role-91 :ARG1 (o / oab-sp~e.2))))
+(p / possible-01~e.2 :ARG1 (s / ser-301~e.2 :ARG1 (h / have-org-role-91 :ARG1 (o / OAB-SP~e.2))))
 
 # ::id poder-2-86-10
 # ::tok-pt Foi o Fernando , FHC .
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 4-1 4-1.1 2-1.1.1.1.1
-(p / possible-01~e.4 :ARG1 (s / ser-301~e.4 :ARG1 (p1 / person :name (n / name :op1 "fernando"~e.2))))
+(p / possible-01~e.4 :ARG1 (s / ser-301~e.4 :ARG1 (p1 / person :name (n / name :op1 "Fernando"~e.2))))
 
 # ::id poder-2-86-13
 # ::tok-pt Havia o vazio na Alemanha .
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1 2-1.1 3-1.2.r 4-1.2.1.1
-(h / haver-01~e.0 :ARG1 (v / vazio~e.2) :location~e.3 (c / country :name (n / name :op1 "alemanha"~e.4)))
+(h / haver-01~e.0 :ARG1 (v / vazio~e.2) :location~e.3 (c / country :name (n / name :op1 "Alemanha"~e.4)))
 
 # ::id poder-2-35-0
 # ::tok-pt Você é virtualmente um genocida .
@@ -327,21 +327,21 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 3-1 0-1.2.r 1-1.2.1.1
-(a7 / assim~e.3 :domain (i / isso) :location~e.0 (p8 / political-party :name (n7 / name :op1 "pmdb"~e.1)))
+(a7 / assim~e.3 :domain (i / isso) :location~e.0 (p8 / political-party :name (n7 / name :op1 "PSDB"~e.1)))
 
 # ::id poder-2-86-16
 # ::tok-pt E o MDB ?
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1 3-1.1.r 3-1.1 2-1.2.1.1
-(a3 / e~e.0 :mode~e.3 interrogative~e.3 :op1 (p2 / political-party :name (n / name :op1 "mdb"~e.2)))
+(a3 / e~e.0 :mode~e.3 interrogative~e.3 :op1 (p2 / political-party :name (n / name :op1 "MDB"~e.2)))
 
 # ::id poder-2-86-17
 # ::tok-pt Seria o PT ?
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 2-1.1.1 0-1.2.r 3-1.2
-(p2 / political-party :name (n / name :op1 "pt"~e.2) :mode~e.0 interrogative~e.3)
+(p2 / political-party :name (n / name :op1 "PT"~e.2) :mode~e.0 interrogative~e.3)
 
 # ::id poder-2-86-18
 # ::tok-pt Vejo um quadro rigorosamente diferente .
@@ -390,14 +390,14 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1 2-1.1.1.1 3-1.1.1.2
-(m / música~e.0 :domain (p / person :name (n / name :op1 "ricardo"~e.2 :op2 "pesce"~e.3)))
+(m / música~e.0 :domain (p / person :name (n / name :op1 "Ricardo"~e.2 :op2 "Pesce"~e.3)))
 
 # ::id ilustrada-2-114
 # ::tok-pt Operação de Som – Viviane Barbosa
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 4-1.1.1 5-1.1.2 1-1.2.r 0-1.2 2-1.2.1
-(p / person :name (n / name :op1 "viviane"~e.4 :op2 "barbosa"~e.5) :ARG0-of~e.1 (o / operar-04~e.0 :ARG1 (s / som~e.2)))
+(p / person :name (n / name :op1 "Viviane"~e.4 :op2 "Barbosa"~e.5) :ARG0-of~e.1 (o / operar-04~e.0 :ARG1 (s / som~e.2)))
 
 # ::id ilustrada-2-24-0
 # ::tok-pt Cartas de amor aos livros
@@ -411,7 +411,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1 4-1.1 0-1.2.1.1 2-1.2.1.2
-(s / street-address-91~e.0 :ARG1 1.578~e.4 :ARG2 (r / road :name (n / name :op1 "av"~e.0 :op2 "paulista"~e.2)))
+(s / street-address-91~e.0 :ARG1 1.578~e.4 :ARG2 (r / road :name (n / name :op1 "av"~e.0 :op2 "Paulista"~e.2)))
 
 # ::id ilustrada-2-49-3
 # ::tok-pt Vão me acusar de incoerência .
@@ -439,7 +439,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4
-(f / festival :name (n / name :op1 "dia"~e.0 :op2 "internacional"~e.1 :op3 "do"~e.2 :op4 "samba"~e.3))
+(f / festival :name (n / name :op1 "Dia"~e.0 :op2 "Internacional"~e.1 :op3 "do"~e.2 :op4 "Samba"~e.3))
 
 # ::id ilustrada-2-27-0
 # ::tok-pt DUAS dicas para enfrentar 2019
@@ -467,7 +467,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 2-1 1-1.1 0-1.1.1.r 3-1.2.1.1
-(p / preferir-01~e.2 :ARG0 (p2 / pais~e.1 :poss~e.0 (e / ele)) :ARG1 (p3 / person :name (n / name :op1 "abraham"~e.3)))
+(p / preferir-01~e.2 :ARG0 (p2 / pais~e.1 :poss~e.0 (e / ele)) :ARG1 (p3 / person :name (n / name :op1 "Abraham"~e.3)))
 
 # ::id ilustrada-3-57-0
 # ::tok-pt Por que acreditar em mim ?
@@ -516,7 +516,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 1-1 0-1.1 3-1.1.1.r 4-1.1.1 2-1.2 3-1.2.1.r 4-1.2.1
-(e1 / e~e.1 :op1 (j / jornalista~e.0 :prep-de~e.3 "tv"~e.4) :op2 (r / roteirista~e.2 :prep-de~e.3 "tv"~e.4))
+(e1 / e~e.1 :op1 (j / jornalista~e.0 :prep-de~e.3 "TV"~e.4) :op2 (r / roteirista~e.2 :prep-de~e.3 "tv"~e.4))
 
 # ::id cotidiano-2-23-0
 # ::tok-pt Isso não é revolucionário ?
@@ -530,7 +530,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 1-1 0-1.1.1.1 2-1.2.r 3-1.2.1
-(m / morrer-01~e.1 :ARG0 (p / person :name (n / name :op1 "elisabeth"~e.0)) :time~e.2 (d / date-entity :year 2004~e.3))
+(m / morrer-01~e.1 :ARG0 (p / person :name (n / name :op1 "Elisabeth"~e.0)) :time~e.2 (d / date-entity :year 2004~e.3))
 
 # ::id cotidiano-2-23-3
 # ::tok-pt Não foi um estudo randomizado .
@@ -579,7 +579,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 3-1 0-1.1 1-1.1.1.r 2-1.1.1.1.1 5-1.1.1.1.2 4-1.2 1-1.2.1.r 2-1.2.1 5-1.2.1.1
-(p / praticar-01~e.3 :ARG0 (f / fazenda~e.0 :location~e.1 (s / state :name (n / name :op1 "são"~e.2 :op2 "paulo"~e.5))) :ARG1 (a2 / agricultura~e.4 :topic~e.1 (g / gerar-01~e.2 :mod (d / de-novo~e.5))))
+(p / praticar-01~e.3 :ARG0 (f / fazenda~e.0 :location~e.1 (s / state :name (n / name :op1 "São"~e.2 :op2 "Paulo"~e.5))) :ARG1 (a2 / agricultura~e.4 :topic~e.1 (g / gerar-01~e.2 :mod (d / de-novo~e.5))))
 
 # ::id cotidiano-2-68-3
 # ::tok-pt Mas hoje faria mais rápido .
@@ -607,7 +607,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 3-1 0-1.1.1.1 1-1.1.1.2 4-1.2.r 5-1.2.1.1
-(c / corresponder-101~e.3 :ARG0 (p / person :name (n / name :op1 "lucas"~e.0 :op2 "veloso"~e.1)) :location~e.4 (c1 / city-district :name (n2 / name :op1 "guaianases"~e.5)))
+(c / corresponder-101~e.3 :ARG0 (p / person :name (n / name :op1 "Lucas"~e.0 :op2 "Veloso"~e.1)) :location~e.4 (c1 / city-district :name (n2 / name :op1 "Guaianases"~e.5)))
 
 # ::id cotidiano-2-0-35
 # ::tok-pt Outros dois morreram .
@@ -656,7 +656,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1 2-1.1.1.1 3-1.1.1.2 1-1.2
-(t / traduzir-01~e.0 :ARG0 (p / person :name (n / name :op1 "paulo"~e.2 :op2 "migliacci"~e.3)) :domain (i / isso~e.1))
+(t / traduzir-01~e.0 :ARG0 (p / person :name (n / name :op1 "Paulo"~e.2 :op2 "Migliacci"~e.3)) :domain (i / isso~e.1))
 
 # ::id turismo-1-7-9
 # ::tok-pt Inclui traslados .
@@ -726,7 +726,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1.1.1 1-1.1.2
-(p / person :name (n3 / name :op1 "karol"~e.0 :op2 "conka"~e.1))
+(p / person :name (n3 / name :op1 "Karol"~e.0 :op2 "Conka"~e.1))
 
 # ::id ilustrada-1-35-0
 # ::tok-pt folha.lineup@gmail.com
@@ -747,7 +747,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1.1.1 1-1.1.2 2-1.1.3
-(p / person :name (n / name :op1 "maria"~e.0 :op2 "fernanda"~e.1 :op3 "cândido"~e.2))
+(p / person :name (n / name :op1 "Maria"~e.0 :op2 "Fernanda"~e.1 :op3 "Cândido"~e.2))
 
 # ::id ilustrada-1-92
 # ::tok-pt Concerto histórico
@@ -775,28 +775,28 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1.1.1 1-1.1.2
-(c / company :name (n / name :op1 "albin"~e.0 :op2 "michel"~e.1))
+(c / company :name (n / name :op1 "Albin"~e.0 :op2 "Michel"~e.1))
 
 # ::id mundo-2-70-0
 # ::tok-pt Konstantin Kilimnik
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1.1.1 1-1.1.2
-(p / person :name (n / name :op1 "konstantin"~e.0 :op2 "kilimnik"~e.1))
+(p / person :name (n / name :op1 "Konstantin"~e.0 :op2 "Kilimnik"~e.1))
 
 # ::id mundo-1-61-5
 # ::tok-pt Escócia
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1.1.1
-(c / country :name (n / name :op1 "escócia"~e.0))
+(c / country :name (n / name :op1 "Escócia"~e.0))
 
 # ::id mundo-1-61-4
 # ::tok-pt Singapur
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1.1.1
-(c / country :name (n / name :op1 "singapur"~e.0))
+(c / country :name (n / name :op1 "Singapur"~e.0))
 
 # ::id mundo-1-105
 # ::tok-pt Ou médio ?
@@ -824,7 +824,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1.1.1 1-1.1.2
-(c / company :name (n / name :op1 "editora"~e.0 :op2 "cobodó"~e.1))
+(c / company :name (n / name :op1 "Editora"~e.0 :op2 "Cobodó"~e.1))
 
 # ::id ilustrissima-1-8-3
 # ::tok-pt Não sabemos .
@@ -880,14 +880,14 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 1-1 0-1.1.1.1 2-1.2.1.1 3-1.2.1.2
-(x2 / e~e.1 :op1 (c / company :name (n / name :op1 "reuters"~e.0)) :op2 (c1 / company :name (n1 / name :op1 "associated"~e.2 :op2 "press"~e.3)))
+(x2 / e~e.1 :op1 (c / company :name (n / name :op1 "Reuters"~e.0)) :op2 (c1 / company :name (n1 / name :op1 "Associated"~e.2 :op2 "Press"~e.3)))
 
 # ::id mundo-2-110
 # ::tok-pt Bolsonaro a devorou .
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 2-1 0-1.1.1.1 2-1.2
-(x3 / devorar-01~e.2 :ARG0 (p / person :name (n / name :op1 "bolsonaro"~e.0)) :ARG1 (e / ela~e.2))
+(x3 / devorar-01~e.2 :ARG0 (p / person :name (n / name :op1 "Bolsonaro"~e.0)) :ARG1 (e / ela~e.2))
 
 # ::id mundo-2-10-4
 # ::tok-pt O que é 'brexit ' ?
@@ -901,14 +901,14 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1.1.1 1-1.1.2 3-1.2.r 3-1.2.1 5-1.2.2 5-1.3.1.1
-(s / person :name (n / name :op1 "judith"~e.0 :op2 "chesang"~e.1) :age~e.3 (t / temporal-quantity :quant 22~e.3 :unit (y / ano~e.5)) :source (c / country :name (n1 / name :op1 "quênia"~e.5)))
+(s / person :name (n / name :op1 "Judith"~e.0 :op2 "Chesang"~e.1) :age~e.3 (t / temporal-quantity :quant 22~e.3 :unit (y / ano~e.5)) :source (c / country :name (n1 / name :op1 "Quênia"~e.5)))
 
 # ::id mundo-2-109
 # ::tok-pt Trump é um dos suspeitos ?
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 3-1 0-1.1.1.1 4-1.2 5-1.3.r 5-1.3
-(i / include-91~e.3 :ARG1 (p / person :name (n / name :op1 "trump"~e.0)) :ARG2 (s / suspeito~e.4 :quant 2) :polarity~e.5 (a / amr-unknown~e.5))
+(i / include-91~e.3 :ARG1 (p / person :name (n / name :op1 "Trump"~e.0)) :ARG2 (s / suspeito~e.4 :quant 2) :polarity~e.5 (a / amr-unknown~e.5))
 
 # ::id mundo-2-110
 # ::tok-pt Duas pessoas foram presas .
@@ -950,7 +950,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 3-1 0-1.1.1.1 4-1.2 5-1.2.1
-(i2 / incluir-01~e.3 :ARG1 (p / person :name (n / name :op1 "trump"~e.0)) :ARG2 (s2 / suspeitar-01~e.4 :ARG1-of (r / request-information~e.5)))
+(i2 / incluir-01~e.3 :ARG1 (p / person :name (n / name :op1 "Trump"~e.0)) :ARG2 (s2 / suspeitar-01~e.4 :ARG1-of (r / request-information~e.5)))
 
 # ::id mundo-2-6-70
 # ::tok-pt Como tudo começou ?
@@ -1034,7 +1034,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 4-1 2-1.1.r 3-1.1 1-1.2.r 2-1.2 1-1.3.r 0-1.3.1.1
-(e / escala~e.4 :ord~e.2 (o / ordinal-entity~e.3 :value 2) :poss~e.1 (n / nós~e.2) :domain~e.1 (c / country :name (n1 / name :op1 "luanda"~e.0)))
+(e / escala~e.4 :ord~e.2 (o / ordinal-entity~e.3 :value 2) :poss~e.1 (n / nós~e.2) :domain~e.1 (c / country :name (n1 / name :op1 "Luanda"~e.0)))
 
 # ::id turismo-2-107
 # ::tok-pt O de emergência não abriu .
@@ -1125,14 +1125,14 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1 2-1.1.1 1-1.1.1.2.r 5-1.1.1.2 3-1.2 4-1.2.1 6-1.2.1.1 6-1.3.r 7-1.3.1.1
-(r / realizar-01~e.0 :ARG0 (e15 / ele :ARG0-of (h4 / have-org-role-91~e.2 :ARG1 m7 :ARG3~e.1 (p12 / pilotar-01~e.5 :ARG0 e15))) :ARG1 (m7 / missão~e.3 :quant (m8 / múltiplo~e.4 :op1 10~e.6)) :location~e.6 (o5 / ocean :name (n11 / name :op1 "pacífico"~e.7)))
+(r / realizar-01~e.0 :ARG0 (e15 / ele :ARG0-of (h4 / have-org-role-91~e.2 :ARG1 m7 :ARG3~e.1 (p12 / pilotar-01~e.5 :ARG0 e15))) :ARG1 (m7 / missão~e.3 :quant (m8 / múltiplo~e.4 :op1 10~e.6)) :location~e.6 (o5 / ocean :name (n11 / name :op1 "Pacífico"~e.7)))
 
 # ::id mundo-3-131
 # ::tok-pt Mais de 40 foram presos nos EUA .
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 4-1 0-1.1 2-1.1.1 5-1.2.r 6-1.2.1.1
-(x5 / prender-01~e.4 :ARG1 (e / entidade~e.0 :quant 40~e.2) :location~e.5 (c / country :name (n2 / name :op1 "eua"~e.6)))
+(x5 / prender-01~e.4 :ARG1 (e / entidade~e.0 :quant 40~e.2) :location~e.5 (c / country :name (n2 / name :op1 "EUA"~e.6)))
 
 # ::id mundo-3-129
 # ::tok-pt Hoje ela está fora do jogo . ”
@@ -1146,7 +1146,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 5-1 0-1.1.1.1 2-1.2.1.1 3-1.2.1.2 6-1.3.1.1
-(x2 / e~e.5 :op1 (c / company :name (n / name :op1 "reuters"~e.0)) :op2 (c1 / company :name (n1 / name :op1 "associated"~e.2 :op2 "press"~e.3)) :op3 (c2 / company :name (n2 / name :op1 "afp"~e.6)))
+(x2 / e~e.5 :op1 (c / company :name (n / name :op1 "Reuters"~e.0)) :op2 (c1 / company :name (n1 / name :op1 "Associated"~e.2 :op2 "Press"~e.3)) :op3 (c2 / company :name (n2 / name :op1 "AFP"~e.6)))
 
 # ::id cotidiano-3-9-2
 # ::tok-pt Há ainda a questão do espaço .
@@ -1160,7 +1160,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 2-1 0-1.1 3-1.2 3-1.2.1.r 5-1.2.1 4-1.2.2
-(m / médico~e.2 :domain (t / todo~e.0) :ARG0-of (t1 / ter-01~e.3 :polarity~e.3 -~e.5 :ARG1 (c / crm~e.4)))
+(m / médico~e.2 :domain (t / todo~e.0) :ARG0-of (t1 / ter-01~e.3 :polarity~e.3 -~e.5 :ARG1 (c / CRM~e.4)))
 
 # ::id cotidiano-3-148
 # ::tok-pt Com eles escrevi meu primeiro livro .
@@ -1174,7 +1174,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 1-1 0-1.1.1.1 3-1.2 6-1.2.1 5-1.2.1.1.r
-(c / comemorar-01~e.1 :ARG0 (p / person :name (n / name :op1 "trujillo"~e.0)) :ARG1 (f / fazer-01~e.3 :ARG0 (a / agente~e.6 :poss~e.5 p)))
+(c / comemorar-01~e.1 :ARG0 (p / person :name (n / name :op1 "Trujillo"~e.0)) :ARG1 (f / fazer-01~e.3 :ARG0 (a / agente~e.6 :poss~e.5 p)))
 
 # ::id cotidiano-3-10-3
 # ::tok-pt Foram presas diversas vezes , torturadas .
@@ -1188,7 +1188,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 4-1 6-1.1.1.1 7-1.1.1.2 1-1.2 2-1.3.r 2-1.3
-(a / atender-01~e.4 :ARG0 (g / government-organization :name (n / name :op1 "mais"~e.6 :op2 "médicos"~e.7)) :ARG1 (m / município~e.1) :polarity~e.2 -~e.2)
+(a / atender-01~e.4 :ARG0 (g / government-organization :name (n / name :op1 "Mais"~e.6 :op2 "Médicos"~e.7)) :ARG1 (m / município~e.1) :polarity~e.2 -~e.2)
 
 # ::id cotidiano-3-149
 # ::tok-pt A porção sai por R $ 7 .
@@ -1230,14 +1230,14 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 6-1 5-1.1.r 5-1.1 1-1.2 2-1.2.1.r 3-1.2.1.1.1 7-1.3
-(s2 / sofrer-02~e.6 :polarity~e.5 -~e.5 :ARG1 (c5 / cobrar-01~e.1 :location~e.2 (c8 / city :name (n10 / name :op1 "jambeiro"~e.3))) :ARG2 (m4 / modificação~e.7))
+(s2 / sofrer-02~e.6 :polarity~e.5 -~e.5 :ARG1 (c5 / cobrar-01~e.1 :location~e.2 (c8 / city :name (n10 / name :op1 "Jambeiro"~e.3))) :ARG2 (m4 / modificação~e.7))
 
 # ::id cotidiano-3-142
 # ::tok-pt O Comandante-Geral da PM está na região .
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 5-1 2-1.1 3-1.1.1.1.1 1-1.1.2 4-1.1.2.1 5-1.2.r 6-1.2
-(p / pessoa~e.5 :ARG0-of (h / have-org-role-91~e.2 :ARG1 (m / military :name (n / name :op1 "pm"~e.3)) :ARG2 (c / comandante~e.1 :mod (g / geral~e.4))) :location~e.5 (r / região~e.6))
+(p / pessoa~e.5 :ARG0-of (h / have-org-role-91~e.2 :ARG1 (m / military :name (n / name :op1 "PM"~e.3)) :ARG2 (c / Comandante~e.1 :mod (g / Geral~e.4))) :location~e.5 (r / região~e.6))
 
 # ::id cotidiano-3-146
 # ::tok-pt O treino é dividido em duas partes .
@@ -1265,7 +1265,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 1-1 0-1.1 2-1.2 3-1.3.r 4-1.3.1.1
-(t / trabalhar-01~e.1 :ARG0 (e / eles~e.0) :manner (j / junto~e.2) :location~e.3 (c / city :name (n / name :op1 "catanduvas"~e.4)))
+(t / trabalhar-01~e.1 :ARG0 (e / eles~e.0) :manner (j / junto~e.2) :location~e.3 (c / city :name (n / name :op1 "Catanduvas"~e.4)))
 
 # ::id cotidiano-1-23-2
 # ::tok-pt Aquele mesmo .
@@ -1342,7 +1342,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1.1.1 1-1.1.2
-(c / city :name (n / name :op1 "são"~e.0 :op2 "paulo"~e.1))
+(c / city :name (n / name :op1 "São"~e.0 :op2 "Paulo"~e.1))
 
 # ::id esporte-1-6-0
 # ::tok-pt Ele entendeu .
@@ -1377,7 +1377,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1.1.1 1-1.1.2
-(p / person :name (n / name :op1 "joão"~e.0 :op2 "farias"~e.1))
+(p / person :name (n / name :op1 "João"~e.0 :op2 "Farias"~e.1))
 
 # ::id esporte-1-63-0
 # ::tok-pt 42 % !
@@ -1398,7 +1398,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1 1-1.1 0-1.1.1.1.1 1-1.2 2-1.2.1.1.1
-(c / competir-01~e.0 :ARG0 (t / equipe~e.1 :source (c1 / country :name (n / name :op1 "brasil"~e.0))) :ARG0 (t1 / equipe~e.1 :source (c2 / country :name (n1 / name :op1 "canadá"~e.2))))
+(c / competir-01~e.0 :ARG0 (t / equipe~e.1 :source (c1 / country :name (n / name :op1 "Brasil"~e.0))) :ARG0 (t1 / equipe~e.1 :source (c2 / country :name (n1 / name :op1 "Canadá"~e.2))))
 
 # ::id poder-1-35-8
 # ::tok-pt Não existe .
@@ -1412,7 +1412,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1.1.1 1-1.1.2
-(p / person :name (n / name :op1 "jose"~e.0 :op2 "dirceu"~e.1))
+(p / person :name (n / name :op1 "José"~e.0 :op2 "Dirceu"~e.1))
 
 # ::id poder-1-101
 # ::tok-pt Meio ambiente ?
@@ -1461,7 +1461,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 1-1.1.1
-(p / person :name (n / name :op1 "bolsonaro"~e.1))
+(p / person :name (n / name :op1 "Bolsonaro"~e.1))
 
 # ::id poder-1-14-4
 # ::tok-pt Teve voto .
@@ -1482,7 +1482,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1.1.1 1-1.1.2
-(p / person :name (n9 / name :op1 "joesley"~e.0 :op2 "batista"~e.1))
+(p / person :name (n9 / name :op1 "Joesley"~e.0 :op2 "Batista"~e.1))
 
 # ::id poder-1-35-5
 # ::tok-pt Não pretendo .
@@ -1538,7 +1538,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1 3-1.1.1.1 4-1.1.1.2 0-1.2.1.1 2-1.3.r 3-1.3.1 1-1.3.2
-(g / ganhar-02~e.0 :ARG0 (t / team :name (n / name :op1 "shakhtar"~e.3 :op2 "donetsk"~e.4)) :ARG2 (t1 / team :name (n1 / name :op1 "hoffenheim"~e.0)) :ARG3~e.2 (s / score-entity :op1 3~e.3 :op2 2~e.1))
+(g / ganhar-02~e.0 :ARG0 (t / team :name (n / name :op1 "Shakhtar"~e.3 :op2 "Donetsk"~e.4)) :ARG2 (t1 / team :name (n1 / name :op1 "Hoffenheim"~e.0)) :ARG3~e.2 (s / score-entity :op1 3~e.3 :op2 2~e.1))
 
 # ::id esporte-2-64-0
 # ::tok-pt O número atual é assustador .
@@ -1587,35 +1587,35 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 1-1 4-1.1.1.1 5-1.1.1.2 0-1.2.1.1 2-1.3.r 3-1.3.1
-(g / ganhar-02~e.1 :ARG0 (t / team :name (n / name :op1 "vitoria"~e.4 :op2 "pilsen"~e.5)) :ARG2 (t2 / team :name (n2 / name :op1 "cska"~e.0)) :ARG3~e.2 (s / score-entity :op1 2~e.3 :op2 1))
+(g / ganhar-02~e.1 :ARG0 (t / team :name (n / name :op1 "Vitoria"~e.4 :op2 "Pilsen"~e.5)) :ARG2 (t2 / team :name (n2 / name :op1 "CSKA"~e.0)) :ARG3~e.2 (s / score-entity :op1 2~e.3 :op2 1))
 
 # ::id esporte-2-119
 # ::tok-pt Juventus 1 x 0 Valência
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 1-1 0-1.1.1.1 1-1.2.1.1 2-1.3.r 1-1.3.1 4-1.3.2
-(g / ganhar-02~e.1 :ARG0 (t1 / team :name (n / name :op1 "juventus"~e.0)) :ARG2 (t2 / team :name (n1 / name :op1 "valencia"~e.1)) :ARG3~e.2 (s / score-entity :op1 1~e.1 :op2 0~e.4))
+(g / ganhar-02~e.1 :ARG0 (t1 / team :name (n / name :op1 "Juventus"~e.0)) :ARG2 (t2 / team :name (n1 / name :op1 "Valencia"~e.1)) :ARG3~e.2 (s / score-entity :op1 1~e.1 :op2 0~e.4))
 
 # ::id esporte-2-118
 # ::tok-pt Roma 0 x 2 Real Madrid
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 2-1 0-1.1.1.1 4-1.2.1.1 5-1.2.1.2 1-1.3.1 3-1.3.2
-(g / perder-01~e.2 :ARG0 (t1 / team :name (n / name :op1 "roma"~e.0)) :ARG2 (t2 / team :name (n1 / name :op1 "real"~e.4 :op2 "madrid"~e.5)) :quant (s / score-entity :op1 0~e.1 :op2 2~e.3))
+(g / perder-01~e.2 :ARG0 (t1 / team :name (n / name :op1 "Roma"~e.0)) :ARG2 (t2 / team :name (n1 / name :op1 "Real"~e.4 :op2 "Madrid"~e.5)) :quant (s / score-entity :op1 0~e.1 :op2 2~e.3))
 
 # ::id ilustrissima-2-8-3
 # ::tok-pt Esse partido é o Jobbik .
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 1-1 0-1.1 4-1.2.1.1
-(p / partido~e.1 :mod (e / esse~e.0) :domain-of (p2 / political-party :name (n / name :op1 "jobbik"~e.4)))
+(p / partido~e.1 :mod (e / esse~e.0) :domain-of (p2 / political-party :name (n / name :op1 "Jobbik"~e.4)))
 
 # ::id ilustrissima-2-8-4
 # ::tok-pt E Olavo sabe disso .
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1 2-1.1 1-1.1.1.1.1 3-1.1.2
-(e1 / e~e.0 :op1 (s / saber-01~e.2 :ARG0 (p / person :name (n / name :op1 "olavo"~e.1)) :ARG2 (i2 / isso~e.3)))
+(e1 / e~e.0 :op1 (s / saber-01~e.2 :ARG0 (p / person :name (n / name :op1 "Olavo"~e.1)) :ARG2 (i2 / isso~e.3)))
 
 # ::id ilustrissima-2-11-1
 # ::tok-pt Cínicos e safados .
@@ -1636,7 +1636,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1 1-1.2.1.1 2-1.2.1.2
-(m / mencionar-01~e.0 :ARG0 (e / eu) :ARG1 (p / person :name (n / name :op1 "tainá"~e.1 :op2 "medina"~e.2)))
+(m / mencionar-01~e.0 :ARG0 (e / eu) :ARG1 (p / person :name (n / name :op1 "Tainá"~e.1 :op2 "Medina"~e.2)))
 
 # ::id ilustrissima-2-12-1
 # ::tok-pt Era uma vingança .
@@ -1692,7 +1692,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 3-1 2-1.1 1-1.1.1 5-1.2.1.1 6-1.2.1.2 7-1.2.1.3
-(a / apoiar-01~e.3 :ARG0 (m / ministro~e.2 :mod (n / novo~e.1)) :ARG1 (l / law :name (n2 / name :op1 "escola"~e.5 :op2 "sem"~e.6 :op3 "partido"~e.7)))
+(a / apoiar-01~e.3 :ARG0 (m / ministro~e.2 :mod (n / novo~e.1)) :ARG1 (l / law :name (n2 / name :op1 "Escola"~e.5 :op2 "sem"~e.6 :op3 "Partido"~e.7)))
 
 # ::id poder-3-35-56
 # ::tok-pt Pretende aconselhá-lo de alguma forma sobre a questão ?
@@ -1706,7 +1706,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 3-1 0-1.1.r 2-1.1 2-1.2 4-1.3.1.1 5-1.3.1.2 6-1.4
-(c / classificar-01~e.3 :polite~e.0 +~e.2 :ARG0 (v / você~e.2) :ARG1 (p / person :name (n / name :op1 "jair"~e.4 :op2 "bolsonaro"~e.5)) :ARG2 (a / amr-unknown~e.6))
+(c / classificar-01~e.3 :polite~e.0 +~e.2 :ARG0 (v / você~e.2) :ARG1 (p / person :name (n / name :op1 "Jair"~e.4 :op2 "Bolsonaro"~e.5)) :ARG2 (a / amr-unknown~e.6))
 
 # ::id poder-3-53-4
 # ::tok-pt Agora ele pode fazer muito mais coisas .
@@ -1734,7 +1734,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 7-1 2-1.1 3-1.1.1 4-1.1.1.1.1.1 1-1.1.2
-(c / caos~e.7 :domain (c1 / campanha~e.2 :ARG1-of (f / fazer-01~e.3 :ARG0 (p / person :name (n / name :op1 "bolsonaro"~e.4))) :mod (p1 / próprio~e.1)))
+(c / caos~e.7 :domain (c1 / campanha~e.2 :ARG1-of (f / fazer-01~e.3 :ARG0 (p / person :name (n / name :op1 "Bolsonaro"~e.4))) :mod (p1 / próprio~e.1)))
 
 # ::id poder-3-35-2
 # ::tok-pt O senhor não acredita aquecimento global ?
@@ -1755,7 +1755,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 2-1 0-1.1.1.1 4-1.1.2 6-1.1.2.1
-(c / contrast-01~e.2 :ARG2 (p / person :name (n / name :op1 "malta"~e.0) :ARG0-of (d / declinar-01~e.4 :ARG1 (c1 / convidar-01~e.6 :ARG1 p))))
+(c / contrast-01~e.2 :ARG2 (p / person :name (n / name :op1 "Malta"~e.0) :ARG0-of (d / declinar-01~e.4 :ARG1 (c1 / convidar-01~e.6 :ARG1 p))))
 
 # ::id poder-3-66-0
 # ::tok-pt Creio que assumir esses desafios seja importantíssimo .
@@ -1783,7 +1783,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1 5-1.2.1.1 3-1.2.1.2 0-1.3.r 4-1.3 5-1.3.2 6-1.3.2.1.r 7-1.3.2.1
-(v / vir-01~e.0 :ARG0 (e / eu) :ARG1 (c / city :name (n / name :op1 "são"~e.5 :op2 "paulo"~e.3)) :cause~e.0 (p / pensar-01~e.4 :ARG0 e :ARG2 (t / thing~e.5 :manner-of~e.6 (a / ajudar-01~e.7 :ARG1 (e1 / ele)))))
+(v / vir-01~e.0 :ARG0 (e / eu) :ARG1 (c / city :name (n / name :op1 "São"~e.5 :op2 "Paulo"~e.3)) :cause~e.0 (p / pensar-01~e.4 :ARG0 e :ARG2 (t / thing~e.5 :manner-of~e.6 (a / ajudar-01~e.7 :ARG1 (e1 / ele)))))
 
 # ::id poder-3-125
 # ::tok-pt O que houve foi uma revolução de verdade .
@@ -1825,7 +1825,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 5-1 0-1.1.1.1 3-1.1.1.2 1-1.2 4-1.2.2
-(s / surpreender-101~e.5 :ARG1 (p / person :name (n / name :op1 "name"~e.0 :op2 "oliveira"~e.3)) :time (r / receber-01~e.1 :ARG0 p :ARG1 (e / eles~e.4)))
+(s / surpreender-101~e.5 :ARG1 (p / person :name (n / name :op1 "name"~e.0 :op2 "Oliveira"~e.3)) :time (r / receber-01~e.1 :ARG0 p :ARG1 (e / eles~e.4)))
 
 # ::id esporte-3-64-0
 # ::tok-pt Tite responde : “ As duas coisas . ”
@@ -1853,7 +1853,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 1-1 3-1.1 2-1.1.1.r 0-1.1.1.1.1 4-1.1.2.r 5-1.1.2
-(o / obligate-01~e.1 :ARG2 (p / presente~e.3 :domain~e.2 (p2 / person :name (n / name :op1 "tapia"~e.0)) :location~e.4 (r / reunião~e.5)))
+(o / obligate-01~e.1 :ARG2 (p / presente~e.3 :domain~e.2 (p2 / person :name (n / name :op1 "Tapia"~e.0)) :location~e.4 (r / reunião~e.5)))
 
 # ::id esporte-3-55-3
 # ::tok-pt Atletas precisam de orientação e cuidado .
@@ -1874,7 +1874,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 3-1 1-1.1.1.1 4-1.3.r 6-1.3
-(p / punir-01~e.3 :ARG0 (o / organization :name (n / name :op1 "conmebol"~e.1)) :ARG1 (e / ele) :ARG3~e.4 (j / jogo~e.6))
+(p / punir-01~e.3 :ARG0 (o / organization :name (n / name :op1 "Conmebol"~e.1)) :ARG1 (e / ele) :ARG3~e.4 (j / jogo~e.6))
 
 # ::id esporte-3-65-2
 # ::tok-pt Se não contratar reforços , nada adianta .
@@ -1909,14 +1909,14 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1 5-1.1 4-1.1.1 2-1.1.1.1.1.1 7-1.1.2 6-1.1.2.2
-(x1 / contrast-01~e.0 :ARG2 (x6 / e~e.5 :op1 (x5 / gigante~e.4 :domain (x3 / team :name (n / name :op1 "palmeiras"~e.2))) :op2 (x8 / sobreviver-01~e.7 :ARG0 x3 :time (x7 / sempre~e.6))))
+(x1 / contrast-01~e.0 :ARG2 (x6 / e~e.5 :op1 (x5 / gigante~e.4 :domain (x3 / team :name (n / name :op1 "Palmeiras"~e.2))) :op2 (x8 / sobreviver-01~e.7 :ARG0 x3 :time (x7 / sempre~e.6))))
 
 # ::id esporte-3-139
 # ::tok-pt Felipão tem histórico positivo nas duas competições .
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 1-1 0-1.1.1.1 2-1.2 3-1.2.1 4-1.3.r 6-1.3 5-1.3.1
-(t / ter-01~e.1 :ARG0 (p / person :name (n / name :op1 "felipão"~e.0)) :ARG1 (h / histórico~e.2 :mod (p1 / positivo~e.3)) :location~e.4 (c / competição~e.6 :quant 2~e.5))
+(t / ter-01~e.1 :ARG0 (p / person :name (n / name :op1 "Felipão"~e.0)) :ARG1 (h / histórico~e.2 :mod (p1 / positivo~e.3)) :location~e.4 (c / competição~e.6 :quant 2~e.5))
 
 # ::id mundo-4-77-1
 # ::tok-pt Há reuniões periódicas para discutir tarefas e fazer autocríticas e reparações .
@@ -1951,7 +1951,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 6-1 5-1.1 8-1.2 9-1.2.1.r 10-1.2.1 0-1.3 2-1.3.1.1.1
-(v / viver-01~e.6 :ARG0 (g / galego~e.5) :ARG1 (m / momento~e.8 :topic~e.9 (r / renascer-01~e.10 :ARG1 g)) :time (a / antes~e.0 :op1 (p / person :name (n / name :op1 "franco"~e.2))))
+(v / viver-01~e.6 :ARG0 (g / galego~e.5) :ARG1 (m / momento~e.8 :topic~e.9 (r / renascer-01~e.10 :ARG1 g)) :time (a / antes~e.0 :op1 (p / person :name (n / name :op1 "Franco"~e.2))))
 
 # ::id mundo-4-14-1
 # ::tok-pt Desde a faculdade , ela decidiu usar só a língua local .
@@ -1979,7 +1979,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 1-1 2-1.1.1.1 1-1.1.2 5-1.2 6-1.2.1 8-1.2.2.1 7-1.2.2.2
-(i2 / include-91~e.1 :ARG1 (c / company :name (n / name :op1 "taedonggang"~e.2) :mod (e / estado~e.1)) :ARG2 (c2 / company~e.5 :topic (c3 / cerveja~e.6) :ARG1-of (h / have-degree-91 :ARG2 (p / popular~e.8) :ARG3 (m / máximo~e.7))))
+(i2 / include-91~e.1 :ARG1 (c / company :name (n / name :op1 "Taedonggang"~e.2) :mod (e / estado~e.1)) :ARG2 (c2 / company~e.5 :topic (c3 / cerveja~e.6) :ARG1-of (h / have-degree-91 :ARG2 (p / popular~e.8) :ARG3 (m / máximo~e.7))))
 
 # ::id mundo-4-80-1
 # ::tok-pt Com amigos , tirava fotos em frente aos equipamentos .
@@ -2000,7 +2000,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 4-1 7-1.1.r 5-1.1 0-1.2.r 1-1.2.1.1 8-1.3.r 8-1.3.1 9-1.3.2
-(m / mandato~e.4 :poss~e.7 (p / presidente~e.5) :location~e.0 (c / country :name (n / name :op1 "méxico"~e.1)) :duration~e.8 (t / temporal-quantity :quant 6~e.8 :unit (a / ano~e.9)))
+(m / mandato~e.4 :poss~e.7 (p / presidente~e.5) :location~e.0 (c / country :name (n / name :op1 "México"~e.1)) :duration~e.8 (t / temporal-quantity :quant 6~e.8 :unit (a / ano~e.9)))
 
 # ::id mundo-4-99-0
 # ::tok-pt O acordo tem um item longo sobre as mulheres .
@@ -2028,7 +2028,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 2-1 1-1.1 4-1.2 5-1.2.1.r 6-1.2.1.1.1 7-1.2.2.r 8-1.2.2.1.1
-(c / complicar-01~e.2 :ARG0 (a / atrasar-01~e.1) :ARG1 (a2 / agenda~e.4 :poss~e.5 (p / person :name (n / name :op1 "merkel"~e.6)) :topic~e.7 (c2 / conference :name (n2 / name :op1 "g20"~e.8))))
+(c / complicar-01~e.2 :ARG0 (a / atrasar-01~e.1) :ARG1 (a2 / agenda~e.4 :poss~e.5 (p / person :name (n / name :op1 "Merkel"~e.6)) :topic~e.7 (c2 / conference :name (n2 / name :op1 "G20"~e.8))))
 
 # ::id mundo-4-29-4
 # ::tok-pt E logo se viram lutando contra as tribos locais .
@@ -2042,7 +2042,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 6-1 3-1.1.1.1 4-1.1.1.2 8-1.2 5-1.3.r 9-1.3
-(d / deixar-01~e.6 :ARG0 (c / country :name (n / name :op1 "reino"~e.3 :op2 "unido"~e.4)) :ARG1 (b / bloco~e.8) :cause~e.5 (a / amr-unknown~e.9))
+(d / deixar-01~e.6 :ARG0 (c / country :name (n / name :op1 "Reino"~e.3 :op2 "Unido"~e.4)) :ARG1 (b / bloco~e.8) :cause~e.5 (a / amr-unknown~e.9))
 
 # ::id mundo-4-12-0
 # ::tok-pt O banheiro é fedorento , com chuveiros alagados ao ar livre .
@@ -2077,21 +2077,21 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1 6-1.1.1.1 9-1.2 8-1.2.1 2-1.3 1-1.3.1 4-1.3.2.1.1
-(h / have-org-role-91~e.0 :ARG0 (p / person :name (n / name :op1 "bush"~e.6)) :ARG2 (v / vice-presidente~e.9 :mod (d / discreto~e.8)) :time (a / administrar-01~e.2 :quant 2~e.1 :ARG0 (p1 / person :name (n1 / name :op1 "reagan"~e.4))))
+(h / have-org-role-91~e.0 :ARG0 (p / person :name (n / name :op1 "Bush"~e.6)) :ARG2 (v / vice-presidente~e.9 :mod (d / discreto~e.8)) :time (a / administrar-01~e.2 :quant 2~e.1 :ARG0 (p1 / person :name (n1 / name :op1 "Reagan"~e.4))))
 
 # ::id mundo-4-162
 # ::tok-pt A plena recuperação só ocorreu com Clinton na Casa Branca .
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 4-1 2-1.1 1-1.1.1 3-1.2 6-1.3.1.1 7-1.3.2.r 8-1.3.2.1.1 9-1.3.2.1.2
-(o / ocorrer-01~e.4 :ARG1 (r / recuperação~e.2 :mod (p / pleno~e.1)) :mod (s / só~e.3) :time (p1 / person :name (n / name :op1 "clinton"~e.6) :location~e.7 (g / government-organization :name (n1 / name :op1 "casa"~e.8 :op2 "branca"~e.9))))
+(o / ocorrer-01~e.4 :ARG1 (r / recuperação~e.2 :mod (p / pleno~e.1)) :mod (s / só~e.3) :time (p1 / person :name (n / name :op1 "Clinton"~e.6) :location~e.7 (g / government-organization :name (n1 / name :op1 "Casa"~e.8 :op2 "Branca"~e.9))))
 
 # ::id mundo-4-164
 # ::tok-pt Também deve passar por Nova York e por Miami .
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 1-1 2-1.1 3-1.1.1 6-1.1.2 4-1.1.2.1.1.1 5-1.1.2.1.1.2 8-1.1.2.2.1.1 0-1.1.3
-(o / obligate-01~e.1 :ARG2 (p / passar-01~e.2 :ARG1 (e1 / ele~e.3) :ARG2 (a / e~e.6 :op1 (c / city :name (n / name :op1 "nova"~e.4 :op2 "york"~e.5)) :op2 (c1 / city :name (n1 / name :op1 "miami"~e.8))) :mod (t / também~e.0)))
+(o / obligate-01~e.1 :ARG2 (p / passar-01~e.2 :ARG1 (e1 / ele~e.3) :ARG2 (a / e~e.6 :op1 (c / city :name (n / name :op1 "Nova"~e.4 :op2 "York"~e.5)) :op2 (c1 / city :name (n1 / name :op1 "Miami"~e.8))) :mod (t / também~e.0)))
 
 # ::id mundo-4-165
 # ::tok-pt O governo britânico desenhou diversos cenários para contabilizar todas as variáveis .
@@ -2105,7 +2105,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 9-1 1-1.1.1.1 4-1.2 6-1.2.1 7-1.3
-(e / esperar-01~e.9 :ARG0 (p2 / person :name (n / name :op1 "molina"~e.1)) :ARG1 (p / possible-01~e.4 :ARG1 (r / romper-01~e.6)) :time (j / já~e.7))
+(e / esperar-01~e.9 :ARG0 (p2 / person :name (n / name :op1 "Molina"~e.1)) :ARG1 (p / possible-01~e.4 :ARG1 (r / romper-01~e.6)) :time (j / já~e.7))
 
 # ::id cotidiano-4-33-2
 # ::tok-pt E as que estavam ocupadas eram de forma parcial .
@@ -2140,14 +2140,14 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1 2-1.1.1.1 3-1.1.1.2 4-1.1.1.3 7-1.2 6-1.2.1.r 6-1.2.1 8-1.2.2.1
-(d / dizer-01~e.0 :ARG0 (m / military :name (n / name :op1 "corpo"~e.2 :op2 "de"~e.3 :op3 "bombeiros"~e.4)) :ARG1 (h / haver-01~e.7 :polarity~e.6 -~e.6 :ARG1 (p / pessoa :ARG0-of (s / sobreviver-01~e.8))))
+(d / dizer-01~e.0 :ARG0 (m / military :name (n / name :op1 "Corpo"~e.2 :op2 "de"~e.3 :op3 "Bombeiros"~e.4)) :ARG1 (h / haver-01~e.7 :polarity~e.6 -~e.6 :ARG1 (p / pessoa :ARG0-of (s / sobreviver-01~e.8))))
 
 # ::id cotidiano-4-8-3
 # ::tok-pt com BRUNA NARCIZO , BRUNO B. SORAGGI e VICTORIA AZEVEDO
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1 7-1.1 4-1.1.1.1.1 2-1.1.1.1.2 1-1.1.2.1.1 5-1.1.2.1.2 6-1.1.2.1.3 8-1.1.3.1.1 9-1.1.3.1.2
-(a / acompanhar-01~e.0 :ARG0 (e1 / e~e.7 :op1 (p / person :name (n / name :op1 "bruna"~e.4 :op2 "narcizo"~e.2)) :op2 (p2 / person :name (n2 / name :op1 "bruno"~e.1 :op2 "b."~e.5 :op3 "soraggi"~e.6)) :op3 (p3 / person :name (n3 / name :op1 "victoria"~e.8 :op2 "azevedo"~e.9))))
+(a / acompanhar-01~e.0 :ARG0 (e1 / e~e.7 :op1 (p / person :name (n / name :op1 "Bruna"~e.4 :op2 "Narcizo"~e.2)) :op2 (p2 / person :name (n2 / name :op1 "Bruno"~e.1 :op2 "b."~e.5 :op3 "Soraggi"~e.6)) :op3 (p3 / person :name (n3 / name :op1 "Victoria"~e.8 :op2 "Azevedo"~e.9))))
 
 # ::id cotidiano-4-26-6
 # ::tok-pt O processo inclui ainda burburinhos sobre as casas dos outros .
@@ -2196,7 +2196,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 5-1 1-1.1.1.1 4-1.1.1.2 2-1.1.2 8-1.2.1.1 9-1.2.1.2 3-1.2.2.r 7-1.2.2 10-1.3
-(e1 / e~e.5 :op1 (p / pessoa :name (n / name :op1 "constanza"~e.1 :op2 "pascolato"~e.4) :mod (e2 / empresa~e.2)) :op2 (p2 / pessoa :name (n2 / name :op1 "carolina"~e.8 :op2 "ferraz"~e.9) :ARG0-of~e.3 (a / atuar-01~e.7)) :ARG0 (c / comparecer-01~e.10))
+(e1 / e~e.5 :op1 (p / pessoa :name (n / name :op1 "Costanza"~e.1 :op2 "Pascolato"~e.4) :mod (e2 / empresa~e.2)) :op2 (p2 / pessoa :name (n2 / name :op1 "Carolina"~e.8 :op2 "Ferraz"~e.9) :ARG0-of~e.3 (a / atuar-01~e.7)) :ARG0 (c / comparecer-01~e.10))
 
 # ::id cotidiano-4-26-0
 # ::tok-pt Nas próximas semanas , os moradores começam a visitar os lotes .
@@ -2217,7 +2217,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 2-1 1-1.1 0-1.1.1 4-1.2 6-1.2.1 5-1.2.1.1.r 7-1.2.1.1 9-1.2.2.1.1 10-1.2.2.1.2
-(p / permitir-01~e.2 :ARG0 (i2 / investir-01~e.1 :mod (e1 / esse~e.0)) :ARG1 (e / entrar-01~e.4 :ARG0 (c / cuidado~e.6 :topic~e.5 (p2 / paliativo~e.7)) :ARG1 (c2 / country :name (n / name :op1 "estados"~e.9 :op2 "unidos"~e.10))))
+(p / permitir-01~e.2 :ARG0 (i2 / investir-01~e.1 :mod (e1 / esse~e.0)) :ARG1 (e / entrar-01~e.4 :ARG0 (c / cuidado~e.6 :topic~e.5 (p2 / paliativo~e.7)) :ARG1 (c2 / country :name (n / name :op1 "Estados"~e.9 :op2 "Unidos"~e.10))))
 
 # ::id cotidiano-4-23-6
 # ::tok-pt O que ela fez foi uma mudança de paradigma .
@@ -2231,7 +2231,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1 2-1.2 4-1.2.1 5-1.2.2.r 6-1.2.2 3-1.2.2.1 7-1.2.2.1.1.r 8-1.2.2.1.1.1.1
-(v / ver-01~e.0 :ARG0 (e / ele) :ARG1 (i / irmão~e.2 :mod (m / medio~e.4) :ARG1-of~e.5 (e1 / entregar-01~e.6 :ARG2 (p / pessoa~e.3 :source~e.7 (c / country :name (n / name :op1 "alemanha"~e.8))))))
+(v / ver-01~e.0 :ARG0 (e / ele) :ARG1 (i / irmão~e.2 :mod (m / medio~e.4) :ARG1-of~e.5 (e1 / entregar-01~e.6 :ARG2 (p / pessoa~e.3 :source~e.7 (c / country :name (n / name :op1 "Alemanha"~e.8))))))
 
 # ::id cotidiano-4-174
 # ::tok-pt Juntas , elas representam 68 empresas e 87 % do mercado .
@@ -2252,7 +2252,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 4-1 8-1.1 5-1.2 6-1.2.1.r 7-1.2.1 8-1.2.1.1 6-1.3.r 0-1.3.1.1 2-1.3.1.2
-(v / virar-01~e.4 :ARG1 (e / ela~e.8) :ARG2 (p / professor~e.5 :location~e.6 (e1 / escola~e.7 :mod (j / judaica~e.8))) :location~e.6 (c / city :name (n / name :op1 "são"~e.0 :op2 "paulo"~e.2)))
+(v / virar-01~e.4 :ARG1 (e / ela~e.8) :ARG2 (p / professor~e.5 :location~e.6 (e1 / escola~e.7 :mod (j / judaica~e.8))) :location~e.6 (c / city :name (n / name :op1 "São"~e.0 :op2 "Paulo"~e.2)))
 
 # ::id cotidiano-4-177
 # ::tok-pt Mata vespa , lagarta , cigarrinha , pulgão , ácaro .
@@ -2315,7 +2315,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1 0-1.1 2-1.1.1 4-1.2.1.1 5-1.2.1.2 6-1.2.1.3
-(p / pessoa~e.0 :ARG0-of (d / dirigir-01~e.0 :ARG1 (p2 / produção~e.2)) :domain (p1 / person :name (n / name :op1 "andrea"~e.4 :op2 "caruso"~e.5 :op3 "saturnino"~e.6)))
+(p / pessoa~e.0 :ARG0-of (d / dirigir-01~e.0 :ARG1 (p2 / produção~e.2)) :domain (p1 / person :name (n / name :op1 "Andrea"~e.4 :op2 "Caruso"~e.5 :op3 "Saturnino"~e.6)))
 
 # ::id ilustrissima-3-8-7
 # ::tok-pt Nada de escrever coisas incômodas ao presidente .
@@ -2385,14 +2385,14 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 3-1 1-1.1.1.1 6-1.2 7-1.2.1 5-1.3.r 2-1.3 4-1.4
-(c1 / contribuir-01~e.3 :ARG0 (c / country :name (n / name :op1 "brasil"~e.1)) :ARG2 (a / área~e.6 :mod (e / espacio~e.7)) :time~e.5 (s / sempre~e.2) :quant (m / muito~e.4))
+(c1 / contribuir-01~e.3 :ARG0 (c / country :name (n / name :op1 "Brasil"~e.1)) :ARG2 (a / área~e.6 :mod (e / espacio~e.7)) :time~e.5 (s / sempre~e.2) :quant (m / muito~e.4))
 
 # ::id ambiente-3-2-1
 # ::tok-pt O Xingu foi criado em 1961 .
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 3-1 1-1.1.1.1 4-1.2.r 5-1.2.1
-(c / criar-01~e.3 :ARG1 (f / facility :name (n / name :op1 "xingu"~e.1)) :time~e.4 (d / date-entity :year 1961~e.5))
+(c / criar-01~e.3 :ARG1 (f / facility :name (n / name :op1 "Xingu"~e.1)) :time~e.4 (d / date-entity :year 1961~e.5))
 
 # ::id ambiente-3-141
 # ::tok-pt O desmatamento e fogo cresceram muito no entorno .
@@ -2462,35 +2462,35 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1 0-1.1.r 0-1.1 1-1.2 3-1.3.r 4-1.3.1.1 5-1.3.1.2 6-1.3.1.3
-(l / ler-01~e.0 :mode~e.0 imperative~e.0 :ARG1 (m / mais~e.1) :medium~e.3 (m2 / magazine :name (n / name :op1 "volta"~e.4 :op2 "ao"~e.5 :op3 "mundo"~e.6)))
+(l / ler-01~e.0 :mode~e.0 imperative~e.0 :ARG1 (m / mais~e.1) :medium~e.3 (m2 / magazine :name (n / name :op1 "Volta"~e.4 :op2 "ao"~e.5 :op3 "Mundo"~e.6)))
 
 # ::id turismo-3-120
 # ::tok-pt estados de São Paulo e do Rio .
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 4-1 0-1.1.1.1 3-1.1.1.2 6-1.2.1.1
-(x5 / e~e.4 :op1 (e1 / state :name (n / name :op1 "são"~e.0 :op2 "paulo"~e.3)) :op2 (e2 / state :name (n1 / name :op1 "rio"~e.6)))
+(x5 / e~e.4 :op1 (e1 / state :name (n / name :op1 "São"~e.0 :op2 "Paulo"~e.3)) :op2 (e2 / state :name (n1 / name :op1 "Rio"~e.6)))
 
 # ::id turismo-3-122
 # ::tok-pt Nova Veneza tem ainda um atrativo quase exclusivo .
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1.1.1 1-1.1.2 2-1.2.r 2-1.2 3-1.2.1 5-1.2.2 7-1.2.2.2 6-1.2.2.2.1
-(c / city :name (n / name :op1 "nova"~e.0 :op2 "veneza"~e.1) :ARG0-of~e.2 (t / ter-01~e.2 :mod (a / ainda~e.3) :ARG1 (a1 / atrativo~e.5 :quant 1 :mod (e / exclusivo~e.7 :mod (q / quase~e.6)))))
+(c / city :name (n / name :op1 "Nova"~e.0 :op2 "Veneza"~e.1) :ARG0-of~e.2 (t / ter-01~e.2 :mod (a / ainda~e.3) :ARG1 (a1 / atrativo~e.5 :quant 1 :mod (e / exclusivo~e.7 :mod (q / quase~e.6)))))
 
 # ::id turismo-3-120
 # ::tok-pt Com passagens a partir de São Paulo
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 1-1 0-1.1.r 3-1.1.1.1 6-1.1.1.2
-(p / passagem~e.1 :source~e.0 (c / city :name (n / name :op1 "são"~e.3 :op2 "paulo"~e.6)))
+(p / passagem~e.1 :source~e.0 (c / city :name (n / name :op1 "São"~e.3 :op2 "Paulo"~e.6)))
 
 # ::id turismo-3-122
 # ::tok-pt De Gravatal a Nova Veneza são 80 km .
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 6-1.1 7-1.2 7-1.3 0-1.3.1.r 1-1.3.1.1.1 3-1.3.2.1.1 4-1.3.2.1.2
-(d / distance-quantity :quant 80~e.6 :unit (k / quilômetro~e.7) :domain (i / ir-01~e.7 :ARG3~e.0 (c / city :name (n / name :op1 "gravatal"~e.1)) :ARG4 (c1 / city :name (n1 / name :op1 "nova"~e.3 :op2 "veneza"~e.4))))
+(d / distance-quantity :quant 80~e.6 :unit (k / quilômetro~e.7) :domain (i / ir-01~e.7 :ARG3~e.0 (c / city :name (n / name :op1 "Gravatal"~e.1)) :ARG4 (c1 / city :name (n1 / name :op1 "Nova"~e.3 :op2 "Veneza"~e.4))))
 
 # ::id ciencia-1-16-3
 # ::tok-pt Compartilhe .
@@ -2539,14 +2539,14 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 4-1 3-1.1 2-1.2.1.1 0-1.2.2 7-1.3 5-1.3.1 8-1.4.r 9-1.4 11-1.4.2 12-1.4.2.1 10-1.4.2.2
-(a / adotar-01~e.4 :time (j / já~e.3) :ARG0 (p / person :name (n / name :op1 "murici"~e.2) :mod (p1 / precavido~e.0)) :ARG1 (m / medida~e.7 :mod (t / todo~e.5)) :purpose~e.8 (a1 / afastar-01~e.9 :ARG0 p :ARG1 (s / suspeita~e.11 :mod (i / início~e.12) :mod (q / qualquer~e.10))))
+(a / adotar-01~e.4 :time (j / já~e.3) :ARG0 (p / person :name (n / name :op1 "Murici"~e.2) :mod (p1 / precavido~e.0)) :ARG1 (m / medida~e.7 :mod (t / todo~e.5)) :purpose~e.8 (a1 / afastar-01~e.9 :ARG0 p :ARG1 (s / suspeita~e.11 :mod (i / início~e.12) :mod (q / qualquer~e.10))))
 
 # ::id propbank-5
 # ::tok-pt Ambos diziam ontem que nenhuma medida adotada até agora por Fernando Henrique Cardoso teve caráter eleitoreiro .
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 1-1 0-1.1 2-1.2 5-1.3 3-1.3.1.r 4-1.3.1 6-1.3.2 10-1.3.2.1.1.1 11-1.3.2.1.1.2 12-1.3.2.1.1.3 7-1.3.2.2 8-1.3.3.r 13-1.3.3 14-1.3.3.1.r 15-1.3.3.1
-(d / dizer-01~e.1 :ARG0 (a / ambos~e.0) :time (o / ontem~e.2) :ARG1 (m / medida~e.5 :polarity~e.3 -~e.4 :ARG1-of (a1 / adotar-01~e.6 :ARG0 (p / person :name (n / name :op1 "fernando"~e.10 :op2 "henrique"~e.11 :op3 "cardoso"~e.12)) :time (a2 / até-agora~e.7)) :ARG0-of~e.8 (t / ter-01~e.13 :purpose~e.14 (e / eleitoreiro~e.15))))
+(d / dizer-01~e.1 :ARG0 (a / ambos~e.0) :time (o / ontem~e.2) :ARG1 (m / medida~e.5 :polarity~e.3 -~e.4 :ARG1-of (a1 / adotar-01~e.6 :ARG0 (p / person :name (n / name :op1 "Fernando"~e.10 :op2 "Henrique"~e.11 :op3 "Cardoso"~e.12)) :time (a2 / até-agora~e.7)) :ARG0-of~e.8 (t / ter-01~e.13 :purpose~e.14 (e / eleitoreiro~e.15))))
 
 # ::id propbank-7
 # ::tok-pt Ele contou que conseguiu adquirir 20 entradas porque ofereceu Cr $ 5.000 a o bilheteiro .
@@ -2567,7 +2567,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 1-1 12-1.1 4-1.1.1 3-1.1.1.1 0-1.1.1.2.r 7-1.1.1.2.1.1 10-1.1.1.2.1.2 9-1.1.1.2.1.3 15-1.1.2
-(p / possible-01~e.1 :ARG1 (a / afetar-01~e.12 :ARG1 (c1 / cidade~e.4 :quant 13~e.3 :location~e.0 (c / local-region :name (n / name :op1 "grande"~e.7 :op2 "são"~e.10 :op3 "paulo"~e.9))) :ARG2 (g / greve~e.15)))
+(p / possible-01~e.1 :ARG1 (a / afetar-01~e.12 :ARG1 (c1 / cidade~e.4 :quant 13~e.3 :location~e.0 (c / local-region :name (n / name :op1 "Grande"~e.7 :op2 "São"~e.10 :op3 "Paulo"~e.9))) :ARG2 (g / greve~e.15)))
 
 # ::id propbank-13
 # ::tok-pt Os diferentes sobrepesos de as cargas tributárias afetam diretamente a competitividade .
@@ -2588,7 +2588,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 10-1 1-1.1 2-1.1.1.r 4-1.1.1 3-1.1.1.1.1.1 6-1.1.1.2 5-1.1.1.2.1.r 7-1.1.1.2.2 9-1.2 8-1.3.r 8-1.3
-(i / impressionar-01~e.10 :ARG0 (m / maneira~e.1 :manner-of~e.2 (a / administrar-01~e.4 :ARG0 (p / person :name (n / name :op1 "emerson"~e.3)) :ARG1 (i2 / imagem~e.6 :poss~e.5 p :mod (p2 / público~e.7)))) :ARG1 (e / eu~e.9) :frequency~e.8 (s / sempre~e.8))
+(i / impressionar-01~e.10 :ARG0 (m / maneira~e.1 :manner-of~e.2 (a / administrar-01~e.4 :ARG0 (p / person :name (n / name :op1 "Emerson"~e.3)) :ARG1 (i2 / imagem~e.6 :poss~e.5 p :mod (p2 / público~e.7)))) :ARG1 (e / eu~e.9) :frequency~e.8 (s / sempre~e.8))
 
 # ::id propbank-3-181
 # ::tok-pt Vamos verificar o que houve com essas matérias-primas . »
@@ -2602,7 +2602,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 1-1 0-1.1.1.1 6-1.2 4-1.2.1.1.1 9-1.2.2 8-1.2.2.1
-(e / esperar-02~e.1 :ARG0 (p / person :name (n / name :op1 "murici"~e.0)) :ARG1 (t / ter-01~e.6 :ARG0 (t1 / team :name (n1 / name :op1 "inter"~e.4)) :ARG1 (a / atitude~e.9 :mod (m / mesmo~e.8))))
+(e / esperar-02~e.1 :ARG0 (p / person :name (n / name :op1 "Murici"~e.0)) :ARG1 (t / ter-01~e.6 :ARG0 (t1 / team :name (n1 / name :op1 "inter"~e.4)) :ARG1 (a / atitude~e.9 :mod (m / mesmo~e.8))))
 
 # ::id propbank-20
 # ::tok-pt Eles ficaram aguardando o resultado de a negociação .
@@ -2616,7 +2616,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 0-1 1-1.1 3-1.1.1 2-1.1.1.1 4-1.2.r 5-1.2.1.1 6-1.2.1.2
-(p / preço~e.0 :ARG1-of (s / subir-01~e.1 :ARG2 (p1 / percentage-entity~e.3 :value 3.12~e.2)) :location~e.4 (c / city :name (n / name :op1 "belo"~e.5 :op2 "horizonte"~e.6)))
+(p / preço~e.0 :ARG1-of (s / subir-01~e.1 :ARG2 (p1 / percentage-entity~e.3 :value 3.12~e.2)) :location~e.4 (c / city :name (n / name :op1 "Belo"~e.5 :op2 "Horizonte"~e.6)))
 
 # ::id propbank-22
 # ::tok-pt Aguardem o próximo lançamento .
@@ -2630,21 +2630,21 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 1-1 3-1.1 3-1.1.1.1.1 3-1.1.1.2.r 0-1.1.1.2 2-1.2 3-1.2.1.r 4-1.2.1
-(t / tomar-02~e.1 :ARG0 (p / pessoa~e.3 :source (c / country :name (n / name :op1 "iémen"~e.3) :location~e.3 (n1 / norte~e.0))) :ARG1 (b / base~e.2 :location~e.3 (s / sul~e.4)))
+(t / tomar-02~e.1 :ARG0 (p / pessoa~e.3 :source (c / country :name (n / name :op1 "Iémen"~e.3) :location~e.3 (n1 / norte~e.0))) :ARG1 (b / base~e.2 :location~e.3 (s / sul~e.4)))
 
 # ::id propbank-2-179
 # ::tok-pt Cingapura acusa mais um americano
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 1-1 0-1.1.1.1 4-1.2 4-1.2.1.1.1 4-1.2.2 2-1.2.3
-(a / acusar-01~e.1 :ARG0 (c / country :name (n / name :op1 "cingapura"~e.0)) :ARG1 (p / pessoa~e.4 :source (c1 / continent :name (n1 / name :op1 "américa"~e.4)) :quant 1~e.4 :mod (m / mais~e.2)))
+(a / acusar-01~e.1 :ARG0 (c / country :name (n / name :op1 "Cingapura"~e.0)) :ARG1 (p / pessoa~e.4 :source (c1 / continent :name (n1 / name :op1 "américa"~e.4)) :quant 1~e.4 :mod (m / mais~e.2)))
 
 # ::id propbank-2-181
 # ::tok-pt Palmeiras e Corinthians treinam hoje
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 1-1 0-1.1.1.1 2-1.2.1.1 3-1.3 4-1.3.1
-(a / e~e.1 :op1 (t / team :name (n / name :op1 "palmeiras"~e.0)) :op2 (t1 / team :name (n1 / name :op1 "corinthians"~e.2)) :ARG0-of (t2 / treinar-01~e.3 :time (h / hoje~e.4)))
+(a / e~e.1 :op1 (t / team :name (n / name :op1 "Palmeiras"~e.0)) :op2 (t1 / team :name (n1 / name :op1 "Corinthians"~e.2)) :ARG0-of (t2 / treinar-01~e.3 :time (h / hoje~e.4)))
 
 # ::id comida-1-2-10
 # ::tok-pt Seria demais .
@@ -2693,7 +2693,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 2-1 1-1.1 4-1.2.1.1 5-1.2.1.2 6-1.3.r 8-1.3.1 10-1.3.2
-(c / chegar-01~e.2 :ARG1 (f / família~e.1) :ARG2 (l / location :name (n / name :op1 "pedra"~e.4 :op2 "azul"~e.5)) :time~e.6 (d / date-entity :year 1938~e.8 :mod (f1 / final~e.10)))
+(c / chegar-01~e.2 :ARG1 (f / família~e.1) :ARG2 (l / location :name (n / name :op1 "Pedra"~e.4 :op2 "Azul"~e.5)) :time~e.6 (d / date-entity :year 1938~e.8 :mod (f1 / final~e.10)))
 
 # ::id turismo-4-151
 # ::tok-pt Camarões , lulas , mexilhões , siri , bacalhau .
@@ -2707,7 +2707,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 3-1 1-1.1.1.1 2-1.1.1.2 4-1.2 4-1.2.1.1 5-1.2.1.2 6-1.2.2.1 8-1.2.2.2 9-1.3.r 10-1.3.1.1
-(c / custar-01~e.3 :ARG1 (p / product :name (n / name :op1 "youtube"~e.1 :op2 "premium"~e.2)) :ARG2 (r / rate-entity-91~e.4 :ARG1 (m / monetary-quantity :quant 20.90~e.4 :unit (r1 / real~e.5)) :ARG2 (t / temporal-quantity :quant 1~e.6 :unit (m1 / mês~e.8))) :location~e.9 (c1 / country :name (n1 / name :op1 "brasil"~e.10)))
+(c / custar-01~e.3 :ARG1 (p / product :name (n / name :op1 "Youtube"~e.1 :op2 "Premium"~e.2)) :ARG2 (r / rate-entity-91~e.4 :ARG1 (m / monetary-quantity :quant 20.90~e.4 :unit (r1 / real~e.5)) :ARG2 (t / temporal-quantity :quant 1~e.6 :unit (m1 / mês~e.8))) :location~e.9 (c1 / country :name (n1 / name :op1 "Brasil"~e.10)))
 
 # ::id poder-4-154
 # ::tok-pt Fazia 15 anos que ele não atuava em um folhetim .
@@ -2721,14 +2721,14 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 9-1 6-1.1.r 7-1.1 1-1.2 3-1.2.1.1.1 4-1.2.2.r 5-1.2.2.1.1
-(d / divulgar-01~e.9 :polarity~e.6 -~e.7 :ARG1 (a / agendar-01~e.1 :ARG0 (p / person :name (n / name :op1 "bolsonaro"~e.3)) :location~e.4 (c / city :name (n1 / name :op1 "rio"~e.5))))
+(d / divulgar-01~e.9 :polarity~e.6 -~e.7 :ARG1 (a / agendar-01~e.1 :ARG0 (p / person :name (n / name :op1 "Bolsonaro"~e.3)) :location~e.4 (c / city :name (n1 / name :op1 "Rio"~e.5))))
 
 # ::id poder-4-157
 # ::tok-pt O PSDB tem uma corresponsabilidade muito grande por esse quadro negativo .
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 1-1.1.1 7-1.2.r 2-1.2 4-1.2.1 6-1.2.2 5-1.2.2.1 9-1.2.3 10-1.2.3.1
-(p / political-party :name (n / name :op1 "psdb"~e.1) :ARG1-of~e.7 (r / responsabilizar-01~e.2 :mod (c / co~e.4) :mod (g / grande~e.6 :degree (m / muito~e.5)) :ARG2 (q / quadro~e.9 :mod (n1 / negativo~e.10))))
+(p / political-party :name (n / name :op1 "PSDB"~e.1) :ARG1-of~e.7 (r / responsabilizar-01~e.2 :mod (c / co~e.4) :mod (g / grande~e.6 :degree (m / muito~e.5)) :ARG2 (q / quadro~e.9 :mod (n1 / negativo~e.10))))
 
 # ::id poder-4-158
 # ::tok-pt Outros três mandatários já haviam sido presos no exercício do cargo .
@@ -2742,7 +2742,7 @@
 # ::tok-en 
 # ::alignments-bren 
 # ::alignments-bramr 7-1 4-1.1 2-1.2 3-1.3.r 1-1.3 0-1.3.1 5-1.4.r 6-1.4.1.1 8-1.4.2
-(h / have-degree-91~e.7 :ARG1 (i / isso~e.4) :ARG2 (t / gentil~e.2) :ARG3~e.3 (m / mais~e.1 :degree (m1 / muito~e.0)) :ARG4~e.5 (c / city :name (n / name :op1 "rio"~e.6) :time (h1 / hoje~e.8)))
+(h / have-degree-91~e.7 :ARG1 (i / isso~e.4) :ARG2 (t / gentil~e.2) :ARG3~e.3 (m / mais~e.1 :degree (m1 / muito~e.0)) :ARG4~e.5 (c / city :name (n / name :op1 "Rio"~e.6) :time (h1 / hoje~e.8)))
 
 # ::id poder-4-155
 # ::tok-pt A Satiagraha brasileira foi uma ação espetaculosa que deu em nada .
