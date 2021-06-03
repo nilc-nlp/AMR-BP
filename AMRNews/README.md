@@ -4,7 +4,7 @@ This is AMRNews, an AMR annotated corpus of journalistic texts in Brazilian Port
 
 ## Corpus
 
-The corpus is organized in a single file [`amr-opisums-pt.txt`](unsplit/amr.txt) with multiple sentences. Each sentence is separated by a blank line. Alternatively, the folder [`split`](split) contains the same corpus divided in training, development and test sets according to domain and length criteria in order to allow experiments in Natural Language Generation and Semantic Parsing.
+The corpus is organized in a single file [`amr.txt`](unsplit/amr.txt) with multiple sentences. Each sentence is separated by a blank line. Additionally, the folder [`split`](split) contains the same corpus divided in training, development and test sets in order to allow experiments in Natural Language Generation and Semantic Parsing.
 
 
 ## Acknowledgements
