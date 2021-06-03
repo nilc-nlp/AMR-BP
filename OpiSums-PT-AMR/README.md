@@ -4,7 +4,7 @@ This is OpiSums-PT-AMR, an AMR annotated corpus of opinion texts in Brazilian Po
 
 ## Corpus
 
-The corpus is organized in a single file [`amr-opisums-pt-v1.txt`](amr-opisums-pt-v1.txt) with multiple sentences. Each sentence is separated by a blank line.
+The corpus is organized in a single file [`amr-opisums-pt.txt`](amr-opisums-pt.txt) with multiple sentences. Each sentence is separated by a blank line.
 
 Every sentence has a unique ID corresponding to their location in the OpiSums-PT original corpus. The ID has the following format: `directory.file.line`, in which `directory` indicates the name of the directory (product) in the original corpus, `file` indicates the file name within the directory and `line` indicates the line number within the file.
 
