@@ -45,8 +45,7 @@ A blank line separates each sentence.
 Statistics of each corpus can be obtained by running the script `stats_amr.py` in this way:
 
 ```
-python stats_amr.py <path_corpus>
-
+python stats_amr.py <corpus_path> #For example: AMRNews/unsplit/amr.txt
 ```
 
 
