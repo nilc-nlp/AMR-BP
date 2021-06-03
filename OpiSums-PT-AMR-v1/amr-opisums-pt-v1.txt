@@ -2024,7 +2024,7 @@
 
 # ::id Fala-Serio-Amor.Documento_3.3
 # ::snt Muito bom , vale a pena !
-(multi-sentence :snt1 (b / bom :degree (m / muito)) :snt2 (v / valer-02 :ARG2 (p / pena)))
+(m1 / multi-sentence :snt1 (b / bom :degree (m / muito)) :snt2 (v / valer-02 :ARG2 (p / pena)))
 
 # ::id Fala-Serio-Amor.Documento_9.2
 # ::snt É ótimo vale a pena ler .
@@ -3356,13 +3356,9 @@
 # ::id Crepusculo.Documento_702.1
 # ::snt Crepúsculo , o livro perfeito de a minha vida .
 (l / livro
-
       :domain (b / book :name (n / name :op1 "Crepúsculo"))
-
       :mod (p / perfeito)
-
       :topic (v / vida
-
             :poss (e / eu)))
 
 # ::id Galaxy-SIII.Documento_7.7
@@ -3575,13 +3571,9 @@
 # ::id Ensaio-Sobre-a-Cegueira.Documento_84.2
 # ::snt É um ensaio sobre a cegueira de o homem sobre a sua própria natureza .
 (e7 / ensaio
-
       :topic (c2 / cego
-
             :domain (h / homem)
-
             :topic (n2 / natureza
-
                   :domain h)))
 
 # ::id Ensaio-Sobre-a-Cegueira.Documento_216.3

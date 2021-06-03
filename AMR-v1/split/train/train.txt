@@ -1509,8 +1509,8 @@
 # ::tok-pt Nenhuma .
 # ::tok-en 
 # ::alignments-bren 
-# ::alignments-bramr 0-1 0-1.1.r 0-1.1
-(n / nenhum~e.0 :gender~e.0 "fem"~e.0)
+# ::alignments-bramr 0-1
+(n / nenhum~e.0)
 
 # ::id poder-1-97
 # ::tok-pt Constatando .
@@ -2237,8 +2237,8 @@
 # ::tok-pt Juntas , elas representam 68 empresas e 87 % do mercado .
 # ::tok-en 
 # ::alignments-bren 
-# ::alignments-bramr 0-1 0-1.1 2-1.1.1.1.r 2-1.1.1.1 3-1.2 6-1.2.2 5-1.2.2.1 4-1.2.2.1.1 5-1.2.2.2 10-1.2.2.2.1 9-1.2.2.2.2.r 8-1.2.2.2.2 7-1.2.2.2.2.1
-(c / cause-01~e.0 :ARG0 (j / juntar-01~e.0 :ARG1 (e1 / ele :gender~e.2 "fem"~e.2)) :ARG1 (r / representar-01~e.3 :ARG1 e1 :ARG2 (a / e~e.6 :op1 (e2 / empresa~e.5 :quant 68~e.4) :op2 (i / include-91~e.5 :ARG2 (m / mercado~e.10) :ARG3~e.9 (p3 / percentage-entity~e.8 :value 87~e.7)))))
+# ::alignments-bramr 0-1 0-1.1 2-1.1.1 3-1.2 6-1.2.2 5-1.2.2.1 4-1.2.2.1.1 5-1.2.2.2 10-1.2.2.2.1 9-1.2.2.2.2.r 8-1.2.2.2.2 7-1.2.2.2.2.1
+(c / cause-01~e.0 :ARG0 (j / juntar-01~e.0 :ARG1 (e1 / ele~e.2)) :ARG1 (r / representar-01~e.3 :ARG1 e1 :ARG2 (a / e~e.6 :op1 (e2 / empresa~e.5 :quant 68~e.4) :op2 (i / include-91~e.5 :ARG2 (m / mercado~e.10) :ARG3~e.9 (p3 / percentage-entity~e.8 :value 87~e.7)))))
 
 # ::id cotidiano-4-176
 # ::tok-pt Nós queríamos menos preço e técnica ” , disse .
@@ -2363,8 +2363,8 @@
 # ::tok-pt E são estas que ele de fato combate .
 # ::tok-en 
 # ::alignments-bren 
-# ::alignments-bramr 0-1 3-1.1 2-1.1.1.r 2-1.1.1 7-1.1.2 4-1.1.2.1 6-1.1.2.2
-(x1 / e~e.0 :op1 (x3 / este~e.3 :gender~e.2 "fem"~e.2 :ARG1-of (c / combater-01~e.7 :ARG0 (e1 / ele~e.4) :mod (d / de-fato~e.6))))
+# ::alignments-bramr 0-1 2-1.1 7-1.1.2 4-1.1.2.1 6-1.1.2.2
+(x1 / e~e.0 :op1 (x3 / este~e.2 :ARG1-of (c / combater-01~e.7 :ARG0 (e1 / ele~e.4) :mod (d / de-fato~e.6))))
 
 # ::id ilustrissima-3-132
 # ::tok-pt Sei que é muito importante denunciar .
