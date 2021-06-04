@@ -9,12 +9,19 @@ modal_verbs = ["possible-01", "likely-01", "obligate-01", "permit-01", "recommen
 
 named_entities = ["person", "family", "animal", "language", "nationality", "ethnic-group", "regional-group", "religious-group", "political-movement", "organization", "company", "government-organization", "military", "criminal-organization", "political-party", "market-sector", "school", "university", "research-institute", "team", "league", "location", "city", "city-district", "county", "state", "province", "territory", "country", "local-region", "country-region", "world-region", "continent", "ocean", "sea", "lake", "river", "gulf", "bay", "strait", "canal", "peninsula", "mountain", "volcano", "valley", "canyon", "island", "desert", "forest", "moon", "planet", "star", "constellation", "facility", "airport", "station", "port", "tunnel", "bridge", "road", "railway-line", "canal", "building", "theater", "museum", "palace", "hotel", "worship-place", "sports-facility", "market", "park", "zoo", "amusement-park", "event", "incident", "natural-disaster", "earthquake", "war", "conference", "game", "festival", "product", "vehicle", "ship", "aircraft", "aircraft-type", "spaceship", "car-make", "work-of-art", "picture", "music", "show", "broadcast-program", "publication", "book", "newspaper", "magazine", "journal", "natural-object", "award", "law", "court-decision", "treaty", "music-key", "musical-note", "food-dish", "writing-script", "variable", "program", "molecular-physical-entity", "small-molecule", "protein", "protein-family", "protein-segment", "amino-acid", "macro-molecular-complex", "enzyme", "nucleic-acid", "pathway", "gene", "dna-sequence", "cell", "cell-line", "species", "taxon", "disease", "medical-condition", "thing"]
 
+
 def is_frameset(concept):
 	fragments = concept.split("-")
 	if len(fragments) > 1 and fragments[len(fragments)-1].isnumeric():
 		return True
 	else:
 		return False
+
+def merge_op(edges):
+	return [":opX" if edge.startswith(":op") else edge for edge in edges]
+
+def get_framesets(instance_nodes):
+	return [instance for instance in instance_nodes if is_frameset(instance)]
 
 
 def get_top(sample, top_k=10):
@@ -103,7 +110,7 @@ if __name__ == "__main__":
 	print("Most frequent edges and Verbo-Brasil framesets")
 	print("----------------------------------")
 	top_k = 10
-	top_edges = get_top(edges, top_k)
+	top_edges = get_top(merge_op(edges), top_k)
 	print(f'Top {top_k} edges')
 	for edge, freq, percent in top_edges:
 		print(f'{edge}\t{freq}\t{percent:.2f}%')
@@ -111,7 +118,7 @@ if __name__ == "__main__":
 	print("----------------------------------")
 
 	print(f'Top {top_k} Verbo-Brasil framesets')
-	top_framesets = get_top([instance for instance in instance_nodes if is_frameset(instance)], top_k)
+	top_framesets = get_top(get_framesets(instance_nodes), top_k)
 	for fset, freq, percent in top_framesets:
 		print(f'{fset}\t{freq}\t{percent:.2f}%')
 
