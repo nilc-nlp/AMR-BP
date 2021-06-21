@@ -12,7 +12,7 @@ This repository is organized in subdirectories, which contain each individual co
 
 This corpus contains opinion texts from the [OpiSums-PT corpus](http://www.google.com/url?q=http%3A%2F%2Fconteudo.icmc.usp.br%2Fpessoas%2Ftaspardo%2Fsucinto%2Ffiles%2FOpiSums-PT.zip&sa=D&sntz=1&usg=AFQjCNH7mwRNQ3L4E_AYHlsXLCwKdmqgTA) manually annotated in AMR.
 
-### [AMR](AMR-v1)
+### [AMR](AMRNews)
 
 This corpus contains news texts from the Folha de São Paulo newspaper manually annotated in AMR.
 
@@ -38,3 +38,17 @@ The corpora follow a standard notation to ease the reading of files. A corpus fi
 ```
 
 A blank line separates each sentence.
+
+
+## Statistics
+
+Statistics of each corpus can be obtained by running the script `stats_amr.py` in this way:
+
+```
+python stats_amr.py <corpus_path> #For example: AMRNews/unsplit/amr.txt
+```
+
+
+
+
+
