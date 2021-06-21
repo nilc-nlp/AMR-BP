@@ -1379,6 +1379,7 @@
 
 # ::id Fala-Serio-Mae.Documento_1.2
 # ::snt É bom para passar a tarde , como aquele filme meio chatinha e clichê que está passando em a televisão , e como você não tem mais nada pra fazer , se senta e vai assistir .
+# ::diminutive pragmatic
 (s / same-01
       :ARG1 (b / bom
             :purpose (p / passar-04
@@ -2008,6 +2009,7 @@
 
 # ::id Fala-Serio-Amor.Documento_15.0
 # ::snt Muito engraçadinho ! ;)
+# ::diminutive pragmatic
 (e / engraçadinho :degree (m / muito) :mod (e / emoticon :value ":)"))
 
 # ::id 1984.Documento_0.4
@@ -2024,7 +2026,7 @@
 
 # ::id Fala-Serio-Amor.Documento_3.3
 # ::snt Muito bom , vale a pena !
-(multi-sentence :snt1 (b / bom :degree (m / muito)) :snt2 (v / valer-02 :ARG2 (p / pena)))
+(m1 / multi-sentence :snt1 (b / bom :degree (m / muito)) :snt2 (v / valer-02 :ARG2 (p / pena)))
 
 # ::id Fala-Serio-Amor.Documento_9.2
 # ::snt É ótimo vale a pena ler .
@@ -2809,6 +2811,7 @@
 # ::id Fala-Serio-Pai.Documento_6.1
 # ::snt É um livro que conta as trapalhadas e engraçadas histórias de Malu ( uma garotinha que mora em a tijuca e adora seu papai ) e seu pai ( pai de primeira viagem que não tem muita experiência , e com isso acaba se atrapalhando com a sua " anjinha " ) para . Sim : eu gostei de este livro , é muito engraçado , mas , não é um de os melhores !
 # ::mwe
+# ::diminutive pragmatic
 (m / multi-sentence
       :snt1 (l / livro
             :ARG0-of (c / contar-01
@@ -3008,6 +3011,7 @@
 
 # ::id Crepusculo.Documento_0.1
 # ::snt Livro bem chatinho .
+# ::diminutive pragmatic
 (l8 / livro
       :mod (c15 / chatinho
             :degree (b4 / bem)))
@@ -3312,6 +3316,7 @@
 
 # ::id Galaxy-SIII.Documento_7.2
 # ::snt Lindo , roda bem leve , fininho e discreto .
+# ::diminutive semantic
 (a / e
       :op1 (l / lindo)
       :op2 (r / rodar-03
