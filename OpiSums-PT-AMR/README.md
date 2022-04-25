@@ -24,6 +24,24 @@ There is also an indication of the original sentence represented in AMR. An exam
 
 There is also a [`new-verbs.txt`](new-verbs.txt) file, which contains a list of verbs that do not exist within the [VerboBrasil](http://143.107.183.175:21380/verbobrasil/) repository. This is maintained as there may be researchers interested in further enhance this important resource for the Brazilian Portuguese language.
 
+## How to cite
+
+### Master's Thesis
+
+Inácio, M. L. (2021). Sumarização de Opinião com base em Abstract Meaning Representation [Mestrado em ciências de computação e matemática computacional, Universidade de São Paulo]. https://doi.org/10.11606/D.55.2021.tde-13092021-141741
+
+```bibtex
+@mastersthesis{Inacio2021,
+  type = {{Mestrado em ci\^encias de computa\c{c}\~ao e matem\'atica computacional}},
+  title = {{Sumariza\c{c}\~ao de Opini\~ao com base em Abstract Meaning Representation}},
+  author = {In{\'a}cio, Marcio Lima},
+  year = {2021},
+  month = sep,
+  publisher = {{Universidade de S\~ao Paulo}},
+  address = {{S\~ao Carlos}}
+}
+```
+
 ## References
 
 López, R., Pardo, T., Avanço, L., Filho, P., Bokan, A., Cardoso, P., Dias, M., Nóbrega, F., Cabezudo, M., Souza, J., Zacarias, A., Seno, E., and Di Felippo, A. (2015). A qualitative analysis of a corpus of opinion summaries based on aspects. In *Proceedings of The 9th Linguistic Annotation Workshop*, pages 62–71, Denver, Colorado, USA, June. Association for Computational Linguistics.
