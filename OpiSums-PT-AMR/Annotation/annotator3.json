@@ -1,0 +1,2666 @@
+[
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_82.txt",
+        "Sentence Number":0,
+        "Sentence":"1.0",
+        "AMR":"(n10 \/ number-entity :value 1.0)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Pai",
+        "Document":"Documento_0.txt",
+        "Sentence Number":0,
+        "Sentence":"Bom .",
+        "AMR":"(b \/ bom)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_123.txt",
+        "Sentence Number":2,
+        "Sentence":"Fato .",
+        "AMR":"(f \/ fato)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_178.txt",
+        "Sentence Number":0,
+        "Sentence":"Tédio .",
+        "AMR":"(t \/ tédio)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_0.txt",
+        "Sentence Number":0,
+        "Sentence":"Surreal",
+        "AMR":"(s \/ surreal)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_702.txt",
+        "Sentence Number":0,
+        "Sentence":"Perfeito",
+        "AMR":"(p \/ perfeito)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_162.txt",
+        "Sentence Number":8,
+        "Sentence":"Nada ! .",
+        "AMR":"(n \/ nada)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_384.txt",
+        "Sentence Number":0,
+        "Sentence":"Horrível",
+        "AMR":"(h \/ horrível)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_162.txt",
+        "Sentence Number":9,
+        "Sentence":"Leiam ! .",
+        "AMR":"(l \/ ler-01 :mode imperative\n      :ARG0 (v \/ você))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_162.txt",
+        "Sentence Number":0,
+        "Sentence":"Meu deus !",
+        "AMR":"(m \/ meu-deus :mode expressive)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_743.txt",
+        "Sentence Number":0,
+        "Sentence":"O melhor !",
+        "AMR":"(t \/ thing\n      :ARG1-of (h \/ have-degree-91\n            :ARG2 (b \/ bom)\n            :ARG3 (m \/ máximo)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_1.txt",
+        "Sentence Number":0,
+        "Sentence":"Trava trava",
+        "AMR":"(t \/ travar-01)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_8.txt",
+        "Sentence Number":0,
+        "Sentence":"Belíssimo !",
+        "AMR":"(b \/ belo\n      :degree (m \/ muito))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_123.txt",
+        "Sentence Number":0,
+        "Sentence":"Contradições",
+        "AMR":"(c \/ contradição)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_6.txt",
+        "Sentence Number":0,
+        "Sentence":"Nada de mais",
+        "AMR":"(n \/ nada-de-mais)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_9.txt",
+        "Sentence Number":0,
+        "Sentence":"É do Paraguai",
+        "AMR":"(c2 \/ country\n      :source (c3 \/ country :name (n2 \/ name :op1 \"Paraguai\")))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_3.txt",
+        "Sentence Number":6,
+        "Sentence":"Abs a todos .",
+        "AMR":"(a \/ abraço\n      :beneficiary (t \/ todos))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_21.txt",
+        "Sentence Number":0,
+        "Sentence":"Maravilhoso .",
+        "AMR":"(m \/ maravilhoso)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_162.txt",
+        "Sentence Number":3,
+        "Sentence":"O que fazer ?",
+        "AMR":"(f \/ fazer-01\n      :ARG1 (a \/ amr-unknown))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_1.txt",
+        "Sentence Number":0,
+        "Sentence":"Vale a pena .",
+        "AMR":"(v \/ valer-02\n      :ARG2 (p \/ pena))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_3.txt",
+        "Sentence Number":0,
+        "Sentence":"Ótima opção !",
+        "AMR":"(o \/ opção\n      :mod (o2 \/ ótimo))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_243.txt",
+        "Sentence Number":0,
+        "Sentence":"Cego Aderaldo",
+        "AMR":"(p7 \/ person :name (n7 \/ name :op1 \"person\" :op2 \"Cego\" :op3 \"Aderaldo\"))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_0.txt",
+        "Sentence Number":0,
+        "Sentence":"Durabilidade 0",
+        "AMR":"(d \/ durabilidade :degree 0)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_216.txt",
+        "Sentence Number":0,
+        "Sentence":"Adaptabilidade",
+        "AMR":"(a2 \/ adaptar-01)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_808.txt",
+        "Sentence Number":0,
+        "Sentence":"Decepcionante .",
+        "AMR":"(t \/ thing\n      :ARG0 (d \/ decepcionar-01))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_7.txt",
+        "Sentence Number":8,
+        "Sentence":"Rápido e ágil .",
+        "AMR":"(a3 \/ e\n      :op1 (r \/ rápido)\n      :op2 (a4 \/ ágil))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Professor",
+        "Document":"Documento_22.txt",
+        "Sentence Number":0,
+        "Sentence":"Falando sério .",
+        "AMR":null,
+        "New Verbs":"falar-sério"
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_3.txt",
+        "Sentence Number":7,
+        "Sentence":"Vale de alerta .",
+        "AMR":"(v \/ valer-01\n      :ARG2 (a \/ alertar-01))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_12.txt",
+        "Sentence Number":0,
+        "Sentence":"Fala serio amiga",
+        "AMR":null,
+        "New Verbs":"falar-sério"
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_9.txt",
+        "Sentence Number":0,
+        "Sentence":"Estou satisfeito",
+        "AMR":"(s2 \/ satisfeito\n      :domain (e6 \/ eu))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Professor",
+        "Document":"Documento_22.txt",
+        "Sentence Number":3,
+        "Sentence":"Vale a pena ler .",
+        "AMR":"(v2 \/ valer-02\n      :ARG1 (l7 \/ ler-01)\n      :ARG2 (p7 \/ pena))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_14.txt",
+        "Sentence Number":1,
+        "Sentence":"Thalita Rebouças",
+        "AMR":"(p8 \/ person :name (n8 \/ name :op1 \"person\" :op2 \"Thalita\" :op3 \"Rebouças\"))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_29.txt",
+        "Sentence Number":8,
+        "Sentence":"Pois é . Nenhum .",
+        "AMR":"(n \/ nenhum)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_84.txt",
+        "Sentence Number":0,
+        "Sentence":"O que você faria ?",
+        "AMR":"(f3 \/ fazer-01\n      :ARG0 (v \/ você)\n      :ARG1 (a5 \/ amr-unknown))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_84.txt",
+        "Sentence Number":5,
+        "Sentence":"Recomendadíssimo .",
+        "AMR":"(r2 \/ recomendar-01\n      :mod (m \/ muito))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Capitaes-da-Areia",
+        "Document":"Documento_114.txt",
+        "Sentence Number":0,
+        "Sentence":"Idade inadequada .",
+        "AMR":"(i2 \/ idade\n      :mod (a6 \/ adequado :polarity -))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_9.txt",
+        "Sentence Number":0,
+        "Sentence":"Não vale o preço .",
+        "AMR":"(v \/ valer-02 :polarity -\n      :ARG2 (p \/ preço))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_113.txt",
+        "Sentence Number":0,
+        "Sentence":"[ 29 . 07 . 2010 ]",
+        "AMR":"(d \/ date-entity :day 29 :month 07 :year 2010)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_8.txt",
+        "Sentence Number":0,
+        "Sentence":"Televisão não liga",
+        "AMR":"(l \/ ligar-04 :polarity -\n      :ARG1 (t \/ televisão))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_162.txt",
+        "Sentence Number":2,
+        "Sentence":"De repente , cego .",
+        "AMR":"(c14 \/ cego\n      :time (d3 \/ de-repente))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_4.txt",
+        "Sentence Number":0,
+        "Sentence":"Propaganda enganosa",
+        "AMR":null,
+        "New Verbs":"enganar"
+    },
+    {
+        "Directory":"Fala-Serio-Pai",
+        "Document":"Documento_18.txt",
+        "Sentence Number":0,
+        "Sentence":"Tal pai , tal filha",
+        "AMR":"(s \/ same-01\n          :ARG1 (p \/ person\n                :ARG0-of (h \/ have-rel-role-91\n                      :ARG1 p3\n                      :ARG2 (p2 \/ pai)))\n          :ARG2 (p3 \/ person\n                :ARG0-of (h2 \/ have-rel-role-91\n                      :ARG1 p\n                      :ARG2 (f \/ filha))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_7.txt",
+        "Sentence Number":0,
+        "Sentence":"Televisão excelente",
+        "AMR":"(t \/ televisão\n      :mod (e \/ excelente))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_0.txt",
+        "Sentence Number":1,
+        "Sentence":"Livro bem chatinho .",
+        "AMR":"(l8 \/ livro\n      :mod (c15 \/ chatinho\n            :degree (b4 \/ bem)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_4.txt",
+        "Sentence Number":0,
+        "Sentence":"Muito hylé por nada .",
+        "AMR":"(h \/ hylé :degree (m \/ muito) :ARG1-of (t \/ trocar-01 :ARG2 (n \/ nada)))\n",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_216.txt",
+        "Sentence Number":2,
+        "Sentence":"Depois fui curtindo .",
+        "AMR":"(c8 \/ curtir-01\n      :ARG0 (e7 \/ eu)\n      :time (d \/ depois))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_54.txt",
+        "Sentence Number":0,
+        "Sentence":"Um livro para refletir",
+        "AMR":"(h4 \/ have-purpose-91\n      :ARG1 (l6 \/ livro)\n      :ARG2 (r4 \/ refletir-02))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_42.txt",
+        "Sentence Number":0,
+        "Sentence":"Não confie em Hollywood",
+        "AMR":"(c \/ confiar-01 :polarity - :mode imperative\n      :ARG1 (c2 \/ city-district :name (n \/ name :op1 \"Hollywood\")))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_2.txt",
+        "Sentence Number":3,
+        "Sentence":"O que gostei : completa",
+        "AMR":"(g \/ gostar-01\n      :ARG0 (e \/ eu)\n      :ARG1 (c \/ completar-01))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_190.txt",
+        "Sentence Number":0,
+        "Sentence":"Impossível não gostar .",
+        "AMR":"(g4 \/ gostar-01 :polarity -\n      :mod (p11 \/ possivel :polarity -))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_2.txt",
+        "Sentence Number":0,
+        "Sentence":"Televisão impressionante",
+        "AMR":"(t \/ televisão\n      :ARG0-of (i2 \/ impressionar-01))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_4.txt",
+        "Sentence Number":5,
+        "Sentence":"O que gostei : excelente",
+        "AMR":"(g \/ gostar-01\n      :ARG0 (e \/ eu)\n      :ARG1 (e2 \/ excelente))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_6.txt",
+        "Sentence Number":1,
+        "Sentence":"Normal pelo alto preço .",
+        "AMR":"(n \/ normal\n      :ARG1-of (c \/ cause-01\n            :ARG0 (p \/ preço\n                  :mod (a \/ alto))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_7.txt",
+        "Sentence Number":3,
+        "Sentence":"A Camera é maravilhosa .",
+        "AMR":"(m \/ maravilhoso\n      :domain (c4 \/ câmera)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_9.txt",
+        "Sentence Number":4,
+        "Sentence":"Os óculos são passivos .",
+        "AMR":"(p \/ passivo\n      :domain (o \/ óculos))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_5.txt",
+        "Sentence Number":0,
+        "Sentence":"Decepção nas avaliações .",
+        "AMR":"(d4 \/ decepcionar-01\n      :ARG0 (a10 \/ avaliação))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Capitaes-da-Areia",
+        "Document":"Documento_91.txt",
+        "Sentence Number":0,
+        "Sentence":"Um de os melhores livros !",
+        "AMR":"(i3 \/ include-91\n      :ARG1 (l9 \/ livro)\n      :ARG2 (l10 \/ livro\n            :ARG1-of (h4 \/ have-degree-91\n                  :ARG2 (b5 \/ bom)\n                  :ARG3 (m4 \/ maximo)\n                  :ARG5 (l11 \/ livro))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_8.txt",
+        "Sentence Number":2,
+        "Sentence":"Vale a cautela na compra .",
+        "AMR":null,
+        "New Verbs":"valer"
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_4.txt",
+        "Sentence Number":0,
+        "Sentence":"Melhor Smartphone do momento",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_84.txt",
+        "Sentence Number":1,
+        "Sentence":"Esse não é um mero romance .",
+        "AMR":"(r5 \/ romance :polarity -\n      :domain (e8 \/ esse)\n      :mod (m2 \/ mero))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_3.txt",
+        "Sentence Number":5,
+        "Sentence":"Não vale a pena o conserto .",
+        "AMR":"(v \/ valer-02 :polarity -\n      :ARG1 (c2 \/ consertar-01)\n      :ARG2 (p \/ pena))\n",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_82.txt",
+        "Sentence Number":7,
+        "Sentence":"Vampiro que brilha em o sol .",
+        "AMR":null,
+        "New Verbs":"brilhar"
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_8.txt",
+        "Sentence Number":0,
+        "Sentence":"Se soubesse que era tão lento",
+        "AMR":"(h5 \/ have-condition-91\n      :ARG2 (s3 \/ saber-01\n            :ARG0 (e15 \/ ele)\n            :ARG1 (l12 \/ lento\n                  :degree (t4 \/ tão))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_6.txt",
+        "Sentence Number":6,
+        "Sentence":"O que não gostei : preço alto",
+        "AMR":"(g \/ gostar-01 :polarity -\n      :ARG0 (e \/ eu)\n      :ARG1 (p \/ preço\n            :mod (a \/ alto)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_1.txt",
+        "Sentence Number":0,
+        "Sentence":"Excelente preço e qualidade !",
+        "AMR":"(a2 \/ and\n      :op1 (p2 \/ preço\n            :mod (e \/ excelente))\n      :op2 (q \/ qualidade\n            :mod e))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_7.txt",
+        "Sentence Number":0,
+        "Sentence":"Custo benefício não compensa .",
+        "AMR":"(c \/ compensar-01 :polarity -\n      :ARG2 (c2 \/ custo-benefício))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_7.txt",
+        "Sentence Number":2,
+        "Sentence":"Custo-benefício não compensa .",
+        "AMR":"(c \/ compensar-01 :polarity -\n      :ARG2 (c2 \/ custo-benefício))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_3.txt",
+        "Sentence Number":0,
+        "Sentence":"Um Smartphone quase perfeito !",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_7.txt",
+        "Sentence Number":11,
+        "Sentence":"O que não gostei : não contra .",
+        "AMR":"(g \/ gostar-01 :polarity -\n      :ARG0 (e \/ eu)\n      :ARG1 (a2 \/ amr-unintelligible\n            :value \"não contra\"))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_9.txt",
+        "Sentence Number":1,
+        "Sentence":"Bom a televisão e completa ! ! !",
+        "AMR":"(t \/ televisão\n      :mod (a3 \/ and\n            :op1 (b \/ bom)\n            :op2 (c5 \/ completo)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_4.txt",
+        "Sentence Number":3,
+        "Sentence":"O que não gostei : não tem ginga",
+        "AMR":"(g5 \/ gostar-01 :polarity -\n      :ARG0 (e9 \/ eu)\n      :ARG1 (t3 \/ ter-01\n            :ARG1 (g6 \/ ginga)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_2.txt",
+        "Sentence Number":9,
+        "Sentence":"Como pontos negativos , destaco :",
+        "AMR":"(d \/ destacar-01 :ARG0 (e \/ eu) :manner (p \/ ponto :mod (n \/ negativo)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_2.txt",
+        "Sentence Number":2,
+        "Sentence":"Como pontos positivos , destaco :",
+        "AMR":"(d \/ destacar-01 :ARG0 (e \/ eu) :manner (p \/ ponto :mod (p2 \/ positivo)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Se-Houver-Amanha",
+        "Document":"Documento_88.txt",
+        "Sentence Number":3,
+        "Sentence":"Porém , este eu realmente gosto .",
+        "AMR":"(c11 \/ contrast-01\n      :ARG2 (g7 \/ gostar-01\n            :ARG0 (e10 \/ eu)\n            :ARG1 (e11 \/ este)\n            :mod (r6 \/ real)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_702.txt",
+        "Sentence Number":7,
+        "Sentence":"Eu li e recomendo para \" todos \" .",
+        "AMR":"(e \/ e\n      :op1 (l \/ ler-01\n            :ARG0 (e2 \/ eu))\n      :op2 (r \/ recomendar-01\n            :ARG0 e2\n            :ARG2 (t \/ todos)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_6.txt",
+        "Sentence Number":0,
+        "Sentence":"A melhor televisão na atualidade !",
+        "AMR":"(t \/ televisão\n      :ARG1-of (h \/ have-degree-91\n            :ARG2 (b \/ bom)\n            :ARG3 (m \/ máximo)\n            :time (a \/ atualidade)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_243.txt",
+        "Sentence Number":3,
+        "Sentence":"O livro de Saramago é espetacular .",
+        "AMR":"(e2 \/ espetacular\n      :domain (l \/ livro\n            :poss (p3 \/ person :name (n3 \/ name :op1 \"Saramago\"))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_4.txt",
+        "Sentence Number":6,
+        "Sentence":"O que não gostei : valor muito alto",
+        "AMR":"(g \/ gostar-01 :polarity -\n      :ARG0 (e \/ eu)\n      :ARG1 (h \/ have-degree-91\n            :ARG1 (v \/ valor)\n            :ARG2 (a2 \/ alto)\n            :ARG3 (m \/ muito)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_0.txt",
+        "Sentence Number":0,
+        "Sentence":"Galaxy Siii , comprei e me arrependi",
+        "AMR":"(a7 \/ e\n      :op1 (c13 \/ comprar-01\n            :ARG0 (e12 \/ eu)\n            :ARG1 (p12 \/ product :name (n9 \/ name :op1 \"Galaxy\" :op2 \"SIII\")))\n      :op2 (a9 \/ arrepender-101\n            :ARG0 e12\n            :ARG1 c13))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Capitaes-da-Areia",
+        "Document":"Documento_114.txt",
+        "Sentence Number":2,
+        "Sentence":"Em função de a idade , eu detestei .",
+        "AMR":"(d2 \/ detestar-01\n      :ARG0 (e3 \/ eu)\n      :ARG1-of (c7 \/ cause-01\n            :ARG0 (i2 \/ idade)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_5.txt",
+        "Sentence Number":0,
+        "Sentence":"Cheio de tranqueiras e bateria podre",
+        "AMR":"(e \/ e\n      :op1 (p \/ preencher-01\n            :ARG2 (t \/ tranqueira))\n      :op2 (b \/ bateria\n            :mod (p2 \/ podre)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_5.txt",
+        "Sentence Number":0,
+        "Sentence":"Comprei e não recomendo ! ( parte5 )",
+        "AMR":"(e \/ e\n      :op1 (c \/ comprar-01\n            :ARG0 (e2 \/ eu))\n      :op2 (r \/ recomendar-01 :polarity -\n            :ARG0 e2))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_7.txt",
+        "Sentence Number":0,
+        "Sentence":"Ótimo celular o melhor da atualidade",
+        "AMR":"(c \/ celular\n      :mod (o \/ ótimo)\n      :ARG1-of (h \/ have-degree-91\n            :ARG2 (b2 \/ bom)\n            :ARG3 (m \/ máximo)\n            :time (a \/ atualidade)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_135.txt",
+        "Sentence Number":1,
+        "Sentence":"Http:\/\/www.skoob.com.br\/livro\/sobre\/1",
+        "AMR":"(u \/ url-entity :value \"Http:\/\/www.skoob.com.br\/livro\/sobre\/1\")",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_3.txt",
+        "Sentence Number":3,
+        "Sentence":"A Samsung não fez nenhuma concessão .",
+        "AMR":"(c \/ conceder-01 :polarity -\n      :ARG0 (c2 \/ company :name (n \/ name :op1 \"Samsung\")))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_2.txt",
+        "Sentence Number":0,
+        "Sentence":"Um bom televisor , de custo elevado .",
+        "AMR":"(t2 \/ televisor\n      :mod (b3 \/ bom)\n      :mod (c2 \/ custo\n            :mod (e2 \/ elevado)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_216.txt",
+        "Sentence Number":1,
+        "Sentence":"Confesso que em o começo não gostei .",
+        "AMR":"(c8 \/ confessar-01\n      :ARG0 (e4 \/ eu)\n      :ARG1 (g \/ gostar-01 :polarity -\n            :ARG0 e4\n            :time (c9 \/ começar-01)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_2.txt",
+        "Sentence Number":8,
+        "Sentence":"6 - quatro entradas HDMI e três USB .",
+        "AMR":"(a3 \/ and :li 1\n      :op1 (e3 \/ entrada :quant 4\n            :mod (h2 \/ HDMI))\n      :op2 (u \/ USB :quant 3))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_18.txt",
+        "Sentence Number":2,
+        "Sentence":"Foi o que eu mais me identifiquei . :d",
+        "AMR":"(h4 \/ have-degree-91\n      :ARG1 (e5 \/ eu)\n      :ARG2 (i3 \/ identificar-101\n            :ARG0 e5\n            :ARG1 (t3 \/ thing))\n      :ARG3 (m2 \/ maximo)\n      :mod (e6 \/ emoticon :value \":d\"))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_6.txt",
+        "Sentence Number":4,
+        "Sentence":"Os aplicativos são fáceis e práticos .",
+        "AMR":"(a \/ aplicativo\n      :mod (e \/ e\n            :op1 (f \/ fácil)\n            :op2 (p \/ prático)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_82.txt",
+        "Sentence Number":8,
+        "Sentence":"Não recomendo esse livro pra ninguém .",
+        "AMR":"(r \/ recomendar-01 :polarity -\n      :ARG0 (e \/ eu)\n      :ARG1 (l \/ livro\n            :mod (e2 \/ esse))\n      :ARG2 (n \/ ninguém))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_2.txt",
+        "Sentence Number":4,
+        "Sentence":"2 - o som tem boa potência e clareza .",
+        "AMR":"(t3 \/ ter-01\n      :ARG0 (s \/ som)\n      :ARG1 (a8 \/ and\n            :op1 (p4 \/ potência\n                  :mod (b3 \/ bom))\n            :op2 (c10 \/ clareza)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_9.txt",
+        "Sentence Number":7,
+        "Sentence":"Conclusão ótima televisão valeu a pena .",
+        "AMR":"(c \/ concluir-01\n      :domain (e \/ e\n            :op1 (t2 \/ televisao\n                  :mod (o2 \/ otimo))\n            :op2 (v \/ valer-02\n                  :ARG1 t2\n                  :ARG2 (p3 \/ pena))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_0.txt",
+        "Sentence Number":2,
+        "Sentence":"Ela alastra - se de maneira exponencial .",
+        "AMR":null,
+        "New Verbs":"alastrar-se"
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_0.txt",
+        "Sentence Number":5,
+        "Sentence":"A leitura terá um caráter muito pessoal .",
+        "AMR":"(t4 \/ ter-01\n      :ARG0 (l \/ ler-01)\n      :ARG1 (c3 \/ caráter\n            :mod (p4 \/ pessoal\n                  :degree (m3 \/ muito))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_0.txt",
+        "Sentence Number":2,
+        "Sentence":"O que gostei : charmoso , leve , charmoso",
+        "AMR":"(g \/ gostar-01\n      :ARG0 (e7 \/ eu)\n      :ARG1 (e \/ e\n            :op1 (c4 \/ charmoso)\n            :op2 (l2 \/ leve)\n            :op3 (c5 \/ charmoso)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_5.txt",
+        "Sentence Number":2,
+        "Sentence":"Dificilmente compraria por esses motivos .",
+        "AMR":"(c8 \/ comprar-01\n      :mod (d2 \/ dificil)\n      :ARG1-of (c11 \/ cause-01\n            :ARG0 (m3 \/ motivo\n                  :mod (e13 \/ esse))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_86.txt",
+        "Sentence Number":4,
+        "Sentence":"E agora entendi porque ele é um clássico .",
+        "AMR":"(e \/ e\n      :op2 (e8 \/ entender-01\n            :ARG0 (e9 \/ eu)\n            :ARG1 (t2 \/ thing\n                  :ARG0-of (c \/ cause-01\n                        :ARG1 (c4 \/ classico\n                              :domain (e10 \/ ele)))))\n      :time (a3 \/ agora))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_7.txt",
+        "Sentence Number":3,
+        "Sentence":"O que não gostei : preço um pouco salgado .",
+        "AMR":"(g4 \/ gostar-01 :polarity -\n      :ARG0 (e14 \/ eu)\n      :ARG1 (p8 \/ preco\n            :mod (s2 \/ salgado)\n            :degree (u \/ um-pouco)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_54.txt",
+        "Sentence Number":2,
+        "Sentence":"O que passa a ver é a lei de o mais forte .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_7.txt",
+        "Sentence Number":2,
+        "Sentence":"Lindo , roda bem leve , fininho e discreto .",
+        "AMR":"(a \/ e\n      :op1 (l \/ lindo)\n      :op2 (r \/ rodar-03\n            :mod (l2 \/ leve\n                  :degree (b \/ bem)))\n      :op3 (f \/ fino\n            :mod (m \/ muito))\n      :op4 (d \/ discreto))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_7.txt",
+        "Sentence Number":1,
+        "Sentence":"Ótimo produto o melhor celular que já tive .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Outro-Lado-da-Meia-Noite",
+        "Document":"Documento_8.txt",
+        "Sentence Number":10,
+        "Sentence":"Pra mim é um livro inesquecível e perfeito .",
+        "AMR":"(a7 \/ e\n      :op1 (c13 \/ comprar-01\n            :ARG0 (e12 \/ eu)\n            :ARG1 (p12 \/ product :name (n9 \/ name :op1 \"Galaxy\" :op2 \"SIII\")))\n      :op2 (a9 \/ arrepender-101\n            :ARG0 e12\n            :ARG1 c13))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_2.txt",
+        "Sentence Number":11,
+        "Sentence":"2 - desconforto visual em algumas cenas 3D .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_3.txt",
+        "Sentence Number":1,
+        "Sentence":"O produto queimou a tela com 1 ano e 1 mês .",
+        "AMR":"(q \/ queimar-01\n      :ARG1 (t \/ tela\n            :part-of (p \/ produto))\n      :time (a \/ após\n            :op1 (e \/ e\n                  :op1 (t2 \/ temporal-quantity :quant 1\n                        :unit (a2 \/ ano))\n                  :op2 (t3 \/ temporal-quantity :quant 1\n                        :unit (m \/ mês)))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_3.txt",
+        "Sentence Number":5,
+        "Sentence":"O que não gostei : por enquanto nada contra .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_80.txt",
+        "Sentence Number":1,
+        "Sentence":"Contra-indicado para os mais impressionáveis .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_3.txt",
+        "Sentence Number":0,
+        "Sentence":"Produto queimou a tela 1 mês após a garantia .",
+        "AMR":"(q \/ queimar-01\n      :ARG1 (t \/ tela\n            :part-of (p \/ produto))\n      :time (a \/ após\n            :op1 (g \/ garantia)\n            :duration (t2 \/ temporal-quantity :quant 1\n                  :unit (m \/ mês))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_82.txt",
+        "Sentence Number":6,
+        "Sentence":"Principalmente se essa pessoa for um vampiro .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Pai",
+        "Document":"Documento_8.txt",
+        "Sentence Number":1,
+        "Sentence":"O livro conta a história de Maria de Lourdes .",
+        "AMR":"(c \/ contar-01\n      :ARG0 (l2 \/ livro)\n      :ARG1 (h \/ história\n            :poss (p \/ person :name (n4 \/ name :op1 \"Maria\" :op2 \"de\" :op3 \"Lourdes\"))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_808.txt",
+        "Sentence Number":6,
+        "Sentence":"Que falta abram escarlate faz em essas horas .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_82.txt",
+        "Sentence Number":4,
+        "Sentence":"Pra mim isso não é amor , é obsessão e doença .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Capitaes-da-Areia",
+        "Document":"Documento_114.txt",
+        "Sentence Number":5,
+        "Sentence":"Estou cogitando lê - lo de Novo eventualmente .",
+        "AMR":null,
+        "New Verbs":"cogitar"
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_5.txt",
+        "Sentence Number":1,
+        "Sentence":"Samsung , para que tantos aplicativos inúteis .",
+        "AMR":"(d2 \/ dizer-01\n      :ARG0 (e \/ eu)\n      :ARG1 (h \/ have-purpose-91\n            :ARG1 (a2 \/ aplicativo\n                  :quant (t \/ tanto))\n            :ARG2 (a3 \/ amr-unknown))\n      :ARG2 (c \/ company :name (n \/ name :op1 \"Samsung\")))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_702.txt",
+        "Sentence Number":1,
+        "Sentence":"Crepúsculo , o livro perfeito de a minha vida .",
+        "AMR":"(l \/ livro\r\n      :domain (b \/ book :name (n \/ name :op1 \"Crepúsculo\"))\r\n      :mod (p \/ perfeito)\r\n      :topic (v \/ vida\r\n            :poss (e \/ eu)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_7.txt",
+        "Sentence Number":7,
+        "Sentence":"Nunca tive um celular estão perfeito como esse .",
+        "AMR":"(t \/ ter-01\n      :ARG0 (e \/ eu)\n      :ARG1 (c \/ celular\n            :ARG1-of (h \/ have-degree-91\n                  :ARG2 (p \/ perfeito)\n                  :ARG3 (i2 \/ igual)\n                  :ARG4 (c2 \/ celular\n                        :mod (e2 \/ esse))))\n      :time (n \/ nunca))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_2.txt",
+        "Sentence Number":4,
+        "Sentence":"O que não gostei : e uma pena não tem HD interno",
+        "AMR":"(g \/ gostar-01 :polarity -\n      :ARG0 (e \/ eu)\n      :ARG1 (p \/ pena\n            :domain (t \/ ter-01 :polarity -\n                  :ARG1 (h \/ hd\n                        :mod (i2 \/ interno)))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_135.txt",
+        "Sentence Number":0,
+        "Sentence":"Esse foi o primeiro livro cadastrado em o knob .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Capitaes-da-Areia",
+        "Document":"Documento_0.txt",
+        "Sentence Number":2,
+        "Sentence":"Ainda assim não me apaixonei muito por o livro .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_42.txt",
+        "Sentence Number":7,
+        "Sentence":"Ambos interessantes para quem gosta de romance fantástico .",
+        "AMR":"(i2 \/ interessante\n      :domain (a2 \/ ambos)\n      :beneficiary (g \/ gostar-01\n            :ARG0 (p3 \/ pessoa)\n            :ARG1 (r \/ romance\n                  :topic (f \/ fantástico))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Capitaes-da-Areia",
+        "Document":"Documento_114.txt",
+        "Sentence Number":4,
+        "Sentence":"Hoje , porém , creio que eu gostaria de o livro .",
+        "AMR":"(c11 \/ contrast-01\n      :ARG2 (c12 \/ crer-01\n            :ARG0 (e2 \/ eu)\n            :ARG1 (g2 \/ gostar-01\n                  :ARG0 e2\n                  :ARG1 (l3 \/ livro)))\n      :time (h2 \/ hoje))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_7.txt",
+        "Sentence Number":5,
+        "Sentence":"A interne voa , muito rápida . Recomendo a todos .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_7.txt",
+        "Sentence Number":10,
+        "Sentence":"Acredito que ele seja muito superior . Recomendo .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_0.txt",
+        "Sentence Number":4,
+        "Sentence":"Exceto a esposa de um oftalmologista ( ironia ) .",
+        "AMR":"(e3 \/ except-01\n      :ARG1 (h3 \/ have-rel-role-91\n            :ARG1 (o \/ oftalmologista)\n            :ARG2 (e4 \/ esposa)\n            :ARG3 (m2 \/ marido))\n      :mod (i2 \/ ironia))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_808.txt",
+        "Sentence Number":4,
+        "Sentence":"Romance adolescente água-com - açúcar , ridículo .",
+        "AMR":"(r \/ romance\n      :mod (a \/ adolescente)\n      :mod (a2 \/ água-com-açúcar)\n      :mod (r2 \/ ridiculo))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_27.txt",
+        "Sentence Number":0,
+        "Sentence":"Vontade de gritar , chorar , bater e ler de Novo !",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_15.txt",
+        "Sentence Number":8,
+        "Sentence":"As duas brigam e se divertem a o longo de o livro .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_6.txt",
+        "Sentence Number":5,
+        "Sentence":"O que gostei : design , sofisticação e modernidade .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_7.txt",
+        "Sentence Number":6,
+        "Sentence":"O que gostei : excelente produto , muito bom mesmo .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_42.txt",
+        "Sentence Number":4,
+        "Sentence":"A história de Alice e carpisse também me fascinaram .",
+        "AMR":"(f \/ fascinar-01\n      :ARG0 (h3 \/ história\n            :poss (a2 \/ and\n                  :op1 (p5 \/ person :name (n5 \/ name :op1 \"Alice\"))\n                  :op2 (p6 \/ person :name (n6 \/ name :op1 \"Carlisle\"))))\n      :ARG1 (e5 \/ eu)\n      :mod (t \/ também))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Outro-Lado-da-Meia-Noite",
+        "Document":"Documento_20.txt",
+        "Sentence Number":4,
+        "Sentence":"E hoje o resultado que temos é uma louca por livros .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_96.txt",
+        "Sentence Number":2,
+        "Sentence":"A verdade é que 1984 não tem uma história pra contar .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_384.txt",
+        "Sentence Number":1,
+        "Sentence":"Acho que este livro não merece nem mesmo uma estrela .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Capitaes-da-Areia",
+        "Document":"Documento_114.txt",
+        "Sentence Number":3,
+        "Sentence":"Queria distância de o nome Jorge amado depois de isso .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_0.txt",
+        "Sentence Number":9,
+        "Sentence":"O romance é permeado por ditos populares e provérbios .",
+        "AMR":"(p \/ permear-02\n      :ARG0 (e \/ e\n            :op1 (d \/ dito\n                  :mod (p2 \/ popular))\n            :op2 (p3 \/ provérbio))\n      :ARG1 (r \/ romance))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_162.txt",
+        "Sentence Number":5,
+        "Sentence":"Vê através de a mídia , de a sociedade , de as crenças .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_6.txt",
+        "Sentence Number":3,
+        "Sentence":"O contorno fino ressalta a qualidade da imagem da tela .",
+        "AMR":null,
+        "New Verbs":"ressaltar"
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_1.txt",
+        "Sentence Number":4,
+        "Sentence":"São só alguns ( poucos modelos e poucas marcas ) .",
+        "AMR":"(a7 \/ e\n      :op1 (c13 \/ comprar-01\n            :ARG0 (e12 \/ eu)\n            :ARG1 (p12 \/ product :name (n9 \/ name :op1 \"Galaxy\" :op2 \"SIII\")))\n      :op2 (a9 \/ arrepender-101\n            :ARG0 e12\n            :ARG1 c13))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_6.txt",
+        "Sentence Number":4,
+        "Sentence":"Procure a assistência técnica para um acordo com eles \" .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_5.txt",
+        "Sentence Number":3,
+        "Sentence":"Aliás , a bateria certamente é o ponto fraco do produto .",
+        "AMR":"(e \/ e\n      :op1 (c2 \/ certo\n            :domain (p \/ ponto\n                  :mod (f \/ fraco)\n                  :domain (b \/ bateria\n                        :poss p2)\n                  :poss (p2 \/ produto))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_6.txt",
+        "Sentence Number":0,
+        "Sentence":"Não confiável , para de funcionar após alguns meses ! ! !",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_108.txt",
+        "Sentence Number":1,
+        "Sentence":"Todo mundo tem que ler este magnífico livro de Saramago .",
+        "AMR":"(r2 \/ recommend-01\n      :ARG1 (l2 \/ ler-01\n            :ARG0 (t \/ todo-mundo)\n            :ARG1 (l3 \/ livro\n                  :ARG1-of (e3 \/ escrever-01\n                        :ARG0 (p4 \/ person :name (n \/ name :op1 \"Saramago\")))\n                  :mod (e4 \/ este)\n                  :mod (m \/ magnífico))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_84.txt",
+        "Sentence Number":4,
+        "Sentence":"É um livro muito doloroso , mas magnífico a o mesmo tempo .",
+        "AMR":"(c4 \/ contrast-01\n      :ARG1 (d \/ doloroso\n            :domain (l2 \/ livro\n                  :degree (m8 \/ muito)))\n      :ARG2 (m9 \/ magnífico\n            :domain l2))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_47.txt",
+        "Sentence Number":5,
+        "Sentence":"Foi traído por alguém que se disse amigo e ofereceu ajuda .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_8.txt",
+        "Sentence Number":5,
+        "Sentence":"Isso limita um pouco o Skype , mas não é nada que desabone .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Capitaes-da-Areia",
+        "Document":"Documento_0.txt",
+        "Sentence Number":1,
+        "Sentence":"Uma realidade que não deve ser muito diferente hoje em dia .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_4.txt",
+        "Sentence Number":0,
+        "Sentence":"Smarttv da Lg oferece cinema em casa e reconhecimento de voz",
+        "AMR":"(o \/ oferecer-01\n      :ARG0 (t \/ tv\n            :mod (s \/ smart)\n            :topic (c3 \/ company :name (n2 \/ name :op1 \"LG\")))\n      :ARG1 (a \/ e\n            :op1 (c \/ cinema\n                  :location (c2 \/ casa))\n            :op2 (r \/ reconhecer-02\n                  :ARG1 (v2 \/ voz))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_9.txt",
+        "Sentence Number":2,
+        "Sentence":"Quantidade de entradas USB e HDMI me atendem perfeitamente .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_9.txt",
+        "Sentence Number":1,
+        "Sentence":"As funções interativas não são boas e difíceis de configurar .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Capitaes-da-Areia",
+        "Document":"Documento_114.txt",
+        "Sentence Number":1,
+        "Sentence":"Esse foi um livro que eu tive que ler em a 8 terceira - série .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_3.txt",
+        "Sentence Number":2,
+        "Sentence":"O produto apresentou o depois logo após o período de garantia .",
+        "AMR":"(a \/ apresentar-01\n      :ARG0 (p \/ produto)\n      :ARG1 (a2 \/ amr-unintelligible)\n      :time (a3 \/ após\n            :op1 (p2 \/ período\n                  :topic (g \/ garantia))\n            :mod (l \/ logo)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_7.txt",
+        "Sentence Number":1,
+        "Sentence":"Muito lindo demais esse Iphone o melhor Smartphone que existe .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_5.txt",
+        "Sentence Number":6,
+        "Sentence":"Pronto ! Acabou a paciência . Agora é entrar na justiça ! ! ! !",
+        "AMR":"(m \/ multi-sentence\n      :snt1 (p \/ pronto)\n      :snt2 (e \/ entrar-04\n            :ARG2 (j \/ justiça)\n            :ARG1-of (c \/ cause-01\n                  :ARG0 (a \/ acabar-01\n                        :ARG1 (p2 \/ paciência)))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_3.txt",
+        "Sentence Number":4,
+        "Sentence":"A autorizada Samsung avaliou o conserto em torno de 3.600 , 00 .",
+        "AMR":"(a \/ avaliar-02\n      :ARG0 (o \/ organization\n            :ARG2-of (a2 \/ autorizar-01\n                  :ARG0 (c \/ company :name (n \/ name :op1 \"Samsung\"))))\n      :ARG1 (c2 \/ consertar-01)\n      :ARG2 (e \/ em-torno-de\n            :op1 (m \/ monetary-quantity :quant 3600)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_2.txt",
+        "Sentence Number":5,
+        "Sentence":"3 - a imagem é nítida , como se espera de um televisor Full HD .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_2.txt",
+        "Sentence Number":13,
+        "Sentence":"4 - a maioria dos aplicativos de Internet exige assinatura paga .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_47.txt",
+        "Sentence Number":7,
+        "Sentence":"Mas consegui dar a volta por cima com a ajuda de seu amigo banda .",
+        "AMR":"(c \/ contrast-01\r\n      :ARG2 (p5 \/ possible-01\r\n            :ARG1 (s \/ superar-02\r\n                  :ARG0 (e5 \/ ele)\r\n                  :manner (a3 \/ ajudar-01\r\n                        :ARG0 (a4 \/ amigo\r\n                              :topic (b \/ banda)\r\n                              :poss e5)))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_7.txt",
+        "Sentence Number":1,
+        "Sentence":"Não tem conectividade com celulares Galaxy , o que é uma vergonha .",
+        "AMR":"(v \/ vergonha\n      :domain (c \/ conectar-01 :polarity -\n            :ARG2 (c2 \/ celular :name (n \/ name :op1 \"Galaxy\"))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_743.txt",
+        "Sentence Number":1,
+        "Sentence":"Intenso , romântico , inesperado , brilhante , apaixonante , sexy !",
+        "AMR":"(e \/ e\n      :op1 (i2 \/ intenso)\n      :op2 (r \/ romantico)\n      :op3 (i3 \/ inesperado)\n      :op4 (b \/ brilhante)\n      :op5 (a \/ apaixonante)\n      :op6 (s \/ sexy))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_0.txt",
+        "Sentence Number":11,
+        "Sentence":"Mesmo assim , não chegou a me impressionar com obra de 5 estrelas .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_7.txt",
+        "Sentence Number":4,
+        "Sentence":"A bateria dura bastante e os aplicativos já instalados são ótimos .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_4.txt",
+        "Sentence Number":3,
+        "Sentence":"Então não informe que o produto está com 10% de desconto no boleto .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_178.txt",
+        "Sentence Number":1,
+        "Sentence":"Fui até a metade , mas não consegui prosseguir . Achei muito parado .",
+        "AMR":"(c \/ contrast-01\n      :ARG1 (l \/ ler-01\n            :ARG0 (e \/ eu)\n            :ARG1 (a2 \/ até\n                  :op1 (m2 \/ metade)))\n      :ARG2 (c2 \/ conseguir-01 :polarity -\n            :ARG0 e\n            :ARG1 (p \/ prosseguir-01\n                  :ARG1 l)\n            :ARG1-of (c3 \/ cause-01\n                  :ARG0 (a \/ achar-02\n                        :ARG0 e\n                        :ARG2 (p2 \/ parado\n                              :mod (m \/ muito))))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Capitaes-da-Areia",
+        "Document":"Documento_143.txt",
+        "Sentence Number":3,
+        "Sentence":"De qualquer forma , mesmo com estes começos , a leitura vale a pena .",
+        "AMR":"(v \/ valer-02\n      :ARG1 (l4 \/ ler-01)\n      :ARG2 (p6 \/ pena)\n      :concession (c3 \/ começo\n            :mod (e6 \/ este))\n      :manner (f2 \/ forma\n            :mod (q \/ qualquer)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_162.txt",
+        "Sentence Number":1,
+        "Sentence":"A angústia de a leitura me volta quando tento escrever esta resenha .",
+        "AMR":"(v \/ voltar-01\n      :ARG1 (a \/ angústia\n            :topic (l \/ ler-01))\n      :ARG4 (e2 \/ eu)\n      :time (b \/ be-temporally-at-91\n            :ARG1 e2\n            :ARG2 (t \/ tentar-01\n                  :ARG0 e2\n                  :ARG1 (e3 \/ escrever-01\n                        :ARG0 e2\n                        :ARG1 (r \/ resenha\n                              :mod (e4 \/ este))))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_84.txt",
+        "Sentence Number":2,
+        "Sentence":"É um ensaio sobre a cegueira de o homem sobre a sua própria natureza .",
+        "AMR":"(e7 \/ ensaio\r\n      :topic (c2 \/ cego\r\n            :domain (h \/ homem)\r\n            :topic (n2 \/ natureza\r\n                  :domain h)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_123.txt",
+        "Sentence Number":1,
+        "Sentence":"Tipo quando o fenômeno estourou , só se ouviu falar bem de crepúsculo .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_82.txt",
+        "Sentence Number":5,
+        "Sentence":"Amor não é você abdicar de sua vida , amigos , família por uma pessoa .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_9.txt",
+        "Sentence Number":2,
+        "Sentence":"Eu não tenho conhecimento de produto que é pensado tão detalhadamente .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_0.txt",
+        "Sentence Number":10,
+        "Sentence":"A maneira como Saramago conduz a história tem sua marca : simplicidade .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_216.txt",
+        "Sentence Number":3,
+        "Sentence":"Em o final , me envolvi , me vi vendo tudo que os personagens não viam .",
+        "AMR":"(e \/ e\n      :op1 (e2 \/ envolver-03\n            :ARG0 (e3 \/ eu)\n            :ARG1 e3\n            :time (f \/ final))\n      :op2 (v \/ ver-301\n            :ARG0 e3\n            :ARG1 (v2 \/ ver-01\n                  :ARG0 e3\n                  :ARG1 (t \/ tudo\n                        :ARG1-of (v3 \/ ver-01 :polarity -\n                              :ARG0 (p \/ personagem))))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_7.txt",
+        "Sentence Number":2,
+        "Sentence":"O que gostei : televisão de marca excelente com designer surpreendente .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_27.txt",
+        "Sentence Number":3,
+        "Sentence":"Ambos em os fazem ter vontade de gritar , chorar , bater e ler de Novo !",
+        "AMR":"(f \/ fazer-02\n      :ARG0 (a \/ ambos)\n      :ARG1 (n \/ nós)\n      :ARG2 (q \/ querer-01\n            :ARG0 n\n            :ARG1 (e \/ e\n                  :op1 (g \/ gritar-01\n                        :ARG0 n)\n                  :op2 (c \/ chorar-01\n                        :ARG0 n)\n                  :op3 (b \/ bater-01\n                        :ARG0 n)\n                  :op4 (l \/ ler-01\n                        :ARG0 n\n                        :mod (d \/ de-novo)))))",
+        "New Verbs":"ter-vontade"
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_0.txt",
+        "Sentence Number":0,
+        "Sentence":"Defeito em menos de uma semana : vício oculto de artificializar sozinha .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_0.txt",
+        "Sentence Number":2,
+        "Sentence":"O que gostei : design e imagem excelentes - quando funciona a televisão .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_8.txt",
+        "Sentence Number":3,
+        "Sentence":"O que gostei : sequer deu pra avaliar , porém o design é moderno e fino .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_2.txt",
+        "Sentence Number":0,
+        "Sentence":"Esperava muito mais do Galaxy Siii pelo suspense que a Samsung promoveu .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_8.txt",
+        "Sentence Number":4,
+        "Sentence":"O que não gostei : a televisão não liga . O Led pisca duas vezes e apaga .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_1.txt",
+        "Sentence Number":1,
+        "Sentence":"Excelente aparelho de televisão com ótima qualidade de imagem e recursos .",
+        "AMR":"(a \/ aparelho\n      :domain (t \/ televisão)\n      :mod (e \/ excelente)\n      :ARG0-of (t2 \/ ter-01\n            :ARG1 (e2 \/ e\n                  :op1 (q \/ qualidade\n                        :topic (i2 \/ imagem)\n                        :mod (o \/ ótimo))\n                  :op2 (r \/ recurso\n                        :mod o))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_4.txt",
+        "Sentence Number":1,
+        "Sentence":"Ele é maravilhoso , um computador de bolso , vale muito a pena comprá-lo .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_2.txt",
+        "Sentence Number":2,
+        "Sentence":"O que gostei : hoje é o melhor no mercado em relação ao seu processamento .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_702.txt",
+        "Sentence Number":8,
+        "Sentence":"Principalmente para quem quer se apaixonar por o encantador Edward Holmes .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_3.txt",
+        "Sentence Number":1,
+        "Sentence":"Ótima opção pra quem procura um produto confiável e de excelente qualidade .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_0.txt",
+        "Sentence Number":1,
+        "Sentence":"Saramago explora a fantasia atrelada a cegueira de uma maneira muito doida .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_0.txt",
+        "Sentence Number":1,
+        "Sentence":"Minha experiência com este modelo me leva a não recomenda-lo de forma alguma",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_0.txt",
+        "Sentence Number":6,
+        "Sentence":"Cada leitor irá comparar essa cegueira com a visão de mundo que cada um tem .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_6.txt",
+        "Sentence Number":1,
+        "Sentence":"Além de lindo , é ótimo , fácil de usar , sei disso pois uma prima minha tem .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_49.txt",
+        "Sentence Number":6,
+        "Sentence":"Sheldon é nota 1000000000000000000000000000000000000000000000000000000000000 !",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_7.txt",
+        "Sentence Number":9,
+        "Sentence":"To apaixonado por ele e não deixa nada a desejar do Iphone que possuo também .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_36.txt",
+        "Sentence Number":1,
+        "Sentence":"De ele eu gostei de a primeira metade , em a qual a mãe de Malu é a narradora .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Capitaes-da-Areia",
+        "Document":"Documento_0.txt",
+        "Sentence Number":5,
+        "Sentence":"Mas de um ponto de vista positivista e menos sentimental é um livro muito bom .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_0.txt",
+        "Sentence Number":3,
+        "Sentence":"Começa com um motorista em o sinal e termina com toda população de uma cidade .",
+        "AMR":"(a5 \/ e\n      :op1 (c4 \/ começar-01\n            :ARG2 (m2 \/ motorista\n                  :location (s2 \/ sinal)))\n      :op2 (t2 \/ terminar-02\n            :ARG2 (p7 \/ população\n                  :mod (t3 \/ todo)\n                  :part-of (c5 \/ cidade))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_0.txt",
+        "Sentence Number":1,
+        "Sentence":"Confesso que não compraria , até porque não gostei de ' fala sério , amor ! ' .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_162.txt",
+        "Sentence Number":6,
+        "Sentence":"Sem a visão que acreditamos ter , nos tornamos , verdadeiramente , o que somos .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_3.txt",
+        "Sentence Number":3,
+        "Sentence":"Mas o melhor de tudo é poder usufruir do 3D sem precisar óculos especiais e caros .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_27.txt",
+        "Sentence Number":1,
+        "Sentence":"Gostei tanto de o livro de José Saramago quanto de o filme dirigido por Meirelles !",
+        "AMR":"(h5 \/ have-degree-91\n      :ARG1 (e6 \/ eu\n            :ARG0-of (g2 \/ gostar-01\n                  :ARG1 (l3 \/ livro\n                        :poss (p10 \/ person :name (n4 \/ name :op1 \"José\" :op2 \"Saramago\"))))\n      :ARG3 (i3 \/ igual)\n      :ARG4 e6)\n            :ARG0-of (g3 \/ gostar-01\n                  :ARG1 (d2 \/ dirigir-01\n                        :ARG0 (p11 \/ person :name (n5 \/ name :op1 \"Meirelles\"))\n                        :ARG1 (f3 \/ filme))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_5.txt",
+        "Sentence Number":7,
+        "Sentence":"Mais uma vez digo e repito , Samsung não tem controle nenhum em seu pós venda ! ! !",
+        "AMR":"(e \/ e\n      :op1 (d \/ dizer-01\n            :ARG0 (e2 \/ eu)\n            :ARG1 (t \/ ter-08 :polarity -\n                  :ARG0 (c2 \/ company :name (n \/ name :op1 \"Samsung\"))\n                  :ARG1 (c \/ controle)\n                  :topic (p \/ pos-venda\n                        :poss c2)))\n      :op2 (r \/ repetir-01\n            :ARG0 e2\n            :ARG1 t)\n      :mod (m \/ mais-uma-vez))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_808.txt",
+        "Sentence Number":5,
+        "Sentence":"Mostra claramente a falta de direção de a geração atual por a tal \" febre \" mundial .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_8.txt",
+        "Sentence Number":1,
+        "Sentence":"Perfeita ! Ainda mais se tiver em conjunto com um Home Theater Samsung como eu tenho !",
+        "AMR":"(e \/ e\n      :op1 (p \/ perfeito)\n      :op2 (h \/ have-degree-91\n            :ARG2 (p2 \/ perfeito)\n            :ARG3 (m \/ mais)\n            :condition (a \/ acompanhar-03\n                  :ARG1 (p3 \/ product :name (n \/ name :op1 \"Home\" :op2 \"Theater\" :op3 \"Samsung\")\n                        :ARG1-of (t2 \/ ter-01\n                              :ARG0 (e2 \/ eu))))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_6.txt",
+        "Sentence Number":2,
+        "Sentence":"Eu pensava que se tratava de um problema regional , mas está ocorrendo no mundo todo .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_42.txt",
+        "Sentence Number":3,
+        "Sentence":"O livro está marcado por personalidades fortíssimas , apaixonantes , eu deveria dizer .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_5.txt",
+        "Sentence Number":4,
+        "Sentence":"Tenho um Iphone 5 e um Nokia E71 ( dinossauro ) e os 2 humilham na duração da bateria .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_0.txt",
+        "Sentence Number":3,
+        "Sentence":"O que não gostei : comprei um aparelho a duas semanas e estou me desfazendo dele hoje .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_9.txt",
+        "Sentence Number":3,
+        "Sentence":"A qualidade cai bastante quando função dual player e usada , mais da para se divertir .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Outro-Lado-da-Meia-Noite",
+        "Document":"Documento_5.txt",
+        "Sentence Number":7,
+        "Sentence":"Para aqueles que gostam de histórias que se desenrolem lentamente , esse livro é ideal .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_7.txt",
+        "Sentence Number":1,
+        "Sentence":"Marca muito boa , excelente acabamento , 4 HDMI que facilita a conexão de equipamentos .",
+        "AMR":"(a \/ e\n      :op1 (m \/ marca\n            :mod (b \/ bom)\n            :degree (m2 \/ muito))\n      :op2 (a2 \/ acabamento\n            :mod (e \/ excelente))\n      :op3 (f \/ facilitar-01\n            :ARG0 (h \/ hdmi :quant 4)\n            :ARG1 (c \/ conectar-01\n                  :ARG1 (e2 \/ equipamento))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_4.txt",
+        "Sentence Number":1,
+        "Sentence":"A televisão tem bons recursos , com destaque para o ótimo recurso de reconhecimento de voz",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_141.txt",
+        "Sentence Number":2,
+        "Sentence":"A história não tem pressa para acontecer e a ação só começa mesmo de a metade para o final .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_27.txt",
+        "Sentence Number":2,
+        "Sentence":"Claro que o livro é sempre melhor , pois nada é tão bom e poderoso quanto nossa imaginação .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_3.txt",
+        "Sentence Number":3,
+        "Sentence":"Ainda mais com o pano de fundo de ele , que é a África de o Sul sob o regime de o apartheid .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_8.txt",
+        "Sentence Number":2,
+        "Sentence":"O que gostei : interatividade total e o melhor que pode existir hoje em matéria de televisão .",
+        "AMR":"(g \/ gostar-01\n      :ARG0 (e \/ eu)\n      :ARG1 (e2 \/ e\n            :op1 (i2 \/ interatividade\n                  :mod (t2 \/ total))\n            :op2 (t \/ televisão\n                  :ARG1-of (h \/ have-degree-91\n                        :ARG2 (b \/ bom)\n                        :ARG3 (m \/ máximo))\n                  :ARG1-of (e3 \/ existir-01\n                        :ARG1-of (p \/ possible-01)\n                        :time (h2 \/ hoje)))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_2.txt",
+        "Sentence Number":10,
+        "Sentence":"1 - luminosidade da tela inferior à do meu televisor Lg LCD antigo , mesmo com máximo brilho .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_8.txt",
+        "Sentence Number":3,
+        "Sentence":"Só ter Skype integrado com a câmera e mais o reconhecimento por voz e movimentos é sensacional .",
+        "AMR":"(s \/ sensacional\n      :domain (e \/ e\n            :op1 (t \/ ter-01\n                  :ARG1 (p \/ product :name (n \/ name :op1 \"Skype\")\n                        :ARG1-of (i2 \/ integrar-01\n                              :ARG2 (c \/ câmera)))\n                  :mod (s2 \/ só))\n            :op1 (r \/ reconhecer-02\n                  :ARG1 (e2 \/ e\n                        :op1 (v \/ voz)\n                        :op2 (m \/ mover-02))\n                  :mod (m2 \/ mais))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_8.txt",
+        "Sentence Number":1,
+        "Sentence":"Pesquisando na Internet , descobri que se trata de um problema que está afetando muitos proprietários .",
+        "AMR":"(d4 \/ descobrir-01\n      :ARG0 (e11 \/ eu)\n      :ARG1 (a8 \/ afetar-01\n            :ARG0 (p15 \/ problema)\n            :ARG1 (p16 \/ proprietário\n                  :quant (m10 \/ muito)))\n      :manner (p17 \/ pesquisar-01\n            :ARG0 e11\n            :medium (i4 \/ internet)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_808.txt",
+        "Sentence Number":3,
+        "Sentence":"Personagens secundários que não se desenvolvem nunca , metáforas cansativas e totalmente sem nexo .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_8.txt",
+        "Sentence Number":4,
+        "Sentence":"O que não gostei : a câmera poderia ter movimentação horizontal de visão e não só apenas vertical .",
+        "AMR":"(g \/ gostar-01 :polarity -\n      :ARG0 (e \/ eu)\n      :ARG1 (e2 \/ e\n            :op1 (r \/ recommend-01\n                  :ARG1 (t \/ ter-01\n                        :ARG0 (c \/ câmera)\n                        :ARG1 (m \/ mover-02\n                              :manner (h \/ horizontal))))\n            :op2 (t2 \/ ter-01 :polarity -\n                  :ARG0 c\n                  :ARG1 (m2 \/ mover-02\n                        :manner (v \/ vertical))\n                  :mod (s \/ só))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_42.txt",
+        "Sentence Number":1,
+        "Sentence":"Nossa existe quem não goste de ler livro após ter assistido a o filme , mas sinceramente eu gosto bastante .",
+        "AMR":"(c6 \/ contrast-01\n      :ARG1 (e8 \/ existir-01\n            :ARG1 (p8 \/ pessoa\n                  :ARG0-of (g2 \/ gostar-01 :polarity -\n                        :ARG1 (l5 \/ ler-01\n                              :ARG0 p8\n                              :ARG1 (l6 \/ livro)\n                              :time (a6 \/ após\n                                    :op1 (a7 \/ assistir-01\n                                          :ARG0 p8\n                                          :ARG1 (f3 \/ filme)))))))\n      :ARG2 (g3 \/ gostar-01\n            :ARG0 (e9 \/ eu)\n            :ARG1 l5\n            :degree (b2 \/ bastante))\n      :mod (n3 \/ nossa :mode expressive))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_1.txt",
+        "Sentence Number":3,
+        "Sentence":"O que não gostei : manual de instalação confuso e nem sempre apresenta soluções a dúvidas que surgem",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Capitaes-da-Areia",
+        "Document":"Documento_0.txt",
+        "Sentence Number":0,
+        "Sentence":"Um livro muito bom que retrata a cruel realidade de os garotos de rua de a Bahia de a década de 30 .",
+        "AMR":"(l \/ livro\n      :mod (b \/ bom\n            :mod (m \/ muito))\n      :ARG0-of (r \/ retratar-01\n            :ARG1 (r2 \/ realidade\n                  :topic (g \/ garoto\n                        :ARG0-of (m3 \/ morar-01\n                              :ARG1 (r3 \/ rua)))\n                  :location (s \/ state :name (n \/ name :op1 \"Bahia\"))\n                  :time (d \/ date-entity :decade 1930)\n                  :mod (c \/ cruel))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Capitaes-da-Areia",
+        "Document":"Documento_91.txt",
+        "Sentence Number":2,
+        "Sentence":"Com a força de sua prosa , Jorge amado aproxima o leitor de esses garotos e de o desejo de liberdade",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_9.txt",
+        "Sentence Number":1,
+        "Sentence":"Depois de ler a biografia de Steve Jobs , fiquei impressionada como cada produto Apple é \" criado \" .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_6.txt",
+        "Sentence Number":3,
+        "Sentence":"Procurei o SAC da Samsung e recebi a simpática resposta : \" senhor , não há nada que possamos fazer .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_0.txt",
+        "Sentence Number":1,
+        "Sentence":"Provavelmente é mais um modelo bomba da Lg , como foi o modelo Scarlet lg4260fr que ligava e desligava sozinho .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Capitaes-da-Areia",
+        "Document":"Documento_114.txt",
+        "Sentence Number":6,
+        "Sentence":"Não é bem uma resenha , mais um aviso para não darem capitães da areia para uma criança de 14 anos ler .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_0.txt",
+        "Sentence Number":7,
+        "Sentence":"Essa edição que adquiri tem os diálogos separados apenas por vírgulas , o que dificulta o entendimento .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_6.txt",
+        "Sentence Number":5,
+        "Sentence":"Agora meu aparelho está na assistência com um orçamento de ar $ 749 , 00 para trocar a placa principal !",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_7.txt",
+        "Sentence Number":3,
+        "Sentence":"Vale mais comprar uma televisão de $2.000 , que terá as mesmas funcionalidades que realmente utilizamos .",
+        "AMR":"(v \/ valer-02\n      :ARG1 (c \/ comprar-01\n            :ARG1 (t \/ televisão\n                  :ARG0-of (t2 \/ ter-01\n                        :ARG1 (f \/ funcionalidade\n                              :ARG1-of (s \/ same-01)\n                              :ARG1-of (u \/ utilizar-01\n                                    :mod (r2 \/ real)))))\n            :ARG3 (m \/ monetary-quantity :quant 2000))\n      :mod (m2 \/ mais))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_2.txt",
+        "Sentence Number":6,
+        "Sentence":"4 - o Wi-fi é fácil de configurar , desde que a senha do roteador seja curta ( menos de 32 caracteres ) .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_5.txt",
+        "Sentence Number":5,
+        "Sentence":"Fica a dica , se for comprar , tenha um carregador no carro , na mochila , em casa , ou uma bateria extra .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_42.txt",
+        "Sentence Number":6,
+        "Sentence":"Enfim ler o livro e assistir a o filme não são mutuamente exclusivos por o contrário , são complementares .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_4.txt",
+        "Sentence Number":0,
+        "Sentence":"O primeiro de os livros de a série \" fala sério \" , de a escritora halita Rebouças , \" fala sério , mãe ! \"",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_9.txt",
+        "Sentence Number":1,
+        "Sentence":"Não recomendo pois esse produto é do Paraguai não funciona como deveria nunca consegui acessar a Internet .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_808.txt",
+        "Sentence Number":1,
+        "Sentence":"História clichê , recheada de coisas impossíveis até em o mundo de o maravilhoso , escrita péssima , personagens mal-construídos e alienados .",
+        "AMR":"(a7 \/ e\n      :op1 (a8 \/ e\n            :op1 (h2 \/ história\n                  :mod (c14 \/ clichê))\n            :op2 (r2 \/ rechear-01\n                  :ARG1 h2\n                  :ARG2 (c13 \/ coisa\n                        :mod (p6 \/ possível :polarity -)\n                        :location (m4 \/ mundo\n                              :mod (f \/ fantástico)\n                              :concession (a11 \/ até)))))\n      :op2 (e6 \/ escrever-01\n            :manner (p7 \/ péssimo))\n      :op3 (a9 \/ e\n            :op1 (c12 \/ construir-01\n                  :ARG1 (p8 \/ personagem)\n                  :manner (m5 \/ mal))\n            :op2 (a10 \/ alienado\n                  :domain p8)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_1.txt",
+        "Sentence Number":2,
+        "Sentence":"O que gostei : qualidade de imagem , acesso a Internet , interatividade com a televisão , custo ex benefício",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_4.txt",
+        "Sentence Number":2,
+        "Sentence":"O Shoptime expõe um preço pra enganar o cliente e na hora da compra , diz que não tem como fazer este valor .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_6.txt",
+        "Sentence Number":2,
+        "Sentence":"A câmera embutida na televisão com sensor de movimento e presença funciona bem e impressiona quem não conhece .",
+        "AMR":"(e \/ e\n      :op1 (f \/ funcionar-01\n            :ARG0 (c \/ câmera\n                  :ARG1-of (e2 \/ embutir-01\n                        :ARG2 (t \/ televisão))\n                  :part (s \/ sensor\n                        :topic (e3 \/ e\n                              :op1 (m \/ mover-02)\n                              :op2 (p2 \/ presença))))\n            :manner (b \/ bom))\n      :op2 (i2 \/ impressionar-01\n            :ARG0 c\n            :ARG1 (p \/ person\n                  :ARG0-of (c2 \/ conhecer-01 :polarity -))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_8.txt",
+        "Sentence Number":2,
+        "Sentence":"Ele demora segundos perceptíveis para abrir o teclado , os contatos , mensagens e etc . Chega a ser irritante .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_6.txt",
+        "Sentence Number":1,
+        "Sentence":"União de televisão , com interatividade e Internet , a Samsung superou seus concorrentes inovando e trazendo recursos incríveis para uma televisão .",
+        "AMR":null,
+        "New Verbs":"inovar"
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_0.txt",
+        "Sentence Number":8,
+        "Sentence":"Os personagens não tem nome , apenas apelidos ( motorista , rapariga de óculos , mulher de o médico , etc . ) .",
+        "AMR":"(a3 \/ e\n      :op1 (t2 \/ ter-01\n            :ARG0 (p6 \/ personagem)\n            :ARG1 (n4 \/ nome))\n      :op2 (t3 \/ ter-01\n            :ARG0 p6\n            :ARG1 (a4 \/ apelido\n                  :mod (a5 \/ apenas)\n                  :example (a6 \/ e\n                        :op1 (m2 \/ motorista)\n                        :op2 (r \/ rapariga\n                              :ARG0-of (u \/ usar-02\n                                    :ARG1 (o \/ óculos)))\n                        :op3 (p7 \/ pessoa\n                              :ARG0-of (h3 \/ have-rel-role-91\n                                    :ARG1 (m3 \/ médico)\n                                    :ARG2 (m4 \/ mulher)))\n                        :op4 (e4 \/ et-coetera)))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Capitaes-da-Areia",
+        "Document":"Documento_143.txt",
+        "Sentence Number":2,
+        "Sentence":"O problema é que hoje , a o menos , isso soa tão óbvio que o livro acaba parecendo um mero manifesto anacrônico .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_2.txt",
+        "Sentence Number":7,
+        "Sentence":"5 - acompanham dois controles-remotos ( convencional e Magic ) , quatro óculos 3D e dois para dual player ( games ) .",
+        "AMR":"(a \/ acompanhar-03 :li 5\n      :ARG1 (e \/ e\n            :op1 (c \/ controle-remoto :quant 2\n                  :example (e3 \/ e\n                        :op1 (c2 \/ convencional)\n                        :op2 (t \/ thing :name (n \/ name :op1 \"Magic\"))))\n            :op2 (o \/ óculos :mod \"3D\" :quant 4)\n            :op3 (c3 \/ controle-remoto\n                  :purpose (d \/ dual-player\n                        :domain (g \/ game))))\n      :ARG2 (e2 \/ eles))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_6.txt",
+        "Sentence Number":7,
+        "Sentence":"Evitem comprar de uma marca que não respeita o consumidor e que despeja no mercado um produto tão caro e de baixíssima qualidade .",
+        "AMR":null,
+        "New Verbs":"despejar"
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_808.txt",
+        "Sentence Number":2,
+        "Sentence":"Um vampiro brilhante que lê mentes , uma heroína estúpida , metida a perfeitinha e solitariamente rodeada de pessoas .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_702.txt",
+        "Sentence Number":4,
+        "Sentence":"Ele então a salva várias vezes de a morte , e juntos descobrem que estão irregovalvelmente apaixonados um por o outro .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_6.txt",
+        "Sentence Number":8,
+        "Sentence":"Depois dessa , quem tem coragem de investir em média ar $ 1.700 , 00 no Galaxy Siii ou tentar a sorte com o Galaxy S4 ?",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_702.txt",
+        "Sentence Number":5,
+        "Sentence":"Este é um livro fictício mais que mostra a importância de um verdadeiro amor que principalmente as meninas queriam ter .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Outro-Lado-da-Meia-Noite",
+        "Document":"Documento_20.txt",
+        "Sentence Number":9,
+        "Sentence":"E também não podemos esquecer o Larry Douglas , que eu particularmente detesto , mas isso só vocês lendo para entender .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_42.txt",
+        "Sentence Number":3,
+        "Sentence":"O que consegui ler em as entrelinhas foi que o personagem de o Edward é 500 vezes mais interessante de o que em o filme .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_42.txt",
+        "Sentence Number":5,
+        "Sentence":"Confesso que algumas modificações feitas para o filme deixaram a história mais dinâmica o que para o cinema vem a calhar .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Pai",
+        "Document":"Documento_4.txt",
+        "Sentence Number":0,
+        "Sentence":"\" - paire . Larga de esse maldito jogo de futebol e me leva em a casa de a minha amiga , vai ! \"",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_6.txt",
+        "Sentence Number":1,
+        "Sentence":"Eu sou mais um infeliz no mundo que comprou um Samsung Galaxy Siii com o defeito de fábrica apelidado de \" morte súbita \" .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_162.txt",
+        "Sentence Number":4,
+        "Sentence":". Se a angústia inicial que o livro nos coloca já assusta , imagina , a quase afirmativa de o livro que : você não enxerga !",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_8.txt",
+        "Sentence Number":2,
+        "Sentence":"O bom de esse livro é que você identifica sua própria mãe em o meio de essas histórias malucas e cheias de exagero materno .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_0.txt",
+        "Sentence Number":1,
+        "Sentence":"A televisão é maravilhosa , porém queimou com menos de dois anos de uso e o conserto na autorizada fica o preço de uma nova .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_4.txt",
+        "Sentence Number":4,
+        "Sentence":"O nome disso é propaganda enganosa , vamos ter mais respeito pelo consumidor ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_36.txt",
+        "Sentence Number":3,
+        "Sentence":"Mas a partir de a segunda metade , Malu começa a ' ' pagar mico ' ' a usar o vocabulário pirralha de ela e isso não me agradou .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_3.txt",
+        "Sentence Number":2,
+        "Sentence":"A vantagem de poder acessar Internet e visualizar vídeos pelo Youtube , filmes , shows e até mesmo páginas é muito interessante .",
+        "AMR":"(i2 \/ interessante\n      :domain (v \/ vantagem\n            :domain (p \/ possible-01\n                  :ARG1 (e \/ e\n                        :op1 (a \/ acessar-01\n                              :ARG1 (i3 \/ internet))\n                        :op2 (v2 \/ visualizar-01\n                              :ARG1 (e1 \/ e\n                                    :op1 (v3 \/ vídeo\n                                          :medium (p2 \/ program :name (n \/ name :op1 \"YouTube\")))\n                                    :op2 (f \/ flme)\n                                    :op3 (s \/ show)\n                                    :op4 (p3 \/ página)))))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_84.txt",
+        "Sentence Number":3,
+        "Sentence":"Esse livro pinta uma ficção onde os homens viveriam em um lugar onde o sistema não existe , onde o poder de o mais forte impera .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_4.txt",
+        "Sentence Number":2,
+        "Sentence":"O que gostei : tela grande , produto leve , rápido , fácil de manusear . Melhor Martha do momento ( melhor que Iphone inclusive )",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_0.txt",
+        "Sentence Number":4,
+        "Sentence":"A descrição de tal vício já está sendo comum no meio cibernético e até em outros modelos da linha LM , sobretudo a Lm8600 .",
+        "AMR":"(d \/ descrever-01\n      :ARG1 (v \/ vício\n            :mod (t \/ tal))\n      :mod (c \/ comum\n            :location (m \/ meio\n                  :topic (c2 \/ cibernético)))\n      :mod (j \/ já)\n      :mod (a \/ até)\n      :location (m2 \/ modelo\n            :mod (o \/ outro)\n            :part-of (l \/ linha\n                  :topic (p \/ product :name (n2 \/ name :op1 \"LM\"))\n                  :degree (s \/ sobretudo\n                        :topic (p2 \/ product :name (n \/ name :op1 \"Lm8600\"))))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_42.txt",
+        "Sentence Number":2,
+        "Sentence":"Primeiro por a comparação se a história em o cinema é realmente fiel a o livro , segundo por que existe muito mais em as entrelinhas .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_113.txt",
+        "Sentence Number":3,
+        "Sentence":"O autor é bom , o livro é famoso , adaptaram pro cinema , é logico que é bom \" , bem , me enganei .",
+        "AMR":null,
+        "New Verbs":"enganar"
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_5.txt",
+        "Sentence Number":5,
+        "Sentence":"Atendeu outra pessoa , passei o número da os , pediu para esperar porque a Elisa estava ocupada e simplesmente desligou na minha cara !",
+        "AMR":"(a \/ e\n      :op1 (a2 \/ atender-01\n            :ARG0 (p \/ pessoa\n                  :mod (o \/ outro)))\n      :op2 (p2 \/ passar-06\n            :ARG0 (e \/ eu)\n            :ARG1 (n \/ número\n                  :topic (o2 \/ os))\n            :ARG2 p)\n      :op3 (p3 \/ pedir-03\n            :ARG0 p\n            :ARG1 (e2 \/ esperar-01\n                  :ARG0 e\n                  :ARG1-of (c \/ cause-01\n                        :ARG0 (o3 \/ ocupado\n                              :domain (p4 \/ person :name (n2 \/ name :op1 \"Elisa\"))))))\n      :op4 (d \/ desligar-01\n            :ARG0 p\n            :mod (c2 \/ cara\n                  :poss e)\n            :mod (s \/ simplesmente)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_54.txt",
+        "Sentence Number":1,
+        "Sentence":"Em síntese , a história fala sobre uma cegueira branca que atinge a humanidade a os poucos levando - a perder todos os traços de civilidade .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Outro-Lado-da-Meia-Noite",
+        "Document":"Documento_20.txt",
+        "Sentence Number":6,
+        "Sentence":"Não me recordo de os pequenos detalhes , mas esse livro está em o Top 5 de os livros de o Sidney que marcam o leitor .",
+        "AMR":null,
+        "New Verbs":"recordar-se"
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_47.txt",
+        "Sentence Number":2,
+        "Sentence":"Essa força invencível , que desafia as duas forças mais violentas de a natureza , o ferro e o fogo , pode ser quebrada por sangue de carneiro .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Capitaes-da-Areia",
+        "Document":"Documento_143.txt",
+        "Sentence Number":0,
+        "Sentence":"O livro não é ruim , mas Jorge amado parece subestimar a inteligência de o leitor a o fazer de uma história interessante um panfleto político .",
+        "AMR":null,
+        "New Verbs":"subestimar"
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_5.txt",
+        "Sentence Number":2,
+        "Sentence":"Deixe o Android viver sozinho em paz , esses montes de aplicativos só tornam o sistema \" elegantizado \" , provavelmente comprometendo a duração da bateria .",
+        "AMR":null,
+        "New Verbs":"elegantizar"
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_123.txt",
+        "Sentence Number":5,
+        "Sentence":"O que não é de fato , pois alguém que alimenta de a própria fonte de vida de outro , não tem nada de bonito , não é perfeito , é uma aberração .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_5.txt",
+        "Sentence Number":1,
+        "Sentence":"Pesquisei sobre essa televisão para compra-la , mas após ler os comentários de pessoas que compraram , me decepcionei sobre os problemas apresentados para essa televisão ;",
+        "AMR":"(c4 \/ contrast-01\n      :ARG1 (p12 \/ pesquisar-01\n            :ARG0 (e7 \/ eu)\n            :ARG1 (t2 \/ televisão\n                  :mod (e8 \/ esse))\n            :purpose (c5 \/ comprar-01\n                  :ARG0 e7\n                  :ARG1 t2))\n      :ARG2 (d3 \/ decepcionar-01\n            :ARG0 (a3 \/ apresentar-01\n                  :ARG0 t2\n                  :ARG1 (p13 \/ problemas))\n            :time (a5 \/ após\n                  :op1 (l4 \/ ler-01\n                        :ARG0 e7\n                        :ARG1 (c6 \/ comentário\n                              :ARG1-of (e9 \/ escrever-01\n                                    :ARG0 (p14 \/ pessoa\n                                          :ARG0-of (c7 \/ comprar-01\n                                                :ARG1 t2))))))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_702.txt",
+        "Sentence Number":6,
+        "Sentence":"Sua autora , Suzanne , soube contar tão bem a história entre uma humana e um vampiro que este livro se tornou sucesso mundial em todas as idades .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Capitaes-da-Areia",
+        "Document":"Documento_0.txt",
+        "Sentence Number":3,
+        "Sentence":"Sou um fervoroso defensor de o sexo feminino e desprezo qualquer coisa que relacione violência contra a mulher e o livro mostra um pouco de isso .",
+        "AMR":"(a4 \/ e\n      :op1 (d3 \/ defender-01\n            :ARG0 (e2 \/ eu)\n            :ARG1 (s2 \/ sexo\n                  :mod (f3 \/ feminino))\n            :manner (f2 \/ fervor))\n      :op2 (d4 \/ desprezar-01\n            :ARG0 e2\n            :ARG1 (r2 \/ relacionar-101\n                  :ARG0 (c2 \/ coisa\n                        :mod (q \/ qualquer))\n                  :ARG1 (v \/ violência\n                        :prep-contra (m2 \/ mulher))))\n      :op3 (m3 \/ mostrar-01\n            :ARG0 (l3 \/ livro)\n            :ARG1 v\n            :quant (p \/ um-pouco)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_243.txt",
+        "Sentence Number":2,
+        "Sentence":"Depois de isso foi minha própria cegueira em as relações de a vida e em a cegueira de os outros , que sempre vi mais de o que a minha .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_5.txt",
+        "Sentence Number":1,
+        "Sentence":"Tendo em vista que a At teve de segunda a quinta para testar tudo ! Ele falou que não tinha mas que eu poderia tentar antecipar ligando para a At .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_123.txt",
+        "Sentence Number":4,
+        "Sentence":"Falando assim morrer parece ser bom , parece ser o sonho de todo mortal , ser transformado em vampiro , pois se torna perfeito , belo , voraz e forte .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_9.txt",
+        "Sentence Number":6,
+        "Sentence":"A função 2D para 3D não e muito boa mais acho que isso não e exclusividade somente deste televisão acho que em geral essa função não e muito boa mesmo .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_3.txt",
+        "Sentence Number":4,
+        "Sentence":"O que gostei : televisão de aparência agradável pela pequena borda e ótimo som , tem a grande vantagem de não precisar óculos especiais para efeito 3D .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amor",
+        "Document":"Documento_7.txt",
+        "Sentence Number":1,
+        "Sentence":"De essa vez nossa querida halita Rebouças \" apaixona \" o público adolescente com as histórias de os namorados de nossa mais uma vez protagonista , Malu .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_243.txt",
+        "Sentence Number":1,
+        "Sentence":"Meu contato com os dramas de a cegueira propriamente dita aconteceu a o ler a biografia de cego Aderaldo e ler o seu emocionante poema \" as três lagrimas \" .",
+        "AMR":null,
+        "New Verbs":"contatar"
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_4.txt",
+        "Sentence Number":2,
+        "Sentence":"Realmente a única passagem mais ou menos bonita de o livro é o sonho de o moleque pegando uma bola de baseball em o campo de centeio que dá pra um abismo .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_1.txt",
+        "Sentence Number":2,
+        "Sentence":"O que gostei : maravilhosa ! ! ! A definição , o design , as funções , a conexão , a economia de energia , os controles remotos , enfim , tudo !",
+        "AMR":"(g \/ gostar-01\n      :ARG0 (e \/ eu)\n      :ARG1 (a2 \/ e\n            :op1 (d \/ definição)\n            :op2 (d2 \/ design)\n            :op3 (f \/ função)\n            :op4 (e2 \/ economia\n                  :topic (e3 \/ energia))\n            :op5 (c3 \/ controle\n                  :topic (r \/ remoto))\n            :op6 (c4 \/ conexão)\n            :op7 (t2 \/ tudo)\n            :mod (m3 \/ maravilhoso)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_178.txt",
+        "Sentence Number":2,
+        "Sentence":"Quando minha irmã me passou falando que era um romance com vampiros e tal , pensei que aconteceria muita coisa , que seria empolgante , mas nada aconteceu .",
+        "AMR":"(c2 \/ contrast-01\n      :ARG1 (p3 \/ pensar-01\n            :ARG0 e\n            :ARG1 (e4 \/ e\n                  :op1 (a \/ acontecer-01\n                        :ARG1 (c \/ coisa\n                              :mod (m \/ muito)))\n                  :op2 (e5 \/ empolgante))\n            :time (p \/ passar-06\n                  :ARG0 (p2 \/ person\n                        :ARG0-of (h \/ have-rel-role-91\n                              :ARG1 e\n                              :ARG2 (i2 \/ irmã)))\n                  :ARG2 (e \/ eu)\n                  :time (b \/ be-temporally-at-91\n                        :ARG1 p2\n                        :ARG2 (f \/ falar-01\n                              :ARG0 p2\n                              :ARG1 (r \/ romance\n                                    :topic (e2 \/ e\n                                          :op1 (v \/ vampiro)\n                                          :op2 (e3 \/ e-tal)))\n                              :ARG2 e))))\n      :ARG2 (a2 \/ acontecer-01\n            :ARG1 (n \/ nada)))",
+        "New Verbs":"empolgar"
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_1.txt",
+        "Sentence Number":1,
+        "Sentence":"Muito boa . Tudo de positivo eu relatei nos prós e de negativo eu relatei nos contras . Achei aqui por ar $ 1000 , 00 a menos que na loja física .",
+        "AMR":"(m4 \/ multi-sentence\n      :snt1 (b \/ bom\n            :domain (a4 \/ amr-undefined)\n            :degree (m7 \/ muito))\n      :snt2 (r2 \/ relatar-01\n            :ARG0 (e4 \/ eu)\n            :ARG1 (a3 \/ e\n                  :op1 (p3 \/ positivo\n                        :domain (t3 \/ tudo)\n                        :location (p4 \/ pró))\n                  :op2 (n3 \/ negativo\n                        :domain (t4 \/ tudo)\n                        :location (c5 \/ contra))))\n      :snt3 (h \/ have-quant-91\n            :ARG1 (a5 \/ achar-01\n                  :ARG0 e4\n                  :ARG1 a4\n                  :location (a6 \/ aqui))\n            :ARG2 (m5 \/ monetary-quantity :quant 1000\n                  :unit (p5 \/ peso)\n                  :location (c6 \/ country :name (n4 \/ name :op1 \"Argentina\")))\n            :ARG3 (m6 \/ menos)\n            :ARG4 (a7 \/ achar-01\n                  :ARG0 e4\n                  :ARG1 a4\n                  :location (l2 \/ loja\n                        :topic (f2 \/ físico)))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_6.txt",
+        "Sentence Number":6,
+        "Sentence":"Clamo a todos que compraram este aparelho para que este protesto seja veiculado nos principais jornais e programas de televisão , afinal a \" imagem \" é tudo !",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_2.txt",
+        "Sentence Number":1,
+        "Sentence":"Não acho justo pagar mais de ar $ 1700 , 00 por um aparelho que me parece limitado em suas funções e a falta de capricho na qualidade do material do aparelho .",
+        "AMR":"(a8 \/ achar-01 :polarity -\n      :ARG0 (e5 \/ eu)\n      :ARG1 (p6 \/ pagar-01\n            :ARG0 e5\n            :ARG1 (m8 \/ monetary-quant :quant 1700\n                  :unit (p7 \/ peso)\n                  :location (c7 \/ country :name (n5 \/ name :op1 \"Argentina\"))\n                  :quant (m10 \/ mais-de))\n            :ARG3 (a11 \/ e\n                  :op1 (l3 \/ limitar-01\n                        :ARG0 (f3 \/ função)\n                        :ARG1 (a10 \/ aparelho))\n                  :op2 (f4 \/ faltar-01\n                        :ARG1 (c8 \/ capricho)\n                        :ARG2 (q \/ qualidade\n                              :topic (m9 \/ material\n                                    :consist-of-of a10)))))\n      :ARG2 (j2 \/ justo))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_5.txt",
+        "Sentence Number":4,
+        "Sentence":"Hoje é dia 11\/03 ? Segunda , já faz parte da minha rotina ligar 50 vezes no fixo e mais algumas vezes no celular ( mesmo desligando na minha cara ) até conseguir .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_54.txt",
+        "Sentence Number":3,
+        "Sentence":"É um livro que prendeu minha atenção de o começo a o fim e me fez refletir bastante sobre o assunto proposto por o autor , que a humanidade não é boa por natureza .",
+        "AMR":"(a \/ e\n      :op1 (p2 \/ prender-03\n            :ARG1 (l4 \/ livro)\n            :ARG2 (a4 \/ atenção\n                  :poss (e3 \/ eu))\n            :source (c3 \/ começo)\n            :destination (f4 \/ fim))\n      :op2 (f5 \/ fazer-01\n            :ARG0 l4\n            :ARG1 (r3 \/ refletir-02\n                  :ARG0 e3\n                  :ARG1 (p3 \/ propor-01\n                        :ARG0 (a5 \/ autor)\n                        :ARG1 (a6 \/ assunto\n                              :topic (n2 \/ natureza\n                                    :topic (h2 \/ humanidade\n                                          :mod (b3 \/ bom :polarity -)))))\n                  :quant (b2 \/ bastante))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_384.txt",
+        "Sentence Number":2,
+        "Sentence":"Em a verdade , não consegui nem ler o primeiro capítulo , porque a história é muito chata e , para piorar , a personagem principal ( Bella ) é muito fútil e superficial .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_2.txt",
+        "Sentence Number":3,
+        "Sentence":"1 - todas as funções são executadas sem problemas , particularmente a reprodução de arquivos MKV em 3D com legendas convencionais ( SRT ) , sem necessidade de conversão .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_82.txt",
+        "Sentence Number":1,
+        "Sentence":"Li , pois sou a favor de conhecer algo antes de sair por aí fazendo críticas baseado em o que se ouve , ou se está em a moda gostar ou não gostar de algo .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_0.txt",
+        "Sentence Number":3,
+        "Sentence":"O que não gostei : em menos de 3 dias apresentou vício de artificializar a todo momento e sozinha , não sustentando a imagem seja pelo mediastino , Blu-ray e Decoder de televisão por assinatura .",
+        "AMR":null,
+        "New Verbs":"artificializar"
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_82.txt",
+        "Sentence Number":2,
+        "Sentence":"Li e meu máximo foi terminar o segundo livro , não precisei de mais pra confirmar que stephanie Meyer seria mais sensata se deixasse sua imaginação incrivelmente fértil somente pro mundo de os seus sonhos .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Outro-Lado-da-Meia-Noite",
+        "Document":"Documento_8.txt",
+        "Sentence Number":9,
+        "Sentence":"Lá se vão dez anos desde que li o livro por a primeira vez e nunca consegui esquecer os nomes de os personagens principais : noiva , Catherine , Larry e Constantino delírios .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_3.txt",
+        "Sentence Number":4,
+        "Sentence":"O que não gostei : ele esquenta um pouco na parte de baixo mas não chega a incomodar , na cor branca ele parece ser muito frágil e o sim Voice ainda não funciona em português .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_4.txt",
+        "Sentence Number":2,
+        "Sentence":"O que gostei : qualidade da imagem ; 3D passivo ; dual play ; suporte a diversos formatos de vídeo ; controle remoto do tipo apontador ; reconhecimento de voz ; WIDI ; belo design",
+        "AMR":"(g \/ gostar-01\n      :ARG0 (e4 \/ eu)\n      :ARG1 (a7 \/ e\n            :op1 (q2 \/ qualidade\n                  :topic (i2 \/ imagem))\n            :op2 (t2 \/ 3D\n                  :mod (p4 \/ passivo))\n            :op3 (p5 \/ play\n                  :mod (d2 \/ dual))\n            :op4 (s \/ suportar-02\n                  :ARG1 (f6 \/ formato\n                        :mod (d5 \/ diverso)\n                        :topic (v2 \/ vídeo)))\n            :op5 (c4 \/ controle\n                  :topic (r4 \/ remoto)\n                  :mod (a8 \/ apontar-01))\n            :op6 (r5 \/ reconhecer-02\n                  :ARG1 (v3 \/ voz))\n            :op7 (w \/ widi)\n            :op8 (d6 \/ design\n                  :mod (b4 \/ belo))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_0.txt",
+        "Sentence Number":2,
+        "Sentence":"O que gostei : com certeza este aparelho possui a melhor adaptação do Android 4.0 para smarthphones , aliado com uma boa bateria se comparado com seus concorrentes , e um design fantástico .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_5.txt",
+        "Sentence Number":2,
+        "Sentence":"Depois de 50 tentativas , consegui falar com a Elisa e a mesma adiou a entrega para dia 09 \/ mar ? Sábado . Menos mal , mesmo sabendo que deveria ficar entre 08 e 14 em casa em pleno sábado !",
+        "AMR":"(m \/ multi-sentence\n      :snt1 (e2 \/ e\n            :op1 (c \/ conseguir-01\n                  :ARG0 (e \/ eu)\n                  :ARG1 (f \/ falar-01\n                        :ARG0 e\n                        :ARG2 (p \/ person :name (n \/ name :op1 \"Elisa\")))\n                  :time (d \/ depois\n                        :op1 (t \/ tentar-01 :frequency 50\n                              :ARG0 e)))\n            :op2 (a \/ adiar-01\n                  :ARG0 p\n                  :ARG1 (e3 \/ entregar-01)\n                  :ARG2 (d2 \/ date-entity :day 9 :month 3\n                        :weekday (s \/ sábado))))\n      :snt2 (s2 \/ saber-01\n            :ARG0 e\n            :ARG1 (r \/ recommend-01\n                  :ARG1 (f2 \/ ficar-202\n                        :ARG1 e\n                        :ARG2 (c2 \/ casa)\n                        :time (d6 \/ date-entity\n                              :weekday (s3 \/ sábado)\n                              :mod (p2 \/ pleno)\n                              :time (d3 \/ date-interval\n                                    :op1 (d4 \/ date-entity :time 8)\n                                    :op2 (d5 \/ date-entity :time 14)))))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Capitaes-da-Areia",
+        "Document":"Documento_143.txt",
+        "Sentence Number":1,
+        "Sentence":"Talvez ele achasse necessário dizer , para as pessoas de a época , que as crianças de rua fazem coisas erradas não por serem intrinsecamente más , mas porque foram abandonadas ou porque nunca tiveram carinho .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_8.txt",
+        "Sentence Number":1,
+        "Sentence":"Bem , o produto é muito lento . Um ginga de RAM não é suficiente para rodar o 4.1 , muito menos o 4.3 , tanto é que nem vai ser disponibilizado a atualização para o 4.4 .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_0.txt",
+        "Sentence Number":0,
+        "Sentence":"A história tem vários furos e , se você parar pra pensar , é só mais um romance americano sem sal , com a menininha bonita , mas tímida , que faz de tudo pra ser invisível e o cara \" perfeito \" .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_9.txt",
+        "Sentence Number":5,
+        "Sentence":"Eu prefiro assim , não tive a oportunidade de experimentar um óculos 3D ativo , mais creio que o óculos passivo não fique atrás e você não tem que ficar trocando bateria e isso me deixa feliz .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Se-Houver-Amanha",
+        "Document":"Documento_22.txt",
+        "Sentence Number":2,
+        "Sentence":"Resolvi dar uma pesquisada em o cara e descobri que ele tinha sido o único escritor a ganhar os três maiores prêmios de os estados unidos e vendeu apenas 300 milhões de livros em toda a sua carreira .",
+        "AMR":"(a4 \/ e\n      :op1 (r \/ resolver-01\n            :ARG0 (e4 \/ eu)\n            :ARG1 (p \/ pesquisar-01\n                  :ARG0 e4\n                  :ARG1 (c3 \/ cara)))\n      :op2 (d \/ descobrir-01\n            :ARG0 e4\n            :ARG1 (s \/ same-01\n                  :ARG1 c3\n                  :ARG2 (a \/ e\n                        :op1 (g \/ ganhar-01\n                              :ARG0 (e \/ escritor\n                                    :mod (u \/ único))\n                              :ARG1 (p2 \/ prêmio :quant 3\n                                    :ARG1-of (h \/ have-degree-91\n                                          :ARG2 (g2 \/ grande)\n                                          :ARG3 (m \/ máximo)\n                                          :ARG5 (p3 \/ prêmio)\n                                          :location (c \/ country :name (n \/ name :op1 \"Estados\" :op2 \"Unidos\")))))\n                        :op2 (v \/ vender-01\n                              :ARG0 e\n                              :ARG1 (l \/ livro :quant 300000000\n                                    :mod (a2 \/ apenas))\n                              :duration (c2 \/ carreira\n                                    :poss e))))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_243.txt",
+        "Sentence Number":4,
+        "Sentence":"Como outros livros de o mesmo estilo ( jangada de pedra e as intermitências de a morte ) , ele parte de um acontecimento absurdo e depois explora todas as consequências que são perfeitamente plausíveis .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_2.txt",
+        "Sentence Number":2,
+        "Sentence":"Como tenho o hábito de fazer download de filmes ( AVI , MKV , Mp4 ) na Internet conseguiu assistir todos e com legendas ( * . Str ) parabéns Samsung por fabricar um equipamento de ótima qualidade .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_2.txt",
+        "Sentence Number":1,
+        "Sentence":"Ótima televisão , ou melhor , central multimídia fiquei impressionado pela quantidade de recursos ( Wi-fi , aplicativos e All share ) como tenho um celular Samsung ( Omnia a ) com Windows 7.5 tive uma interação completa .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_123.txt",
+        "Sentence Number":3,
+        "Sentence":"Acontece , que o livro não é tudo isso que se esperava , até mesmo porque ele destorce muito as lendas , dá um ar de perfeição a mote após a vida , em a figura de o vampiro .",
+        "AMR":null,
+        "New Verbs":"distorcer"
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_243.txt",
+        "Sentence Number":5,
+        "Sentence":"Em os livros de Saramago , você encontra história , profundo conhecimento de as virtudes e fraquezas humanas , encontra frases de profundo significado , etc . Todos somos cegos mas podemos voltar a enxergar !",
+        "AMR":"(m \/ multiple-sentence\n      :snt1 (p \/ possible-01\n            :ARG1 (e \/ encontrar-01\n                  :ARG0 (v \/ você)\n                  :ARG1 (a \/ e\n                        :op1 (h \/ história)\n                        :op2 (c2 \/ conhecer-01\n                              :ARG1 (a2 \/ e\n                                    :op1 (v2 \/ virtude)\n                                    :op2 (f \/ fraqueza)\n                                    :mod (h2 \/ humano))\n                              :mod (p3 \/ profundo))\n                        :op3 (s \/ significar-01\n                              :ARG1 (f2 \/ frase)\n                              :mod (p4 \/ profundo))\n                        :op4 (e3 \/ et-coetera))\n                  :location (l \/ livro\n                        :poss (p2 \/ person :name (n \/ name :op1 \"Saramago\")))))\n      :snt2 (c \/ contrast-01\n            :ARG1 (c3 \/ cego\n                  :domain (n2 \/ nós\n                        :mod (t \/ todos)))\n            :ARG2 (p5 \/ possible-01\n                  :ARG0 n2\n                  :ARG1 (e2 \/ enxergar-01\n                        :mod (n3 \/ novamente)))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_702.txt",
+        "Sentence Number":2,
+        "Sentence":"Perfeito não só por causa de suas frases magníficas , de os personagens , principalmente de o Edward que quando acabei de ler esse livro notei que estava apaixonada por ele , mais também por ele ser muito bem escrito .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_2.txt",
+        "Sentence Number":12,
+        "Sentence":"3 - falta de conexões analógicas ( possui uma de vídeo composto e uma de vídeo componente , mas que compartilham a mesma entrada de áudio , logo não dá para usar dois equipamentos analógicos nesta televisão ) .",
+        "AMR":"(f \/ faltar-01 :li 3\n      :ARG1 (c4 \/ conexão\n            :topic (a3 \/ analógico))\n      :ARG0-of (m2 \/ mean-01\n            :ARG1 (c5 \/ contrast-01\n                  :ARG1 (p5 \/ possuir-01\n                        :ARG1 (a4 \/ e\n                              :op1 (c8 \/ conexão :quant 1\n                                    :topic (v2 \/ vídeo\n                                          :mod (c9 \/ composto)))\n                              :op2 (c10 \/ conexao :quant 1\n                                    :topic (v3 \/ vídeo\n                                          :mod (c11 \/ componente)))))\n                  :ARG2 (c7 \/ compartilhar-01\n                        :ARG0 (a \/ e\n                              :op1 c8\n                              :op2 c10)\n                        :ARG1 (e2 \/ entrada\n                              :mod (m3 \/ mesmo)\n                              :topic (a5 \/ áudio)))\n                  :ARG0-of (c6 \/ cause-01\n                        :ARG1 (p4 \/ possible-01 :polarity -\n                              :ARG1 (u2 \/ usar-01\n                                    :ARG1 (e3 \/ equipamento :quant 2\n                                          :topic (a6 \/ analógico))\n                                    :location (t \/ televisão\n                                          :mod (e5 \/ este))))))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_365.txt",
+        "Sentence Number":1,
+        "Sentence":"Mais uma coisa que não me dá prazer nenhum é historinhas de vampiros , que são gente , que amam enfim é como se meu cachorro falasse com mim e viesse a passar ser meu namorado , nada contra mais também nada a favor .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_216.txt",
+        "Sentence Number":4,
+        "Sentence":"E tudo que de fato os olhos não veem , o coração , o corpo e a mente não sente , demonstrando a capacidade de o ser humano em , em situações extremas , conseguir demonstrar ser capaz de uma adaptabilidade .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_29.txt",
+        "Sentence Number":2,
+        "Sentence":"O apanhador em o campo de centeio é o nome de uma música que um figurante ( isso mesmo , um menininho que aparece em um parágrafo perdido de o livro ) passa assoviando em a frente de o personagem principal .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_108.txt",
+        "Sentence Number":0,
+        "Sentence":"O livro tem uma ótima linguagem e aborda temas que nos levam a uma reflexão , sobre o nosso comportamento em uma sociedade cada vez mais hipócrita em que a ética e os bons costumes estão cada vez mais sendo esquecidos .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_1.txt",
+        "Sentence Number":3,
+        "Sentence":"O que não gostei : é só ter um cuidado : entrar em contato com a Lg ( como eu fiz ) para perguntar quais os teclados compatíveis com a televisão ( para \/ usar a Internet ) , porque se você comprar sem verificar isso pode não sincronizar .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_2.txt",
+        "Sentence Number":1,
+        "Sentence":"Este aparelho apresenta um conjunto de características que atende a praticamente todas as necessidades de um consumidor : reprodução em 3D , acesso à Internet com Wi-fi interno , reprodução de arquivos de áudio e vídeo diretamente de um HD ou pendrive etc .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_2.txt",
+        "Sentence Number":14,
+        "Sentence":"Finalmente , devo dizer que o televisor Lg Smart modelo 4 7lm7600 está em uma faixa de preço muito superior à de televisores de outras marcas com as mesmas características , logo recomendo a potenciais compradores uma minuciosa pesquisa e atenção à relação custo-benefício .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_162.txt",
+        "Sentence Number":7,
+        "Sentence":"Nojento , assustador . Tornamos - nos animais , seres que se voltam para o eu , como se a cegueira branca , que é colocada , fosse como se estivéssemos olhando para dentro de nós mesmo , esperando ver alguma coisa , mas em a verdade não vemos nada .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_4.txt",
+        "Sentence Number":1,
+        "Sentence":"São 01: 53  , acabei de tentar comprar essa televisão no Shoptime pelo valor que é informado pelo Buscape de ar $ 3.239 , 35 no boleto bancário e atendente do televendas me falou que não consegue me fazer por esse preço . É uma piada , não é mesmo .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_82.txt",
+        "Sentence Number":3,
+        "Sentence":"É triste ver como esse livro conquistou milhares de adolescentes ( pior , não só adolescente , mas também mulheres adultas e em o mínimo frustradas com suas vidas amorosas \/ sexuais ) , que passaram a desejar uma história de amor semelhante a história vivida por Bella e Edward .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_702.txt",
+        "Sentence Number":3,
+        "Sentence":"Crepúsculo com certeza é um livro perfeito , completamente irresistível , cheio de mistérios e um romance inexplicavelmente inexplicável de Bella e Edward : um vampiro que tinha sede de o sangue de Bella , mais que se torna o seu anjo em todas as horas em que pensava que iria morrer .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_2.txt",
+        "Sentence Number":3,
+        "Sentence":"O que não gostei : não tem rádio , seu acabamento é bem simples comparado ao aparelho da Nokia , assim como suas câmeras , seu sistema de voz trabalha em vários idiomas , exceto o português ( Brasil ) , não tem televisão , o despertador só toca se o aparelho estiver ligado .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Capitaes-da-Areia",
+        "Document":"Documento_91.txt",
+        "Sentence Number":1,
+        "Sentence":"O livro torna o leitor íntimo de as pequenas criaturas , cada uma de elas com suas carências e ambições - de o líder Pedro bala a o religioso pirulito , de o ressentido e cruel sem-pernas a o aprendiz de cafetão gato , de o sensato professor a o rústico sertanejo volta seca .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_3.txt",
+        "Sentence Number":3,
+        "Sentence":"Bateria de 2.100 Mah que traz uma boa duração de bateria , uma câmera traseira muito boa de 8mp e a frontal de 1 . 9mp , função para selecionar a melhor foto que ajuda muitas pessoas a achar o seu melhor lado e segundo a Samsung ele terá atualização para as próximas versões do Android .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_365.txt",
+        "Sentence Number":0,
+        "Sentence":"Abandonei o livro crepúsculo por que eu gosto é de realidade , algumas coisas me fascinam outros já nem tanto e em o caso de este livro não me chamou atenção nenhuma há não ser por o nome , todos que conheço já leram , já assistiram filme , e são apaixonados por crepúsculo eclipsar enfim .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Professor",
+        "Document":"Documento_1.txt",
+        "Sentence Number":2,
+        "Sentence":"Ok , atletismo ' a parte o livro narra de forma divertida a relação de Malu com seus professores , de os três a os vinte e dois anos ( de a pré escola até a faculdade incluindo alguns cursinhos ) é um livro de gênero infantil juvenil portanto costuma agradar mais a galerinha de 12 anos .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_20.txt",
+        "Sentence Number":3,
+        "Sentence":"Pois se o lazer e a segurança fossem por todos fruídos , a grande massa de seres humanos normalmente estupidificada por a miséria aprenderia a ler e aprenderia a pensar por si ; e uma vez que isso acontecesse , mais cedo ou mais tarde veria que não tinha função a minoria privilegiada , e acabaria com ela .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_1.txt",
+        "Sentence Number":1,
+        "Sentence":"Esse telefone é muito bom quando esta funcionando , ele trava subitamente nas coisas mais simples como fazer ligação ir no menu e ate carregando levei duas vezes na garantia para arrumar eles dizem que não tem nada agora a garantia acabou e esta travando mais do que nunca não comprem a bateria um dia e demora para carregar",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_5.txt",
+        "Sentence Number":3,
+        "Sentence":"Por volta de 11:00   horas de sábado , já desconfiando do nível de serviço da At , resolvi ligar e para minha surpresa outra pessoa avisou que a entrega não seria feita ! Que absurdo . Marcaram comigo , tive que ficar em casa e nada ! Ok . A pessoa confirmou que na segunda a televisão seria entregue sem falta .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Capitaes-da-Areia",
+        "Document":"Documento_0.txt",
+        "Sentence Number":4,
+        "Sentence":"Não que eu quisesse que o autor criasse heróis romancistas em as figuras de os garotos mas em cenas como quando pedro-bala estupra uma menina que passa em a praia a a noite ou guando de os meninos tentam espancar Dora os protagonistas despencam em o meu conceito e eu não sinto mais pena ou afeição por eles em a história .",
+        "AMR":null,
+        "New Verbs":"espancar"
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_27.txt",
+        "Sentence Number":4,
+        "Sentence":"A obra mostra como pode ser sujo e grotesco o caráter de os homens , apresenta o quanto as pessoas precisam de um referencial ( ideológico , religioso , utópico ) para ter um rumo , o quanto somos pequenos e vazios a o apresentar a degradação de a sensibilidade humana . O fio de esperança está em a corrente de o bem e em querer se compartilhar o pequeno suspiro de bondade que existe .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_3.txt",
+        "Sentence Number":2,
+        "Sentence":"O que gostei : ótimo desempenho em jogos , processador de quatro núcleos de 1 , 4ghz e 1gb de RAM , display super AMOLED 4.8 polegadas 72 0p e 306 PPI de densidade de pixels que faz com que seja muito bom para ver vídeos e para jogos em HD , função não permite que o aparelho desligue enquanto se estiver olhando para ele oque é bom para que gosta de ler livros ou gosta de ler noticias na Internet ,",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_3.txt",
+        "Sentence Number":1,
+        "Sentence":"O Galaxy S3 é para que quer o melhor do melhor , não trava em jogos pesados , tela muito boa e bonita , processador deixa muitos para trás , câmera muito boa a frontal de 1 . 9mp faz vídeos e tira fotos em HD 72 0p e traseira de 8mp que faz fotos e vídeos em Full HD 108 0p , bateria de boa duração , ele tem o design bonito e mesmo com o preço alto no Brasil o custo-benefício é muito alto , pois ele tem de tudo !",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_0.txt",
+        "Sentence Number":4,
+        "Sentence":"O motivo ? Simples , como trabalho na area de telefonia conheço um aparelho com potencial para dar dor de cabeça , no lançamento tive mais 6 amigos que adquiriram o produto , deles apenas o meu e de um outro amigo não apresentaram problemas , o mais grave de todos é sua fragilidade , se você não consegue manter um ovo no bolso sem quebrá-lo , não recomendo que leve este aparelho , pois em dois casos o aparelho caiu de uma altura mínima ( sei que Smartphone não foi feito para \/ cair ) mas em 3 casos o aparelho se despedaçou na primeira semana de utilização .",
+        "AMR":null,
+        "New Verbs":"despedaçar"
+    }
+]
