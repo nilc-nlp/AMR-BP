@@ -60,7 +60,7 @@
 
 # ::id cotidiano-30-2-2
 # ::snt Não adianta fugir!
-# ::new_verb adiantar
+# ::new_verb adiantar (adiantar-02 sem argumentos)
 
 # ::id cotidiano-78-0-2
 # ::snt Ficou um ano em reforma.
@@ -72,7 +72,7 @@
 
 # ::id mundo-58-0-2
 # ::snt Bolsonaro a devorou.
-# ::new_verb devorar (falta sentido)
+# ::new_verb devorar (sentido "arrasar")
 
 # ::id mundo-66-0-2
 # ::snt O pouso foi brusco.
@@ -140,7 +140,7 @@
 
 # ::id poder-56-0-3
 # ::snt A escolha de Osmar Terra dividiu a bancada.
-# ::new_verb dividir (falta sentido)
+# ::new_verb dividir (sentido "partir")
 
 # ::id poder-86-32-3
 # ::snt Não estou dizendo que ele está configurado.
