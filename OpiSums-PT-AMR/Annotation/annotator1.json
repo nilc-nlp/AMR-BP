@@ -1,0 +1,2610 @@
+[
+    {
+        "Directory":"1984",
+        "Document":"Documento_113.txt",
+        "Sentence Number":2,
+        "Sentence":"\"",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_80.txt",
+        "Sentence Number":5,
+        "Sentence":"\"",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_20.txt",
+        "Sentence Number":4,
+        "Sentence":"\"",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_14.txt",
+        "Sentence Number":4,
+        "Sentence":"\"",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Pai",
+        "Document":"Documento_0.txt",
+        "Sentence Number":0,
+        "Sentence":"Bom .",
+        "AMR":"(b \/ bom)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_8.txt",
+        "Sentence Number":3,
+        "Sentence":"Leia !",
+        "AMR":"(l \/ ler-01 :mode imperative)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_18.txt",
+        "Sentence Number":0,
+        "Sentence":"Amei !",
+        "AMR":"(a \/ amar-01\n      :ARG0 (e \/ eu))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_6.txt",
+        "Sentence Number":0,
+        "Sentence":"Perfeito",
+        "AMR":"(p \/ perfeito)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_4.txt",
+        "Sentence Number":0,
+        "Sentence":"Iphone 5",
+        "AMR":"(p \/ product :name (n \/ name :op1 \"Iphone\" :op2 \"5\"))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_27.txt",
+        "Sentence Number":0,
+        "Sentence":"Muito bom",
+        "AMR":"(b \/ bom\n      :mod (m \/ muito))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_47.txt",
+        "Sentence Number":0,
+        "Sentence":"Diamantes",
+        "AMR":"(d \/ diamante)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_2.txt",
+        "Sentence Number":0,
+        "Sentence":"Excelente",
+        "AMR":"(e \/ excelente)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_49.txt",
+        "Sentence Number":0,
+        "Sentence":"Perfeito .",
+        "AMR":"(p \/ perfeito)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_98.txt",
+        "Sentence Number":0,
+        "Sentence":"Perfeito !",
+        "AMR":"(p \/ perfeito)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_0.txt",
+        "Sentence Number":5,
+        "Sentence":"( poucas )",
+        "AMR":"(p \/ pouco)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_0.txt",
+        "Sentence Number":0,
+        "Sentence":"Este é dez",
+        "AMR":"(s \/ score-on-scale-91\n      :ARG1 10\n      :domain (e \/ este))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_14.txt",
+        "Sentence Number":11,
+        "Sentence":"Para = 1075",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_21.txt",
+        "Sentence Number":0,
+        "Sentence":"Maravilhoso .",
+        "AMR":"(m \/ maravilhoso)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_128.txt",
+        "Sentence Number":0,
+        "Sentence":"Decepcionante",
+        "AMR":"(t \/ thing\n      :ARG0 (d \/ decepcionar-01))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_62.txt",
+        "Sentence Number":2,
+        "Sentence":"Me frustrei .",
+        "AMR":"(f \/ frustrar-01\n      :ARG1 (e \/ eu))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_86.txt",
+        "Sentence Number":7,
+        "Sentence":"Recomendado !",
+        "AMR":"(r \/ recomendar-01)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_1.txt",
+        "Sentence Number":0,
+        "Sentence":"Quero ter um !",
+        "AMR":"(q \/ querer-01\n      :ARG0 (e2 \/ eu)\n      :ARG1 (t \/ ter-01\n            :ARG0 e2\n            :ARG1 (t2 \/ thing)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_80.txt",
+        "Sentence Number":6,
+        "Sentence":"Guerra é paz .",
+        "AMR":"(p \/ paz\n      :domain (g \/ guerra))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_117.txt",
+        "Sentence Number":3,
+        "Sentence":"Lixo de livro .",
+        "AMR":"(l \/ lixo\n      :domain (l2 \/ livro))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_8.txt",
+        "Sentence Number":4,
+        "Sentence":"Mariana Almeida",
+        "AMR":"(p \/ person :name (n \/ name :op1 \"Mariana\" :op2 \"Almeida\"))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_7.txt",
+        "Sentence Number":8,
+        "Sentence":"Rápido e ágil .",
+        "AMR":"(e \/ e\n      :op1 (r \/ rápido)\n      :op2 (a \/ ágil))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_117.txt",
+        "Sentence Number":1,
+        "Sentence":"Não recomendo !",
+        "AMR":"(r \/ recomendar-01 :polarity -\n      :ARG0 (e \/ eu))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Professor",
+        "Document":"Documento_22.txt",
+        "Sentence Number":0,
+        "Sentence":"Falando sério .",
+        "AMR":null,
+        "New Verbs":"falar-serio"
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_12.txt",
+        "Sentence Number":0,
+        "Sentence":"Fala serio amiga",
+        "AMR":"(b \/ book :name (n \/ name :op1 \"Fala\" :op2 \"Serio\" :op3 \"Amiga\"))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_14.txt",
+        "Sentence Number":1,
+        "Sentence":"- halita Rebouças",
+        "AMR":"(p \/ person :name (n \/ name :op1 \"Thalita\" :op2 \"Rebouças\"))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_30.txt",
+        "Sentence Number":4,
+        "Sentence":"Nem meus primos .",
+        "AMR":"(e \/ e\n      :op1 (a \/ amr-undefined :polarity -)\n      :op2 (f \/ fazer-03\n            :ARGX (p \/ person\n                  :ARG0-of (h \/ have-rel-role-91\n                        :ARG1 (e2 \/ eu)\n                        :ARG2 (p2 \/ primo)))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_32.txt",
+        "Sentence Number":1,
+        "Sentence":"Amei esse livro .",
+        "AMR":"(a \/ amar-01\n      :ARG0 (e2 \/ eu)\n      :ARG1 (l \/ livro\n            :mod (e3 \/ esse)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_62.txt",
+        "Sentence Number":0,
+        "Sentence":"Faltou o clímax .",
+        "AMR":"(f \/ faltar-01\n      :ARG1 (c \/ clímax))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Professor",
+        "Document":"Documento_22.txt",
+        "Sentence Number":3,
+        "Sentence":"Vale a pena ler .",
+        "AMR":"(v \/ valer-02\n      :ARG1 (l \/ ler-01)\n      :ARG2 (p \/ pena))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_29.txt",
+        "Sentence Number":8,
+        "Sentence":"Pois é . Nenhum .",
+        "AMR":"(n \/ nenhum)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_113.txt",
+        "Sentence Number":0,
+        "Sentence":"[ 29 . 07 . 2010 ]",
+        "AMR":"(d \/ date-entity :day 29 :month 7 :year 2010)",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_14.txt",
+        "Sentence Number":5,
+        "Sentence":"Fala sério , mãe !",
+        "AMR":"(b \/ book :name (n \/ name :op1 \"Fala\" :op2 \"Sério\" :op3 \",\" :op4 \"Mãe\" :op5 \"!\"))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_14.txt",
+        "Sentence Number":0,
+        "Sentence":"Fala sério , mãe !",
+        "AMR":"(b \/ book :name (n \/ name :op1 \"Fala\" :op2 \"Sério\" :op3 \",\" :op4 \"Mãe\" :op5 \"!\"))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_3.txt",
+        "Sentence Number":0,
+        "Sentence":"Sonho de consumo !",
+        "AMR":"(s \/ sonhar-01\n      :ARG1 (c \/ consumir-01))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_29.txt",
+        "Sentence Number":9,
+        "Sentence":"Vadiar , somente .",
+        "AMR":null,
+        "New Verbs":"vadiar"
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_15.txt",
+        "Sentence Number":10,
+        "Sentence":"Sempre amou todas .",
+        "AMR":"(a \/ amar-01\n      :ARG0 (e \/ ele)\n      :ARG1 (t \/ todas)\n      :time (s \/ sempre))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_42.txt",
+        "Sentence Number":0,
+        "Sentence":"Leitura obrigatória",
+        "AMR":"(o \/ obligate-01\n      :ARG1 (l \/ ler-01))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Pai",
+        "Document":"Documento_18.txt",
+        "Sentence Number":0,
+        "Sentence":"Tal pai , tal filha",
+        "AMR":"(s \/ same-01\n      :ARG1 (p \/ person\n            :ARG0-of (h \/ have-rel-role-91\n                  :ARG1 p3\n                  :ARG2 (p2 \/ pai)))\n      :ARG2 (p3 \/ person\n            :ARG0-of (h2 \/ have-rel-role-91\n                  :ARG1 p\n                  :ARG2 (f \/ filha))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_32.txt",
+        "Sentence Number":0,
+        "Sentence":"Tal mãe , tal filha",
+        "AMR":"(s \/ same-01\n      :ARG1 (p \/ person\n            :ARG0-of (h \/ have-rel-role-91\n                  :ARG1 p3\n                  :ARG2 (m \/ mãe)))\n      :ARG2 (p3 \/ person\n            :ARG0-of (h2 \/ have-rel-role-91\n                  :ARG1 p\n                  :ARG2 (f \/ filha))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_80.txt",
+        "Sentence Number":8,
+        "Sentence":"Ignorância é força .",
+        "AMR":"(s \/ same-01\n      :ARG1 (i2 \/ ignorância)\n      :ARG2 (f \/ força))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_10.txt",
+        "Sentence Number":0,
+        "Sentence":"Fala sério , amiga !",
+        "AMR":"(b \/ book :name (n \/ name :op1 \"Fala\" :op2 \"Sério\" :op3 \",\" :op4 \"Amiga\" :op5 \"!\"))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_32.txt",
+        "Sentence Number":0,
+        "Sentence":"O preço de a ambição",
+        "AMR":"(p \/ preço\n      :topic (a \/ ambição))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_23.txt",
+        "Sentence Number":0,
+        "Sentence":"Fala sério , halita !",
+        "AMR":null,
+        "New Verbs":"falar-serio"
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_4.txt",
+        "Sentence Number":0,
+        "Sentence":"Muito hylé por nada .",
+        "AMR":"(h \/ hylé\n      :mod (m \/ muito)\n      :ARG1-of (c \/ cause-01\n            :ARG0 (n \/ nada)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_15.txt",
+        "Sentence Number":13,
+        "Sentence":"Super recomendado ; de",
+        "AMR":"(r \/ recomendar-01\n      :degree (s \/ super)\n      :mod (e \/ emoticon :value \";D\"))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_0.txt",
+        "Sentence Number":0,
+        "Sentence":"Ganhei de uma vizinha !",
+        "AMR":"(g \/ ganhar-01\n      :ARG0 (e \/ eu)\n      :ARG2 (p \/ person\n            :ARG0-of (h \/ have-rel-role-91\n                  :ARG1 e\n                  :ARG2 (v \/ vizinha))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_7.txt",
+        "Sentence Number":3,
+        "Sentence":"A Camera é maravilhosa .",
+        "AMR":"(m \/ maravilhoso\n      :domain (c \/ câmera))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_80.txt",
+        "Sentence Number":7,
+        "Sentence":"Liberdade é escravidão .",
+        "AMR":"(s \/ same-01\n      :ARG1 (l \/ liberdade)\n      :ARG2 (e \/ escravidão))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_7.txt",
+        "Sentence Number":0,
+        "Sentence":"O melhor de Sidney Sheldon",
+        "AMR":"(t \/ thing\n      :ARG1-of (h \/ have-dregree-91\n            :ARG2 (b \/ bom)\n            :ARG3 (m \/ máximo))\n      :ARG1-of (e \/ fazer-01\n            :ARG0 (p \/ person :name (n \/ name :op1 \"Sidney\" :op2 \"Sheldon\"))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_36.txt",
+        "Sentence Number":0,
+        "Sentence":"O que dizer de esse livro ?",
+        "AMR":"(d \/ dizer-01\n      :ARG1 (a \/ amr-unknown)\n      :ARG3 (l \/ livro\n            :mod (e \/ esse)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_1.txt",
+        "Sentence Number":4,
+        "Sentence":"O que não gostei : o preço .",
+        "AMR":"(g \/ gostar-01 :polarity -\n      :ARG0 (e \/ eu)\n      :ARG1 (p \/ preço))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_7.txt",
+        "Sentence Number":0,
+        "Sentence":"Mutuo bom , ótimo , perfeito",
+        "AMR":"(e \/ e\n      :op1 (b \/ bom\n            :mod (m \/ muito))\n      :op2 (o \/ ótimo)\n      :op3 (p \/ perfeito))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_4.txt",
+        "Sentence Number":0,
+        "Sentence":"Melhor Smartphone do momento",
+        "AMR":"(s \/ smartphone\n      :ARG1-of (h \/ have-degree-91\n            :ARG2 (b \/ bom)\n            :ARG3 (m \/ máximo)\n            :time (a \/ agora)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_5.txt",
+        "Sentence Number":0,
+        "Sentence":"Iphone 5 , um grande prêmio !",
+        "AMR":"(p \/ prêmio\n      :mod (g \/ grande)\n      :domain (p2 \/ product :name (n \/ name :op1 \"Iphone\" :op2 \"5\")))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_82.txt",
+        "Sentence Number":7,
+        "Sentence":"Vampiro que brilha em o sol .",
+        "AMR":null,
+        "New Verbs":"brilhar"
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_113.txt",
+        "Sentence Number":5,
+        "Sentence":"Vi que o final era horrível .",
+        "AMR":"(v \/ ver-01\n      :ARG0 (e \/ eu)\n      :ARG1 (h \/ horrível\n            :domain (f \/ final)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_8.txt",
+        "Sentence Number":0,
+        "Sentence":"- \" fala serio , manhêêêê ! \"",
+        "AMR":null,
+        "New Verbs":"falar-serio"
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_1.txt",
+        "Sentence Number":5,
+        "Sentence":"Definitivamente , irritante .",
+        "AMR":"(i2 \/ irritar-02\n      :ARG1 (e \/ eu)\n      :mod (d \/ definitivo))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_24.txt",
+        "Sentence Number":0,
+        "Sentence":"Achei o livro um pouco fútil .",
+        "AMR":"(a \/ achar-02\n      :ARG0 (e \/ eu)\n      :ARG1 (l \/ livro)\n      :ARG2 (f \/ fútil\n            :degree (u \/ um-pouco)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_3.txt",
+        "Sentence Number":0,
+        "Sentence":"Um Smartphone quase perfeito !",
+        "AMR":"(s \/ smartphone\n      :mod (p \/ perfeito\n            :mod (q \/ quase)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_128.txt",
+        "Sentence Number":3,
+        "Sentence":"Decepcionante , tempo perdido !",
+        "AMR":"(d \/ decepcionar-01\n      :ARG1 (e \/ eu)\n      :ARG1-of (c \/ cause-01\n            :ARG0 (p \/ perder-02\n                  :ARG0 e\n                  :ARG1 (t \/ tempo))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_20.txt",
+        "Sentence Number":0,
+        "Sentence":"Minha parte favorita de o livro",
+        "AMR":"(p \/ parte\n      :mod (f \/ favorito\n            :beneficiary (e \/ eu))\n      :part-of (l \/ livro))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_80.txt",
+        "Sentence Number":9,
+        "Sentence":"\" e definitivamente , 2 + 2 = 5",
+        "AMR":"(e2 \/ e\n      :op1 (e \/ equal-01\n            :ARG1 (s \/ sum-of :op1 2 :op2 2)\n            :ARG2 5\n            :mod (d \/ definitivo)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_9.txt",
+        "Sentence Number":0,
+        "Sentence":"Iphone 5 , meu sonho de consumo",
+        "AMR":"(s \/ sonhar-01\n      :ARG0 (e \/ eu)\n      :ARG1 (c \/ consumir-01\n            :ARG0 e\n            :ARG1 (p \/ product :name (n \/ name :op1 \"Iphone\" :op2 \"5\"))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_29.txt",
+        "Sentence Number":6,
+        "Sentence":"Ok , e qual é a história mesmo ?",
+        "AMR":"(e \/ e\n      :op1 (o \/ ok)\n      :op2 (h \/ historia\n            :domain (a \/ amr-unknown)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_42.txt",
+        "Sentence Number":1,
+        "Sentence":"Hoje em dia é só mais um livro .",
+        "AMR":"(l \/ livro :quant 1\n      :time (h \/ hoje-em-dia)\n      :mod (m \/ mais\n            :mod (s \/ só)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Se-Houver-Amanha",
+        "Document":"Documento_88.txt",
+        "Sentence Number":3,
+        "Sentence":"Porém , este eu realmente gosto .",
+        "AMR":"(c \/ contrast-01\n      :ARG2 (g \/ gostar-01\n            :ARG0 (e \/ eu)\n            :ARG1 (e2 \/ este)\n            :mod (r \/ real)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_1.txt",
+        "Sentence Number":1,
+        "Sentence":"Parece ser um excelente produto .",
+        "AMR":"(p \/ parecer-01\n      :ARG2 (e \/ excelente\n            :domain (p2 \/ produto)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_29.txt",
+        "Sentence Number":7,
+        "Sentence":"Qual o objetivo de o personagem ?",
+        "AMR":"(o \/ objetivo\n      :poss (p \/ personagem)\n      :domain (a \/ amr-unknown))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_8.txt",
+        "Sentence Number":0,
+        "Sentence":"Principais qualidades do Iphone 5",
+        "AMR":"(q \/ qualidade\n      :poss (p \/ product :name (n \/ name :op1 \"Iphone\" :op2 \"5\"))\n      :mod (p2 \/ principal))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_2.txt",
+        "Sentence Number":2,
+        "Sentence":"Como pontos positivos , destaco :",
+        "AMR":"(d \/ destacar-01\n      :ARG0 (e \/ eu)\n      :manner (p \/ ponto\n            :mod (p2 \/ positivo)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_23.txt",
+        "Sentence Number":8,
+        "Sentence":"A mãe é demasiadamente sem-noção .",
+        "AMR":"(s \/ sem-noção\n      :mod (d \/ demasiado)\n      :domain (m \/ mãe))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_47.txt",
+        "Sentence Number":6,
+        "Sentence":"Foi deixado a a mercê de a morte .",
+        "AMR":"(d \/ deixar-03\n      :ARG1 (e \/ ele)\n      :prep-a-merce (m \/ morte))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_30.txt",
+        "Sentence Number":2,
+        "Sentence":"Pacto perfeito , nada a reclamar .",
+        "AMR":"(r \/ reclamar-01\n      :ARG1 (n \/ nada)\n      :ARG1-of (c \/ cause-01\n            :ARG0 (p \/ pacto\n                  :mod (p2 \/ perfeito))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_6.txt",
+        "Sentence Number":2,
+        "Sentence":"E é muito mais do que você espera !",
+        "AMR":"(m \/ mais\n      :mod (m2 \/ muito)\n      :quant-of (t \/ thing\n            :ARG1-of (e \/ esperar-01\n                  :ARG0 (v \/ você))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_243.txt",
+        "Sentence Number":3,
+        "Sentence":"O livro de Saramago é espetacular .",
+        "AMR":"(e \/ espetacular\n      :domain (l \/ livro\n            :ARG1-of (e2 \/ escrever-01\n                  :ARG0 (p \/ person :name (n \/ name :op1 \"Saramago\")))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_0.txt",
+        "Sentence Number":4,
+        "Sentence":"Até que me arrancou algumas risada .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_1.txt",
+        "Sentence Number":0,
+        "Sentence":"Meio chato , meio bobo , meio urgh .",
+        "AMR":"(e \/ e\n      :op1 (c \/ chato\n            :mod (m \/ meio))\n      :op2 (b \/ bobo\n            :mod (m2 \/ meio))\n      :op3 (u \/ urgh\n            :mod (m3 \/ meio)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_15.txt",
+        "Sentence Number":7,
+        "Sentence":"E tenho certeza , que duraria mais .",
+        "AMR":"(e \/ e\n      :op1 (t \/ ter-10\n            :ARG0 (e2 \/ eu)\n            :ARG1 (c \/ certeza)\n            :ARG2 (d \/ durar-01\n                  :ARG2 (m \/ mais))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_189.txt",
+        "Sentence Number":8,
+        "Sentence":"Vale a leitura e vale a re-leitura .",
+        "AMR":"(e \/ e\n      :op1 (v \/ valer-02\n            :ARG1 (l \/ ler-01))\n      :op2 (v2 \/ valer-02\n            :ARG1 (l2 \/ ler-01\n                  :mod (n \/ novamente))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_113.txt",
+        "Sentence Number":8,
+        "Sentence":"E foi assim que o fiz , e terminei .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_6.txt",
+        "Sentence Number":3,
+        "Sentence":"É praticamente impossível imaginar !",
+        "AMR":"(p \/ possivel :polarity -\n      :mod (p2 \/ praticamente)\n      :domain (i2 \/ imaginar-01))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_0.txt",
+        "Sentence Number":2,
+        "Sentence":"Mas esse até que é bem legal de ler .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_80.txt",
+        "Sentence Number":0,
+        "Sentence":"O grande irmão está de olho em você .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_18.txt",
+        "Sentence Number":2,
+        "Sentence":"Foi o que eu mais me identifiquei . :d",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_18.txt",
+        "Sentence Number":1,
+        "Sentence":"O meu favorito de a série fala sério .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_21.txt",
+        "Sentence Number":1,
+        "Sentence":"Fala sério amiga é um livro muito bom .",
+        "AMR":"(b \/ bom\n      :domain (b2 \/ book :name (n \/ name :op1 \"Fala\" :op2 \"Sério\" :op3 \"Amiga\"))\n      :mod (m \/ muito))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_30.txt",
+        "Sentence Number":8,
+        "Sentence":"Voltado mais para mães e adolescentes .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_15.txt",
+        "Sentence Number":12,
+        "Sentence":"Que é a coisa mais preciosa de a vida .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_15.txt",
+        "Sentence Number":0,
+        "Sentence":"Halita é praticamente uma adolescente !",
+        "AMR":"(a \/ adolescente\n      :mod (p \/ praticamente)\n      :domain (p3 \/ person :name (n \/ name :op1 \"Thalita\")))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_24.txt",
+        "Sentence Number":3,
+        "Sentence":"Mas gostei muito de o final , compensa .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_30.txt",
+        "Sentence Number":0,
+        "Sentence":"Em o início de o livro achei divertido .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_1.txt",
+        "Sentence Number":3,
+        "Sentence":"O que gostei : tem tudo que precisamos .",
+        "AMR":"(g \/ gostar-01\n      :ARG0 (e \/ eu)\n      :ARG1 (t \/ ter-01\n            :ARG1 (t2 \/ tudo\n                  :ARG1 (n \/ nós)\n                  :ARG2-of (p \/ precisar-01))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_4.txt",
+        "Sentence Number":3,
+        "Sentence":"Simplesmente fantástico ! Eu recomendo !",
+        "AMR":"(m \/ multi-sentence\n      :snt1 (f \/ fantástico\n            :mod (s \/ simplesmente))\n      :snt2 (r \/ recomendar-01\n            :ARG0 (e \/ eu)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_15.txt",
+        "Sentence Number":2,
+        "Sentence":"Falando sobre mais uma aventura de Malu .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_0.txt",
+        "Sentence Number":2,
+        "Sentence":"O que gostei : charmoso , leve , charmoso",
+        "AMR":"(g \/ gostar-01\n      :ARG0 (e \/ eu)\n      :ARG1 (e2 \/ e\n            :op1 (c \/ charme)\n            :op2 (l \/ leve)\n            :op3 (c2 \/ charme)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_86.txt",
+        "Sentence Number":0,
+        "Sentence":"O livro , de início , não empolga muito .",
+        "AMR":null,
+        "New Verbs":"empolgar"
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_15.txt",
+        "Sentence Number":5,
+        "Sentence":"Essa é a Alice , sua amiga desde pequena .",
+        "AMR":"(e \/ esse\n      :domain (p \/ person :name (n \/ name :op1 \"Alice\")\n            :ARG0-of (h \/ have-rel-role-91\n                  :ARG1 (e2 \/ ela)\n                  :ARG2 (a \/ amigo)\n                  :time (d \/ desde\n                        :op1 (p2 \/ pequeno\n                              :domain e2)))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_86.txt",
+        "Sentence Number":4,
+        "Sentence":"E agora entendi porque ele é um clássico .",
+        "AMR":"(e \/ e\n      :op1 (e2 \/ entender-01\n            :ARG0 (e3 \/ eu)\n            :ARG1 (m \/ motivo\n                  :ARG0-of (c \/ cause-01\n                        :ARG1 (c2 \/ clássico\n                              :domain (e4 \/ ele))))\n            :time (a \/ agora)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_189.txt",
+        "Sentence Number":4,
+        "Sentence":"E acabei devorando o restante de o livro .",
+        "AMR":null,
+        "New Verbs":"devorar"
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_4.txt",
+        "Sentence Number":3,
+        "Sentence":"O resto , é sofrível enquanto literatura .",
+        "AMR":"(s \/ sofrível\n      :domain (r \/ resto)\n      :topic (l \/ literatura))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_113.txt",
+        "Sentence Number":1,
+        "Sentence":"Sabe quando você espera muito de um livro ?",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_128.txt",
+        "Sentence Number":4,
+        "Sentence":"Eu poderia e deviria ter lido coisa melhor .",
+        "AMR":"(e \/ e\n      :op1 (p \/ possible-01\n            :ARG1 (l \/ ler-01\n                  :ARG0 (e2 \/ eu)\n                  :ARG1 (c \/ coisa\n                        :ARG1-of (h \/ have-degree-91\n                              :ARG2 (b \/ bom)\n                              :ARG3 (m \/ mais)))))\n      :op2 (r \/ recommend-01\n            :ARG1 l))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Outro-Lado-da-Meia-Noite",
+        "Document":"Documento_8.txt",
+        "Sentence Number":10,
+        "Sentence":"Pra mim é um livro inesquecível e perfeito .",
+        "AMR":null,
+        "New Verbs":"opinar"
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_6.txt",
+        "Sentence Number":4,
+        "Sentence":"Então soa tendo pra saber ! ! ! ! ! Recomendo",
+        "AMR":"(m \/ multi-sentence\n      :snt1 (s \/ saber-01\n            :condition (t \/ ter-01\n                  :mod (s2 \/ só)))\n      :snt2 (r \/ recomendar-01\n            :ARG0 (e \/ eu)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_3.txt",
+        "Sentence Number":1,
+        "Sentence":"Tem aquela amiga companheira , irmã , prima .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_80.txt",
+        "Sentence Number":1,
+        "Sentence":"Contra-indicado para os mais impressionáveis .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_7.txt",
+        "Sentence Number":1,
+        "Sentence":"Para muitos o melhor livro de Sidney Sheldon .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Pai",
+        "Document":"Documento_8.txt",
+        "Sentence Number":1,
+        "Sentence":"O livro conta a história de Maria de Lourdes .",
+        "AMR":"(c \/ contar-01\n      :ARG0 (l \/ livro)\n      :ARG1 (h \/ história\n            :topic (p \/ person :name (n \/ name :op1 \"Maria\" :op2 \"de\" :op3 \"Lourdes\"))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_80.txt",
+        "Sentence Number":3,
+        "Sentence":"Contém medo e suspense desde a primeira linha .",
+        "AMR":"(c \/ conter-01\n      :ARG1 (e2 \/ ele)\n      :ARG2 (e3 \/ e\n            :op1 (m \/ medo)\n            :op2 (s \/ suspense))\n      :time (d \/ desde\n            :op1 (l \/ linha\n                  :ord (o \/ ordinal-entity :value 1))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_30.txt",
+        "Sentence Number":3,
+        "Sentence":"Jamais fiz isso com minha mãe , nem meu irmão .",
+        "AMR":"(e2 \/ e\n      :op1 (f \/ fazer-01\n            :ARG0 (e \/ eu)\n            :ARG1 (i2 \/ isso)\n            :ARG3 (p \/ pessoa\n                  :ARG0-of (h \/ have-rel-role-91\n                        :ARG1 e\n                        :ARG2 (m \/ mae)))\n            :time (j \/ jamais))\n      :op2 (f2 \/ fazer-01\n            :ARG0 e\n            :ARG1 i2\n            :ARG3 (p2 \/ pessoa\n                  :ARG0-of (h2 \/ have-rel-role-91\n                        :ARG1 e\n                        :ARG2 (i3 \/ irmao)))\n            :time (j2 \/ jamais)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_14.txt",
+        "Sentence Number":10,
+        "Sentence":"[ . ] continue lendo : http:\/\/babilorentz.com\/?",
+        "AMR":"(c \/ continuar-02 :mode imperative\n      :ARG1 (l \/ ler-01\n            :medium (u \/ url-entity :value \"http:\/\/babilorentz.com\/?\")))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_1.txt",
+        "Sentence Number":2,
+        "Sentence":"Pena que no Brasil os impostos sejam tão caros .",
+        "AMR":"(p \/ pena\n      :domain (c \/ caro\n            :domain (i2 \/ imposto)\n            :location (c2 \/ country :name (n \/ name :op1 \"Brasil\"))\n            :mod (t \/ tão)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_15.txt",
+        "Sentence Number":3,
+        "Sentence":"Ela e suas amigas aprontam e se divertem muito .",
+        "AMR":null,
+        "New Verbs":"aprontar"
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_15.txt",
+        "Sentence Number":6,
+        "Sentence":"Ficaram juntar até o último capítulo de o livro .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_15.txt",
+        "Sentence Number":8,
+        "Sentence":"As duas brigam e se divertem a o longo de o livro .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_189.txt",
+        "Sentence Number":3,
+        "Sentence":"Depois simplesmente fui me encantando com o livro .",
+        "AMR":null,
+        "New Verbs":"encantar"
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_23.txt",
+        "Sentence Number":6,
+        "Sentence":"Eu estou fascinada por o Guilherme Almeida [ . ] \" .",
+        "AMR":"(f \/ fascinar-01\n      :ARG0 (p \/ person :name (n \/ name :op1 \"Guilherme\" :op2 \"Almeida\"))\n      :ARG1 (e2 \/ eu))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Outro-Lado-da-Meia-Noite",
+        "Document":"Documento_20.txt",
+        "Sentence Number":4,
+        "Sentence":"E hoje o resultado que temos é uma louca por livros .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_42.txt",
+        "Sentence Number":8,
+        "Sentence":"Leitura obrigatória para os amantes de a literatura .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_113.txt",
+        "Sentence Number":7,
+        "Sentence":"Resposta : você vai arrastando , igual lição de casa .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_47.txt",
+        "Sentence Number":10,
+        "Sentence":"Por três gerações é repassada a herança de os gregos .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_96.txt",
+        "Sentence Number":2,
+        "Sentence":"A verdade é que 1984 não tem uma história pra contar .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_49.txt",
+        "Sentence Number":3,
+        "Sentence":"Mas eles não compreendem que isso é impossível não é ?",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_8.txt",
+        "Sentence Number":1,
+        "Sentence":"Muito prático , com boa aparência , e ótima qualidade .",
+        "AMR":"(e \/ e\n      :op1 (p \/ prático\n            :mod (m \/ muito))\n      :op2 (a \/ aparência\n            :mod (b \/ bom))\n      :op3 (q \/ qualidade\n            :mod (o \/ ótimo)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_6.txt",
+        "Sentence Number":0,
+        "Sentence":"Acho que esse é o livro mais chato que já li em a vida .",
+        "AMR":"(a \/ achar-02\n      :ARG0 (e \/ eu)\n      :ARG1 (h \/ have-degree-91\n            :ARG1 (l \/ livro\n                  :mod (e2 \/ esse))\n            :ARG2 (c \/ chato)\n            :ARG3 (m \/ máximo)\n            :ARG5 (l2 \/ livro\n                  :ARG1-of (l3 \/ ler-01\n                        :ARG0 e\n                        :mod (j \/ já)\n                        :duration (v \/ vida\n                              :poss e)))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_113.txt",
+        "Sentence Number":6,
+        "Sentence":"Como terminar um livro ruim sabendo de o final péssimo ?",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_20.txt",
+        "Sentence Number":2,
+        "Sentence":"Mas em a prática tal sociedade não poderia ser estável .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_108.txt",
+        "Sentence Number":1,
+        "Sentence":"Todo mundo tem que ler este magnífico livro de Saramago .",
+        "AMR":"(r \/ recommend-01\n      :ARG1 (l \/ ler-01\n            :ARG0 (t \/ todos)\n            :ARG1 (l2 \/ livro\n                  :mod (e2 \/ este)\n                  :mod (m \/ magnífico)\n                  :ARG1-of (e3 \/ escrever-01\n                        :ARG0 (p \/ person :name (n \/ name :op1 \"Saramago\"))))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_49.txt",
+        "Sentence Number":1,
+        "Sentence":"Não existem palavras que possam definir essa obra prima .",
+        "AMR":"(e2 \/ existir-01 :polarity -\n      :ARG1 (p \/ palavra\n            :ARG0-of (d \/ definir-02\n                  :ARG1 (o \/ obra-prima\n                        :mod (e3 \/ esse)))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_42.txt",
+        "Sentence Number":0,
+        "Sentence":"Um livro revolucionário , para a época em que foi lançado",
+        "AMR":"(l \/ livro\n      :mod (r \/ revolucionário)\n      :time (l2 \/ lançar-01\n            :ARG1 l))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_49.txt",
+        "Sentence Number":7,
+        "Sentence":"Postscript : adorei o final de ceve , melhor impossível .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_0.txt",
+        "Sentence Number":3,
+        "Sentence":"O que não gostei : não posso ter , o preço ainda é salgado",
+        "AMR":"(g \/ gostar-01 :polarity -\n      :ARG0 (e2 \/ eu)\n      :ARG1 (p \/ possible-01 :polarity -\n            :ARG1 (t \/ ter-01\n                  :ARG0 e2)\n            :ARG1-of (c \/ cause-01\n                  :ARG0 (s \/ salgado\n                        :domain (p2 \/ preço)\n                        :mod (a \/ ainda)))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_29.txt",
+        "Sentence Number":5,
+        "Sentence":"Então ele abandona o colégio interno e sai vagando por aí .",
+        "AMR":null,
+        "New Verbs":"vagar"
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_47.txt",
+        "Sentence Number":5,
+        "Sentence":"Foi traído por alguém que se disse amigo e ofereceu ajuda .",
+        "AMR":null,
+        "New Verbs":"trair"
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_4.txt",
+        "Sentence Number":4,
+        "Sentence":"Não sei como uma porcaria de essa conseguiu ser consagrada .",
+        "AMR":"(s \/ saber-01 :polarity -\n      :ARG0 (e \/ eu)\n      :ARG1 (t \/ thing\n            :ARG2-of (h \/ have-manner-91\n                  :ARG1 (c \/ conseguir-03\n                        :ARG0 (p \/ porcaria\n                              :mod (e2 \/ este))\n                        :ARG1 (c2 \/ consagrar-01\n                              :ARG1 p)))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_32.txt",
+        "Sentence Number":2,
+        "Sentence":"O poder pode dominar uma pessoa , o que se torna muito ruim .",
+        "AMR":"(p \/ possible-01\n      :ARG1 (d \/ dominar-01\n            :ARG0 (p2 \/ poder)\n            :ARG1 (p3 \/ pessoa))\n      :ARG1-of (t \/ tornar-101\n            :ARG2 (r \/ ruim\n                  :mod (m \/ muito))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_6.txt",
+        "Sentence Number":1,
+        "Sentence":"A minha leitura foi mais um desafio para chegar ate o final .",
+        "AMR":"(d \/ desafio\n      :domain (l \/ ler-01\n            :ARG0 (e \/ eu))\n      :purpose (c \/ chegar-01\n            :ARG0 e\n            :ARG1 (f \/ final)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_42.txt",
+        "Sentence Number":5,
+        "Sentence":"Ela manipula , joga , ama e é fria , e tudo a o mesmo tempo .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_12.txt",
+        "Sentence Number":1,
+        "Sentence":"Esse livro conta historia de Malu e suas inseparáveis amigas .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_189.txt",
+        "Sentence Number":2,
+        "Sentence":"Em a verdade em o começo estava achando insuportável o livro .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_3.txt",
+        "Sentence Number":2,
+        "Sentence":"Mas todas elas tem o seu jeito carinhoso de em os fazer feliz .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_7.txt",
+        "Sentence Number":1,
+        "Sentence":"Muito lindo demais esse Iphone o melhor Smartphone que existe .",
+        "AMR":"(m \/ multi-sentence\n      :snt1 (l \/ lindo\n            :domain (p \/ product :name (n \/ name :op1 \"Iphone\")\n                  :mod (e \/ esse))\n            :mod (m2 \/ muito)\n            :mod (d \/ demais))\n      :snt2 (s \/ smartphone\n            :ARG1-of (h \/ have-degree-91\n                  :ARG2 (b \/ bom)\n                  :ARG3 (m3 \/ máximo)\n                  :ARG5 (s2 \/ smartphone\n                        :ARG1-of (e2 \/ existir-01)))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_2.txt",
+        "Sentence Number":5,
+        "Sentence":"3 - a imagem é nítida , como se espera de um televisor Full HD .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_64.txt",
+        "Sentence Number":0,
+        "Sentence":"Esse livro tem uma narrativa que te prende , isso é bem verdade .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_189.txt",
+        "Sentence Number":5,
+        "Sentence":"Achei uma visão meio louca de um mundo , em a época de o futuro .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_47.txt",
+        "Sentence Number":9,
+        "Sentence":"Só depois de ver o filho é que seu coração se deixou quebrantar .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_47.txt",
+        "Sentence Number":7,
+        "Sentence":"Mas consegui dar a volta por cima com a ajuda de seu amigo banda .",
+        "AMR":"(c \/ contrast-01\n      :ARG2 (c2 \/ conseguir-01\n            :ARG0 (e \/ eu)\n            :ARG1 (s \/ superar-02\n                  :ARG0 e\n                  :instrument (a \/ ajudar-01\n                        :ARG0 (p \/ person :name (n \/ name :op1 \"Banda\")\n                              :ARG0-of (h \/ have-rel-role-91\n                                    :ARG1 (e2 \/ ele)\n                                    :ARG2 (a2 \/ amigo)))))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_15.txt",
+        "Sentence Number":1,
+        "Sentence":"Escreve o livro com palavras expressões que só adolescentes usam .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_42.txt",
+        "Sentence Number":2,
+        "Sentence":"E com certeza , uma de as grandes obras de a literatura romancista .",
+        "AMR":"(i2 \/ include-91\n      :ARG1 (o \/ obra)\n      :ARG2 (o2 \/ obra\n            :mod (g \/ grande)\n            :topic (l \/ literatura\n                  :topic (r \/ romance)))\n      :mod (c \/ com-certeza))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_14.txt",
+        "Sentence Number":3,
+        "Sentence":"Minha mãe é igual a mãe de a Malu , tenho que fazer algo a respeito !",
+        "AMR":"(o \/ obligate-01\n      :ARG0 (e \/ eu)\n      :ARG2 (f \/ fazer-01)\n      :topic (s \/ same-01\n            :ARG1 (m \/ mãe\n                  :poss e)\n            :ARG2 (m2 \/ mãe\n                  :poss (p \/ person :name (n \/ name :op1 \"Malu\")))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_56.txt",
+        "Sentence Number":0,
+        "Sentence":"Já dizia a expressão falada por Dino caulfield : esse livro é 100 % .",
+        "AMR":"(d \/ dizer-01\n      :ARG0 (e \/ expressão\n            :ARG1-of (f \/ falar-01\n                  :ARG0 (p \/ person :name (n \/ name :op1 \"Dino\" :op2 \"Caulfield\"))))\n      :ARG1 (s \/ score-on-scale-91\n            :ARG1 (p2 \/ percentage-entity :value 100))\n      :mod (j \/ já))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_4.txt",
+        "Sentence Number":5,
+        "Sentence":"Se bem que . Tem tanta porcaria consagrada por aí de qualquer jeito .",
+        "AMR":"(h \/ have-concession-91\n      :ARG2 (t \/ ter-02\n            :ARG1 (p \/ porcaria\n                  :mod (t2 \/ tanto)\n                  :ARG1-of (c \/ consagrar-01))\n            :mod (d \/ de-qualquer-jeito)\n            :location (a \/ aí)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_86.txt",
+        "Sentence Number":3,
+        "Sentence":"O livro é de uma leitura muito fácil e rápida , acabei em três dias .",
+        "AMR":"(l \/ ler-01\n      :ARG1 (l2 \/ livro)\n      :manner (e \/ e\n            :op1 (f \/ fácil)\n            :op2 (r \/ rápido))\n      :ARG0-of (c \/ cause-01\n            :ARG1 (a \/ acabar-01\n                  :ARG0 (e2 \/ eu)\n                  :ARG1 l2\n                  :time (d \/ depois\n                        :op1 (t \/ temporal-quantity :quant 3\n                              :unit (d2 \/ dia))))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_9.txt",
+        "Sentence Number":2,
+        "Sentence":"Eu não tenho conhecimento de produto que é pensado tão detalhadamente .",
+        "AMR":"(c \/ conhecer-01 :polarity -\n      :ARG0 (e \/ eu)\n      :ARG1 (p \/ produto\n            :ARG1-of (p2 \/ pensar-01\n                  :manner (d \/ detalhado\n                        :mod (t \/ tão)))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_6.txt",
+        "Sentence Number":3,
+        "Sentence":"Um personagem completamente desagradável , em a minha humilde opinião .",
+        "AMR":null,
+        "New Verbs":"opinar"
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_30.txt",
+        "Sentence Number":5,
+        "Sentence":"E em o momento minha filha com 12 anos não é a metade de isso com mim .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_4.txt",
+        "Sentence Number":1,
+        "Sentence":"Todo mundo fala que esse livro é foda , mas em a verdade ele é um lixo .",
+        "AMR":"(c \/ contrast-01\n      :ARG1 (f \/ falar-01\n            :ARG0 (t \/ todos)\n            :ARG1 (f2 \/ foda\n                  :domain (l \/ livro\n                        :mod (e \/ esse))))\n      :ARG2 (l2 \/ lixo\n            :domain l\n            :mod (n \/ na-verdade)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_30.txt",
+        "Sentence Number":7,
+        "Sentence":"De modo geral , é um livro divertido , interessante e rápido de se ler .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_2.txt",
+        "Sentence Number":0,
+        "Sentence":"Esperava muito mais do Galaxy Siii pelo suspense que a Samsung promoveu .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_0.txt",
+        "Sentence Number":0,
+        "Sentence":"Defeito em menos de uma semana : vício oculto de artificializar sozinha .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_49.txt",
+        "Sentence Number":4,
+        "Sentence":"Está pra nascer um escritor que seja tão sagaz e audacioso como Sheldon .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_29.txt",
+        "Sentence Number":10,
+        "Sentence":"Pois é . Belo exemplo para a juventude esse \" clássico \" de a literatura .",
+        "AMR":"(e \/ exemplo\n      :mod (b \/ belo)\n      :domain (c \/ clássico\n            :topic (l \/ literatura))\n      :beneficiary (j \/ juventude))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_15.txt",
+        "Sentence Number":9,
+        "Sentence":"Além de elas , há a ducal , a Nanda , a Helo . Malu era rodeada de amigas .",
+        "AMR":null,
+        "New Verbs":"rodear"
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_0.txt",
+        "Sentence Number":1,
+        "Sentence":"Este produto é excelente , tenho um amigo que tem , deixou o Iphone no bolos",
+        "AMR":"(m \/ multi-sentence\n      :snt1 (e \/ excelente\n            :domain (p \/ produto\n                  :mod (e2 \/ este)))\n      :snt2 (t \/ ter-01\n            :ARG0 (e3 \/ eu)\n            :ARG1 (a \/ amigo\n                  :ARG0-of (t2 \/ ter-01)))\n      :snt3 (d \/ deixar-06\n            :ARG1 (p2 \/ product :name (n \/ name :op1 \"Iphone\")\n                  :ARG2 (b \/ bolso))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_3.txt",
+        "Sentence Number":5,
+        "Sentence":"Insisto : com todo o respeito a quem gostou , mas esse livro é desprezível .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_30.txt",
+        "Sentence Number":1,
+        "Sentence":"Aliás . A escrita de ele está toda boa e bastante diálogo ( gosto de isso ) .",
+        "AMR":"(e \/ e\n      :op1 (e2 \/ e\n            :op1 (e3 \/ escrever-01\n                  :ARG0 (e4 \/ ele)\n                  :mod (b \/ bom))\n            :op2 (t \/ ter-01\n                  :ARG0 e3\n                  :ARG1 (d \/ dialogar\n                        :quant (b2 \/ bastante)))\n            :ARG1-of (g \/ gostar-01\n                  :ARG0 (e5 \/ eu))))",
+        "New Verbs":"dialogar"
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_49.txt",
+        "Sentence Number":6,
+        "Sentence":"Sheldon é nota 1000000000000000000000000000000000000000000000000000000000000 !",
+        "AMR":"(s \/ score-on-scale-91\n      :ARG1 1000000000000000000000000000000000000000000000000000000000000\n      :domain (p \/ person :name (n \/ name :op1 \"Sheldon\")))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_32.txt",
+        "Sentence Number":3,
+        "Sentence":"Só tenho o que agradecer a a minha mãe , meu maior orgulho , meu maior exemplo",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_6.txt",
+        "Sentence Number":1,
+        "Sentence":"Além de lindo , é ótimo , fácil de usar , sei disso pois uma prima minha tem .",
+        "AMR":"(e \/ e\n      :op1 (l \/ lindo)\n      :op2 (o \/ ótimo)\n      :op3 (f \/ fácil\n            :manner-of (u \/ usar-01))\n      :ARG1-of (s \/ saber-01\n            :ARG0 (e2 \/ eu)\n            :ARG1-of (c \/ cause-01\n                  :ARG0 (t \/ ter-01\n                        :ARG0 (p \/ person\n                              :ARG0-of (h \/ have-rel-role-91\n                                    :ARG1 e2\n                                    :ARG2 (p2 \/ prima)))))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_15.txt",
+        "Sentence Number":4,
+        "Sentence":"Malu , como todo mundo , tem a amiga mais chegada , mais fofa e mais querida .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_0.txt",
+        "Sentence Number":1,
+        "Sentence":"Confesso que não compraria , até porque não gostei de ' fala sério , amor ! ' .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_36.txt",
+        "Sentence Number":1,
+        "Sentence":"De ele eu gostei de a primeira metade , em a qual a mãe de Malu é a narradora .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_30.txt",
+        "Sentence Number":0,
+        "Sentence":"Ruim , uma estória muito previsível , como em todos os livros que ele escreve .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_29.txt",
+        "Sentence Number":1,
+        "Sentence":"A começar por o título de o livro que nada tem a ver com a história de o livro .",
+        "AMR":"(c \/ começar-01\n      :ARG2 (t \/ título\n            :poss (l \/ livro)\n            :ARG1-of (t2 \/ ter-402\n                  :ARG2 (n \/ nada)\n                  :ARG3 (h \/ história\n                        :poss l))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_189.txt",
+        "Sentence Number":7,
+        "Sentence":"Entre telenovelas , o grande irmão e sua filosofia , achei o livro maravilhoso .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_1.txt",
+        "Sentence Number":1,
+        "Sentence":"É interessante , mas , de fato , não está nem entre os 50 melhores que eu já li .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_189.txt",
+        "Sentence Number":6,
+        "Sentence":"Li o livro em o próprio 1984 , e depois descobri que o livro fora escrito em 1948 .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_117.txt",
+        "Sentence Number":2,
+        "Sentence":"O livro é idiota , repetitivo , cansativo e irritante , tanto quanto seu narrador .",
+        "AMR":"(e \/ e\n      :op1 (i2 \/ idiota)\n      :op2 (r \/ repetitivo)\n      :op3 (c \/ cansativo)\n      :op4 (i3 \/ irritante)\n      :domain (e2 \/ e\n            :op1 (l \/ livro)\n            :op2 (a \/ autor\n                  :ARG0-of (e3 \/ escrever-01\n                        :ARG1 l))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_29.txt",
+        "Sentence Number":0,
+        "Sentence":"Até hoje não compreendo porque esse livro é considerado um clássico de a literatura .",
+        "AMR":"(c \/ compreender-01 :polarity -\n      :ARG0 (e \/ eu)\n      :ARG1 (t \/ thing\n            :ARG1-of (c2 \/ cause-01\n                  :ARG0 (c3 \/ considerar-01\n                        :ARG1 (l \/ livro\n                              :mod (e2 \/ esse))\n                        :ARG2 (c4 \/ clássico\n                              :topic (l2 \/ literatura))))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_5.txt",
+        "Sentence Number":1,
+        "Sentence":"Moro com meu primo , que ao ir aos Eua resolveu trocar seu Iphone 4s por um Iphone 5 .",
+        "AMR":"(m \/ morar-01\n      :ARG0 (e \/ eu)\n      :accompanier (p \/ person\n            :ARG0-of (h \/ have-rel-role-91\n                  :ARG1 e\n                  :ARG2 (p2 \/ primo))\n            :ARG0-of (r \/ resolver-01\n                  :ARG1 (t \/ trocar-01\n                        :ARG0 p\n                        :ARG1 (p3 \/ product :name (n \/ name :op1 \"Iphone\" :op2 \"4s\")\n                              :poss p)\n                        :ARG3 (p4 \/ product :name (n2 \/ name :op1 \"Iphone\" :op2 \"5\")))\n                  :time (i2 \/ ir-01\n                        :ARG0 p\n                        :ARG4 (c \/ country :name (n3 \/ name :op1 \"EUA\"))))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_42.txt",
+        "Sentence Number":3,
+        "Sentence":"O livro está marcado por personalidades fortíssimas , apaixonantes , eu deveria dizer .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_9.txt",
+        "Sentence Number":4,
+        "Sentence":"Quero todos os produtos da Apple ! ! ! ! E o Iphone 5 é o meu sonho de consumo ! ! ! ! !",
+        "AMR":"(e \/ e\n      :op1 (q \/ querer-01\n            :ARG0 (e2 \/ eu)\n            :ARG1 (p \/ produto\n                  :mod (t \/ todo)\n                  :ARG1-of (f \/ fazer-01\n                        :ARG0 (c \/ company :name (n \/ name :op1 \"Apple\")))))\n      :op2 (s \/ sonhar-01\n            :ARG0 e2\n            :ARG1 (c2 \/ consumir-01\n                  :ARG0 e2\n                  :ARG1 (p2 \/ product :name (n2 \/ name :op1 \"Iphone\" :op2 \"5\")))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_23.txt",
+        "Sentence Number":9,
+        "Sentence":"Acredito que isso seja proposital , tendo como objetivo garantir o humor em a história .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Outro-Lado-da-Meia-Noite",
+        "Document":"Documento_5.txt",
+        "Sentence Number":7,
+        "Sentence":"Para aqueles que gostam de histórias que se desenrolem lentamente , esse livro é ideal .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_80.txt",
+        "Sentence Number":2,
+        "Sentence":"Muitos anos se passarão , livros e mais livros serão lidos e não me esquecerei de esse .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_23.txt",
+        "Sentence Number":4,
+        "Sentence":"Pode - se notar claramente esse surrealismo observando as falas de Malu quando pequena .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_96.txt",
+        "Sentence Number":0,
+        "Sentence":"Dou meus parabéns para quem consegue ler mais de um capítulo de 1984 de uma sentada só .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_15.txt",
+        "Sentence Number":4,
+        "Sentence":"Entretanto todos os arcos conseguem te prender a o livro e as paginas simplesmente voam !",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_7.txt",
+        "Sentence Number":3,
+        "Sentence":"A personagem central é sem dúvida a mais forte presença de todos as histórias de Sheldon .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_3.txt",
+        "Sentence Number":2,
+        "Sentence":"O único personagem que poderia render alguma coisa , banda , não é explorado devidamente .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_36.txt",
+        "Sentence Number":4,
+        "Sentence":"Queria que terminasse logo , gostei mais de a mãe de ela durante uma boa parte de o livro .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_2.txt",
+        "Sentence Number":1,
+        "Sentence":"Ainda não tenho mas é meu sonho de consumo , pois se trata de um produto bonito e muito bom",
+        "AMR":"(c \/ contrast-01\n      :ARG1 (t \/ ter-01 :polarity -\n            :ARG0 (e \/ eu)\n            :ARG1 p\n            :mod (a \/ ainda))\n      :ARG2 (s \/ sonhar-01\n            :ARG0 e\n            :ARG1 (c2 \/ consumir-01\n                  :ARG0 e\n                  :ARG1 p)\n            :ARG1-of (c3 \/ cause-01\n                  :ARG0 (e2 \/ e\n                        :op1 (b \/ bonito)\n                        :op2 (b2 \/ bom\n                              :mod (m \/ muito))\n                        :domain (p \/ produto)))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_24.txt",
+        "Sentence Number":1,
+        "Sentence":"Acho que adolescentes como a Malu são difíceis de encontrar , não me identifiquei com ela .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_141.txt",
+        "Sentence Number":2,
+        "Sentence":"A história não tem pressa para acontecer e a ação só começa mesmo de a metade para o final .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_3.txt",
+        "Sentence Number":3,
+        "Sentence":"Ainda mais com o pano de fundo de ele , que é a África de o Sul sob o regime de o apartheid .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_62.txt",
+        "Sentence Number":1,
+        "Sentence":"É um livro bem escrito , mas sempre parece que algo está prestes a acontecer e nada acontece .",
+        "AMR":"(c \/ contrast-01\n      :ARG1 (l \/ livro\n            :ARG1-of (e \/ escrever-01\n                  :manner (b \/ bem)))\n      :ARG2 (e2 \/ e\n            :op1 (p \/ parecer-01\n                  :ARG2 (a \/ acontecer-01\n                        :ARG1 (a2 \/ algo)\n                        :time (p2 \/ prestes-a))\n                  :frequency (s \/ sempre))\n            :op2 (a3 \/ acontecer-01\n                  :ARG1 (n \/ nada))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_64.txt",
+        "Sentence Number":1,
+        "Sentence":"Mesmo assim , achei algumas partes de a história previsíveis e o final um tanto quanto tosco .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Pai",
+        "Document":"Documento_4.txt",
+        "Sentence Number":0,
+        "Sentence":"\" - paire . Larga de esse maldito jogo de futebol e me leva em a casa de a minha amiga , vai ! \"",
+        "AMR":null,
+        "New Verbs":"largar\n"
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_189.txt",
+        "Sentence Number":1,
+        "Sentence":"Em a época meu vocabulário ainda não era essas coisas , então lia com um dicionário a tira colo .",
+        "AMR":"(c \/ cause-01\n      :ARG0 (e2 \/ essas-coisas :polarity -\n            :domain (v \/ vocabulário\n                  :poss (e \/ eu))\n            :time (e3 \/ época)\n            :mod (a \/ ainda))\n      :ARG1 (l \/ ler-01\n            :ARG0 e\n            :instrument (d \/ dicionário\n                  :manner (a2 \/ a-tira-colo))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_42.txt",
+        "Sentence Number":7,
+        "Sentence":"É absolutamente um grande livro que consegue facilmente marcar o leitor de forma forte e altiva .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_98.txt",
+        "Sentence Number":2,
+        "Sentence":"Recomendo pra todos , porque todo mundo tem um pouco de Dino ( personagem principal de o livro ) .",
+        "AMR":"(r \/ recomendar-01\n      :ARG0 (e \/ eu)\n      :ARG2 (t \/ todos)\n      :ARG1-of (c \/ cause-01\n            :ARG0 (t2 \/ ter-01\n                  :ARG0 t\n                  :ARG1 (u \/ um-pouco\n                        :poss (p \/ person :name (n \/ name :op1 \"Dino\")\n                              :ARG2-of (h \/ have-name-91\n                                    :ARG1 (p2 \/ personagem\n                                          :mod (p3 \/ principal)\n                                          :medium (l \/ livro))))))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_14.txt",
+        "Sentence Number":2,
+        "Sentence":"Li esse livro em algumas horas e , enquanto o lia , só conseguia pensar em uma coisa : \" meu deus !",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_113.txt",
+        "Sentence Number":3,
+        "Sentence":"O autor é bom , o livro é famoso , adaptaram pro cinema , é logico que é bom \" , bem , me enganei .",
+        "AMR":null,
+        "New Verbs":"enganar-se"
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_23.txt",
+        "Sentence Number":3,
+        "Sentence":"Mas em este ocorre com mais frequência , o que torna a leitura algo irritante , em alguns momentos .",
+        "AMR":"(c \/ contrast-01\n      :ARG1 (o \/ ocorrer-01\n            :ARG2 (e2 \/ este)\n            :ARG1-of (h \/ have-frequency-91\n                  :mod (m \/ mais)))\n      :ARG0-of (t \/ tornar-01\n            :ARG1 (l \/ ler-01)\n            :ARG2 (t2 \/ thing\n                  :ARG0-of (i2 \/ irritar-01))\n            :frequency (a \/ alguns-momentos)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_9.txt",
+        "Sentence Number":1,
+        "Sentence":"Depois de ler a biografia de Steve Jobs , fiquei impressionada como cada produto Apple é \" criado \" .",
+        "AMR":"(i2 \/ impressionar-01\n      :ARG0 (t \/ thing\n            :manner-of (c \/ criar-01\n                  :ARG0 (c3 \/ company :name (n2 \/ name :op1 \"Apple\"))\n                  :ARG1 (p \/ produto\n                        :mod (c2 \/ cada))))\n      :ARG1 (e \/ eu)\n      :time (d \/ depois\n            :op1 (l \/ ler-01\n                  :ARG0 e\n                  :ARG1 (b \/ biografia\n                        :topic (p2 \/ person :name (n \/ name :op1 \"Steve\" :op2 \"Jobs\"))))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_42.txt",
+        "Sentence Number":6,
+        "Sentence":"Você percebe , conversando com os leitores , que Kate é a o mesmo tempo a mais amada e a mais odiada .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_96.txt",
+        "Sentence Number":1,
+        "Sentence":"Porque apesar de ser um livro com uma história muito boa e interessante , ele é extremamente monótono .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_49.txt",
+        "Sentence Number":2,
+        "Sentence":"Sidney Sheldon mais uma vez dá um banho em seus sucessores que tentam se igualar a mente de seu mestre .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_47.txt",
+        "Sentence Number":3,
+        "Sentence":"Mas deve ser embebida em sangue que seja fresco e quente ; mesmo assim , muitos golpes são necessários .",
+        "AMR":null,
+        "New Verbs":"embeber"
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_113.txt",
+        "Sentence Number":9,
+        "Sentence":"Eu só acrescentei uma estrela a mais por a ideia , o mundo ' Big Brother ' é fictício , mas não surreal .",
+        "AMR":"(m2 \/ multi-sentence\n      :snt1 (a \/ acrescentar-01\n            :ARG0 (e \/ eu)\n            :ARG1 (e2 \/ estrela :quant 1)\n            :ARG3 (m \/ mais)\n            :ARG1-of (c \/ cause-01\n                  :ARG0 (i2 \/ ideia)))\n      :snt2 (c2 \/ contrast-01\n            :ARG1 (f \/ fictício\n                  :domain (m3 \/ mundo :name (n \/ name :op1 \"Big\" :op2 \"Brother\")))\n            :ARG2 (s \/ surreal :polarity -\n                  :domain m3)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_24.txt",
+        "Sentence Number":2,
+        "Sentence":"Ela trata mãe mas como uma melhor amiga mesmo , mas até em o modo de lidar mesmo , o que eu acho errado .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_30.txt",
+        "Sentence Number":1,
+        "Sentence":"Parece que escreve sob receita , algumas pessoas gostam de o que ele escrevem e ele vende a os milhares .",
+        "AMR":"(e3 \/ e\n      :op1 (p \/ parecer-01\n            :ARG2 (e \/ escrever-01\n                  :ARG0 (e2 \/ ele)\n                  :manner (s \/ seguir-02\n                        :ARG0 e2\n                        :ARG1 (r \/ receita))))\n      :op2 (g \/ gostar-01\n            :ARG0 (p2 \/ pessoa\n                  :mod (a \/ algum))\n            :ARG1 (t \/ thing\n                  :ARG1-of (e4 \/ escrever-01\n                        :ARG0 e2)))\n      :op3 (v \/ vender-01\n            :ARG0 e2\n            :ARG1 (t2 \/ thing\n                  :quant (m \/ múltiplo\n                        :op1 (t3 \/ numerical-quantity :quant 1000)))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_189.txt",
+        "Sentence Number":0,
+        "Sentence":"Li esse livro em o meu tempo de colégio e até hoje me lembro como em o começo foi muito difícil a leitura .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_6.txt",
+        "Sentence Number":2,
+        "Sentence":"Quanto mais eu lia , mais desejava acontecesse uma desgraça a o personagem e acabasse logo com a história .",
+        "AMR":"(c \/ correlate-91\n      :ARG1 (m \/ mais\n            :ARG3-of (h \/ have-quant-91\n                  :ARG1 (l \/ ler-01\n                        :ARG0 (e \/ eu))))\n      :ARG2 (m2 \/ mais\n            :ARG3-of (h2 \/ have-quant-91\n                  :ARG1 (d \/ desejar-01\n                        :ARG0 e\n                        :ARG1 (e2 \/ e\n                              :op1 (a \/ acontecer-01\n                                    :ARG1 (d2 \/ desgraça))\n                              :op2 (a2 \/ acabar-01\n                                    :ARG0 (p \/ personagem)\n                                    :ARG1 (h3 \/ história)\n                                    :mod (l3 \/ logo)))))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_4.txt",
+        "Sentence Number":0,
+        "Sentence":"O primeiro de os livros de a série \" fala sério \" , de a escritora halita Rebouças , \" fala sério , mãe ! \"",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_3.txt",
+        "Sentence Number":1,
+        "Sentence":"Achei a narrativa pobre , a história muito forçada e extremamente mal contada , os personagens \" murchos \" .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_98.txt",
+        "Sentence Number":1,
+        "Sentence":"Amei esse livro , já li umas 3 vezes , e toda vez que leio falto morrer de tanto rir , Elle muito engraçado .",
+        "AMR":"(m \/ multi-sentence\n      :snt1 (e \/ e\n            :op1 (a \/ amar-01\n                  :ARG0 (e2 \/ eu)\n                  :ARG1 (l \/ livro\n                        :mod (e3 \/ esse)))\n            :op2 (l2 \/ ler-01 :frequency 3\n                  :ARG0 e2\n                  :ARG1 l\n                  :mod (j \/ já))\n            :op3 (f \/ faltar-04\n                  :ARG1 e2\n                  :ARG2 (m2 \/ morrer-01\n                        :ARG1 e2\n                        :ARG2 (r \/ rir-01\n                              :ARG0 e2\n                              :mod (t \/ tanto)))))\n      :snt2 (e4 \/ engraçado\n            :mod (m3 \/ muito)\n            :domain (e5 \/ ele)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_36.txt",
+        "Sentence Number":2,
+        "Sentence":"Ela conta muito bem como é a gravidez , ter uma filha pequena . E o livro me prendeu desde a primeira página .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_42.txt",
+        "Sentence Number":1,
+        "Sentence":"O reverso da medalha é de longe uma de as obras mais fortes e bem montadas de o gênio que Sidney Sheldon foi .",
+        "AMR":"(i2 \/ include-91\n      :ARG1 (b \/ book :name (n \/ name :op1 \"O\" :op2 \"Reverso\" :op3 \"da\" :op4 \"Medalha\"))\n      :ARG2 (o \/ obra\n            :ARG1-of (h \/ have-degree-91\n                  :ARG2 (e \/ e\n                        :op1 (f \/ forte)\n                        :op2 (m \/ montar-01\n                              :ARG1 o\n                              :manner (b2 \/ bem)))\n                  :ARG3 (m2 \/ máximo))\n            :ARG1-of (e2 \/ escrever-01\n                  :ARG0 (g \/ gênio\n                        :domain (p \/ person :name (n2 \/ name :op1 \"Sidney\" :op2 \"Sheldon\")))))\n      :degree (d \/ de-longe))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_1.txt",
+        "Sentence Number":4,
+        "Sentence":"Apesar de se tratar de um assunto bem conhecido , a autora não soube domina - lo e o tornou o pior de os clichês .",
+        "AMR":"(c \/ contrast-01\n      :ARG1 (t \/ tratar-03\n            :ARG1 (a \/ assunto\n                  :ARG1-of (c2 \/ conhecer-01\n                        :degree (b \/ bem))))\n      :ARG2 (s \/ saber-01 :polarity -\n            :ARG0 (a2 \/ autora)\n            :ARG1 (d \/ dominar-02\n                  :ARG0 a2\n                  :ARG1 a)\n            :ARG0-of (c3 \/ cause-01\n                  :ARG1 (t2 \/ tornar-01\n                        :ARG0 a2\n                        :ARG1 a\n                        :ARG2 (c4 \/ clichê\n                              :ARG1-of (h \/ have-degree-91\n                                    :ARG2 (r \/ ruim)\n                                    :ARG3 (m \/ máximo)\n                                    :ARG5 (c5 \/ clichê)))))))\n",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_23.txt",
+        "Sentence Number":2,
+        "Sentence":"O problema em \" fala sério , mãe ! \" , é o mesmo de \" fala sério , professor ! \" : pouca conexão com a realidade .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_47.txt",
+        "Sentence Number":4,
+        "Sentence":"- Plínio o velho - Jamie Mcgregor era um garoto que almejava muito , e com muito suor conseguiu tudo o que queria .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_24.txt",
+        "Sentence Number":0,
+        "Sentence":"Fala sério amiga é um livro onde a autora relata a história de ela com suas amigas de a infância até a adolescência .",
+        "AMR":"(l \/ livro\n      :domain (b \/ book :name (n \/ name :op1 \"Fala\" :op2 \"Sério\" :op3 \"Amiga\"))\n      :medium-of (r \/ relatar-01\n            :ARG0 (a \/ autora)\n            :ARG1 (h \/ historia\n                  :topic a\n                  :accompanier (a2 \/ amiga\n                        :poss a)\n                  :time (v \/ value-interval\n                        :op1 (i2 \/ infância)\n                        :op2 (a3 \/ adolescência)))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_3.txt",
+        "Sentence Number":0,
+        "Sentence":"Com todo o respeito a quem gostou , mas sinceramente não consegui entender o que faz esse livro ser considerado bom .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_808.txt",
+        "Sentence Number":2,
+        "Sentence":"Um vampiro brilhante que lê mentes , uma heroína estúpida , metida a perfeitinha e solitariamente rodeada de pessoas .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Outro-Lado-da-Meia-Noite",
+        "Document":"Documento_20.txt",
+        "Sentence Number":6,
+        "Sentence":"Não me recordo de os pequenos detalhes , mas esse livro está em o Top 5 de os livros de o Sidney que marcam o leitor .",
+        "AMR":"(c \/ contrast-01\n      :ARG1 (r \/ recordar-01 :polarity -\n            :ARG0 (e \/ eu)\n            :ARG1 (d \/ detalhe\n                  :mod (p \/ pequeno)))\n      :ARG2 (i2 \/ include-91\n            :ARG1 (l \/ livro\n                  :mod (e2 \/ esse))\n            :ARG2 (l2 \/ livro\n                  :ARG1-of (h \/ have-degree-91\n                        :ARG2 (b \/ bom)\n                        :ARG3 (m \/ máximo))\n                  :ARG1-of (e3 \/ escrever-01\n                        :ARG0 (p2 \/ person :name (n \/ name :op1 \"Sidney\")))\n                  :ARG0-of (m2 \/ marcar-02\n                        :ARG2 (p3 \/ pessoa\n                              :ARG0-of (l3 \/ ler-01))))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_23.txt",
+        "Sentence Number":5,
+        "Sentence":"Muito vocabulário para pouca idade , como em essa frase , de quando ela tinha 6 anos : \" - uma beleza enorme , mamãe .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_6.txt",
+        "Sentence Number":8,
+        "Sentence":"Depois dessa , quem tem coragem de investir em média ar $ 1.700 , 00 no Galaxy Siii ou tentar a sorte com o Galaxy S4 ?",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_3.txt",
+        "Sentence Number":0,
+        "Sentence":"Amigo é pra toda vida e poucos tem essa sorte de ter uma pessoa que esteja ali para te apoiar em os momentos difíceis .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Outro-Lado-da-Meia-Noite",
+        "Document":"Documento_20.txt",
+        "Sentence Number":9,
+        "Sentence":"E também não podemos esquecer o Larry Douglas , que eu particularmente detesto , mas isso só vocês lendo para entender .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_21.txt",
+        "Sentence Number":2,
+        "Sentence":"Fala de uma garota chamada Malu , ela conta como é a sua vida desde os três anos de idade até a sua idade atual 21 anos .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_42.txt",
+        "Sentence Number":3,
+        "Sentence":"O que consegui ler em as entrelinhas foi que o personagem de o Edward é 500 vezes mais interessante de o que em o filme .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_21.txt",
+        "Sentence Number":3,
+        "Sentence":"Ela e suas amigas vivem muitas aventuras , conhecem várias outras garotas , arrumam namorados e principalmente encrenca .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_15.txt",
+        "Sentence Number":11,
+        "Sentence":"Esse livro é um livro divertido , que a o mesmo tempo que nos faz rir , nos faz refletir sobre todas as nossas amizades .",
+        "AMR":"(l \/ livro\n      :mod (d \/ divertido)\n      :domain (l2 \/ livro\n            :mod (e \/ esse))\n      :ARG0-of (f \/ fazer-02\n            :ARG1 (n \/ nos)\n            :ARG2 (r \/ refletir-02\n                  :ARG0 n\n                  :ARG1 (a \/ amizade\n                        :poss n\n                        :mod (t \/ todo)))\n            :time (f2 \/ fazer-02\n                  :ARG0 l\n                  :ARG1 n\n                  :ARG2 (r2 \/ rir-01\n                        :ARG0 n))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_29.txt",
+        "Sentence Number":3,
+        "Sentence":"Então ele cita que o menino está assoviando a música tal e é aí basicamente que se menciona o que se dá título a o livro .",
+        "AMR":null,
+        "New Verbs":"assoviar"
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_14.txt",
+        "Sentence Number":7,
+        "Sentence":"Halita consegue retratar várias situações engraçadíssimas por as quais muitas de nós , garotas , com certeza já passamos .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_23.txt",
+        "Sentence Number":11,
+        "Sentence":"Recomendo o livro apenas para crianças que estão iniciando o hábito de a leitura , por ser curto e de fácil entendimento .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_6.txt",
+        "Sentence Number":1,
+        "Sentence":"Eu sou mais um infeliz no mundo que comprou um Samsung Galaxy Siii com o defeito de fábrica apelidado de \" morte súbita \" .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_9.txt",
+        "Sentence Number":3,
+        "Sentence":"Desde o design , ao peso , tamanho , nitidez , velocidade , capacidade , ótimas fotos , tela de retina ( nunca vi igual ) .",
+        "AMR":"(e \/ e\n      :op1 (d \/ design)\n      :op2 (p \/ pesar-03)\n      :op3 (t \/ tamanho)\n      :op4 (n \/ nitidez)\n      :op5 (v \/ velocidade)\n      :op6 (c \/ capacidade)\n      :op7 (f \/ foto\n            :mod (o \/ ótimo))\n      :op8 (t2 \/ tela\n            :consist-of (r \/ retina)\n            :ARG1-of (s \/ same-01\n                  :ARG2 (t3 \/ tela\n                        :ARG1-of (v2 \/ ver-01\n                              :ARG0 (e2 \/ eu)\n                              :time (n2 \/ nunca))))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_8.txt",
+        "Sentence Number":2,
+        "Sentence":"O bom de esse livro é que você identifica sua própria mãe em o meio de essas histórias malucas e cheias de exagero materno .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_14.txt",
+        "Sentence Number":8,
+        "Sentence":"A escrita de ela é mais fácil e mais gostosa de o que imaginei que seria ( já que nunca havia lido um de seus livros antes ) .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_36.txt",
+        "Sentence Number":3,
+        "Sentence":"Mas a partir de a segunda metade , Malu começa a ' ' pagar mico ' ' a usar o vocabulário pirralha de ela e isso não me agradou .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_47.txt",
+        "Sentence Number":1,
+        "Sentence":"Os diamantes resistem a golpes de tal maneira que um martelo de ferro pode rachar em dois e a própria bigorna pode ficar abalada .",
+        "AMR":null,
+        "New Verbs":"golpear"
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_1.txt",
+        "Sentence Number":3,
+        "Sentence":"São mini contos muito mal elaborados e meio bobos , o que contribui para o ar de falsa simpatia que o leitor cria por a história .",
+        "AMR":null,
+        "New Verbs":"elaborar"
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_23.txt",
+        "Sentence Number":1,
+        "Sentence":"Enquanto lia esse livro , não é exagero dizer que tive que respirar fundo e contar até dez inúmeras vezes para não larga - lo por a metade .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_0.txt",
+        "Sentence Number":3,
+        "Sentence":"Me identifiquei com algumas coisas , achei outras bastante forçadas e achei que o livro é meio que uma autobiografia de a halita disfarçada .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_16.txt",
+        "Sentence Number":0,
+        "Sentence":"Achei muito divertido e em muitos momentos a Angela lembrou a minha mãe , principalmente em a fase mais \" adulta \" . Muito bom , recomendo = de",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_47.txt",
+        "Sentence Number":2,
+        "Sentence":"Essa força invencível , que desafia as duas forças mais violentas de a natureza , o ferro e o fogo , pode ser quebrada por sangue de carneiro .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_96.txt",
+        "Sentence Number":4,
+        "Sentence":"E é apenas isso que o livro nos mostra , como o mundo vai ser se continuar indo por o caminho que vem seguindo , ou ia seguindo antes de 1984 .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_47.txt",
+        "Sentence Number":11,
+        "Sentence":"A geração bleckwell tornou a herança ainda maior , internacionalizando a empresa kruger-brent , e o fez uma de as famílias mais ricas de o mundo .",
+        "AMR":null,
+        "New Verbs":"internacionalizar"
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_80.txt",
+        "Sentence Number":4,
+        "Sentence":"Winston Smith vegetou ( pois em Oceania não se vivia ) perigosamente desde o início e me perguntava o tempo todo por quanto tempo seria possível .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_15.txt",
+        "Sentence Number":5,
+        "Sentence":"Depois de o reverso da medalha eu definitivamente pretendo ler mais obras de o Sydney Sheldon , fica a recomendação pra quem se interessar também !",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_128.txt",
+        "Sentence Number":5,
+        "Sentence":"Dizem que o autor recusou - se a estampar sua foto em o livro . Até sei o porquê : medo de ser reconhecido e de levar um cascudo de seus leitores !",
+        "AMR":null,
+        "New Verbs":"estampar"
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_5.txt",
+        "Sentence Number":2,
+        "Sentence":"A tela com certeza é algo que impressiona , possuindo 4 polegadas , uma resolução de 1136 ex 640 pixels , e ainda com um vidro de alta resistência .",
+        "AMR":"(i2 \/ impressionar-01\n      :ARG0 (t \/ tela)\n      :mod (c \/ certeza)\n      :ARG1-of (c2 \/ cause-01\n            :ARG0 (e \/ e\n                  :op1 (m \/ medir-01\n                        :ARG1 t\n                        :ARG2 (d \/ distance-quantity :quant 4\n                              :unit (p3 \/ polegada)))\n                  :op2 (p \/ possuir-01\n                        :ARG0 t\n                        :ARG1 (e2 \/ e\n                              :op1 (r \/ resolução\n                                    :quant (r2 \/ resolution-quantity :op1 1136 :op2 640\n                                          :unit (p2 \/ pixel)))\n                              :op2 (v \/ vidro\n                                    :poss-of (r3 \/ resistẽncia\n                                          :mod (a \/ alto))))))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_49.txt",
+        "Sentence Number":5,
+        "Sentence":"Ele não vacila em nenhum momento e em a maioria de as vezes deixa o leitor sem ter a mínima Idea de o que possa acontecer por mais que se especule .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_64.txt",
+        "Sentence Number":2,
+        "Sentence":"A verdade é que não me identifico muito com a escrita de esse autor e resolvi ler um de os livros mais aclamados de ele justamente pra confirmar isso .",
+        "AMR":null,
+        "New Verbs":"aclamar"
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_32.txt",
+        "Sentence Number":1,
+        "Sentence":"As pessoas matam , morrem , traem , sofrem , machucam , magoam , criam guerras e acabam umas com as outras e com si mesmas a troco de dinheiro e poder .",
+        "AMR":null,
+        "New Verbs":"trair"
+    },
+    {
+        "Directory":"Fala-Serio-Amor",
+        "Document":"Documento_7.txt",
+        "Sentence Number":1,
+        "Sentence":"De essa vez nossa querida halita Rebouças \" apaixona \" o público adolescente com as histórias de os namorados de nossa mais uma vez protagonista , Malu .",
+        "AMR":null,
+        "New Verbs":"apaixonar (sem o se)"
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_4.txt",
+        "Sentence Number":2,
+        "Sentence":"Realmente a única passagem mais ou menos bonita de o livro é o sonho de o moleque pegando uma bola de baseball em o campo de centeio que dá pra um abismo .",
+        "AMR":"(s \/ sonhar-01\n      :ARG0 (m2 \/ moleque)\n      :ARG1 (p2 \/ pegar-02\n            :ARG0 m2\n            :ARG1 (b2 \/ bola\n                  :mod (b3 \/ baseball))\n            :location (c \/ campo\n                  :mod (c2 \/ centeio)\n                  :location (f \/ frente\n                        :op1 (a \/ abismo))))\n      :domain (p \/ passagem\n            :mod (u \/ unico\n                  :mod (r \/ real))\n            :mod (b \/ bonito\n                  :mod (m \/ mais-ou-menos))\n            :medium (l \/ livro)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_117.txt",
+        "Sentence Number":0,
+        "Sentence":"Um lixo , uma verdadeira porcaria . Nunca li algo tão cretino em a minha vida e não me conformo de saber que as pessoas o consideram o livro de suas vidas .",
+        "AMR":"(m \/ multi-sentence\n      :snt1 (l \/ lixo)\n      :snt2 (p \/ porcaria\n            :mod (v \/ verdadeiro))\n      :snt3 (e2 \/ e\n            :op1 (l2 \/ ler-01\n                  :ARG0 (e \/ eu)\n                  :ARG1 (a \/ algo\n                        :mod (c \/ cretino\n                              :degree (t \/ tão)))\n                  :time (n \/ nunca)\n                  :duration (v2 \/ viver-01\n                        :ARG0 e))\n            :op2 (c2 \/ conformar-01 :polarity -\n                  :ARG1 e\n                  :ARG2 (s \/ saber-01\n                        :ARG0 e\n                        :ARG1 (c3 \/ considerar-01\n                              :ARG0 (p2 \/ pessoa)\n                              :ARG1 (e3 \/ ele)\n                              :ARG2 (l3 \/ livro\n                                    :poss (v3 \/ viver-01\n                                          :ARG0 p2)))))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_5.txt",
+        "Sentence Number":2,
+        "Sentence":"Deixe o Android viver sozinho em paz , esses montes de aplicativos só tornam o sistema \" elegantizado \" , provavelmente comprometendo a duração da bateria .",
+        "AMR":null,
+        "New Verbs":"elegantizar\n"
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_3.txt",
+        "Sentence Number":4,
+        "Sentence":"Mas o que acaba acontecendo é uma espécie de breve nota de o autor , como se ele dissesse \" olha só , não concordo com o apartheid , mas vamos a a história . \"",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_6.txt",
+        "Sentence Number":0,
+        "Sentence":"Mais uma vez , em um enredo simples e muito divertido , halita Rebouças em os traz a alegria de a vida que toda garota conhece , mas que não consegue apreciar .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_113.txt",
+        "Sentence Number":4,
+        "Sentence":"Foi tão difícil terminei este livro , e como o Dvd estava em casa eu pensei \" vou assistir o filme pra me incentivar a terminar \" , e foi aí que a coisa piorou !",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_30.txt",
+        "Sentence Number":6,
+        "Sentence":"Mas já vi amigas de ela agindo assim com as mães , já ouvi as amigas falando de suas mães e depois vi que não é tão fora de a realidade assim o que li em o livro .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Samsung-Smart-TV",
+        "Document":"Documento_5.txt",
+        "Sentence Number":4,
+        "Sentence":"Hoje é dia 11\/03 ? Segunda , já faz parte da minha rotina ligar 50 vezes no fixo e mais algumas vezes no celular ( mesmo desligando na minha cara ) até conseguir .",
+        "AMR":"(m \/ multi-sentence\n      :snt1 (h \/ hoje\n            :domain (d \/ date-entity :month 3 :day 11\n                  :weekday (s \/ segunda))\n            :polarity (a \/ amr-unknown))\n      :snt2 (f \/ fazer-402\n            :ARG1 (e2 \/ e\n                  :op1 (l \/ ligar-02 :frequency 50\n                        :ARG0 e\n                        :ARG1 (t \/ telefone\n                              :mod (f2 \/ fixo)))\n                  :op2 (l2 \/ ligar-02\n                        :ARG0 e\n                        :ARG1 (c \/ celular)\n                        :frequency (v \/ vez\n                              :mod (a2 \/ algum\n                                    :mod (m2 \/ mais))))\n                  :concession (d2 \/ desligar-01)\n                  :time (a3 \/ até\n                        :op1 (c2 \/ conseguir-02\n                              :ARG0 e)))\n            :ARG3 (r \/ rotina\n                  :poss (e \/ eu))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_14.txt",
+        "Sentence Number":9,
+        "Sentence":"Era tão fácil que consegui , realmente , me imaginar em a pele de a Malu ( lógico que com algumas pequenas diferenças ) e ver minha mãe retratada por a mãe de ela .",
+        "AMR":"(c \/ conseguir-01\n      :ARG0 (e \/ eu)\n      :ARG1 (e2 \/ e\n            :op1 (i2 \/ imaginar-01\n                  :ARG0 e\n                  :ARG1 (b \/ be-located-at-91\n                        :ARG1 e\n                        :ARG2 (p \/ pele\n                              :mod (p2 \/ person :name (n \/ name :op1 \"Malu\"))))\n                  :ARG0-of (m3 \/ mean-01\n                        :ARG1 (h3 \/ haver-01\n                              :ARG1 (d \/ diferença\n                                    :mod (p5 \/ pequeno)\n                                    :mod (a \/ algum)))))\n            :op2 (v \/ ver-01\n                  :ARG0 e\n                  :ARG1 (p3 \/ pessoa\n                        :ARG0-of (h \/ have-rel-role-91\n                              :ARG1 e\n                              :ARG2 (m \/ mãe))\n                        :ARG1-of (r2 \/ retratar-01\n                              :ARG2 (p4 \/ pessoa\n                                    :ARG0-of (h2 \/ have-rel-role-91\n                                          :ARG1 p2\n                                          :ARG2 (m2 \/ mãe)))))))\n      :mod (r \/ real)\n      :ARG1-of (c2 \/ cause-01\n            :ARG0 (f \/ fácil\n                  :mod (t \/ tão))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_47.txt",
+        "Sentence Number":8,
+        "Sentence":"Mas todo o ódio que ele alimentou para exercer sua vingança não abandonou mais seu coração , e o tornou cruel para com aqueles que o amavam , Margarete por exemplo .",
+        "AMR":null,
+        "New Verbs":"vingar"
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_86.txt",
+        "Sentence Number":1,
+        "Sentence":"Parece que a história não tem nenhuma intenção específica , e a narração é feita de maneira informal demais , com uso repetitivo de gírias e palavras de baixo calão .",
+        "AMR":"(e \/ e\n      :op1 (p \/ parecer-01\n            :ARG2 (t \/ ter-01 :polarity -\n                  :ARG0 (h \/ história)\n                  :ARG1 (i2 \/ intenção\n                        :mod (e2 \/ específico))))\n      :op2 (n \/ narrar-01\n            :manner (i3 \/ informal\n                  :mod (d \/ demais))\n            :ARG1-of (c2 \/ cause-01\n                  :ARG0 (u \/ usar-01\n                        :ARG1 (e3 \/ e\n                              :op1 (g \/ gíria)\n                              :op2 (p2 \/ palavra\n                                    :mod (c \/ calão\n                                          :mod (b \/ baixo))))\n                        :manner (r \/ repetir-01)))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"LG-Smart-TV",
+        "Document":"Documento_2.txt",
+        "Sentence Number":3,
+        "Sentence":"1 - todas as funções são executadas sem problemas , particularmente a reprodução de arquivos MKV em 3D com legendas convencionais ( SRT ) , sem necessidade de conversão .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_1.txt",
+        "Sentence Number":2,
+        "Sentence":"É bom para passar a tarde , como aquele filme meio chatinha e clichê que está passando em a televisão , e como você não tem mais nada pra fazer , se senta e vai assistir .",
+        "AMR":"(s \/ same-01\n      :ARG1 (b \/ bom\n            :purpose (p \/ passar-04\n                  :ARG1 (t \/ tarde)))\n      :ARG2 (f \/ filme\n            :mod (a \/ aquele)\n            :mod (e \/ e\n                  :op1 (c \/ chatinho\n                        :mod (m \/ meio))\n                  :op2 (c2 \/ clichê))\n            :ARG1-of (p2 \/ passar-06\n                  :medium (t2 \/ televisão))\n            :ARG1-of (a2 \/ assistir-01\n                  :ARG0 (v \/ você)\n                  :op2-of (e2 \/ e\n                        :op1 (s2 \/ sentar-01\n                              :ARG0 v)\n                        :ARG1-of (c3 \/ cause-01\n                              :ARG0 (t3 \/ ter-01 :polarity -\n                                    :ARG0 v\n                                    :ARG1 (n \/ nada\n                                          :ARG1-of (f2 \/ fazer-01\n                                                :ARG0 v))))))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_47.txt",
+        "Sentence Number":12,
+        "Sentence":"Mas o ódio , a maldade e o egoísmo está sempre envolto de essa família , mostrando que nem sempre toda uma riqueza pode trazer a paz , o amor e a felicidade que se deseja .",
+        "AMR":"(c \/ contrast-01\n      :ARG2 (e \/ envolver-03\n            :ARG0 (f \/ família\n                  :mod (e4 \/ esse))\n            :ARG2 (e2 \/ e\n                  :op1 (o \/ ódio)\n                  :op2 (m \/ maldade)\n                  :op3 (e3 \/ egoísmo))\n            :ARG0 (m2 \/ mostrar-02\n                  :ARG1 (t \/ trazer-01\n                        :ARG0 (r \/ riqueza\n                              :mod (t2 \/ todo))\n                        :ARG1 (e5 \/ e\n                              :op1 (p \/ paz)\n                              :op2 (a \/ amor)\n                              :op3 (f2 \/ feliz)\n                              :ARG1-of (d \/ desejar-01))\n                        :time (s \/ sempre :polarity -)))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_128.txt",
+        "Sentence Number":2,
+        "Sentence":"Porém , o livro é a descrição de os pensamentos e \" aventuras \" , em nova Iorque , de um adolescente fútil e fracassado , cujo conteúdo de o livro nada acrescenta a o leitor .",
+        "AMR":"(c \/ contrast-01\n      :ARG1 (d \/ descrever-01\n            :ARG0 (l \/ livro)\n            :ARG1 (e \/ e\n                  :op1 (p \/ pensar-01\n                        :ARG0 (a \/ adolescente\n                              :mod (f \/ fútil)\n                              :ARG1-of (f2 \/ fracassar-01)\n                              :poss-of (c3 \/ conteúdo\n                                    :medium l\n                                    :ARG0-of (a3 \/ acrescentar-01\n                                          :ARG1 (n2 \/ nada)\n                                          :ARG2 (p2 \/ pessoa\n                                                :ARG0-of (l2 \/ ler-01))))))\n                  :op2 (a2 \/ aventura\n                        :poss a\n                        :location (c2 \/ city :name (n \/ name :op1 \"Nova\" :op2 \"Iorque\"))))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Outro-Lado-da-Meia-Noite",
+        "Document":"Documento_8.txt",
+        "Sentence Number":9,
+        "Sentence":"Lá se vão dez anos desde que li o livro por a primeira vez e nunca consegui esquecer os nomes de os personagens principais : noiva , Catherine , Larry e Constantino delírios .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_5.txt",
+        "Sentence Number":5,
+        "Sentence":"No caso da bateria , a utilização da Internet acarreta em um gasto maior , porém quando em stand By , tem-se uma durabilidade impressionante se comparada à outros Smartphones .",
+        "AMR":null,
+        "New Verbs":"acarretar"
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_42.txt",
+        "Sentence Number":4,
+        "Sentence":"A mais forte de elas é sem dúvida , Kate blackwell , o sobrenome indica um ' bem negro ' , e acaba por indicar de uma forma geral a personalidade de tão intrigante personagem .",
+        "AMR":null,
+        "New Verbs":"duvidar"
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_4.txt",
+        "Sentence Number":1,
+        "Sentence":"Insuperável ! Sou advogada e preciso carregar o maior número de informações e ter acesso a todos os recursos possíveis e o Iphone 5 é praticamente a extensão de meu escritório .",
+        "AMR":"(m \/ multi-sentence\n      :snt1 (p \/ possible-01 :polarity -\n            :ARG1 (s \/ superar-01))\n      :snt2 (e \/ e\n            :op1 (a \/ advogada\n                  :domain (e2 \/ eu))\n            :op2 (p2 \/ precisar-01\n                  :ARG1 e2\n                  :ARG2 (c \/ carregar-01\n                        :ARG0 e2\n                        :ARG1 (i2 \/ informação\n                              :ARG1-of (h \/ have-quant-91\n                                    :ARG3 (m2 \/ maximo)))))\n            :op3 (a2 \/ acessar-01\n                  :ARG0 e2\n                  :ARG1 (r \/ recurso\n                        :mod (t \/ todo)\n                        :ARG1-of (p3 \/ possible-01)))\n            :op4 (e3 \/ extend-01\n                  :ARG0 (p4 \/ product :name (n \/ name :op1 \"Iphone\" :op2 \"5\"))\n                  :ARG1 (e4 \/ escritório\n                        :poss e2)\n                  :mod (p5 \/ praticamente))))",
+        "New Verbs":"estender (alongar)"
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_86.txt",
+        "Sentence Number":5,
+        "Sentence":"Ele mostra de forma Clara , simples e divertida os pensamentos , conflitos e dilemas de um adolescente aparentemente revoltado com o mundo , todas as suas qualidades e defeitos .",
+        "AMR":null,
+        "New Verbs":"revoltar"
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_15.txt",
+        "Sentence Number":2,
+        "Sentence":"O livro se divide em arcos mostrando os anos e em torno de quem a história vai girar , devo dizer que meus favoritos foram os que envolveram Jamie Mcgregor , Kate ( jovem ) e Tony .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_6.txt",
+        "Sentence Number":2,
+        "Sentence":"Ri e me emocionei muito com o livro , e , como aconteceu quando li fala sério , mãe , acabei o livro com aquela vontade apertada de reunia todas as minhas amigas pra matar a saudade !",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_23.txt",
+        "Sentence Number":10,
+        "Sentence":"O problema é que não funcionou , justamente porque as atitudes são tão fora de o comum , que a o invés de ser engraçado , soa forçado , artificial , e até mesmo ridículo , algumas vezes .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_5.txt",
+        "Sentence Number":3,
+        "Sentence":"As cores parecem ser mais \" vivas \" , as fotos ficam lindas devido à alta resolução de 3264 ex 2448 pixels ; e os vídeos em Full HD . É difícil de acreditar que foram feitos via celular .",
+        "AMR":"(m2 \/ multi-sentence\n      :snt1 (p \/ parecer-301\n            :ARG1 (c \/ cor)\n            :ARG2 (v \/ vivo\n                  :degree (m \/ mais)))\n      :snt2 (e \/ e\n            :op1 (f \/ ficar-201\n                  :ARG1 (f2 \/ foto)\n                  :ARG2 (l \/ lindo)\n                  :ARG1-of (c2 \/ cause-01\n                        :ARG0 (r \/ resolução\n                              :mod (a \/ alto)\n                              :quant (r2 \/ resolution-quantity :op1 2364 :op2 2448\n                                    :unit (p2 \/ pixel)))))\n            :op2 (v2 \/ vídeo\n                  :mod (f3 \/ full-hd)))\n      :snt3 (d \/ difícil\n            :domain (a2 \/ acreditar-01\n                  :ARG1 (f4 \/ fazer-01\n                        :ARG1 (e2 \/ eles)\n                        :instrument (c3 \/ celular)))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_86.txt",
+        "Sentence Number":6,
+        "Sentence":"Um livro que agradará muitos adolescentes , que irão se identificar com o protagonista , Dino caulfield , e também adultos , que relembrarão essa fase de a vida ou a entenderão um pouco melhor .",
+        "AMR":null,
+        "New Verbs":"relembrar"
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_8.txt",
+        "Sentence Number":1,
+        "Sentence":"Histórias divertidíssimas e engraçadíssimas ( isso mesmo , 2 adjetivos com \" altíssimas ! \" ) de uma mãe dedicada e sua filha Maria de Lourdes , que prefere ser chamada de Malu , pois odeia seu nome !",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Se-Houver-Amanha",
+        "Document":"Documento_22.txt",
+        "Sentence Number":2,
+        "Sentence":"Resolvi dar uma pesquisada em o cara e descobri que ele tinha sido o único escritor a ganhar os três maiores prêmios de os estados unidos e vendeu apenas 300 milhões de livros em toda a sua carreira .",
+        "AMR":"(e \/ e\n      :op1 (r \/ resolver-01\n            :ARG0 (e2 \/ eu)\n            :ARG1 (p \/ pesquisar-01\n                  :ARG0 e2\n                  :ARG1 (c \/ cara)))\n      :op2 (d \/ descobrir-01\n            :ARG0 e2\n            :ARG1 (p2 \/ pessoa\n                  :ARG0-of (e3 \/ escrever-01)\n                  :domain c\n                  :mod (u \/ único)\n                  :ARG0-of (g \/ ganhar-01\n                        :ARG1 (p3 \/ prêmio :quant 3\n                              :ARG1-of (h \/ have-degree-91\n                                    :ARG2 (g2 \/ grande)\n                                    :ARG3 (m \/ máximo)\n                                    :ARG5 (c2 \/ country :name (n \/ name :op1 \"Estados\" :op2 \"Unidos\")))))\n                  :ARG0-of (v \/ vender-01\n                        :ARG1 (l \/ livro :quant 300000000)\n                        :mod (a \/ apenas)\n                        :duration (c3 \/ carreira\n                              :mod (t \/ todo)\n                              :poss p2)))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_7.txt",
+        "Sentence Number":4,
+        "Sentence":"O mais de o mesmo um pouco mais cativante , ascensão social , uma mulher poderosa , intriga , relações por interesse , e personagens sem receios de fazer o que for preciso para alcançar suas ambições .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_23.txt",
+        "Sentence Number":7,
+        "Sentence":"Ou em a insistência em saber porque seu nome é Maria de Lourdes , não se conformando com as respostas de a mãe , sempre replicando com comentários assustadoramente complexos para uma menina de 5 anos .",
+        "AMR":null,
+        "New Verbs":"replicar"
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_86.txt",
+        "Sentence Number":2,
+        "Sentence":"Mas a a medida que a história vai se passando , você se adapta mais a o personagem , a a situação , passa a entender melhor o mundo em que se passa a história e a possível intencionalidade de o autor .",
+        "AMR":"(e \/ e\n      :op1 (a \/ adaptar-01\n            :ARG0 (v \/ você)\n            :ARG1 v\n            :ARG2 (e2 \/ e\n                  :op1 (p \/ personagem)\n                  :op2 (s \/ situação))\n            :mod (m3 \/ mais))\n      :op2 (e3 \/ entender-01\n            :ARG0 v\n            :ARG1 (e4 \/ e\n                  :op1 (m \/ mundo\n                        :ARG2-of (b \/ be-located-at-91\n                              :ARG1 (p2 \/ passar-102\n                                    :ARG1 (h \/ história))))\n                  :op2 (i2 \/ intençãoo\n                        :poss (a2 \/ autor)\n                        :mod (p3 \/ possível)))\n            :manner (b2 \/ bem\n                  :ARG2-of (h2 \/ have-degree-91\n                        :ARG3 (m2 \/ mais))))\n      :time (p4 \/ passar-101\n            :ARG1 (h3 \/ história)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Ensaio-Sobre-a-Cegueira",
+        "Document":"Documento_243.txt",
+        "Sentence Number":4,
+        "Sentence":"Como outros livros de o mesmo estilo ( jangada de pedra e as intermitências de a morte ) , ele parte de um acontecimento absurdo e depois explora todas as consequências que são perfeitamente plausíveis .",
+        "AMR":"(l2 \/ lembrar-02\n      :ARG1 (e \/ ele)\n      :ARG2 (l \/ livro\n            :mod (o \/ outro)\n            :example (e5 \/ e\n                  :op1 (b \/ book :name (n \/ name :op1 \"Jangada\" :op2 \"de\" :op3 \"Pedra\"))\n                  :op2 (b2 \/ book :name (n2 \/ name :op1 \"As\" :op2 \"Intermitências\" :op3 \"da\" :op4 \"Morte\")))\n            :poss-of (e3 \/ estilo\n                  :mod (i2 \/ igual\n                        :op1 (e4 \/ estilo\n                              :poss e))))\n      :ARG3 (e6 \/ e\n            :op1 (p \/ partir-02\n                  :ARG0 e\n                  :ARG1 (a \/ acontecer-01\n                        :mod (a2 \/ absurdo)))\n            :op2 (e2 \/ explorar-01\n                  :ARG0 e\n                  :ARG1 (c2 \/ consequência\n                        :mod (t \/ todo)\n                        :mod (p2 \/ plausível\n                              :mod (p3 \/ perfeito)))\n                  :time (d \/ depois))))\n",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_7.txt",
+        "Sentence Number":2,
+        "Sentence":"Uma história que atravessa gerações , iniciando com um jovem sonhador que cruza todo o continente africano em busca de seu destino , até uma mega corporação mundial liderada por um de seus descendentes .",
+        "AMR":null,
+        "New Verbs":"descender"
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_15.txt",
+        "Sentence Number":3,
+        "Sentence":"Tony foi um personagem que não dava nada , mas acabou se tornando meu favorito , ele foi o primeiro a lutar contra a maldição que é o peso de a corporação blackwell , e talvez o que sofreu mais com isso .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_29.txt",
+        "Sentence Number":2,
+        "Sentence":"O apanhador em o campo de centeio é o nome de uma música que um figurante ( isso mesmo , um menininho que aparece em um parágrafo perdido de o livro ) passa assoviando em a frente de o personagem principal .",
+        "AMR":null,
+        "New Verbs":"assoviar"
+    },
+    {
+        "Directory":"Capitaes-da-Areia",
+        "Document":"Documento_143.txt",
+        "Sentence Number":1,
+        "Sentence":"Talvez ele achasse necessário dizer , para as pessoas de a época , que as crianças de rua fazem coisas erradas não por serem intrinsecamente más , mas porque foram abandonadas ou porque nunca tiveram carinho .",
+        "AMR":"(a \/ achar-02\n      :ARG0 (e \/ ele)\n      :ARG1 (n \/ necessário\n            :domain (d \/ dizer-01\n                  :ARG1 (f \/ fazer-01\n                        :ARG0 (c \/ criança\n                              :ARG0-of (m \/ morar-01\n                                    :ARG1 (r \/ rua)))\n                        :ARG1 (c2 \/ coisa\n                              :mod (e3 \/ errado))\n                        :ARG1-of (c3 \/ cause-01 :polarity -\n                              :ARG0 (m2 \/ mau\n                                    :mod (i2 \/ intríseco)))\n                        :ARG1-of (c4 \/ cause-01\n                              :ARG0 (o \/ ou\n                                    :op1 (a2 \/ abandonar-01\n                                          :ARG1 c)\n                                    :op2 (t2 \/ ter-01\n                                          :ARG0 c\n                                          :ARG1 (c5 \/ carinho)\n                                          :time (n2 \/ nunca)))))\n                  :ARG2 (p \/ pessoa\n                        :time (e2 \/ época))))\n      :mod (t \/ talvez))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_29.txt",
+        "Sentence Number":4,
+        "Sentence":"O livro conta a história de um adolescente de o estilo rebelde sem causa ( literalmente ) que decide parar de estudar porque não gosta de estudar , também não gosta de ninguém e se relaciona mal com a família .",
+        "AMR":"(c \/ contar-01\n      :ARG0 (l \/ livro)\n      :ARG1 (h \/ história\n            :topic (a \/ adolescente\n                  :ARG0-of (t \/ ter-01\n                        :ARG1 (e \/ estilo\n                              :mod (r \/ rebelde\n                                    :ARG0-of (t2 \/ ter-01 :polarity -\n                                          :ARG1 (c2 \/ causa)\n                                          :manner (l2 \/ literal)))))\n                  :ARG0-of (d \/ decidir-01\n                        :ARG1 (p \/ parar-01\n                              :ARG0 a\n                              :ARG1 (e2 \/ estudar-01\n                                    :ARG0 a))\n                        :ARG1-of (c3 \/ cause-01\n                              :ARG0 (g \/ gostar-01 :polarity -\n                                    :ARG0 a\n                                    :ARG1 e2)))\n                  :ARG0-of (g2 \/ gostar-01 :polarity -\n                        :ARG1 (n \/ ninguém)\n                        :mod (t3 \/ também))\n                  :ARG0-of (r2 \/ relacionar-101\n                        :ARG1 (f \/ família)\n                        :manner (m \/ mal)))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_20.txt",
+        "Sentence Number":1,
+        "Sentence":"\" era possível , sem dúvida , imaginar uma sociedade em que a riqueza , em o sentido de posse pessoal de bens e luxos , fosse igualmente distribuída , ficando o poder em as mãos de uma pequena casta privilegiada .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_14.txt",
+        "Sentence Number":6,
+        "Sentence":"Conta a história de vida de Maria de Lourdes , ou , como ela prefere , Malu , desde quando estava em a barriga de a sua mãe ( tendo os primeiros anos de vida - até os 12 - narrados por sua mãe ) , até os 21 anos .",
+        "AMR":"(c \/ contar-01\n      :ARG1 (h \/ história\n            :topic (v \/ viver-01\n                  :ARG0 (o \/ ou\n                        :op1 (p \/ person :name (n \/ name :op1 \"Maria\" :op2 \"de\" :op3 \"Lourdes\"))\n                        :op2 (p2 \/ person :name (n2 \/ name :op1 \"Malu\")\n                              :ARG1-of (p3 \/ preferir-01\n                                    :ARG0 (e \/ ela)))))\n            :time (d \/ desde\n                  :op1 (b \/ be-located-at-91\n                        :ARG1 e\n                        :ARG2 (b2 \/ barriga\n                              :part (p4 \/ pessoa\n                                    :ARG0-of (h2 \/ have-rel-role-91\n                                          :ARG1 e\n                                          :ARG2 (m \/ mãe))\n                                    :ARG0-of (n3 \/ narrar-01\n                                          :ARG1 (a4 \/ ano\n                                                :ord (o2 \/ ordinal-entity :value 1)\n                                                :topic v\n                                                :time (a5 \/ até\n                                                      :op1 (t2 \/ temporal-quantity :quant 21\n                                                            :unit (a6 \/ ano)))))))))\n            :time (a \/ até\n                  :op1 (a2 \/ age-01\n                        :ARG1 e\n                        :ARG2 (t \/ temporal-quantity :quant 21\n                              :unit (a3 \/ ano))))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Crepusculo",
+        "Document":"Documento_702.txt",
+        "Sentence Number":2,
+        "Sentence":"Perfeito não só por causa de suas frases magníficas , de os personagens , principalmente de o Edward que quando acabei de ler esse livro notei que estava apaixonada por ele , mais também por ele ser muito bem escrito .",
+        "AMR":"(c \/ cause-01\n      :ARG0 (e \/ e\n            :op1 (f \/ frase\n                  :mod (m \/ magnifico))\n            :op2 (p3 \/ personagem\n                  :example (p4 \/ person :name (n \/ name :op1 \"Edward\")\n                        :ARG1-of (a \/ apaixonar-101\n                              :ARG0 (e2 \/ eu)\n                              :ARG1-of (n2 \/ notar-01\n                                    :ARG0 e2\n                                    :time (t \/ terminar-02\n                                          :ARG0 e2\n                                          :ARG1 (l \/ ler-01\n                                                :ARG0 e2\n                                                :ARG1 (l2 \/ livro\n                                                      :mod (e3 \/ esse))))))))\n            :op3 (e4 \/ escrever-01\n                  :ARG1 l2\n                  :manner (b \/ bem\n                        :mod (m2 \/ muito))))\n      :ARG1 (p \/ perfeito))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_10.txt",
+        "Sentence Number":1,
+        "Sentence":"O livro , de halita Rebouças narra a história desde criança , de uma garota , chamada Malu , que conta sobre todas as amizades que já teve em a sua vida , de todas as confusões e as situações filarias com suas amigas .",
+        "AMR":"(n \/ narrar-01\n      :ARG0 (l \/ livro\n            :ARG1-of (e \/ escrever-01\n                  :ARG0 (p \/ person :name (n2 \/ name :op1 \"Thalita\" :op2 \"Rebouças\"))))\n      :ARG1 (h \/ história\n            :topic (g \/ garota :name (n3 \/ name :op1 \"Malu\")\n                  :ARG0-of (c2 \/ contar-01\n                        :ARG1 (e2 \/ e\n                              :op1 (a \/ amizade\n                                    :ARG1-of (t \/ ter-01\n                                          :ARG0 g\n                                          :mod (j \/ já)\n                                          :duration (v \/ viver-01\n                                                :ARG0 g))\n                                    :mod (t2 \/ todo))\n                              :op2 (c3 \/ confusão\n                                    :mod (t3 \/ todo))\n                              :op3 (s \/ situação\n                                    :mod (h2 \/ hilário)\n                                    :accompanier (p2 \/ person\n                                          :ARG0-of (h3 \/ have-rel-role-91\n                                                :ARG1 g\n                                                :ARG2 (a2 \/ amiga)))))))\n            :time (d \/ desde\n                  :op1 (c \/ criança\n                        :domain g))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_12.txt",
+        "Sentence Number":2,
+        "Sentence":"Conta a história de cada uma de seus momentos marcantes de Tim Tim por Tim fala de os conflitos de uma amizade , de a tristeza quando acontece algo com alguma amiga . Esse livro e muito legal fala de todo que uma amiga e ou pode ser .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_27.txt",
+        "Sentence Number":1,
+        "Sentence":"Tenho muitas amigas e as vezes agente vive rindo de as situações que passamos , gosto de registrar esses momentos , muito legal ara quem gosta de curtir as amizades e de se divertir muito junto a elas e também tem muitas amizades verdadeiras .",
+        "AMR":null,
+        "New Verbs":"divertir"
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_5.txt",
+        "Sentence Number":4,
+        "Sentence":"Algo que para mim é extremamente relevante , refere-se à rede LTE 4g , para uma maior rapidez quando desejo navegar na Internet , além da sua memória de 64 gigabytes , uma vez que faço muitos downloads referente ao meu curso para poder estudar .",
+        "AMR":null,
+        "New Verbs":"navegar"
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_3.txt",
+        "Sentence Number":1,
+        "Sentence":"As descrições do produto são excelentes , portátil , fácil manuseio e com uma câmera de ótima qualidade , é muito bom poder falar com alguém do outro lado do mundo por meio da videoconferência que o Iphone oferece em suas funções , enfim , totalmente aprovado ! !",
+        "AMR":null,
+        "New Verbs":"manusear"
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_26.txt",
+        "Sentence Number":0,
+        "Sentence":"O livro conta a história de várias gerações de a família blackwell , que ergueu seu império com os diamantes de a África de o Sul , chegando até a personagem principal , Kate blackwell , que tem algumas características de mulheres de outros romances de Sidney Sheldon .",
+        "AMR":null,
+        "New Verbs":"erguer"
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_4.txt",
+        "Sentence Number":2,
+        "Sentence":"O melhor de tudo , é que a protagonista conta suas histórias de forma divertida , irônica algumas vezes , revoltada com os micos que sua mãe lhe fez pagar em outras , mas acima de tudo mostra como essa relação de mãe-e - filha , apesar de difícil , deve ser bem cuidada .",
+        "AMR":null,
+        "New Verbs":"revoltar"
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_5.txt",
+        "Sentence Number":6,
+        "Sentence":"Com certeza trata-se de um IOS muito avançado , e apesar de ter tudo e mais um pouco que qualquer pessoa deseja em um celular , não é pesado e nem muito grande , além de ser extremamente fino com apenas 7 . 6mm , o que facilita na hora de carregá-lo para todos os lugares .",
+        "AMR":null,
+        "New Verbs":"tratar-se"
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_32.txt",
+        "Sentence Number":2,
+        "Sentence":"A o mesmo tempo em que ´ dava boas risadas com as história e micos entre Malu e a mãe de ela , refleti que as mães estão sempre de o lado de os filhos , ajudando , cuidando , aconselhando , dando bronca e ensinando sobre a vida , afinal , elas são bem mais experientes que nós .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_30.txt",
+        "Sentence Number":2,
+        "Sentence":"O que achei meio estranho foi a maneira de como a filha trata a mãe em muitos momentos , como ela é respondona , como já com tão pouca idade tem vocabulário extenso para respostas assustadoras . Mas depois fiquei pensando . Isso é estranho para mim , pois nunca vivi isso em casa .",
+        "AMR":null,
+        "New Verbs":"estranhar"
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_4.txt",
+        "Sentence Number":2,
+        "Sentence":"Tenho ás disposição os aplicativos para consultar os processos em quase todos os tribunais , acesso as minhas contas bancárias , aplicativos de trânsito que permitem evitar engarrafamentos e perda de tempo , enfim , se eu fosse colocar tudo o que este aparelho faz não haveria espaço .",
+        "AMR":"(e \/ e\n      :op1 (p \/ possible-01\n            :ARG1 (d \/ dispor-01\n                  :ARG0 (e2 \/ eu)\n                  :ARG1 (e3 \/ e\n                        :op1 (a \/ aplicativo\n                              :purpose (c \/ consultar-01\n                                    :ARG0 e2\n                                    :ARG2 (p2 \/ processo)\n                                    :location (t \/ tribunal\n                                          :mod (t2 \/ todo\n                                                :mod (q \/ quase)))))\n                        :op2 (a2 \/ acessar-01\n                              :ARG0 e2\n                              :ARG1 (c2 \/ conta\n                                    :mod (b \/ banco)\n                                    :poss e2))\n                        :op3 (a3 \/ aplicativo\n                              :topic (t3 \/ transito)\n                              :ARG0-of (p3 \/ permitir-01\n                                    :ARG1 (e8 \/ e\n                                          :op1 (e4 \/ evitar-01\n                                                :ARG0 e2\n                                                :ARG1 (e5 \/ engarrafamento))\n                                          :op2 (p4 \/ perder-02\n                                                :ARG0 e2\n                                                :ARG1 (t4 \/ tempo)))\n                                    :ARG2 e2)))))\n      :op2 (h \/ haver-01 :polarity -\n            :ARG1 (e6 \/ espaço)\n            :condition (c3 \/ colocar-01\n                  :ARG0 e2\n                  :ARG1 (t5 \/ tudo\n                        :ARG1-of (f \/ fazer-01\n                              :ARG0 (a4 \/ aparelho\n                                    :mod (e7 \/ esse)))))))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Amiga",
+        "Document":"Documento_6.txt",
+        "Sentence Number":1,
+        "Sentence":"E . Como sempre , através de os olhos , de as palavras , e de as amigas de a Malu , conseguimos enxergar muito de nós mesmas e de as nossas próprias amigas , em os vendo em características , frases e situações , em um dia a dia que por ser tão único é também tão igual a o de todo mundo .",
+        "AMR":"(e \/ e\n      :op1 (c \/ conseguir-01\n            :ARG0 (n \/ nos)\n            :ARG1 (e2 \/ enxergar-01\n                  :ARG0 n\n                  :ARG1 (m \/ muito\n                        :topic (e3 \/ e\n                              :op1 n\n                              :op2 (p \/ pessoa\n                                    :ARG0-of (h \/ have-rel-role-91\n                                          :ARG1 n\n                                          :ARG2 (a \/ amiga)))))\n                  :medium (e4 \/ e\n                        :op1 (o \/ olho\n                              :poss (p4 \/ person :name (n2 \/ name :op1 \"Malu\")))\n                        :op2 (p2 \/ palavra\n                              :poss p4)\n                        :op3 (p3 \/ pessoa\n                              :ARG0-of (h2 \/ have-rel-role-91\n                                    :ARG1 p4\n                                    :ARG2 (a2 \/ amiga)))))\n            :ARG1-of (c2 \/ cause-01\n                  :ARG0 (v \/ ver-301\n                        :ARG1 n))\n            :time (s \/ sempre)))",
+        "New Verbs":null
+    },
+    {
+        "Directory":"Fala-Serio-Professor",
+        "Document":"Documento_1.txt",
+        "Sentence Number":2,
+        "Sentence":"Ok , atletismo ' a parte o livro narra de forma divertida a relação de Malu com seus professores , de os três a os vinte e dois anos ( de a pré escola até a faculdade incluindo alguns cursinhos ) é um livro de gênero infantil juvenil portanto costuma agradar mais a galerinha de 12 anos .",
+        "AMR":null,
+        "New Verbs":"costumar"
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_15.txt",
+        "Sentence Number":0,
+        "Sentence":"O reverso de a medalha foi o primeiro livro de Sydney Sheldon que tive contato , foi uma boa primeira impressão , o livro consegue te deixar ansioso boa parte de o tempo , querendo saber qual vai ser o próximo golpe que os blackwell vão planejar , seja em os negócios ou dentro de a sua caótica família .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_20.txt",
+        "Sentence Number":3,
+        "Sentence":"Pois se o lazer e a segurança fossem por todos fruídos , a grande massa de seres humanos normalmente estupidificada por a miséria aprenderia a ler e aprenderia a pensar por si ; e uma vez que isso acontecesse , mais cedo ou mais tarde veria que não tinha função a minoria privilegiada , e acabaria com ela .",
+        "AMR":null,
+        "New Verbs":"fruir"
+    },
+    {
+        "Directory":"Iphone-5",
+        "Document":"Documento_5.txt",
+        "Sentence Number":7,
+        "Sentence":"Ah , e por último , mas não menos importante , refere-se à presença de bússola , e GPS , itens indispensáveis principalmente para mim , que viajo bastante , e costumo me perder , além de videoconferência pois não moro na cidade dos meus pais , e facilitaria muito , diminuindo um pouquinho a saudade deles !",
+        "AMR":null,
+        "New Verbs":"perder-se"
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_96.txt",
+        "Sentence Number":3,
+        "Sentence":"A o contrário de laranja mecânica , onde o personagem principal em os mostra um mundo decadente através de sua história de adolescente rebelde sem causa que é preso , aqui temos um personagem principal que poderia ser qualquer um , afinal o que importa é a situação de a humanidade vivendo em um mundo totalitarista .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"Galaxy-SIII",
+        "Document":"Documento_1.txt",
+        "Sentence Number":1,
+        "Sentence":"Esse telefone é muito bom quando esta funcionando , ele trava subitamente nas coisas mais simples como fazer ligação ir no menu e ate carregando levei duas vezes na garantia para arrumar eles dizem que não tem nada agora a garantia acabou e esta travando mais do que nunca não comprem a bateria um dia e demora para carregar",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"1984",
+        "Document":"Documento_96.txt",
+        "Sentence Number":5,
+        "Sentence":"Hehehehe outra coisa também diferente de seu \" livro-irmão \" é que em laranja mecânica , todo o linguajar usado por os jovens é compreensível mesmo sem a ajuda de o glossário embutido em a versão nacional , enquanto que a cantilena é incompreensível , se bem que pensando agora , acho que é justamente o objetivo de o autor .",
+        "AMR":"(e \/ e\n      :op1 (h \/ hehehehe)\n      :op2 (d \/ diferir-01\n            :ARG1 (p \/ possible-01\n                  :ARG1 (c \/ compreender-01\n                        :ARG1 (l \/ linguajar\n                              :ARG1-of (u \/ usar-01\n                                    :ARG0 (j \/ jovem))\n                              :mod (t \/ todo))\n                        :concession (a \/ ajudar-01 :polarity -\n                              :ARG0 (g \/ glossário\n                                    :ARG1-of (e2 \/ embutir-01\n                                          :ARG2 (v \/ versão\n                                                :mod (n \/ nacional))))))\n                  :medium (b \/ book :name (n2 \/ name :op1 \"Laranja\" :op2 \"Mecânica\"))\n                  :domain (c2 \/ coisa\n                        :mod (o2 \/ outro)))\n            :ARG2 (p2 \/ possible-01 :polarity -\n                  :ARG1 (c3 \/ compreender-01\n                        :ARG1 (c4 \/ cantilena))\n                  :concession (a2 \/ achar-02\n                        :ARG0 (e3 \/ eu)\n                        :ARG1 (o \/ objetivar-01\n                              :ARG0 (a3 \/ autor)\n                              :ARG1 p2\n                              :manner (j2 \/ justo))\n                        :ARG1-of (c5 \/ cause-01\n                              :ARG0 (p3 \/ pensar-01\n                                    :ARG0 e3\n                                    :time (a4 \/ agora)))))\n            :mod (t2 \/ também)))\n",
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_26.txt",
+        "Sentence Number":1,
+        "Sentence":"A história começa em Dark harbor , em o amaine , uma colônia de super-ricos , e se desloca para os campos de diamantes de a África de o Sul , as ruas boêmias de Paris , as mansões imponentes de a Inglaterra , as salas de reuniões e as alcovas de a América , onde se realizam as transações que representam milhões e milhões de dólares .",
+        "AMR":null,
+        "New Verbs":null
+    },
+    {
+        "Directory":"O-Reverso-da-Medalha",
+        "Document":"Documento_15.txt",
+        "Sentence Number":1,
+        "Sentence":"O livro conta a história de cinco gerações de a família blackwell , desde o aventureiro Jamie Mcgregor , que saiu praticamente sem nada para se tornar um garimpeiro em a África de o Sul até o jovem Robert , herdeiro de um império , e apesar de todo seu legado e fortuna existe algo de peculiar por trás de uma de as famílias mais poderosas de o mundo , pois mesmo possuindo tudo eles acabam insatisfeitos , incompletos !",
+        "AMR":null,
+        "New Verbs":"garimpar\nherdar"
+    },
+    {
+        "Directory":"O-Apanhador-no-Campo-de-Centeio",
+        "Document":"Documento_128.txt",
+        "Sentence Number":1,
+        "Sentence":"Li \" o apanhador em o campo de centeio \" por três motivos : - o título era sugestivo ; - foi o livro que John Lennon autografou a pedido de Mark Chapman , que logo depois o mataria e que , por isso mesmo , fez com que o livro ganhasse notoriedade e fosse motivo para estudos posteriores ; e - o bem-sucedido publicitário brasileiro Washington Olivetto sempre tem em sua casa dezenas de exemplares para oferecer a amigos e conhecidos .",
+        "AMR":null,
+        "New Verbs":"autografar"
+    },
+    {
+        "Directory":"Fala-Serio-Mae",
+        "Document":"Documento_4.txt",
+        "Sentence Number":1,
+        "Sentence":"Introduz muito bem como serão os próximos : uma mistura divertidíssima de comédia e fatos de o cotidiano de uma adolescente , Malu , que narra todos os acontecimentos em relação a mãe , desde sua infância , desde o primeiro aninho ( em essa fase , quem começa contar é a mãe ) , as primeiras histórias , primeiro dia de aula , enfim , os primeiros passos de ela , e depois , quando está mais velha , passa a ser contado por ela mesma - Malu .",
+        "AMR":null,
+        "New Verbs":null
+    }
+]

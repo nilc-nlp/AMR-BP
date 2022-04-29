@@ -1,0 +1,3 @@
+[submodule "AMRScien-Br-Corpus"]
+	path = AMRScien-Br-Corpus
+	url = git@github.com:LALIC-UFSCar/AMRScien-Br-Corpus.git

@@ -1,75 +1,448 @@
-falar-serio
-vadiar
-brilhar
-empolgar
-devorar
-opinar
-aprontar
-encantar
-vagar
-trair
-rodear
-dialogar
-largar
-enganar-se
-embeber
-assoviar
-golpear
-elaborar
-internacionalizar
-estampar
-aclamar
-apaixonar (sem o se)
-elegantizar
-vingar
-acarretar
-duvidar
-estender (alongar)
-revoltar
-relembrar
-replicar
-descender
-divertir
-navegar
-manusear
-erguer
-tratar-se
-estranhar
-costumar
-fruir
-perder-se
-garimpar
+# ::id Fala-Serio-Professor.Documento_22.0
+# ::snt Falando sério .
+# ::new_verb falar-serio
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_29.9
+# ::snt Vadiar , somente .
+# ::new_verb vadiar
+
+# ::id Fala-Serio-Mae.Documento_23.0
+# ::snt Fala sério , halita !
+# ::new_verb falar-serio
+
+# ::id Crepusculo.Documento_82.7
+# ::snt Vampiro que brilha em o sol .
+# ::new_verb brilhar
+
+# ::id Fala-Serio-Mae.Documento_8.0
+# ::snt - " fala serio , manhêêêê ! "
+# ::new_verb falar-serio
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_86.0
+# ::snt O livro , de início , não empolga muito .
+# ::new_verb empolgar
+
+# ::id 1984.Documento_189.4
+# ::snt E acabei devorando o restante de o livro .
+# ::new_verb devorar
+
+# ::id O-Outro-Lado-da-Meia-Noite.Documento_8.10
+# ::snt Pra mim é um livro inesquecível e perfeito .
+# ::new_verb opinar
+
+# ::id Fala-Serio-Amiga.Documento_15.3
+# ::snt Ela e suas amigas aprontam e se divertem muito .
+# ::new_verb aprontar
+
+# ::id 1984.Documento_189.3
+# ::snt Depois simplesmente fui me encantando com o livro .
+# ::new_verb encantar
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_29.5
+# ::snt Então ele abandona o colégio interno e sai vagando por aí .
+# ::new_verb vagar
+
+# ::id O-Reverso-da-Medalha.Documento_47.5
+# ::snt Foi traído por alguém que se disse amigo e ofereceu ajuda .
+# ::new_verb trair
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_6.3
+# ::snt Um personagem completamente desagradável , em a minha humilde opinião .
+# ::new_verb opinar
+
+# ::id Fala-Serio-Amiga.Documento_15.9
+# ::snt Além de elas , há a ducal , a Nanda , a Helo . Malu era rodeada de amigas .
+# ::new_verb rodear
+
+# ::id Fala-Serio-Mae.Documento_30.1
+# ::snt Aliás . A escrita de ele está toda boa e bastante diálogo ( gosto de isso ) .
+# ::new_verb dialogar
+(e / e
+      :op1 (e2 / e
+            :op1 (e3 / escrever-01
+                  :ARG0 (e4 / ele)
+                  :mod (b / bom))
+            :op2 (t / ter-01
+                  :ARG0 e3
+                  :ARG1 (d / dialogar
+                        :quant (b2 / bastante)))
+            :ARG1-of (g / gostar-01
+                  :ARG0 (e5 / eu))))
+
+# ::id Fala-Serio-Pai.Documento_4.0
+# ::snt " - paire . Larga de esse maldito jogo de futebol e me leva em a casa de a minha amiga , vai ! "
+# ::new_verb largar
+
+
+# ::id 1984.Documento_113.3
+# ::snt O autor é bom , o livro é famoso , adaptaram pro cinema , é logico que é bom " , bem , me enganei .
+# ::new_verb enganar-se
+
+# ::id O-Reverso-da-Medalha.Documento_47.3
+# ::snt Mas deve ser embebida em sangue que seja fresco e quente ; mesmo assim , muitos golpes são necessários .
+# ::new_verb embeber
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_29.3
+# ::snt Então ele cita que o menino está assoviando a música tal e é aí basicamente que se menciona o que se dá título a o livro .
+# ::new_verb assoviar
+
+# ::id O-Reverso-da-Medalha.Documento_47.1
+# ::snt Os diamantes resistem a golpes de tal maneira que um martelo de ferro pode rachar em dois e a própria bigorna pode ficar abalada .
+# ::new_verb golpear
+
+# ::id Fala-Serio-Mae.Documento_1.3
+# ::snt São mini contos muito mal elaborados e meio bobos , o que contribui para o ar de falsa simpatia que o leitor cria por a história .
+# ::new_verb elaborar
+
+# ::id O-Reverso-da-Medalha.Documento_47.11
+# ::snt A geração bleckwell tornou a herança ainda maior , internacionalizando a empresa kruger-brent , e o fez uma de as famílias mais ricas de o mundo .
+# ::new_verb internacionalizar
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_128.5
+# ::snt Dizem que o autor recusou - se a estampar sua foto em o livro . Até sei o porquê : medo de ser reconhecido e de levar um cascudo de seus leitores !
+# ::new_verb estampar
+
+# ::id O-Reverso-da-Medalha.Documento_64.2
+# ::snt A verdade é que não me identifico muito com a escrita de esse autor e resolvi ler um de os livros mais aclamados de ele justamente pra confirmar isso .
+# ::new_verb aclamar
+
+# ::id O-Reverso-da-Medalha.Documento_32.1
+# ::snt As pessoas matam , morrem , traem , sofrem , machucam , magoam , criam guerras e acabam umas com as outras e com si mesmas a troco de dinheiro e poder .
+# ::new_verb trair
+
+# ::id Fala-Serio-Amor.Documento_7.1
+# ::snt De essa vez nossa querida halita Rebouças " apaixona " o público adolescente com as histórias de os namorados de nossa mais uma vez protagonista , Malu .
+# ::new_verb apaixonar (sem o se)
+
+# ::id Galaxy-SIII.Documento_5.2
+# ::snt Deixe o Android viver sozinho em paz , esses montes de aplicativos só tornam o sistema " elegantizado " , provavelmente comprometendo a duração da bateria .
+# ::new_verb elegantizar
+
+
+# ::id O-Reverso-da-Medalha.Documento_47.8
+# ::snt Mas todo o ódio que ele alimentou para exercer sua vingança não abandonou mais seu coração , e o tornou cruel para com aqueles que o amavam , Margarete por exemplo .
+# ::new_verb vingar
+
+# ::id Iphone-5.Documento_5.5
+# ::snt No caso da bateria , a utilização da Internet acarreta em um gasto maior , porém quando em stand By , tem-se uma durabilidade impressionante se comparada à outros Smartphones .
+# ::new_verb acarretar
+
+# ::id O-Reverso-da-Medalha.Documento_42.4
+# ::snt A mais forte de elas é sem dúvida , Kate blackwell , o sobrenome indica um ' bem negro ' , e acaba por indicar de uma forma geral a personalidade de tão intrigante personagem .
+# ::new_verb duvidar
+
+# ::id Iphone-5.Documento_4.1
+# ::snt Insuperável ! Sou advogada e preciso carregar o maior número de informações e ter acesso a todos os recursos possíveis e o Iphone 5 é praticamente a extensão de meu escritório .
+# ::new_verb estender (alongar)
+(m / multi-sentence
+      :snt1 (p / possible-01 :polarity -
+            :ARG1 (s / superar-01))
+      :snt2 (e / e
+            :op1 (a / advogada
+                  :domain (e2 / eu))
+            :op2 (p2 / precisar-01
+                  :ARG1 e2
+                  :ARG2 (c / carregar-01
+                        :ARG0 e2
+                        :ARG1 (i2 / informação
+                              :ARG1-of (h / have-quant-91
+                                    :ARG3 (m2 / maximo)))))
+            :op3 (a2 / acessar-01
+                  :ARG0 e2
+                  :ARG1 (r / recurso
+                        :mod (t / todo)
+                        :ARG1-of (p3 / possible-01)))
+            :op4 (e3 / extend-01
+                  :ARG0 (p4 / product :name (n / name :op1 "Iphone" :op2 "5"))
+                  :ARG1 (e4 / escritório
+                        :poss e2)
+                  :mod (p5 / praticamente))))
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_86.5
+# ::snt Ele mostra de forma Clara , simples e divertida os pensamentos , conflitos e dilemas de um adolescente aparentemente revoltado com o mundo , todas as suas qualidades e defeitos .
+# ::new_verb revoltar
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_86.6
+# ::snt Um livro que agradará muitos adolescentes , que irão se identificar com o protagonista , Dino caulfield , e também adultos , que relembrarão essa fase de a vida ou a entenderão um pouco melhor .
+# ::new_verb relembrar
+
+# ::id Fala-Serio-Mae.Documento_23.7
+# ::snt Ou em a insistência em saber porque seu nome é Maria de Lourdes , não se conformando com as respostas de a mãe , sempre replicando com comentários assustadoramente complexos para uma menina de 5 anos .
+# ::new_verb replicar
+
+# ::id O-Reverso-da-Medalha.Documento_7.2
+# ::snt Uma história que atravessa gerações , iniciando com um jovem sonhador que cruza todo o continente africano em busca de seu destino , até uma mega corporação mundial liderada por um de seus descendentes .
+# ::new_verb descender
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_29.2
+# ::snt O apanhador em o campo de centeio é o nome de uma música que um figurante ( isso mesmo , um menininho que aparece em um parágrafo perdido de o livro ) passa assoviando em a frente de o personagem principal .
+# ::new_verb assoviar
+
+# ::id Fala-Serio-Amiga.Documento_27.1
+# ::snt Tenho muitas amigas e as vezes agente vive rindo de as situações que passamos , gosto de registrar esses momentos , muito legal ara quem gosta de curtir as amizades e de se divertir muito junto a elas e também tem muitas amizades verdadeiras .
+# ::new_verb divertir
+
+# ::id Iphone-5.Documento_5.4
+# ::snt Algo que para mim é extremamente relevante , refere-se à rede LTE 4g , para uma maior rapidez quando desejo navegar na Internet , além da sua memória de 64 gigabytes , uma vez que faço muitos downloads referente ao meu curso para poder estudar .
+# ::new_verb navegar
+
+# ::id Iphone-5.Documento_3.1
+# ::snt As descrições do produto são excelentes , portátil , fácil manuseio e com uma câmera de ótima qualidade , é muito bom poder falar com alguém do outro lado do mundo por meio da videoconferência que o Iphone oferece em suas funções , enfim , totalmente aprovado ! !
+# ::new_verb manusear
+
+# ::id O-Reverso-da-Medalha.Documento_26.0
+# ::snt O livro conta a história de várias gerações de a família blackwell , que ergueu seu império com os diamantes de a África de o Sul , chegando até a personagem principal , Kate blackwell , que tem algumas características de mulheres de outros romances de Sidney Sheldon .
+# ::new_verb erguer
+
+# ::id Fala-Serio-Mae.Documento_4.2
+# ::snt O melhor de tudo , é que a protagonista conta suas histórias de forma divertida , irônica algumas vezes , revoltada com os micos que sua mãe lhe fez pagar em outras , mas acima de tudo mostra como essa relação de mãe-e - filha , apesar de difícil , deve ser bem cuidada .
+# ::new_verb revoltar
+
+# ::id Iphone-5.Documento_5.6
+# ::snt Com certeza trata-se de um IOS muito avançado , e apesar de ter tudo e mais um pouco que qualquer pessoa deseja em um celular , não é pesado e nem muito grande , além de ser extremamente fino com apenas 7 . 6mm , o que facilita na hora de carregá-lo para todos os lugares .
+# ::new_verb tratar-se
+
+# ::id Fala-Serio-Mae.Documento_30.2
+# ::snt O que achei meio estranho foi a maneira de como a filha trata a mãe em muitos momentos , como ela é respondona , como já com tão pouca idade tem vocabulário extenso para respostas assustadoras . Mas depois fiquei pensando . Isso é estranho para mim , pois nunca vivi isso em casa .
+# ::new_verb estranhar
+
+# ::id Fala-Serio-Professor.Documento_1.2
+# ::snt Ok , atletismo ' a parte o livro narra de forma divertida a relação de Malu com seus professores , de os três a os vinte e dois anos ( de a pré escola até a faculdade incluindo alguns cursinhos ) é um livro de gênero infantil juvenil portanto costuma agradar mais a galerinha de 12 anos .
+# ::new_verb costumar
+
+# ::id 1984.Documento_20.3
+# ::snt Pois se o lazer e a segurança fossem por todos fruídos , a grande massa de seres humanos normalmente estupidificada por a miséria aprenderia a ler e aprenderia a pensar por si ; e uma vez que isso acontecesse , mais cedo ou mais tarde veria que não tinha função a minoria privilegiada , e acabaria com ela .
+# ::new_verb fruir
+
+# ::id Iphone-5.Documento_5.7
+# ::snt Ah , e por último , mas não menos importante , refere-se à presença de bússola , e GPS , itens indispensáveis principalmente para mim , que viajo bastante , e costumo me perder , além de videoconferência pois não moro na cidade dos meus pais , e facilitaria muito , diminuindo um pouquinho a saudade deles !
+# ::new_verb perder-se
+
+# ::id O-Reverso-da-Medalha.Documento_15.1
+# ::snt O livro conta a história de cinco gerações de a família blackwell , desde o aventureiro Jamie Mcgregor , que saiu praticamente sem nada para se tornar um garimpeiro em a África de o Sul até o jovem Robert , herdeiro de um império , e apesar de todo seu legado e fortuna existe algo de peculiar por trás de uma de as famílias mais poderosas de o mundo , pois mesmo possuindo tudo eles acabam insatisfeitos , incompletos !
+# ::new_verb garimpar
 herdar
-autografar
-devorar (li rápido)
-entediar
-folhar
-interagir
-enredar
-intrigar
-imaginar
-falar-sério
-ficar para trás
-aconchegar
-doutrinar
-ficar (namorar)
-envolver
-aconselhar (recomendar)
-distorcer
-requintar
-bringar
-encontrar (sentido de meeting)
-enganar
-valer
-alastrar-se
-cogitar
-ressaltar
-ter-vontade
-inovar
-despejar
-subestimar
-contatar
-artificializar
-distorcer
-espancar
-despedaçar
+
+# ::id O-Apanhador-no-Campo-de-Centeio.Documento_128.1
+# ::snt Li " o apanhador em o campo de centeio " por três motivos : - o título era sugestivo ; - foi o livro que John Lennon autografou a pedido de Mark Chapman , que logo depois o mataria e que , por isso mesmo , fez com que o livro ganhasse notoriedade e fosse motivo para estudos posteriores ; e - o bem-sucedido publicitário brasileiro Washington Olivetto sempre tem em sua casa dezenas de exemplares para oferecer a amigos e conhecidos .
+# ::new_verb autografar
+
+# ::id Se-Houver-Amanha.Documento_44.2
+# ::snt Devorei .
+# ::new_verb devorar (li rápido)
+
+# ::id O-Outro-Lado-da-Meia-Noite.Documento_36.0
+# ::snt Chato , entediante , repetitivo
+# ::new_verb entediar
+
+# ::id Se-Houver-Amanha.Documento_44.5
+# ::snt Ó , vingança boa e inteligente .
+# ::new_verb vingar
+
+# ::id O-Outro-Lado-da-Meia-Noite.Documento_8.4
+# ::snt Li a sinopse , folheei um pouco e levei pra casa .
+# ::new_verb folhar
+
+# ::id O-Outro-Lado-da-Meia-Noite.Documento_16.2
+# ::snt Mas em " o outro lado de a meia-noite " a interação é enorme !
+# ::new_verb interagir
+
+# ::id Se-Houver-Amanha.Documento_55.1
+# ::snt Ele te prende mais por causa de a personagem de o que por o enredo .
+# ::new_verb enredar
+
+# ::id Se-Houver-Amanha.Documento_99.3
+# ::snt História intrigante que prende a atenção e surpreende a cada página .
+# ::new_verb intrigar
+
+# ::id Fala-Serio-Amor.Documento_24.2
+# ::snt Facilmente com si imaginar esses diálogos em o teatro ou em um programa de televisão !
+# ::new_verb imaginar
+
+# ::id Fala-Serio-Pai.Documento_16.1
+# ::snt A divertida requintada Malu volta em esse livro , que falando sério é muito divertido !
+# ::new_verb falar-sério
+
+# ::id Se-Houver-Amanha.Documento_88.6
+# ::snt Acho que o leitor ( uso meu exemplo ) se realiza através de Tracy , imaginando como faria para se vingar de um mundo injusto e ganhar com isso .
+# ::new_verb vingar
+
+# ::id Galaxy-SIII.Documento_0.5
+# ::snt Por isso estou voltando para os confiáveis motoras . Vou ficar com o Motorola Razr que apesar de ficar um pouquinho para / trás em tecnologia , é muito mais confiável e resistente .
+# ::new_verb ficar para trás
+(m / multi-sentence
+      :snt1 (c / cause-01
+            :ARG1 (v / voltar-01
+                  :ARG1 (e1 / eu)
+                  :ARG4 (p / product :name (n / name :op1 "Motorola")
+                        :ARG1-of (c2 / confiar-01
+                              :ARG1-of (p2 / possible-01)))))
+      :snt2 (f / ficar-03
+            :ARG1 (e2 / eu)
+            :ARG2 (p3 / product :name (n2 / name :op1 "Motorola" :op2 "Razr"))
+            :ARG1-of (c3 / cause-01
+                  :ARG0 (a / e
+                        :op1 (p4 / produto
+                              :ARG1-of (c4 / confiar-01
+                                    :ARG1-of (p5 / possible-01))
+                              :degree (m2 / muito
+                                    :mod (m3 / mais)))
+                        :op2 (r / resistir-01
+                              :ARG0 p4)
+                        :domain p3
+                        :concession (f2 / ficar-402
+                              :ARG1 p3
+                              :topic (t / tecnologia))))))
+
+# ::id Capitaes-da-Areia.Documento_37.5
+# ::snt Muito difícil acabar não se identificando com um de os meninos de o trapiche e ver em por o menos um de eles , um pouco de nós mesmos ( em o meu caso fiquei encantado por o professor ) .
+# ::new_verb encantar
+
+# ::id Capitaes-da-Areia.Documento_37.6
+# ::snt E em o final , a mensagem de encontrar aconchego em a revolução é uma semente para a luta , não só para os pobres de a cidade de a Bahia , como para todos os inconformados de esse mundo .
+# ::new_verb aconchegar
+
+# ::id 1984.Documento_67.5
+# ::snt O último mantêm o ritmo e oferece , de quebra , um pequeno curso de como extrair informações de pessoas , além de como " doutrina - las " definitivamente , lamentável te - lo lido somente agora .
+# ::new_verb doutrinar
+
+# ::id Fala-Serio-Amor.Documento_0.1
+# ::snt Esse livro retrata típicas situações que podem acontecer em a vida real , como se apaixonar por o melhor amigo , ficar com um loco em o carnaval , ir em a casa de o namorado por a primeira vez , e tudo de um jeito muito divertido !
+# ::new_verb ficar (namorar)
+
+# ::id Se-Houver-Amanha.Documento_11.2
+# ::snt O autor te envolve de uma maneira tão forte que você não consegue largar o livro até o fim , absorto em os fatos apresentados e tentando descobrir o que virá a seguir , a história é cheia de reviravoltas e te deixa surpreso a todo o momento .
+# ::new_verb envolver
+
+# ::id 1984.Documento_0.3
+# ::snt Prefiro restringir meu comentário sobre o livro a as breves linhas acima , em respeito a os futuros leitores , mas aconselho o livro tanto como uma leitura " lúdica " quando como um questionamento sobre os limites de a insanidade humana em busca de o poder . "
+# ::new_verb aconselhar (recomendar)
+(c / contrast-01
+      :ARG1 (p / preferir-01
+            :ARG0 (e / eu)
+            :ARG1 (r / restringir-01
+                  :ARG0 e
+                  :ARG1 (c2 / comentar-01
+                        :ARG0 e
+                        :ARG1 (l / livro))
+                  :ARG2 (l2 / linha
+                        :mod (b / breve)
+                        :location (a / acima)))
+            :ARG1-of (c3 / cause-01
+                  :ARG0 (r2 / respeitar-01
+                        :ARG1 (p2 / pessoa
+                              :ARG0-of (l3 / ler-01
+                                    :time (f / futuro)))))))
+
+# ::id Capitaes-da-Areia.Documento_72.3
+# ::snt Tão marcante quanto o traço social , o traço figurativo de como agem as autoridades é requintado e bem delineado por Jorge amado , onde mostra que há uma distorção de informações sobre os serviços governamentais para que a sociedade possa ser cúmplice contra os capitães de a areia .
+# ::new_verb distorcer, requintar
+
+# ::id Fala-Serio-Amor.Documento_3.0
+# ::snt Continuando as maluquices cotidianas de Malu , esse livro traz as mais diversas situações de um namoro , quando eles se conheceram , primeiro encontro , as brigas , viagens , comemorações de datas especiais ( ou a falta de elas ) , o dia de conhecer a família de o outro , e o porque de eles saírem correndo logo depois .
+# ::new_verb bringar, encontrar (sentido de meeting)
+
+# ::id Se-Houver-Amanha.Documento_66.1
+# ::snt Pra mim , esse foi o melhor livro de o sim . Sim . A personagem de o livro Tracy , é so sofrimento em o começo , sofremos junto com ela . Ela perde tudo assim que sabe que sua mãe cometeu suicídio , ela quer se vingar de o sujeito e acaba presa e ninguém ajuda , nem o noivo de ela . Mas ela sai de a cadeia resolve se vingar de todos . Ela vira uma ' vigarista ' , que consegue fazer roubos , que nem a policia consegue descobrir , e mesmo assim a gente torce por ela , pra não ser pega . É muito bom . Ah é tem o Jeff , outro vigarista , os dois se apaixonam . Ah é muito bom !
+# ::new_verb opinar
+
+# ::id Samsung-Smart-TV.Documento_4.0
+# ::snt Propaganda enganosa
+# ::new_verb enganar
+
+# ::id LG-Smart-TV.Documento_8.2
+# ::snt Vale a cautela na compra .
+# ::new_verb valer
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_0.2
+# ::snt Ela alastra - se de maneira exponencial .
+# ::new_verb alastrar-se
+
+# ::id Capitaes-da-Areia.Documento_114.5
+# ::snt Estou cogitando lê - lo de Novo eventualmente .
+# ::new_verb cogitar
+
+# ::id Samsung-Smart-TV.Documento_6.3
+# ::snt O contorno fino ressalta a qualidade da imagem da tela .
+# ::new_verb ressaltar
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_27.3
+# ::snt Ambos em os fazem ter vontade de gritar , chorar , bater e ler de Novo !
+# ::new_verb ter-vontade
+(f / fazer-02
+      :ARG0 (a / ambos)
+      :ARG1 (n / nós)
+      :ARG2 (q / querer-01
+            :ARG0 n
+            :ARG1 (e / e
+                  :op1 (g / gritar-01
+                        :ARG0 n)
+                  :op2 (c / chorar-01
+                        :ARG0 n)
+                  :op3 (b / bater-01
+                        :ARG0 n)
+                  :op4 (l / ler-01
+                        :ARG0 n
+                        :mod (d / de-novo)))))
+
+# ::id Samsung-Smart-TV.Documento_6.1
+# ::snt União de televisão , com interatividade e Internet , a Samsung superou seus concorrentes inovando e trazendo recursos incríveis para uma televisão .
+# ::new_verb inovar
+
+# ::id Galaxy-SIII.Documento_6.7
+# ::snt Evitem comprar de uma marca que não respeita o consumidor e que despeja no mercado um produto tão caro e de baixíssima qualidade .
+# ::new_verb despejar
+
+# ::id Capitaes-da-Areia.Documento_143.0
+# ::snt O livro não é ruim , mas Jorge amado parece subestimar a inteligência de o leitor a o fazer de uma história interessante um panfleto político .
+# ::new_verb subestimar
+
+# ::id Ensaio-Sobre-a-Cegueira.Documento_243.1
+# ::snt Meu contato com os dramas de a cegueira propriamente dita aconteceu a o ler a biografia de cego Aderaldo e ler o seu emocionante poema " as três lagrimas " .
+# ::new_verb contatar
+
+# ::id Crepusculo.Documento_178.2
+# ::snt Quando minha irmã me passou falando que era um romance com vampiros e tal , pensei que aconteceria muita coisa , que seria empolgante , mas nada aconteceu .
+# ::new_verb empolgar
+(c2 / contrast-01
+      :ARG1 (p3 / pensar-01
+            :ARG0 e
+            :ARG1 (e4 / e
+                  :op1 (a / acontecer-01
+                        :ARG1 (c / coisa
+                              :mod (m / muito)))
+                  :op2 (e5 / empolgante))
+            :time (p / passar-06
+                  :ARG0 (p2 / person
+                        :ARG0-of (h / have-rel-role-91
+                              :ARG1 e
+                              :ARG2 (i2 / irmã)))
+                  :ARG2 (e / eu)
+                  :time (b / be-temporally-at-91
+                        :ARG1 p2
+                        :ARG2 (f / falar-01
+                              :ARG0 p2
+                              :ARG1 (r / romance
+                                    :topic (e2 / e
+                                          :op1 (v / vampiro)
+                                          :op2 (e3 / e-tal)))
+                              :ARG2 e))))
+      :ARG2 (a2 / acontecer-01
+            :ARG1 (n / nada)))
+
+# ::id LG-Smart-TV.Documento_0.3
+# ::snt O que não gostei : em menos de 3 dias apresentou vício de artificializar a todo momento e sozinha , não sustentando a imagem seja pelo mediastino , Blu-ray e Decoder de televisão por assinatura .
+# ::new_verb artificializar
+
+# ::id Crepusculo.Documento_123.3
+# ::snt Acontece , que o livro não é tudo isso que se esperava , até mesmo porque ele destorce muito as lendas , dá um ar de perfeição a mote após a vida , em a figura de o vampiro .
+# ::new_verb distorcer
+
+# ::id Capitaes-da-Areia.Documento_0.4
+# ::snt Não que eu quisesse que o autor criasse heróis romancistas em as figuras de os garotos mas em cenas como quando pedro-bala estupra uma menina que passa em a praia a a noite ou guando de os meninos tentam espancar Dora os protagonistas despencam em o meu conceito e eu não sinto mais pena ou afeição por eles em a história .
+# ::new_verb espancar
+
+# ::id Galaxy-SIII.Documento_0.4
+# ::snt O motivo ? Simples , como trabalho na area de telefonia conheço um aparelho com potencial para dar dor de cabeça , no lançamento tive mais 6 amigos que adquiriram o produto , deles apenas o meu e de um outro amigo não apresentaram problemas , o mais grave de todos é sua fragilidade , se você não consegue manter um ovo no bolso sem quebrá-lo , não recomendo que leve este aparelho , pois em dois casos o aparelho caiu de uma altura mínima ( sei que Smartphone não foi feito para / cair ) mas em 3 casos o aparelho se despedaçou na primeira semana de utilização .
+# ::new_verb despedaçar
+
