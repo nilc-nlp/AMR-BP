@@ -44,7 +44,7 @@ A blank line separates each sentence.
 
 Statistics of each corpus can be obtained by running the script `stats_amr.py` in this way:
 
-```
+```sh
 python stats_amr.py <corpus_path> #For example: AMRNews/unsplit/amr.txt
 ```
 
@@ -52,7 +52,7 @@ python stats_amr.py <corpus_path> #For example: AMRNews/unsplit/amr.txt
 
 Both **OpiSums-PT-AMR and AMRNews** are presented and compared in more detail in the following paper, which has been accepted for publication in DELTA and is currently [available as in a pre-print format](https://doi.org/10.1590/1678-460x202255159).
 
-```
+```bibtex
 @techreport{InacioEtAl2022,
   type = {Preprint},
   title = {The {{AMR-PT}} Corpus and the Semantic Annotation of Challenging Sentences from Journalistic and Opinion Texts},
@@ -68,7 +68,7 @@ Both **OpiSums-PT-AMR and AMRNews** are presented and compared in more detail in
 
 The **AMR-LittlePrince** corpus is described in:
 
-```
+```bibtex
 @inproceedings{anchieta-pardo-2018-towards,
     title = "Towards {AMR}-{BR}: A {S}em{B}ank for {B}razilian {P}ortuguese Language",
     author = "Anchi{\^e}ta, Rafael  and
