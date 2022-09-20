@@ -42,6 +42,24 @@ Inácio, M. L. (2021). Sumarização de Opinião com base em Abstract Meaning Re
 }
 ```
 
+### Journal Article (Preprint)
+
+Inácio, M. L., Cabezudo, M. A. S., Ramisch, R., Di Felippo, A., & Pardo, T. A. S. (2022). The AMR-PT corpus and the semantic annotation of challenging sentences from journalistic and opinion texts [Preprint]. https://doi.org/10.1590/1678-460x202255159
+
+```bibtex
+@techreport{InacioEtAl2022,
+  type = {Preprint},
+  title = {The {{AMR-PT}} Corpus and the Semantic Annotation of Challenging Sentences from Journalistic and Opinion Texts},
+  author = {In{\'a}cio, Marcio Lima and Cabezudo, Marco Antonio Sobrevilla and Ramisch, Renata and Di Felippo, Ariani and Pardo, Thiago Alexandre Salgueiro},
+  year = {2022},
+  month = aug,
+  doi = {10.1590/1678-460x202255159},
+  url = {https://preprints.scielo.org/index.php/scielo/preprint/view/4652/version/4928},
+  urldate = {2022-08-31},
+  copyright = {All rights reserved}
+}
+```
+
 ## References
 
 López, R., Pardo, T., Avanço, L., Filho, P., Bokan, A., Cardoso, P., Dias, M., Nóbrega, F., Cabezudo, M., Souza, J., Zacarias, A., Seno, E., and Di Felippo, A. (2015). A qualitative analysis of a corpus of opinion summaries based on aspects. In *Proceedings of The 9th Linguistic Annotation Workshop*, pages 62–71, Denver, Colorado, USA, June. Association for Computational Linguistics.
